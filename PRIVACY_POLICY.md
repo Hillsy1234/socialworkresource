@@ -28,7 +28,7 @@ Do not save names, addresses, dates of birth, case numbers, or identifiable case
 
 ## Contact Form Information
 
-If you use the Contact Us form, the information you enter is sent through Netlify Forms and made available to Daily Mindset Moments CIC for responding to the enquiry. Website form notifications should be sent to info@dmaily-mindset-moments.com. This may include:
+If you use the Contact Us form, the information you enter is sent through Netlify Forms and made available to Daily Mindset Moments CIC for responding to the enquiry. Website form notifications should be sent to info@daily-mindset-moments.com. This may include:
 
 - your name;
 - your email address;
