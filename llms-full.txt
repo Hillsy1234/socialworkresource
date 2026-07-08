@@ -1,0 +1,2686 @@
+# Ultimate Social Worker Resource - Full Text Export
+
+England-focused social work learning resource. Last reviewed 2026-07-07. Not legal advice. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
+
+# Start Here
+
+Source: https://social-work-resource.netlify.app/README.md
+Group: Start
+Summary: Orientation, law-watch notes, and the core practice formula for the whole pack.
+
+# Ultimate Social Worker Resource
+
+England-focused adult social work learning pack, last checked on 7 July 2026.
+
+This folder is a structured learning resource for social workers, students, ASYEs, AMHP-adjacent practitioners, best interests assessors, safeguarding practitioners, care coordinators, and managers who need a clear working map of the major law and practice frameworks.
+
+It is not legal advice. Always check current legislation, statutory guidance, local procedures, legal services advice, and supervision for live cases.
+
+## How to Use This Resource
+
+Start with the learning map, then move through the modules in order. Use the practice tools alongside real or fictional case examples, supervision discussions, ASYE learning, team workshops, or private study.
+
+1. **Learning Map** - follow the study route, legal decision map, and suggested 8-week programme.
+2. **Case Route Finder** - select case features and see which legal frameworks, recording points, and sections may need attention.
+3. **Learning Flashcards** - test recall module by module, useful for students, ASYEs, and quick refreshers.
+4. **Student and ASYE Pathway** - follow a structured confidence-building route for placement, ASYE, and supervision.
+5. **Practice Glossary** - search plain-English legal and practice terms, then open the relevant learning section.
+6. **CPD and Reflection Log** - save private browser-based reflections, supervision questions, and next actions.
+7. **Professional Foundations** - revisit social work values, standards, analysis, supervision, and professional curiosity.
+8. **Care Act 2014** - build confidence with assessment, eligibility, wellbeing, advocacy, carers, planning, review, and prevention.
+9. **Mental Capacity Act 2005** - work through decision-specific capacity, best interests, IMCA, LPAs, deputies, restraint, and recording.
+10. **DoLS and Deprivation of Liberty** - understand DoLS, Court of Protection routes, objections, consent, and the June 2026 Supreme Court change.
+11. **Mental Health Act** - review MHA 1983 routes, AMHP analysis, MCA/DoLS interface, Section 117, and the MHA 2025 reform watch.
+12. **Safeguarding Adults** - apply Section 42, Making Safeguarding Personal, risk analysis, enquiries, and protection planning.
+13. **Children, Families, and Transitions** - connect adult practice with children, families, Working Together 2026, SEND, young carers, and transition.
+14. **Equality, Human Rights, and Recording** - strengthen anti-oppressive practice, Equality Act analysis, Human Rights Act reasoning, and evidence-led recording.
+15. **Quick Reference** - use the one-stop legal map, threshold prompts, and decision reminders when you need a fast route check.
+16. **Templates and Checklists** - use structured prompts for assessment, safeguarding, MCA, best interests, supervision, and risk work.
+17. **Printable Tools** - download or print practice prompts for assessment, safeguarding, MCA, DoLS, and supervision.
+18. **Practice Scenarios** - test the law and practice frameworks against realistic case examples.
+19. **Source Library** - check official and authoritative sources before relying on information in live practice.
+20. **About Us** - learn about Daily Mindset Moments CIC, Raymond Hill, the mission, and the wider product ecosystem.
+21. **Contact Us** - send feedback, partnership ideas, AI build enquiries, or resource suggestions.
+22. **Privacy Policy** - understand how progress data, enquiries, and external links are handled.
+23. **Terms of Service** - read the legal disclaimer, acceptable use terms, and limits of the resource.
+
+## Current Law Watch
+
+The following points need special attention because they are recent or easily misunderstood:
+
+- The Care and Support Statutory Guidance was updated on 22 July 2025 and is under review because some parts are out of date following Health and Care Act 2022 changes.
+- On 2 June 2026, the UK Supreme Court changed the legal approach to identifying deprivation of liberty. DHSC published an update on 15 June 2026. The old Cheshire West "acid test" is no longer the single test; practitioners must use a multifactorial assessment.
+- DoLS still applies in hospitals and care homes when there is reason to believe Article 5 may be engaged. Court authorisation still applies for community settings and children where needed.
+- The Mental Health Act 2025 received Royal Assent on 18 December 2025. It amends the Mental Health Act 1983, but implementation is phased. Practitioners must check which provisions are in force and follow the current Code of Practice and local policy.
+- Working Together to Safeguard Children was updated on 18 March 2026.
+- Keeping Children Safe in Education 2025 remains in force until 31 August 2026; the 2026 version comes into force on 1 September 2026.
+
+## Core Practice Formula
+
+Use this on every complex case:
+
+```text
+Person -> Outcomes -> Needs -> Risks -> Capacity/Consent -> Legal Powers/Duties -> Options -> Least Restrictive Plan -> Review
+```
+
+Good social work is not just knowing the law. It is using the law to keep the person's voice, rights, relationships, safety, culture, and future at the centre of the work.
+
+---
+
+# Learning Map
+
+Source: https://social-work-resource.netlify.app/LEARNING_MAP.md
+Group: Start
+Summary: A study route, decision map, and 8-week programme for building confidence.
+
+# Learning Map
+
+## The Big Picture
+
+Social work decision-making usually sits inside five linked questions:
+
+1. What does the person want, and what matters to them?
+2. What needs, risks, strengths, rights, and protective factors are present?
+3. Does the person have capacity for the specific decision, and what support have we provided?
+4. What legal duty or power is engaged?
+5. What is the least restrictive, rights-respecting, evidence-based plan?
+
+## Legal Decision Map
+
+Use this as an orientation tool, not as a substitute for local policy or legal advice.
+
+- **Adult with possible care and support needs:** consider Care Act assessment, eligibility, prevention, information and advice, and advocacy.
+- **Carer with possible support needs:** consider a Care Act carer's assessment and support planning.
+- **Decision-specific capacity concern:** use the Mental Capacity Act. Support the person first, assess capacity for the specific decision, then move to best interests if needed.
+- **Restrictions, supervision, locked doors, restraint, sedating medication, or not free in practice:** consider deprivation of liberty using the 2026 multifactorial approach. DoLS may apply in hospital or care home settings, while community arrangements may need Court of Protection authorisation.
+- **Mental disorder, risk, need for hospital assessment or treatment, and possible compulsion:** consider the Mental Health Act assessment pathway.
+- **Adult with care and support needs who is experiencing or at risk of abuse or neglect, and cannot protect themselves because of those needs:** consider the Care Act Section 42 safeguarding duty.
+- **Child or young person under 18:** consider the Children Act, Working Together 2026, and local safeguarding arrangements.
+- **Young person approaching adulthood:** consider transition assessment, the Care Act, Children Act, SEND, carers, and young carers.
+- **Discrimination, dignity, liberty, family life, life, degrading treatment, participation, or reasonable adjustments:** include Equality Act and Human Rights Act analysis.
+
+## Eight-Week Study Route
+
+### Week 1: Foundations
+
+Read:
+
+- Professional Foundations
+- Equality, Human Rights, and Recording
+
+Practise:
+
+- Write a one-page case formulation using facts, analysis, law, plan.
+- Identify how the person's voice appears in your record.
+
+### Week 2: Care Act
+
+Read:
+
+- Care Act 2014
+- Quick Reference
+
+Practise:
+
+- Complete a mock Care Act assessment using the template.
+- Identify needs, outcomes, eligibility, advocacy, carers, and review points.
+
+### Week 3: MCA
+
+Read:
+
+- Mental Capacity Act 2005
+- MCA templates in Templates and Checklists
+
+Practise:
+
+- Write a decision-specific capacity assessment.
+- Convert a poor capacity statement into a strong evidence-led analysis.
+
+### Week 4: DoLS and Deprivation of Liberty
+
+Read:
+
+- DoLS and Deprivation of Liberty
+
+Practise:
+
+- Screen a case using the 2026 multifactorial approach.
+- Decide what evidence points toward or away from deprivation of liberty.
+
+### Week 5: Mental Health Act
+
+Read:
+
+- Mental Health Act
+
+Practise:
+
+- Map the difference between MCA, DoLS, and MHA in a crisis scenario.
+- Identify the AMHP's core analysis: risk, alternatives, least restriction, legal criteria, nearest relative or nominated person position.
+
+### Week 6: Safeguarding Adults
+
+Read:
+
+- Safeguarding Adults
+
+Practise:
+
+- Make a Section 42 decision.
+- Draft a Making Safeguarding Personal outcomes statement.
+
+### Week 7: Children, Families, and Transition
+
+Read:
+
+- Children, Families, and Transitions
+
+Practise:
+
+- Identify whether a case is Section 17, Section 47, early help, SEND, transition, or adult safeguarding.
+
+### Week 8: Consolidation
+
+Read:
+
+- Practice Scenarios
+- Source Library
+
+Practise:
+
+- Pick three scenarios and write:
+  - legal framework
+  - strengths and risks
+  - capacity/consent position
+  - safeguarding position
+  - proposed plan
+  - what you would record
+
+## Case Analysis Spine
+
+Use this when stuck:
+
+```text
+1. Presenting issue
+2. Person's own account, wishes, feelings, culture, and communication needs
+3. Strengths, relationships, protective factors
+4. Needs and impact on daily life
+5. Risks: likelihood, severity, immediacy, pattern, triggers
+6. Capacity and consent for each material decision
+7. Legal frameworks engaged
+8. Options considered, including less restrictive options
+9. Professional analysis
+10. Decision, rationale, plan, contingency, review
+```
+
+## Reflection Prompts
+
+- What am I assuming, and what evidence supports it?
+- What has the person said they want?
+- Have I confused disagreement with incapacity?
+- Have I confused compliance with consent?
+- What would be the least restrictive plan that still manages the risk?
+- Who has power in this situation, and how am I using mine?
+- What would I need to evidence if this record were read in court?
+
+---
+
+# Case Route Finder
+
+Source: https://social-work-resource.netlify.app/CASE_ROUTE_FINDER.md
+Group: Practice Tools
+Summary: A guided route-checker for matching case facts to legal frameworks and recording points.
+
+# Case Route Finder
+
+Use this page when a case feels legally busy and you need to slow the thinking down.
+
+The route finder is designed to help practitioners, students, ASYEs, supervisors, and managers identify which legal frameworks may need attention. It does not make a legal decision for you. It helps you decide what to check next.
+
+## How to Use It
+
+1. Select the case features that appear relevant.
+2. Read the suggested routes.
+3. Open the linked learning sections.
+4. Record which frameworks you considered and why.
+5. Use supervision, local procedures, and legal advice for live or contested cases.
+
+## Good Route-Finding Questions
+
+- What does the person want?
+- What needs, risks, strengths, and protective factors are present?
+- Is there a decision-specific capacity question?
+- Is there consent, refusal, coercion, objection, or restriction?
+- Is a safeguarding duty engaged?
+- Is compulsion for mental health assessment or treatment being considered?
+- What is the least restrictive lawful plan?
+
+---
+
+# Learning Flashcards
+
+Source: https://social-work-resource.netlify.app/FLASHCARDS.md
+Group: Learning Tools
+Summary: Module-by-module flashcards for quick revision, supervision prompts, and student refreshers.
+
+# Learning Flashcards
+
+Use these flashcards for quick revision, group teaching, supervision warm-ups, ASYE study, university preparation, interview practice, or a short refresher before reading a module in full.
+
+The cards are grouped by module. Choose a module, read the prompt, then flip the card to check the answer.
+
+## Study Tips
+
+- Start with "All Modules" to test broad recall.
+- Use one module at a time before supervision, placement learning, or workshops.
+- Say the answer out loud before flipping the card.
+- Write down any card that feels uncertain and revisit the full module.
+- Use the cards as prompts for case discussion, not as legal advice.
+
+These flashcards summarise learning points from the resource. For live cases, always check current law, statutory guidance, local policy, legal advice, and supervision.
+
+---
+
+# Student and ASYE Pathway
+
+Source: https://social-work-resource.netlify.app/STUDENT_ASYE_PATHWAY.md
+Group: Start
+Summary: A guided pathway for students, newly qualified social workers, and practice educators.
+
+# Student and ASYE Pathway
+
+This pathway is for social work students, newly qualified social workers, ASYEs, practice educators, and supervisors who want a structured route through the resource.
+
+The aim is to build confidence gradually: values, assessment, capacity, liberty, mental health, safeguarding, families, equality, human rights, and recording.
+
+## How to Use the Pathway
+
+Work through one step at a time. After each section, write a short reflection:
+
+- What is the key legal or practice idea?
+- What would I need to evidence in a record?
+- What would I ask in supervision?
+- What would I check before using this in a live case?
+
+---
+
+# Practice Glossary
+
+Source: https://social-work-resource.netlify.app/GLOSSARY.md
+Group: Learning Tools
+Summary: Plain-English practice terms for legal literacy, recording, supervision, and revision.
+
+# Practice Glossary
+
+This glossary gives plain-English explanations of common social work, legal, safeguarding, mental capacity, mental health, equality, and recording terms.
+
+Use it for revision, supervision preparation, placement learning, ASYE evidence, and quick confidence checks.
+
+It is not a substitute for the full legislation, statutory guidance, Codes of Practice, local policy, supervision, or legal advice.
+
+## Using the Glossary
+
+Search for a term, browse by letter, then open the linked learning section for fuller context.
+
+---
+
+# CPD and Reflection Log
+
+Source: https://social-work-resource.netlify.app/CPD_REFLECTION_LOG.md
+Group: Learning Tools
+Summary: A private browser-based reflection log for learning notes, supervision questions, and next actions.
+
+# CPD and Reflection Log
+
+Use this private learning space to draft CPD reflections in a format that is aligned with Social Work England's CPD recording expectations.
+
+Your notes are stored in your own browser on this device. They are not sent to a server and there is no database behind this tool.
+
+They should remain after a normal page refresh, but they can disappear if browser data is cleared, private browsing is used, workplace systems reset storage, or you change device or browser. Export the text file or use Print / Save as PDF if you need to keep a reliable copy.
+
+This tool does not submit CPD to Social Work England. When you are happy with an entry, copy the final wording into your Social Work England online account.
+
+## Social Work England CPD Shape
+
+Social Work England expects registered social workers to record a minimum of 2 different pieces of CPD each registration year, with at least 1 piece including peer reflection. Each CPD piece is recorded separately in the online account.
+
+The online form asks you to describe what you have learnt, reflect on the positive impact the CPD has had or will have on your practice and the people you work with, and select which parts of CPD standard 4 apply.
+
+Social Work England's recording guidance suggests around 250 to 500 words for the main learning and impact responses.
+
+Use the official guidance before submitting:
+
+- [Social Work England CPD guidance](https://www.socialworkengland.org.uk/cpd/cpd-guidance/)
+- [How to record CPD](https://www.socialworkengland.org.uk/cpd/record-cpd/)
+- [The CPD standard](https://www.socialworkengland.org.uk/cpd/the-cpd-standard/)
+- [Peer reflection](https://www.socialworkengland.org.uk/cpd/peer-reflection/)
+
+## Safe Reflection
+
+Keep reflections anonymised. Do not enter names, addresses, dates of birth, case numbers, or identifiable case details.
+
+Useful prompts:
+
+- What did I learn?
+- Which part of CPD standard 4 does this best evidence?
+- How will this improve my practice, judgement, recording, or confidence?
+- How could this benefit people with lived experience, carers, families, colleagues, students, or the profession?
+- What did peer reflection add to my thinking?
+- What do I need to check, discuss, practise, or record next?
+
+---
+
+# Professional Foundations
+
+Source: https://social-work-resource.netlify.app/modules/01-Professional-Foundations.md
+Group: Modules
+Summary: Values, standards, analysis, supervision, professional curiosity, and evidence.
+
+# 01 - Professional Foundations
+
+## Purpose
+
+This module builds the habits that sit underneath every legal framework: rights, evidence, relationships, professional curiosity, ethical judgement, and clear recording.
+
+## Core Social Work Tasks
+
+Social workers are often doing several tasks at once:
+
+- hearing the person's story and wishes
+- understanding risk without reducing the person to risk
+- promoting rights, autonomy, family life, dignity, culture, and identity
+- assessing needs and eligibility
+- coordinating multi-agency responses
+- challenging oppressive or unsafe systems
+- making defensible decisions under law and policy
+- recording clearly enough that another person can understand what happened and why
+
+## Social Work England Professional Standards
+
+The six standards can be used as a supervision framework:
+
+1. Promote the rights, strengths, and wellbeing of people, families, and communities.
+2. Establish and maintain trust and confidence.
+3. Be accountable for the quality of practice and decisions.
+4. Maintain continuing professional development.
+5. Act safely, respectfully, and with professional integrity.
+6. Promote ethical practice and report concerns.
+
+## Strengths-Based Practice
+
+Strengths-based work asks:
+
+- What matters to this person?
+- What is already working?
+- Who and what helps?
+- What has the person survived or managed before?
+- What community, cultural, spiritual, family, or peer resources are meaningful?
+- What would "better" look like in the person's own words?
+
+Avoid turning strengths-based practice into optimism without evidence. It is not "everything is fine"; it is "the person has agency, context, relationships, and resources as well as needs and risks."
+
+## Professional Curiosity
+
+Professional curiosity means noticing when the account, presentation, environment, or records do not fit together.
+
+Use it when:
+
+- there are repeated crises with unclear causes
+- family or professionals speak over the person
+- injuries, money problems, missed appointments, or self-neglect patterns are explained away
+- the person seems compliant but frightened, sedated, confused, or resigned
+- care arrangements look restrictive but are described as "just normal care"
+- risk is minimised because services are under pressure
+
+## Trauma-Informed Practice
+
+Assume that distress, avoidance, anger, dissociation, substance use, withdrawal, and mistrust may be survival responses.
+
+Practise:
+
+- safety before disclosure
+- choice wherever possible
+- collaboration rather than doing to
+- clarity about your role and powers
+- predictable communication
+- consent and control over information sharing where possible
+- attention to shame, fear, culture, oppression, and previous service harm
+
+## Evidence and Analysis
+
+Separate these four things:
+
+```text
+Fact: What is known and how do we know it?
+Account: What has someone said, and who said it?
+Analysis: What does it mean?
+Decision: What are we doing, under what power or duty, and why?
+```
+
+Weak recording:
+
+```text
+Mary lacks capacity and is unsafe at home.
+```
+
+Stronger recording:
+
+```text
+Mary was unable to explain what would happen if she left the gas hob on overnight, despite information being repeated in short sentences and supported with pictures. She said "the house sorts itself out". This relates to the decision about whether she can safely prepare hot food without support today. I assessed that she could not understand or use/weigh the relevant risk information for this decision at this time. A best interests decision is required about meal preparation support.
+```
+
+## Supervision Questions
+
+- What is the legal basis for our involvement?
+- What does the person say they want?
+- What are the strongest arguments for doing less?
+- What are the strongest arguments for doing more?
+- What evidence would change our view?
+- Where are we relying on family or provider accounts without independent observation?
+- What is the plan if the risk increases tonight?
+- Is this a disagreement, an executive functioning issue, coercion, incapacity, mental disorder, or unmet need?
+
+## Common Pitfalls
+
+- Treating risk as proof of incapacity.
+- Treating compliance as consent.
+- Treating family disagreement as safeguarding without clarifying abuse or neglect.
+- Treating a service shortage as evidence that no alternative exists.
+- Writing conclusions without explaining the evidence.
+- Forgetting carers, children, housing, finances, culture, immigration, domestic abuse, and substance use.
+- Using the least restrictive phrase without showing the options considered.
+
+## Learning Task
+
+Take a case you know well and write a 10-line analysis:
+
+1. What the person wants.
+2. Main strengths.
+3. Main needs.
+4. Main risks.
+5. Capacity/consent issues.
+6. Legal duties or powers.
+7. Options considered.
+8. Least restrictive plan.
+9. Contingency.
+10. Review date.
+
+---
+
+# Care Act 2014
+
+Source: https://social-work-resource.netlify.app/modules/02-Care-Act-2014.md
+Group: Modules
+Summary: Assessment, eligibility, wellbeing, advocacy, carers, planning, and review.
+
+# 02 - Care Act 2014
+
+## Purpose
+
+The Care Act 2014 is the central adult social care framework in England. It creates duties around wellbeing, prevention, information and advice, assessment, eligibility, care and support planning, carers, safeguarding, market shaping, advocacy, continuity of care, and ordinary residence.
+
+## Core Principle: Wellbeing
+
+The local authority must promote individual wellbeing when carrying out care and support functions. Wellbeing is broad and includes:
+
+- personal dignity
+- physical and mental health
+- emotional wellbeing
+- protection from abuse and neglect
+- control over day-to-day life
+- participation in work, education, training, or recreation
+- social and economic wellbeing
+- domestic, family, and personal relationships
+- suitability of living accommodation
+- contribution to society
+
+## Prevention
+
+Think in three layers:
+
+1. Prevent needs from developing.
+2. Reduce needs that already exist.
+3. Delay deterioration or escalation.
+
+Prevention is not a side issue. It is part of good assessment and planning.
+
+## Information and Advice
+
+The local authority must establish and maintain accessible information and advice about care and support. This applies to the whole population, not only people already eligible for services.
+
+Include information about:
+
+- how the care system works
+- local services and support
+- prevention
+- finances and charging
+- safeguarding
+- housing
+- support for carers
+- advocacy and complaints
+
+## Assessment Duty
+
+An adult should receive a needs assessment where they appear to have needs for care and support. The threshold for assessment is appearance of need, not proof of eligibility.
+
+Assessment should be:
+
+- person-centred
+- proportionate
+- strengths-based
+- outcome-focused
+- accessible
+- collaborative
+- evidence-led
+- mindful of fluctuating needs
+- joined up with carers, health, housing, and other services where relevant
+
+## Eligibility
+
+Eligibility usually asks:
+
+1. Are the adult's needs caused by or related to a physical or mental impairment or illness?
+2. As a result, is the adult unable to achieve two or more specified outcomes?
+3. Is there, or is there likely to be, a significant impact on wellbeing?
+
+Relevant outcomes include:
+
+- managing and maintaining nutrition
+- maintaining personal hygiene
+- managing toilet needs
+- being appropriately clothed
+- making use of the home safely
+- maintaining a habitable home environment
+- developing and maintaining family or other personal relationships
+- accessing work, training, education, or volunteering
+- making use of community facilities or services
+- carrying out caring responsibilities for a child
+
+## "Unable to Achieve" Can Mean
+
+The person:
+
+- cannot achieve the outcome without assistance
+- can achieve it without assistance but doing so causes significant pain, distress, anxiety, or danger
+- can achieve it without assistance but doing so takes significantly longer than would normally be expected
+
+## Independent Advocacy
+
+Consider Care Act advocacy where the person would experience substantial difficulty in:
+
+- understanding relevant information
+- retaining information
+- using or weighing information
+- communicating views, wishes, or feelings
+
+and there is no appropriate person to support their involvement.
+
+This is different from IMCA under the Mental Capacity Act, though both may be relevant in different situations.
+
+## Carers
+
+A carer may need a carer's assessment where it appears they may have support needs. Do not wait for breakdown.
+
+Ask:
+
+- What caring tasks are being provided?
+- Is the carer willing and able to continue?
+- What is the impact on their health, work, relationships, finances, sleep, identity, and safety?
+- Are they providing care because services are absent?
+- Is there risk of coercion, resentment, hidden harm, or neglect?
+- Does the cared-for person consent to information sharing, and how will confidentiality be handled?
+
+## Care and Support Planning
+
+A good plan states:
+
+- eligible needs
+- personal outcomes
+- what will meet each need
+- who is responsible
+- personal budget
+- direct payment position if relevant
+- contingency
+- risk management
+- review date
+- how the person was involved
+
+## Review
+
+Review when:
+
+- needs change
+- outcomes are not being met
+- risks increase
+- carer situation changes
+- hospital admission/discharge occurs
+- safeguarding concerns arise
+- the person requests review
+- the plan appears overly restrictive or insufficient
+
+## Ordinary Residence and Moving Areas
+
+Ordinary residence affects which local authority is responsible. Be alert when:
+
+- a person moves between local authority areas
+- the move is arranged by a local authority
+- there are disputes between councils
+- the person lacks capacity and placement decisions are made in best interests
+- hospital discharge, supported living, or care home moves are involved
+
+Do not let ordinary residence disputes delay urgent care and safety planning.
+
+## Care Act Assessment Structure
+
+```text
+1. Reason for assessment
+2. Person's own words and outcomes
+3. Communication and accessibility needs
+4. Relevant history and current situation
+5. Strengths, informal support, community links
+6. Daily living domains
+7. Carer position
+8. Mental capacity and consent issues
+9. Risks and safeguarding
+10. Preventive options
+11. Eligibility analysis
+12. Support plan and personal budget
+13. Contingency and review
+```
+
+## Care Act and MCA Interface
+
+The Care Act tells you whether the person has care and support needs and what duties may follow.
+
+The MCA tells you whether the person can make a specific decision, and what to do if they cannot.
+
+Do not use a Care Act assessment to shortcut a capacity assessment. Do not use a capacity assessment to avoid Care Act duties.
+
+## Practice Prompts
+
+- What matters to the person, not just what is the matter with them?
+- What outcomes are currently blocked?
+- What would happen without support?
+- What support is already being provided, and is it sustainable?
+- What is the least formal response that would meet the need?
+- What is the evidence for eligibility?
+- What is the evidence for the plan being sufficient?
+
+## Common Pitfalls
+
+- Refusing assessment because the person may not be eligible.
+- Ignoring fluctuating needs because the person appeared well on one visit.
+- Treating family support as automatically available.
+- Missing carers assessments.
+- Treating information and advice as a substitute for meeting eligible needs.
+- Failing to record how wellbeing is affected.
+- Not considering advocacy early enough.
+
+---
+
+# Mental Capacity Act 2005
+
+Source: https://social-work-resource.netlify.app/modules/03-Mental-Capacity-Act-2005.md
+Group: Modules
+Summary: Decision-specific capacity, support, best interests, IMCA, restraint, and records.
+
+# 03 - Mental Capacity Act 2005
+
+## Purpose
+
+The Mental Capacity Act 2005 applies in England and Wales to people aged 16 and over. It provides the framework for supporting decision-making, assessing capacity, making best interests decisions, recognising advance planning, and protecting people who cannot make specific decisions for themselves.
+
+## The Five Principles
+
+1. Presume capacity unless it is established that the person lacks capacity.
+2. Take all practicable steps to support the person to decide.
+3. Do not treat a person as lacking capacity merely because they make an unwise decision.
+4. Any act or decision for a person who lacks capacity must be in their best interests.
+5. Before acting, consider whether the aim can be achieved in a less restrictive way.
+
+## Key Rule
+
+Capacity is:
+
+- decision-specific
+- time-specific
+- evidence-specific
+- support-dependent
+
+Do not write "lacks capacity" without saying "for what decision" and "at what time".
+
+## The Two-Stage Test
+
+### Stage 1: Diagnostic element
+
+Is there an impairment of, or disturbance in, the functioning of the mind or brain?
+
+This may include dementia, delirium, learning disability, acquired brain injury, mental disorder, intoxication, unconsciousness, or temporary confusion.
+
+### Stage 2: Functional element
+
+Because of that impairment or disturbance, is the person unable to:
+
+- understand the relevant information
+- retain it long enough to decide
+- use or weigh it as part of the decision
+- communicate the decision by any means
+
+If the answer is yes, the person lacks capacity for that decision at that time.
+
+## Support Before Assessment
+
+Before concluding incapacity, consider:
+
+- best time of day
+- pain, infection, delirium, medication, distress, hunger, fatigue
+- interpreter or communication aid
+- speech and language therapy
+- easy read, pictures, objects of reference
+- trusted person involvement
+- quieter environment
+- repeated short conversations
+- cultural or spiritual context
+- whether the decision can wait
+
+## Relevant Information
+
+Define the decision clearly. Then identify the information the person needs to understand, usually:
+
+- what the decision is
+- available options
+- likely benefits and risks of each option
+- what may happen if no decision is made
+- practical consequences
+- who may be affected
+
+Keep the information no more complex than the decision requires.
+
+## Unwise Decisions
+
+A person can understand and weigh information and still choose something others dislike. That is not incapacity.
+
+Look at the decision-making process, not whether the decision seems sensible.
+
+## Executive Functioning
+
+Some people can repeat information but cannot use it in real life. This may arise with brain injury, dementia, mental disorder, addiction, coercion, trauma, or learning disability.
+
+Evidence may include:
+
+- repeated inability to carry out a stated plan
+- inability to adapt when risks occur
+- concrete examples from daily life
+- mismatch between verbal account and observed behaviour
+- professional evidence from OT, psychology, psychiatry, nursing, or support workers
+
+Be careful: poor follow-through is not automatically incapacity. Analyse why it happens.
+
+## Best Interests
+
+If the person lacks capacity for the decision, the decision-maker must act in best interests.
+
+Consider:
+
+- the person's past and present wishes and feelings
+- beliefs and values
+- written statements
+- views of family, friends, carers, attorneys, deputies, advocates
+- whether capacity may return
+- all relevant circumstances
+- less restrictive options
+- risks and benefits
+- the person's involvement as far as possible
+
+Best interests is not "what professionals prefer". It is a structured rights-based decision.
+
+## IMCA
+
+An Independent Mental Capacity Advocate may be required in serious medical treatment or accommodation decisions where the person lacks capacity and has no appropriate person to consult.
+
+IMCA may also be relevant in:
+
+- care reviews
+- safeguarding adults cases
+- DoLS processes
+
+Check local referral rules.
+
+## Advance Planning
+
+Look for:
+
+- Lasting Power of Attorney for health and welfare
+- Lasting Power of Attorney for property and financial affairs
+- Court-appointed deputy
+- Advance Decision to Refuse Treatment
+- advance statement of wishes and feelings
+- DNACPR or treatment escalation plan
+
+Check validity, scope, and whether the attorney/deputy has authority for the specific decision.
+
+## Recording a Capacity Assessment
+
+Use this structure:
+
+```text
+Decision:
+Date/time:
+Assessor and role:
+Reason capacity is in question:
+Impairment or disturbance:
+Support provided:
+Relevant information explained:
+Person's response:
+Understand:
+Retain:
+Use/weigh:
+Communicate:
+Conclusion:
+Next steps:
+Review point:
+```
+
+## MCA and Restraint
+
+Restrictive intervention may be protected under the MCA only when:
+
+- the person lacks capacity for the relevant matter
+- the act is in best interests
+- restraint is necessary to prevent harm
+- restraint is proportionate to likelihood and seriousness of harm
+
+If restrictions may amount to deprivation of liberty, consider DoLS or Court authorisation.
+
+## MCA and Mental Health Act
+
+The MCA cannot be used to detain a person for treatment of mental disorder. If detention for mental health assessment or treatment may be required, consider Mental Health Act assessment.
+
+For a person detained under the Mental Health Act, MCA may still apply to decisions outside treatment for mental disorder, such as physical healthcare, accommodation after discharge, finances, or contact.
+
+## Common Pitfalls
+
+- Starting from risk rather than presumption of capacity.
+- Missing communication support.
+- Assessing global capacity instead of one decision.
+- Treating refusal as incapacity.
+- Treating diagnosis as incapacity.
+- Treating family concern as proof.
+- Writing best interests without options analysis.
+- Forgetting less restrictive alternatives.
+
+---
+
+# DoLS and Deprivation of Liberty
+
+Source: https://social-work-resource.netlify.app/modules/04-DoLS-and-Deprivation-of-Liberty.md
+Group: Modules
+Summary: DoLS, Court authorisation, objection, consent, and the 2026 legal update.
+
+# 04 - DoLS and Deprivation of Liberty
+
+## Purpose
+
+This module explains Deprivation of Liberty Safeguards, Court of Protection authorisation, and the changed legal position following the UK Supreme Court judgment on 2 June 2026.
+
+## Current Position: July 2026
+
+On 2 June 2026, the UK Supreme Court handed down judgment in `[2026] UKSC 16`, changing the approach to what counts as deprivation of liberty. DHSC published an update on 15 June 2026.
+
+The previous Cheshire West 2014 "acid test" is no longer the single test. Practitioners must now use a multifactorial assessment.
+
+DoLS has not disappeared. Where there is reason to believe a person is deprived of liberty:
+
+- in a hospital or care home, the DoLS process still applies
+- in community settings, Court of Protection authorisation may still be needed
+- for children, legal advice may be needed, including High Court inherent jurisdiction or Court of Protection depending on age and circumstances
+
+If in doubt, refer for DoLS or seek legal advice. DHSC has said a cautious approach is needed in borderline cases while the sector adjusts.
+
+## What Changed in 2026
+
+The old shorthand was:
+
+```text
+continuous supervision and control + not free to leave = deprivation of liberty
+```
+
+That is no longer enough on its own.
+
+The current approach looks at the person's specific situation and considers multiple factors, including:
+
+- type of restrictions
+- duration of restrictions
+- effect on the person
+- manner of implementation
+- whether the person objects
+- whether the arrangements are closer to ordinary care or closer to detention
+- relative normality of arrangements in the setting
+- purpose of the restrictions, such as care and protection rather than punishment or coercion
+- the person's wishes and feelings
+- whether the person can validly consent through expression of wishes and feelings
+
+No single factor decides the answer.
+
+## Compliance Is Not Consent
+
+Do not assume consent because the person is quiet, passive, polite, institutionalised, sedated, fearful, or used to restrictions.
+
+Ask:
+
+- How do we know what the person understands?
+- How do we know what the person wants?
+- Can the person express acceptance or objection?
+- Are they under pressure?
+- Are they afraid of consequences?
+- Is medication, pain, fatigue, trauma, or communication difficulty affecting expression?
+- Have we heard the person's wishes away from people who may influence them?
+
+## Objection
+
+Objection can be verbal or non-verbal. It may include:
+
+- saying they want to leave
+- repeated attempts to leave
+- distress at locked doors
+- refusing care linked to confinement
+- resisting return to placement
+- calling family, police, or services to get out
+- agitation, withdrawal, or behavioural distress connected to restrictions
+- objecting to medication, treatment, residence, or care arrangements
+
+Any objection points toward possible deprivation of liberty and away from valid consent.
+
+## When to Consider DoLS
+
+Consider DoLS where the person is in a hospital or care home and:
+
+- they lack capacity for residence/care/treatment arrangements
+- restrictions may amount to deprivation of liberty after multifactorial analysis
+- the arrangements are necessary to prevent harm
+- the restrictions are significant or continuous
+- the person objects or fluctuates between contentment and objection
+- there are locked doors, keypad exits, 1:1 supervision, restraint, bedrails, sedating medication, restrictions on visitors, or controlled access to the community
+- there is doubt about valid consent
+
+## DoLS Assessments
+
+The six qualifying assessments are:
+
+1. Age assessment.
+2. Mental health assessment.
+3. Mental capacity assessment.
+4. Best interests assessment.
+5. Eligibility assessment.
+6. No refusals assessment.
+
+The Best Interests Assessor considers whether the deprivation is:
+
+- occurring or likely to occur
+- in the person's best interests
+- necessary to prevent harm
+- proportionate to likelihood and seriousness of harm
+- the least restrictive available option
+
+The BIA may recommend conditions and duration.
+
+## Representatives and Rights
+
+A person subject to DoLS must have safeguards, which may include:
+
+- Relevant Person's Representative
+- IMCA where required
+- rights to review
+- rights to challenge in the Court of Protection
+- clear authorisation period
+- conditions
+- ongoing care planning and review
+
+## Community Deprivation of Liberty
+
+DoLS does not apply in supported living, shared lives, ordinary homes, extra care, or community placements. If arrangements may amount to deprivation of liberty in those settings, Court of Protection authorisation may be required.
+
+Examples:
+
+- locked supported living placement
+- continuous supervision in own home
+- restrictions on leaving or contact
+- forced return from family visits
+- significant restraint or sedation in the community
+
+After the 2026 judgment, use the multifactorial assessment first. If Article 5 may still be engaged, seek legal advice.
+
+## DoLS, Care Act, and MCA
+
+DoLS authorises deprivation of liberty. It does not replace:
+
+- Care Act assessment and care planning
+- MCA capacity and best interests decision-making
+- safeguarding duties
+- CQC and provider responsibilities
+- professional duties to reduce restrictions
+- review of medication and restraint
+
+## DoLS and Mental Health Act
+
+Consider the Mental Health Act where:
+
+- the person appears to need hospital assessment or treatment for mental disorder
+- detention for mental disorder may be necessary
+- the person is objecting to admission or treatment for mental disorder
+- DoLS eligibility may be affected
+
+This interface is complex. Use AMHP advice, legal advice, and local policy.
+
+## Screening Note Template
+
+```text
+Setting:
+Decision/arrangements considered:
+Capacity position:
+Restrictions identified:
+Type/duration/effects/manner:
+Wishes and feelings:
+Evidence of objection or acceptance:
+Consent analysis:
+Less restrictive options:
+Does Article 5 appear engaged?
+Route: DoLS / Court / no authorisation currently indicated / legal advice
+Rationale:
+Review date:
+```
+
+## Common Pitfalls
+
+- Applying the old acid test as if nothing changed.
+- Assuming no DoLS is needed because the person is not trying to leave.
+- Assuming DoLS is needed for every restrictive care plan without multifactorial analysis.
+- Confusing physical inability to leave with state-imposed confinement.
+- Forgetting to review existing authorisations.
+- Treating authorisation as permission to stop thinking about least restriction.
+- Failing to record the person's wishes and feelings in detail.
+
+---
+
+# Mental Health Act
+
+Source: https://social-work-resource.netlify.app/modules/05-Mental-Health-Act.md
+Group: Modules
+Summary: Civil sections, AMHP analysis, MCA/DoLS interface, Section 117, and reform watch.
+
+# 05 - Mental Health Act
+
+## Purpose
+
+The Mental Health Act 1983, as amended, provides powers for compulsory assessment, detention, treatment, guardianship, community treatment, and forensic mental health pathways in England and Wales.
+
+The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act, but implementation is phased. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
+
+## Core Principles in Practice
+
+Use Mental Health Act powers only when the legal criteria are met and less restrictive alternatives are not sufficient.
+
+AMHP analysis should include:
+
+- nature and degree of mental disorder
+- risk to the person or others
+- available informal and community alternatives
+- whether admission is necessary
+- whether detention is necessary
+- person's wishes and feelings
+- nearest relative or nominated person position, depending on provisions in force
+- equality and cultural issues
+- trauma and coercion risks
+- human rights
+- aftercare and discharge planning
+
+## Common Civil Sections
+
+### Section 2
+
+Admission for assessment, or assessment followed by treatment. Usually up to 28 days.
+
+Use where:
+
+- assessment is needed
+- detention is necessary for health/safety or protection of others
+- the situation cannot safely be managed informally
+
+### Section 3
+
+Admission for treatment. Usually up to 6 months initially.
+
+Use where:
+
+- mental disorder is of a nature or degree making hospital treatment appropriate
+- treatment is available
+- detention is necessary for health/safety or protection of others
+- appropriate treatment test is met
+
+### Section 4
+
+Emergency admission for assessment, based on one medical recommendation. Use only when urgent and waiting for a second doctor would cause undesirable delay.
+
+### Section 5
+
+Holding powers for informal inpatients already in hospital:
+
+- Section 5(2): doctor/approved clinician holding power.
+- Section 5(4): nurse holding power.
+
+These are not community powers and do not authorise treatment in themselves.
+
+### Sections 135 and 136
+
+Police powers connected to places of safety:
+
+- Section 135 requires a warrant to enter premises.
+- Section 136 applies where a person appears to have mental disorder and immediate care or control is needed in a public place.
+
+Always consider trauma, proportionality, health-based places of safety, and least restrictive conveyance.
+
+### Guardianship
+
+Guardianship can require a person to live at a specified place, attend for treatment/occupation/training/education, and allow access by professionals. It is less restrictive than detention but still a legal power.
+
+### Community Treatment Orders
+
+CTOs apply after certain detained treatment sections and allow discharge with conditions and recall powers. Consider proportionality, therapeutic purpose, and whether conditions are realistic.
+
+## AMHP Role
+
+The AMHP is not a rubber stamp. The AMHP makes an independent application decision.
+
+Key AMHP tasks:
+
+- coordinate assessment
+- interview the person in a suitable manner
+- consult nearest relative/nominated person where required
+- consult carers and involved professionals where appropriate
+- consider social circumstances
+- explore alternatives to detention
+- consider children, dependants, pets, housing, finances, and immediate practical needs
+- arrange conveyance if application is made
+- record reasons clearly
+
+## Mental Health Act 2025 Reform Watch
+
+The 2025 Act aims to:
+
+- strengthen patient voice and involvement
+- give statutory weight to care and treatment planning
+- increase scrutiny of detention
+- reduce unnecessary detention
+- address racial disparities
+- strengthen involvement of families and carers
+- change nearest relative arrangements toward nominated person arrangements when commenced
+- limit use of detention for autistic people and people with learning disabilities without co-occurring mental disorder when relevant provisions commence
+- improve provisions around justice settings and places of safety
+
+Because implementation is phased, practitioners should ask:
+
+```text
+Is this provision in force today?
+Has the Code of Practice been updated?
+What does local AMHP policy say?
+What training or forms have changed?
+Does this affect nearest relative/nominated person, care planning, tribunal, CTO, or learning disability/autism criteria?
+```
+
+## MHA and MCA Interface
+
+Use the Mental Health Act when detention for assessment or treatment of mental disorder may be required and criteria are met.
+
+Use MCA for decision-specific capacity and best interests matters outside MHA treatment powers, including:
+
+- physical healthcare
+- accommodation decisions after discharge
+- finances
+- contact
+- care planning
+- advance decisions outside overridden MHA treatment provisions
+
+The MCA cannot authorise detention for treatment of mental disorder.
+
+## MHA and DoLS Interface
+
+DoLS may apply to hospital or care home arrangements for a person lacking capacity where deprivation of liberty is identified.
+
+The MHA may be required instead where:
+
+- the person objects to mental health admission or treatment
+- detention is needed for treatment of mental disorder
+- MHA criteria are met
+- DoLS eligibility is excluded
+
+This is a high-risk interface. Seek AMHP/legal advice.
+
+## MHA and Care Act Interface
+
+A person subject to MHA may still need:
+
+- Care Act assessment
+- carers assessment
+- safeguarding enquiry
+- accommodation planning
+- ordinary residence analysis
+- Section 117 aftercare if eligible
+- advocacy
+- transition planning
+
+## Section 117 Aftercare
+
+Section 117 aftercare may apply after detention under certain sections, including Section 3. It is a joint duty on health and local authority bodies to provide aftercare services meeting needs arising from or related to the person's mental disorder and reducing risk of readmission.
+
+Do not confuse Section 117 aftercare with ordinary Care Act charging arrangements.
+
+## MHA Assessment Recording Prompt
+
+```text
+Referral reason:
+Legal section considered:
+Person's presentation and account:
+Mental disorder evidence:
+Risks to self:
+Risks to others:
+Protective factors:
+Alternatives considered:
+Informal admission considered:
+MCA/capacity relevance:
+Nearest relative/nominated person:
+Family/carer views:
+Equality/cultural/communication needs:
+Children/dependants/pets/housing:
+Decision:
+Rationale:
+Immediate plan:
+Aftercare or follow-up:
+```
+
+## Common Pitfalls
+
+- Treating diagnosis as automatic need for detention.
+- Treating risk alone as enough without legal criteria.
+- Missing community alternatives.
+- Not exploring informal admission.
+- Forgetting the person's children or caring roles.
+- Not recording why less restrictive options were insufficient.
+- Using MCA/DoLS to avoid MHA where the person is objecting to mental health treatment.
+- Ignoring racial disparity, cultural context, and mistrust of services.
+
+---
+
+# Safeguarding Adults
+
+Source: https://social-work-resource.netlify.app/modules/06-Safeguarding-Adults.md
+Group: Modules
+Summary: Section 42, Making Safeguarding Personal, self-neglect, domestic abuse, and enquiries.
+
+# 06 - Safeguarding Adults
+
+## Purpose
+
+Adult safeguarding protects an adult's right to live in safety, free from abuse and neglect. Under the Care Act 2014, safeguarding must be person-led, outcome-focused, proportionate, and rights-based.
+
+## Section 42 Duty
+
+A local authority must make, or cause to be made, whatever enquiries it thinks necessary where it has reasonable cause to suspect that an adult:
+
+1. has needs for care and support, whether or not the authority is meeting those needs
+2. is experiencing, or is at risk of, abuse or neglect
+3. as a result of those needs is unable to protect themselves from the abuse, neglect, or risk
+
+The threshold is reasonable cause to suspect, not proof.
+
+## Six Safeguarding Principles
+
+1. Empowerment - people are supported and encouraged to make their own decisions.
+2. Prevention - act before harm occurs where possible.
+3. Proportionality - use the least intrusive response appropriate to risk.
+4. Protection - support and representation for those in greatest need.
+5. Partnership - local solutions through services working with communities.
+6. Accountability - transparency and accountability in safeguarding practice.
+
+## Making Safeguarding Personal
+
+Ask early:
+
+- What do you want to happen?
+- What are you worried about?
+- What would help you feel safer?
+- What do you not want us to do?
+- Who do you trust?
+- What would make things worse?
+- How should we communicate with you?
+
+Making Safeguarding Personal does not mean doing only what the adult asks in every situation. It means the adult's outcomes, rights, and voice shape the response unless there is a lawful reason to override consent or act to protect others.
+
+## Types of Abuse and Neglect
+
+Consider:
+
+- physical abuse
+- domestic abuse
+- sexual abuse
+- psychological or emotional abuse
+- financial or material abuse
+- modern slavery
+- discriminatory abuse
+- organisational abuse
+- neglect and acts of omission
+- self-neglect
+
+Also consider exploitation, coercive control, cuckooing, mate crime, hoarding, fire risk, forced marriage, honour-based abuse, online abuse, and radicalisation.
+
+## Safeguarding Workflow
+
+```text
+1. Concern identified
+2. Immediate safety and urgent medical/police action if needed
+3. Speak with the adult where safe and possible
+4. Consider consent, capacity, coercion, and public interest
+5. Decide whether Section 42 duty is met
+6. Plan enquiry scope and who is best placed to enquire
+7. Gather evidence and views
+8. Analyse risk, strengths, protective factors, and desired outcomes
+9. Create protection plan if needed
+10. Review outcomes and close or continue
+```
+
+## Consent and Information Sharing
+
+Adults with capacity can usually make decisions others consider risky. But you may share information or act without consent where:
+
+- the person lacks capacity for the relevant decision and action is in best interests
+- others are at risk
+- a child is at risk
+- a serious crime may have been committed
+- coercion or undue influence may be affecting consent
+- vital interests are at stake
+- public interest or legal duties justify disclosure
+
+Record the legal and ethical basis for information sharing.
+
+## Capacity in Safeguarding
+
+Capacity may be needed for decisions such as:
+
+- whether to accept care
+- whether to remain at home
+- whether to have contact with a person alleged to cause harm
+- whether to manage money
+- whether to consent to information sharing
+- whether to engage with police
+
+Do not ask "does the person have capacity for safeguarding?" Ask what specific decision is needed.
+
+## Self-Neglect
+
+Self-neglect may include:
+
+- severe neglect of personal hygiene
+- malnutrition or dehydration
+- unsafe home conditions
+- hoarding
+- refusal of essential care or treatment
+- fire risk
+- repeated hospital admissions linked to living conditions
+
+Key questions:
+
+- What does the person understand about the risks?
+- Is there executive dysfunction?
+- Is there trauma, depression, psychosis, dementia, substance use, coercion, poverty, grief, or isolation?
+- What matters to the person about their home and routines?
+- What small changes would they accept?
+- Are legal powers needed and proportionate?
+
+## Domestic Abuse
+
+Domestic abuse may involve physical, emotional, sexual, economic, coercive, or controlling behaviour. Children who see, hear, or experience the effects of domestic abuse are recognised as victims in their own right under the Domestic Abuse Act 2021.
+
+Practice points:
+
+- speak to the adult alone where safe
+- do not use family members as interpreters
+- assess immediate risk and safety planning
+- consider MARAC referral where high risk
+- consider children and adult safeguarding in parallel
+- consider housing, finances, immigration, pets, technology abuse, and stalking
+- avoid victim-blaming language
+
+## Organisational Abuse
+
+Look for patterns:
+
+- repeated falls, pressure damage, medication errors, missed calls
+- high staff turnover
+- blanket restrictions
+- poor record keeping
+- closed cultures
+- people afraid to complain
+- restraint or sedation used for convenience
+- lack of personalised care
+
+Consider provider action, commissioning, CQC, contracts, police, safeguarding enquiry, and individual protection plans.
+
+## Section 42 Decision Template
+
+```text
+Concern:
+Adult's views and desired outcomes:
+Care and support needs:
+Abuse/neglect/risk evidence:
+Unable to protect because of needs:
+Immediate risks:
+Capacity/consent:
+Decision: Section 42 met / not met / more information needed
+Rationale:
+Enquiry plan:
+Information sharing basis:
+Advocacy:
+Review:
+```
+
+## Common Pitfalls
+
+- Waiting for proof before starting enquiries.
+- Ignoring the adult's desired outcomes.
+- Treating refusal as closure without analysing coercion, capacity, or public interest.
+- Treating self-neglect only as lifestyle choice.
+- Missing carers as people who may both need support and pose/experience risk.
+- Closing without reviewing whether outcomes improved.
+- Not linking safeguarding with Care Act assessment and care planning.
+
+---
+
+# Children, Families, and Transitions
+
+Source: https://social-work-resource.netlify.app/modules/07-Children-Families-and-Transitions.md
+Group: Modules
+Summary: Whole-family practice, children in need, child protection, SEND, young carers, and transition.
+
+# 07 - Children, Families, and Transitions
+
+## Purpose
+
+Adult social workers still need a working knowledge of children, family, transition, young carer, SEND, and child safeguarding frameworks. Whole-family practice matters because adults rarely exist in isolation.
+
+## Key Frameworks
+
+- Children Act 1989
+- Children Act 2004
+- Working Together to Safeguard Children 2026
+- Keeping Children Safe in Education
+- Children and Families Act 2014
+- SEND Code of Practice 0 to 25
+- Care Act 2014 transition duties
+- Domestic Abuse Act 2021
+
+## Children Act: Basic Orientation
+
+### Section 17
+
+Section 17 concerns children in need. A child may be in need if they are unlikely to achieve or maintain a reasonable standard of health or development without services, their health or development is likely to be significantly impaired without services, or they are disabled.
+
+### Section 47
+
+Section 47 concerns child protection enquiries where there is reasonable cause to suspect a child is suffering or likely to suffer significant harm.
+
+## Working Together 2026
+
+Working Together is statutory guidance on multi-agency working to help, support, and protect children. It applies to organisations and agencies with functions relating to children and to education providers and childcare settings.
+
+For adult social workers, the key message is: adult services are part of the child safeguarding system.
+
+Think whole family where:
+
+- an adult has mental ill health, substance use, domestic abuse, cognitive impairment, or care needs
+- a child provides care
+- a child is present during adult crisis interventions
+- home conditions create risk
+- an adult's risky relationships affect children
+- a parent is detained under the Mental Health Act
+- a person moving from children's to adults services has unmet needs
+
+## Keeping Children Safe in Education
+
+As of 7 July 2026:
+
+- KCSIE 2025 remains in force until 31 August 2026.
+- KCSIE 2026 comes into force from 1 September 2026.
+
+Adult social workers may need this when working with schools, safeguarding partners, parents, young carers, or transition cases.
+
+## Transition to Adulthood
+
+Under the Care Act, transition planning should prevent young people and carers from falling between children's and adults services.
+
+Consider transition assessment where there is likely need for adult care and support after turning 18 and where it would be of significant benefit to assess.
+
+Transition work should cover:
+
+- education, health, and care plans
+- adult care eligibility
+- mental capacity as the young person approaches 16 and 18
+- parental responsibility changes
+- carers and young carers
+- housing
+- employment, training, and occupation
+- friendships and community
+- health transition
+- safeguarding
+- finances and appointeeship
+- advocacy
+
+## SEND Code of Practice
+
+The SEND Code applies to children and young people aged 0 to 25 in England. It is important for:
+
+- Education, Health and Care plans
+- disabled children and young people
+- transition into adulthood
+- social care advice into EHCP processes
+- preparing for adulthood outcomes
+
+Preparing for adulthood includes:
+
+- employment or meaningful occupation
+- independent living
+- community inclusion
+- health and wellbeing
+
+## Young Carers
+
+Young carers may support adults with illness, disability, mental health needs, substance use, or frailty.
+
+Ask:
+
+- What does the child do?
+- Is the caring role age appropriate?
+- Is school attendance affected?
+- Is sleep, wellbeing, friendship, or safety affected?
+- Is the child providing personal care, medication support, emotional containment, translation, or crisis support?
+- Does the adult's care plan reduce inappropriate caring?
+- Has a young carer's assessment been considered?
+
+## Domestic Abuse and Children
+
+Children can be victims of domestic abuse in their own right when they see, hear, or experience the effects of abuse and are related to either party.
+
+Adult and children's safeguarding should be coordinated, not passed back and forth.
+
+## Whole-Family Questions
+
+- Who lives here and who stays here?
+- Who depends on whom?
+- Are there children, young carers, pregnant people, or vulnerable adults?
+- What happens for the child when the adult is unwell, intoxicated, detained, missing, or in crisis?
+- What is the adult willing for us to share, and is there a lawful basis to share without consent?
+- What safety plan exists for evenings and weekends?
+
+## Common Pitfalls
+
+- Treating an adult case as if children are irrelevant.
+- Assuming children's services know about the adult risk.
+- Not considering young carers.
+- Waiting until the 18th birthday to begin transition.
+- Forgetting MCA applies from age 16.
+- Confusing parental preference with the young person's wishes and rights.
+
+---
+
+# Equality, Human Rights, and Recording
+
+Source: https://social-work-resource.netlify.app/modules/08-Equality-Human-Rights-and-Recording.md
+Group: Modules
+Summary: Equality, reasonable adjustments, human rights analysis, anti-oppressive practice, and records.
+
+# 08 - Equality, Human Rights, and Recording
+
+## Purpose
+
+This module helps keep social work lawful, anti-oppressive, and defensible.
+
+## Equality Act 2010
+
+Protected characteristics include:
+
+- age
+- disability
+- gender reassignment
+- marriage and civil partnership
+- pregnancy and maternity
+- race
+- religion or belief
+- sex
+- sexual orientation
+
+Practice duties include:
+
+- making reasonable adjustments
+- avoiding direct and indirect discrimination
+- recognising harassment and victimisation
+- considering the Public Sector Equality Duty where relevant
+
+## Reasonable Adjustments
+
+Adjustments may include:
+
+- accessible formats
+- interpreter
+- communication aids
+- extra time
+- quiet environment
+- home visit
+- involving a trusted person
+- flexible appointments
+- advocacy
+- sensory adaptations
+- accessible transport
+
+Record adjustments offered and whether they worked.
+
+## Human Rights Act
+
+Commonly relevant rights:
+
+- Article 2: right to life
+- Article 3: freedom from torture, inhuman or degrading treatment
+- Article 5: liberty and security
+- Article 6: fair process
+- Article 8: private and family life, home, and correspondence
+- Article 14: non-discrimination in enjoyment of rights
+
+Human rights analysis is not abstract. It helps answer:
+
+- What right is engaged?
+- Is interference lawful?
+- Is there a legitimate aim?
+- Is the action necessary and proportionate?
+- Is there a less restrictive alternative?
+- Has the person been involved?
+- Are safeguards available?
+
+## Anti-Oppressive Practice
+
+Ask:
+
+- How might racism, ableism, sexism, homophobia, transphobia, ageism, poverty, immigration status, trauma, or institutional mistrust shape this situation?
+- Whose account is being believed most easily?
+- Is the person being described in loaded language?
+- Are services expecting the person to adapt to the system rather than adapting the system to the person?
+- Is risk being overestimated because of stigma or underestimated because of familiarity?
+
+## Culturally Responsive Practice
+
+Do:
+
+- ask, do not assume
+- use interpreters
+- recognise religious and cultural networks as possible strengths
+- explore family roles without stereotyping
+- understand migration, racism, asylum, and trauma contexts
+- consider food, prayer, gender, modesty, grief, and end-of-life customs
+- challenge harmful practice without condemning identity
+
+## Good Recording
+
+Good records are:
+
+- accurate
+- timely
+- respectful
+- evidence-led
+- analytical
+- clear about legal basis
+- clear about the person's voice
+- clear about disagreement
+- clear about risk and protective factors
+- clear about decisions and review
+
+## Recording Formula
+
+```text
+What happened?
+Who said what?
+What did I observe?
+What evidence supports this?
+What does the person want?
+What law/policy applies?
+What options were considered?
+What decision was made?
+Why is it proportionate?
+What happens next?
+```
+
+## Language to Avoid
+
+Avoid:
+
+- non-compliant
+- attention-seeking
+- manipulative
+- difficult family
+- refusing to engage
+- lifestyle choice
+- bed blocker
+- failed placement
+- challenging behaviour without context
+
+Use:
+
+- declined
+- distressed
+- disagreed
+- unable to attend
+- communication of unmet need
+- pattern of self-neglect
+- family disputes the plan
+- placement is no longer meeting needs
+
+## Defensible Decision-Making
+
+A decision is more defensible when it shows:
+
+- relevant law and policy were considered
+- relevant information was gathered
+- the person was involved
+- capacity and consent were addressed
+- risks and benefits were balanced
+- less restrictive options were considered
+- discrimination and human rights were considered
+- reasons were recorded
+- review or contingency was set
+
+## Common Pitfalls
+
+- Recording professional opinion as fact.
+- Omitting the person's own words.
+- Describing behaviour without context.
+- Using vague risk phrases.
+- Copying forward old assessments.
+- Not explaining why options were rejected.
+- Forgetting equality and communication needs.
+- Recording "family agreed" without saying who, what authority they had, and whether the person agreed.
+
+---
+
+# Quick Reference
+
+Source: https://social-work-resource.netlify.app/practice-tools/quick-reference.md
+Group: Practice Tools
+Summary: A fast legal map, threshold checks, risk flags, and decision reminders.
+
+# Quick Reference
+
+## One-Page Legal Map
+
+| Situation | Main framework | First question |
+|---|---|---|
+| Adult appears to need care/support | Care Act 2014 | Does the person need assessment, information, advice, prevention, advocacy, or services? |
+| Carer appears to need support | Care Act 2014 | Is the caring role sustainable and willing? |
+| Adult at risk of abuse/neglect | Care Act Section 42 | Are the three safeguarding criteria reasonably suspected? |
+| Specific decision capacity concern | Mental Capacity Act 2005 | What is the exact decision and what support has been provided? |
+| Best interests decision | Mental Capacity Act 2005 | What would be in this person's best interests, considering wishes, feelings, values, and less restrictive options? |
+| Restrictive care in hospital/care home | DoLS / MCA / 2026 DoL test | Does a multifactorial assessment suggest deprivation of liberty? |
+| Restrictive care in community | Court of Protection / MCA | Is Article 5 engaged outside DoLS settings? |
+| Mental disorder and possible compulsion | Mental Health Act | Is detention for assessment/treatment necessary and lawful? |
+| Child in need | Children Act Section 17 | Does the child need services to achieve or maintain health/development? |
+| Child protection concern | Children Act Section 47 | Is there reasonable cause to suspect significant harm? |
+| Disability/SEND age 0-25 | Children and Families Act / SEND Code | Are education, health, and care needs joined up? |
+| Discrimination or adjustments | Equality Act 2010 | What protected characteristic or reasonable adjustment is relevant? |
+| Liberty, family life, dignity, life | Human Rights Act | Is interference lawful, necessary, and proportionate? |
+
+## Care Act Checklist
+
+- Appearance of need?
+- Person's outcomes?
+- Communication needs?
+- Advocacy?
+- Carer?
+- Strengths and informal support?
+- Eligible needs?
+- Wellbeing impact?
+- Prevention options?
+- Safeguarding?
+- Capacity/consent?
+- Personal budget/direct payments?
+- Review and contingency?
+
+## MCA Checklist
+
+- What is the decision?
+- Why is capacity in question?
+- What impairment/disturbance is present?
+- What support has been provided?
+- Can the person understand?
+- Can they retain?
+- Can they use/weigh?
+- Can they communicate?
+- Is the conclusion because of the impairment/disturbance?
+- If lacks capacity: best interests, less restrictive options, consultation, record.
+
+## Deprivation of Liberty 2026 Screening
+
+Consider:
+
+- type of restrictions
+- duration
+- effects on person
+- manner of implementation
+- objection
+- wishes and feelings
+- ability to validly consent
+- relative normality
+- purpose
+- setting
+- less restrictive alternatives
+- doubt or borderline status
+
+If in doubt, refer for DoLS or seek legal advice.
+
+## Section 42 Safeguarding Threshold
+
+Reasonable cause to suspect:
+
+1. care and support needs
+2. abuse or neglect, or risk of abuse or neglect
+3. unable to protect self because of those needs
+
+## MHA Assessment Orientation
+
+Ask:
+
+- Is there mental disorder?
+- What is the nature or degree?
+- What risks arise?
+- Why hospital?
+- Why now?
+- Why compulsion?
+- What alternatives were considered?
+- What does the person want?
+- What do family/carers say?
+- What are the equality, cultural, and trauma issues?
+- What aftercare or community support is needed?
+
+## Red Flags
+
+- person cannot be heard privately
+- fear, coercion, or controlling relationship
+- unexplained injury
+- locked doors or restraint
+- sedation used to manage behaviour
+- repeated failed discharges
+- carer burnout
+- child providing inappropriate care
+- self-neglect with fire, nutrition, infestation, or medical risk
+- financial exploitation
+- provider says "we always do it this way"
+- no clear legal basis for restriction
+
+---
+
+# Templates and Checklists
+
+Source: https://social-work-resource.netlify.app/practice-tools/templates-and-checklists.md
+Group: Practice Tools
+Summary: Reusable assessment, safeguarding, MCA, best interests, supervision, and risk templates.
+
+# Templates and Checklists
+
+## Care Act Assessment Template
+
+```text
+Adult's name:
+Date:
+Assessor:
+Reason for assessment:
+
+1. Person's own words
+What matters to the person?
+What outcomes do they want?
+
+2. Communication and accessibility
+Language, sensory, cognitive, cultural, advocacy, interpreter, reasonable adjustments.
+
+3. Current situation
+Home, relationships, health, daily routines, services, finances, risks.
+
+4. Strengths and support
+What works? Who helps? What community links exist?
+
+5. Daily living domains
+Nutrition:
+Personal care:
+Toileting:
+Clothing:
+Home safety:
+Habitable home:
+Relationships:
+Work/education/volunteering:
+Community:
+Caring responsibilities:
+
+6. Carer position
+Who provides care? Willing and able? Impact? Carer's assessment?
+
+7. Mental capacity and consent
+Any decision-specific concerns? What support is needed?
+
+8. Risk and safeguarding
+Risks, protective factors, Section 42 consideration, domestic abuse, self-neglect.
+
+9. Eligibility analysis
+Needs linked to impairment/illness:
+Outcomes unable to achieve:
+Significant wellbeing impact:
+
+10. Plan
+Eligible needs:
+Support to meet needs:
+Personal budget/direct payment:
+Prevention:
+Contingency:
+Review:
+```
+
+## Mental Capacity Assessment Template
+
+```text
+Decision:
+Date/time:
+Assessor:
+
+Why capacity is being assessed:
+
+Stage 1: impairment/disturbance
+Evidence:
+
+Support provided:
+
+Relevant information:
+
+Functional test:
+Understand:
+Retain:
+Use/weigh:
+Communicate:
+
+Causative link:
+
+Conclusion:
+
+If lacks capacity:
+Best interests decision needed:
+Urgency:
+Consultation required:
+Review:
+```
+
+## Best Interests Meeting Agenda
+
+```text
+1. Decision to be made
+2. Capacity conclusion and evidence
+3. Person's wishes and feelings
+4. Past wishes, beliefs, values
+5. Options
+6. Benefits and risks of each option
+7. Less restrictive alternatives
+8. Views of family/friends/carers/attorney/deputy/advocate
+9. Professional recommendations
+10. Decision-maker
+11. Decision and rationale
+12. Implementation plan
+13. Review and challenge route
+```
+
+## Deprivation of Liberty Screening Template
+
+```text
+Person and setting:
+Care arrangements:
+Capacity for residence/care:
+
+Restrictions:
+Type:
+Duration:
+Effects:
+Manner:
+
+Wishes and feelings:
+Objection or acceptance:
+Consent analysis:
+
+Relative normality and purpose:
+Less restrictive options:
+
+Conclusion:
+DoLS referral / Court advice / no authorisation currently indicated / legal advice:
+Rationale:
+Review:
+```
+
+## Section 42 Safeguarding Decision Template
+
+```text
+Concern:
+Source of concern:
+Adult's views:
+Desired outcomes:
+
+Criterion 1 - care/support needs:
+Criterion 2 - abuse/neglect/risk:
+Criterion 3 - unable to protect because of needs:
+
+Immediate action:
+Capacity and consent:
+Advocacy:
+Information sharing:
+
+Decision:
+Rationale:
+Enquiry plan:
+Protection plan:
+Review:
+```
+
+## MHA Interface Note
+
+```text
+Presenting crisis:
+Mental disorder evidence:
+Risks:
+Person's wishes:
+Capacity issues:
+Informal options:
+Care Act support options:
+Crisis/home treatment options:
+Safeguarding issues:
+DoLS/MCA relevance:
+Reason MHA assessment is or is not indicated:
+Consultations:
+Plan:
+```
+
+## Reflective Supervision Template
+
+```text
+Case:
+What is happening?
+What am I worried about?
+What is working well?
+What does the person want?
+What law/policy is engaged?
+What are my assumptions?
+What are the ethical tensions?
+What am I avoiding?
+What decision is needed?
+What support do I need?
+Next actions:
+Review date:
+```
+
+## Chronology Template
+
+```text
+Date:
+Event:
+Source:
+Impact:
+Risk/protective factor:
+Action taken:
+Follow-up:
+```
+
+## Risk Formulation Template
+
+```text
+Risk:
+Who is at risk:
+From whom/what:
+Pattern/history:
+Triggers:
+Likelihood:
+Severity:
+Immediacy:
+Protective factors:
+Person's view:
+Professional analysis:
+Legal framework:
+Plan:
+Contingency:
+Review:
+```
+
+---
+
+# Printable Tools
+
+Source: https://social-work-resource.netlify.app/PRINTABLE_TOOLS.md
+Group: Practice Tools
+Summary: Downloadable and printable practice prompts for assessments, MCA, safeguarding, and supervision.
+
+# Printable Tools
+
+Use these prompts for learning, supervision, workshops, assessment preparation, and reflective practice.
+
+They are not official forms. They are practice prompts that help you structure your thinking before recording in your employer's system.
+
+## How to Use Printable Tools
+
+1. Choose the prompt that matches the task.
+2. Download or print it.
+3. Adapt it to the person, local policy, and recording system.
+4. Check law, statutory guidance, supervision, and legal advice for live cases.
+
+---
+
+# Practice Scenarios
+
+Source: https://social-work-resource.netlify.app/practice-tools/scenarios.md
+Group: Practice Tools
+Summary: Applied scenarios for supervision, ASYE learning, workshops, and private study.
+
+# Practice Scenarios
+
+Use these for supervision, ASYE learning, team workshops, or private study.
+
+## Scenario 1: Care Act and Carer Stress
+
+Mr K is 82 and lives with his daughter. He has Parkinson's disease and falls twice a week. His daughter says she is "fine" but has stopped working, sleeps on the sofa to listen for him at night, and has back pain. Mr K says he wants to stay home.
+
+Questions:
+
+- What Care Act duties are engaged?
+- What would you assess?
+- Does the daughter need a carer's assessment?
+- What preventive support might reduce crisis?
+- What should be recorded?
+
+Learning points:
+
+- Appearance of need is enough to assess.
+- Carer willingness and sustainability must be explored.
+- Staying home is an outcome, not a complete plan.
+- Falls, night support, equipment, medication, therapy, respite, and contingency all need analysis.
+
+## Scenario 2: Capacity and Unwise Decision
+
+Ms A has diabetes and repeatedly eats high-sugar food. Staff say she "lacks capacity because she won't follow advice". She explains the risks of high blood sugar but says food is her only comfort since her husband died.
+
+Questions:
+
+- What is the specific decision?
+- Is this incapacity or an unwise decision?
+- What support or alternatives should be considered?
+- Is there a mental health, grief, or self-neglect issue?
+
+Learning points:
+
+- Risk-taking is not proof of incapacity.
+- The assessment is about understanding, retaining, using/weighing, and communicating.
+- Emotional context matters.
+- A Care Act/reablement/dietetic/mental health response may be more appropriate than a best interests decision.
+
+## Scenario 3: DoLS After the 2026 Judgment
+
+Mr J lives in a care home. Doors are keypad locked, staff supervise him closely because he falls, and he is given sedating medication at night. He says he likes the home but becomes distressed when staff stop him leaving with his coat. He has dementia and fluctuates.
+
+Questions:
+
+- What restrictions exist?
+- What are his wishes and feelings?
+- Is he objecting?
+- Can compliance be treated as consent?
+- Should a DoLS referral be made?
+
+Learning points:
+
+- Use a multifactorial assessment, not the old acid test alone.
+- Distress at being stopped from leaving is important.
+- Medication and fluctuating presentation may affect expressed wishes.
+- If in doubt, refer for DoLS or seek advice.
+
+## Scenario 4: MHA, MCA, or DoLS?
+
+Ms R is in A&E after being found in traffic saying voices told her to die. She wants to leave. She appears psychotic, frightened, and unable to discuss risk. The ward asks whether DoLS can be used because she lacks capacity.
+
+Questions:
+
+- What is the purpose of detention?
+- Is treatment/assessment for mental disorder required?
+- Is MHA assessment indicated?
+- What immediate safety steps are needed?
+- What role does MCA still play?
+
+Learning points:
+
+- MCA/DoLS should not be used to avoid MHA where detention for mental health assessment/treatment is required.
+- MHA assessment should consider risk, mental disorder, alternatives, and least restriction.
+- MCA may still apply to physical health or other decisions.
+
+## Scenario 5: Adult Safeguarding and Coercion
+
+Mrs P has care and support needs and lives with her son. She says she does not want help. The son answers all questions, controls her bank card, and says professionals upset her. A neighbour reports shouting and that Mrs P has asked for food.
+
+Questions:
+
+- Are Section 42 criteria reasonably suspected?
+- Can you rely on Mrs P's apparent refusal?
+- What immediate safety steps are needed?
+- How might you speak to her alone?
+- What information sharing is justified?
+
+Learning points:
+
+- Coercion can undermine apparent consent.
+- Financial abuse, domestic abuse, neglect, and emotional abuse may all be relevant.
+- The adult's desired outcomes matter, but so does safe enquiry.
+
+## Scenario 6: Transition
+
+T is 17, autistic, has an EHCP, and receives children's short breaks. Parents say T will need supported living eventually. T says they want college, gaming friends, and no "strangers deciding things". No adult services referral has been made.
+
+Questions:
+
+- Is a Care Act transition assessment needed?
+- What SEND and EHCP links matter?
+- What capacity issues may arise at 16 and 18?
+- How should T's voice be supported?
+- What should happen before the 18th birthday?
+
+Learning points:
+
+- Transition should start early enough to be useful.
+- Preparing for adulthood includes housing, occupation, community, relationships, and health.
+- MCA applies from 16.
+- Parents remain important, but the young person's own wishes must be central.
+
+## Scenario 7: Organisational Abuse
+
+Several residents in a care home have unexplained bruising and pressure damage. Staff say residents are "hard to manage". Families report calls unanswered. The home uses lap belts and bedrails routinely.
+
+Questions:
+
+- Individual or organisational safeguarding, or both?
+- What immediate protective actions are needed?
+- Who should be involved?
+- What records should be requested?
+- Are DoLS/MCA issues present?
+
+Learning points:
+
+- Patterns matter.
+- Blanket restrictions require legal and ethical scrutiny.
+- Safeguarding, commissioning, CQC, provider action, police, MCA, and DoLS may all be relevant.
+
+---
+
+# Source Library
+
+Source: https://social-work-resource.netlify.app/SOURCE_LIBRARY.md
+Group: Sources
+Summary: Official and authoritative links for checking current law, guidance, and standards.
+
+# Source Library
+
+Last checked: 7 July 2026.
+
+Use this page to go back to primary or authoritative sources. For live cases, check current local policy and legal advice.
+
+## Adult Social Care and Care Act
+
+- GOV.UK: Care and Support Statutory Guidance  
+  https://www.gov.uk/government/publications/care-act-statutory-guidance/care-and-support-statutory-guidance
+
+- Legislation.gov.uk: Care Act 2014  
+  https://www.legislation.gov.uk/ukpga/2014/23/contents
+
+## Mental Capacity Act
+
+- GOV.UK: Mental Capacity Act Code of Practice  
+  https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice
+
+- GOV.UK: Making decisions - guide for people who work in health and social care  
+  https://www.gov.uk/government/publications/health-and-social-care-workers-mental-capacity-act-decisions/making-decisions-about-your-health-welfare-or-finances
+
+- Legislation.gov.uk: Mental Capacity Act 2005  
+  https://www.legislation.gov.uk/ukpga/2005/9/contents
+
+## Deprivation of Liberty and DoLS
+
+- GOV.UK: Changes to the definition of deprivation of liberty  
+  https://www.gov.uk/government/publications/changes-to-the-definition-of-deprivation-of-liberty
+
+- GOV.UK: UK Supreme Court 2026 judgment on what constitutes a deprivation of liberty  
+  https://www.gov.uk/government/publications/changes-to-the-definition-of-deprivation-of-liberty/uk-supreme-court-2026-judgment-on-what-constitutes-a-deprivation-of-liberty
+
+- UK Supreme Court: A Reference by the Attorney General for Northern Ireland, `[2026] UKSC 16`  
+  https://supremecourt.uk/cases/uksc-2025-0042
+
+- GOV.UK: Deprivation of Liberty Code of Practice  
+  https://www.gov.uk/government/publications/deprivation-of-liberty-code-of-practice
+
+## Mental Health Act
+
+- GOV.UK: Code of Practice - Mental Health Act 1983  
+  https://www.gov.uk/government/publications/code-of-practice-mental-health-act-1983
+
+- Legislation.gov.uk: Mental Health Act 1983  
+  https://www.legislation.gov.uk/ukpga/1983/20/contents
+
+- GOV.UK: Mental Health Bill receives Royal Assent  
+  https://www.gov.uk/government/news/mental-health-bill-receives-royal-assent-revolutionising-care
+
+- UK Parliament: Mental Health Bill progress and Royal Assent briefing  
+  https://commonslibrary.parliament.uk/research-briefings/cbp-10317/
+
+- Legislation.gov.uk: Mental Health Act 2025  
+  https://www.legislation.gov.uk/ukpga/2025/33
+
+## Children, Families, and Transition
+
+- GOV.UK: Working Together to Safeguard Children  
+  https://www.gov.uk/government/publications/working-together-to-safeguard-children--2
+
+- GOV.UK: Keeping Children Safe in Education  
+  https://www.gov.uk/government/publications/keeping-children-safe-in-education--2
+
+- Legislation.gov.uk: Children Act 1989, Section 17  
+  https://www.legislation.gov.uk/ukpga/1989/41/section/17
+
+- Legislation.gov.uk: Children Act 1989, Section 47  
+  https://www.legislation.gov.uk/ukpga/1989/41/section/47
+
+- GOV.UK: SEND Code of Practice 0 to 25 years  
+  https://www.gov.uk/government/publications/send-code-of-practice-0-to-25
+
+## Domestic Abuse
+
+- GOV.UK: Domestic Abuse Act 2021 statutory guidance  
+  https://www.gov.uk/government/publications/domestic-abuse-act-2021
+
+- Legislation.gov.uk: Domestic Abuse Act 2021  
+  https://www.legislation.gov.uk/ukpga/2021/17
+
+## Equality and Human Rights
+
+- GOV.UK: Discrimination and protected characteristics  
+  https://www.gov.uk/discrimination-your-rights
+
+- Legislation.gov.uk: Equality Act 2010  
+  https://www.legislation.gov.uk/ukpga/2010/15/contents
+
+- EHRC: Protected characteristics  
+  https://www.equalityhumanrights.com/equality/equality-act-2010/protected-characteristics
+
+## Professional Standards
+
+- Social Work England: Professional Standards  
+  https://www.socialworkengland.org.uk/standards/professional-standards/
+
+- Department for Education: Support for social workers  
+  https://support-for-social-workers.education.gov.uk/
+
+## Further Authoritative Practice Resources
+
+- SCIE: Mental Capacity Act resources  
+  https://www.scie.org.uk/mca/
+
+- SCIE: Care Act and assessment resources  
+  https://www.scie.org.uk/assessment-and-eligibility/
+
+- BASW: Practice, policy, and professional resources  
+  https://basw.co.uk/
+
+---
+
+# About Us
+
+Source: https://social-work-resource.netlify.app/ABOUT_US.md
+Group: Website
+Summary: Daily Mindset Moments, Raymond Hill, the mission, and the wider product ecosystem.
+
+# About Us
+
+Daily Mindset Moments CIC is the organisation behind this learning resource. It was founded by Raymond Hill, founder and social worker, with a focus on practical technology that reduces pressure, supports clearer thinking, and helps people turn complex work into usable systems.
+
+This Social Worker Resource reflects that mission. It is designed to help social workers, students, ASYEs, managers, safeguarding practitioners, and care professionals learn key legal frameworks in a more structured, calm, and usable way.
+
+## Our Mission
+
+The mission of Daily Mindset Moments is to build practical digital tools with human purpose. The work is centred on helping people, businesses, families, communities, and professionals do more with less pressure.
+
+The aim is not to replace human judgement. It is to give people better systems, clearer information, and more space for care, creativity, decision-making, and meaningful human connection.
+
+For social work, that matters. Good tools should make legal literacy, reflective practice, safeguarding thinking, recording, supervision, and learning easier to access without taking the human voice out of the work.
+
+## Why This Resource Exists
+
+Social work law and guidance can feel heavy when it is scattered across legislation, statutory guidance, codes of practice, policy updates, and local procedures. This resource brings the major frameworks into one structured learning space.
+
+It is built to support:
+
+- clear learning routes through the Care Act, Mental Capacity Act, DoLS, Mental Health Act, safeguarding, transitions, equality, human rights, and recording;
+- practical case analysis that keeps the person, their rights, and their outcomes at the centre;
+- confident supervision, reflective learning, ASYE development, and practice conversations;
+- safer decision-making by encouraging practitioners to check current law, guidance, local policy, and legal advice.
+
+This resource is not legal advice. It is a learning and practice-support tool.
+
+## Daily Mindset Moments Ecosystem
+
+Daily Mindset Moments CIC connects AI software, wellbeing, care, learning, business support, and community connection through a growing ecosystem of websites and product brands.
+
+| Website | Focus | What it supports |
+| --- | --- | --- |
+| [Daily Mindset Moments](https://www.daily-mindset-moments.com) | AI software studio with a social mission | Practical AI products, automation, digital platforms, and responsible technology for business, care, wellbeing, learning, and communities. |
+| [Amplify You](https://www.amplify-you.ai) | AI marketing automation | Campaign planning, content ideas, captions, publishing workflows, analytics, and clearer brand visibility. |
+| [Vent It Out](https://www.vent-it-out.org) | Mental wellbeing | Reflection, mood tracking, voice journalling, safety planning, affirmations, and routes to support. |
+| [Grace Companion](https://www.grace-companion.com) | Compassionate care technology | Support for families, older people, routines, reassurance, prompts, and daily connection. |
+| [Nexus Historia](https://www.nexus-historia.co.uk) | Interactive education | Alternate histories, timelines, story worlds, scenario generation, and creative learning. |
+| [My Civic Circles](https://mycivic-circles.com) | Community networking | Venue discovery, professional meetups, and trusted local and global connections. |
+
+## Responsible Technology
+
+Daily Mindset Moments is built around the idea that useful technology should be practical, explainable, privacy-aware, and led by human judgement.
+
+The products are shaped around:
+
+- human review where decisions affect trust, care, safety, or reputation;
+- accessible design that reduces confusion and cognitive load;
+- responsible use of AI where the person remains in control;
+- practical outcomes such as time saved, clearer communication, better access, and reduced avoidable strain;
+- reinvesting success into wider access to useful AI coaching, skills, and development tools.
+
+## Raymond Hill
+
+Raymond Hill is the founder of Daily Mindset Moments CIC and a social worker. His work combines social work values, lived understanding of pressure and cognitive load, and practical AI product development.
+
+The aim is to create tools that feel usable in real life: calm enough to learn from, structured enough to support decision-making, and human enough to keep care, rights, relationships, and dignity at the centre.
+
+---
+
+# Contact Us
+
+Source: https://social-work-resource.netlify.app/CONTACT_US.md
+Group: Website
+Summary: Contact Daily Mindset Moments CIC about the resource, partnerships, and practical AI builds.
+
+# Contact Us
+
+Use this page to contact Daily Mindset Moments CIC about the Social Worker Resource, partnership ideas, AI product development, workflow automation, wellbeing tools, care technology, or community learning platforms.
+
+Daily Mindset Moments CIC is led by Raymond Hill, founder and social worker. The work combines practical AI software development with a social mission: helping people, organisations, families, communities, and professionals do more with less pressure.
+
+## What to Contact Us About
+
+- feedback, corrections, or improvement ideas for this Social Worker Resource;
+- training, learning, or practice-support resources;
+- AI product builds, prototypes, dashboards, portals, or practical automation;
+- wellbeing, care, safeguarding, family-support, or community technology;
+- partnership conversations with social impact at the centre.
+
+## Before You Send
+
+Please do not include confidential case details, names of people using services, addresses, NHS numbers, court documents, or any information that could identify a person in a live social work matter.
+
+For live casework, use your employer's supervision, legal advice, safeguarding procedures, and local escalation routes.
+
+---
+
+# Privacy Policy
+
+Source: https://social-work-resource.netlify.app/PRIVACY_POLICY.md
+Group: Website
+Summary: How this resource handles local progress data, contact enquiries, and external links.
+
+# Privacy Policy
+
+Last updated: 8 July 2026.
+
+This privacy policy explains how the Ultimate Social Worker Resource handles information when you use this website.
+
+## Who Runs This Resource
+
+This resource is built by Daily Mindset Moments CIC, founded by Raymond Hill, founder and social worker.
+
+Main website: [www.daily-mindset-moments.com](https://www.daily-mindset-moments.com)
+
+## What This Website Stores Locally
+
+The learning resource uses your browser's local storage to remember:
+
+- which sections you have marked as read;
+- your confidence ratings for learning sections;
+- CPD draft entries and reflection notes you choose to save in the CPD log.
+
+This information stays on your device and is not sent to Daily Mindset Moments CIC by the learning resource.
+
+It should remain after a normal page refresh. It may disappear if you clear browser site data, use private browsing, change device or browser, or if a workplace device resets browser storage.
+
+You can clear it by clearing your browser site data for this website.
+
+Do not save names, addresses, dates of birth, case numbers, or identifiable case information in the CPD and reflection log. The CPD log is a local drafting tool only. It does not send CPD to Social Work England or to Daily Mindset Moments CIC. Use the export or Print / Save as PDF option if you need to keep a copy.
+
+## Contact Form Information
+
+If you use the Contact Us form, the information you enter is sent through the enquiry form service used by Daily Mindset Moments CIC. This may include:
+
+- your name;
+- your email address;
+- your organisation;
+- your enquiry type;
+- your message;
+- your consent to be contacted about the enquiry.
+
+Only send information that is appropriate for a business, learning, partnership, or general enquiry.
+
+Do not send confidential case information or personal data about people using services.
+
+## External Links
+
+This website links to Daily Mindset Moments CIC and related product websites. Those websites may have their own privacy notices, cookies, analytics, forms, and terms.
+
+External websites linked from this resource include:
+
+- [Daily Mindset Moments](https://www.daily-mindset-moments.com)
+- [Amplify You](https://www.amplify-you.ai)
+- [Vent It Out](https://www.vent-it-out.org)
+- [Grace Companion](https://www.grace-companion.com)
+- [Nexus Historia](https://www.nexus-historia.co.uk)
+- [My Civic Circles](https://mycivic-circles.com)
+
+## Learning Content
+
+This resource is for learning and practice support. It does not require an account, and it does not ask you to upload case records or personal documents.
+
+## Contact
+
+For privacy-related questions, use the Contact Us page or visit [www.daily-mindset-moments.com](https://www.daily-mindset-moments.com).
+
+---
+
+# Terms of Service
+
+Source: https://social-work-resource.netlify.app/TERMS_OF_SERVICE.md
+Group: Website
+Summary: Use of the learning resource, legal disclaimer, acceptable use, and external services.
+
+# Terms of Service
+
+Last updated: 8 July 2026.
+
+These terms explain how the Ultimate Social Worker Resource may be used.
+
+## Purpose of This Resource
+
+This website is a structured learning and practice-support resource for social workers, students, ASYEs, managers, safeguarding practitioners, care coordinators, and related professionals.
+
+It is designed to support learning around the Care Act, Mental Capacity Act, DoLS, Mental Health Act, safeguarding, transitions, equality, human rights, recording, and reflective practice.
+
+## Content Review Date
+
+The learning content was last checked on 7 July 2026. This date is a content review note, not a guarantee that every law, guidance document, policy position, or external link remains current after that date.
+
+Users should always verify current legislation, statutory guidance, codes of practice, local policy, and legal advice before relying on the resource in live practice.
+
+## Not Legal Advice
+
+This resource is not legal advice. It does not replace:
+
+- current legislation;
+- statutory guidance;
+- codes of practice;
+- court judgments;
+- local authority policy;
+- employer procedures;
+- legal services advice;
+- supervision or management oversight.
+
+For live cases, always check current law, local procedures, legal advice, and supervision.
+
+## Professional Responsibility
+
+Users remain responsible for their own professional judgement, recording, decision-making, escalation, and compliance with their employer's policies and professional standards.
+
+The resource is intended to support thinking, not to make decisions on behalf of practitioners.
+
+## Acceptable Use
+
+You must not use this website to:
+
+- upload or submit confidential case information;
+- share identifiable information about people using services;
+- treat the content as a substitute for legal advice;
+- copy the resource in a way that misrepresents its source;
+- use the contact form for spam, abusive messages, or unlawful purposes.
+
+## Contact Form
+
+The Contact Us form is for business, learning, partnership, feedback, and general enquiries. Do not submit confidential case details or personal data about people using services.
+
+## Local Learning Tools
+
+The route finder, glossary, flashcards, confidence tracker, printable prompts, and CPD reflection log are learning tools. They support thinking and reflection, but they do not make professional or legal decisions.
+
+Do not enter identifiable case information into the CPD reflection log or any free-text field intended for learning notes.
+
+The CPD reflection log is a private drafting aid based on Social Work England's public CPD guidance. It does not submit CPD to Social Work England, it does not replace the Social Work England online account, and it does not guarantee that a CPD record will be accepted. Users remain responsible for checking current Social Work England requirements and submitting CPD through the official online account.
+
+CPD drafts are stored locally in the user's browser. They should remain after a normal refresh, but they may be lost if browser storage is cleared, private browsing is used, workplace systems reset storage, or the user changes device or browser. Users should export or print/save a PDF copy before relying on the CPD log as a record.
+
+## External Websites
+
+This website links to external websites operated by Daily Mindset Moments CIC and related product brands. External websites may have their own terms, privacy policies, and contact processes.
+
+## Changes
+
+The resource may be updated over time to improve structure, content, links, wording, or legal accuracy. Users should always check the date of the content and verify current law and guidance before relying on it.
+
+## Ownership and Attribution
+
+This resource is built by Daily Mindset Moments CIC. Raymond Hill is the founder and a social worker.

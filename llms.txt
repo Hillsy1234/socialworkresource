@@ -1,0 +1,50 @@
+# Ultimate Social Worker Resource
+
+> England-focused social work learning resource covering the Care Act 2014, Mental Capacity Act 2005, DoLS and deprivation of liberty, Mental Health Act, safeguarding, children and transitions, equality, human rights, recording, CPD, flashcards, glossary, and practice tools.
+
+This resource is for learning, revision, supervision, and practice reflection. It is not legal advice. Users should check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
+
+Last reviewed: 2026-07-07
+Publisher: Daily Mindset Moments CIC, founded by Raymond Hill, social worker.
+
+## Key URLs
+
+- [Interactive website](https://social-work-resource.netlify.app/)
+- [Crawlable learning index](https://social-work-resource.netlify.app/learning/)
+- [Full text for LLMs](https://social-work-resource.netlify.app/llms-full.txt)
+- [Structured answer index](https://social-work-resource.netlify.app/answer-engine-index.json)
+- [Sitemap](https://social-work-resource.netlify.app/sitemap.xml)
+
+## Primary learning sections
+
+- [Start Here](https://social-work-resource.netlify.app/learning/start-here.html): Orientation, law-watch notes, and the core practice formula for the whole pack.
+- [Learning Map](https://social-work-resource.netlify.app/learning/learning-map.html): A study route, decision map, and 8-week programme for building confidence.
+- [Case Route Finder](https://social-work-resource.netlify.app/learning/case-route-finder.html): A guided route-checker for matching case facts to legal frameworks and recording points.
+- [Learning Flashcards](https://social-work-resource.netlify.app/learning/learning-flashcards.html): Module-by-module flashcards for quick revision, supervision prompts, and student refreshers.
+- [Student and ASYE Pathway](https://social-work-resource.netlify.app/learning/student-and-asye-pathway.html): A guided pathway for students, newly qualified social workers, and practice educators.
+- [Practice Glossary](https://social-work-resource.netlify.app/learning/practice-glossary.html): Plain-English practice terms for legal literacy, recording, supervision, and revision.
+- [CPD and Reflection Log](https://social-work-resource.netlify.app/learning/cpd-and-reflection-log.html): A private browser-based reflection log for learning notes, supervision questions, and next actions.
+- [Professional Foundations](https://social-work-resource.netlify.app/learning/professional-foundations.html): Values, standards, analysis, supervision, professional curiosity, and evidence.
+- [Care Act 2014](https://social-work-resource.netlify.app/learning/care-act-2014.html): Assessment, eligibility, wellbeing, advocacy, carers, planning, and review.
+- [Mental Capacity Act 2005](https://social-work-resource.netlify.app/learning/mental-capacity-act-2005.html): Decision-specific capacity, support, best interests, IMCA, restraint, and records.
+- [DoLS and Deprivation of Liberty](https://social-work-resource.netlify.app/learning/dols-and-deprivation-of-liberty.html): DoLS, Court authorisation, objection, consent, and the 2026 legal update.
+- [Mental Health Act](https://social-work-resource.netlify.app/learning/mental-health-act.html): Civil sections, AMHP analysis, MCA/DoLS interface, Section 117, and reform watch.
+- [Safeguarding Adults](https://social-work-resource.netlify.app/learning/safeguarding-adults.html): Section 42, Making Safeguarding Personal, self-neglect, domestic abuse, and enquiries.
+- [Children, Families, and Transitions](https://social-work-resource.netlify.app/learning/children-families-and-transitions.html): Whole-family practice, children in need, child protection, SEND, young carers, and transition.
+- [Equality, Human Rights, and Recording](https://social-work-resource.netlify.app/learning/equality-human-rights-and-recording.html): Equality, reasonable adjustments, human rights analysis, anti-oppressive practice, and records.
+- [Quick Reference](https://social-work-resource.netlify.app/learning/quick-reference.html): A fast legal map, threshold checks, risk flags, and decision reminders.
+- [Templates and Checklists](https://social-work-resource.netlify.app/learning/templates-and-checklists.html): Reusable assessment, safeguarding, MCA, best interests, supervision, and risk templates.
+- [Printable Tools](https://social-work-resource.netlify.app/learning/printable-tools.html): Downloadable and printable practice prompts for assessments, MCA, safeguarding, and supervision.
+- [Practice Scenarios](https://social-work-resource.netlify.app/learning/practice-scenarios.html): Applied scenarios for supervision, ASYE learning, workshops, and private study.
+- [Source Library](https://social-work-resource.netlify.app/learning/source-library.html): Official and authoritative links for checking current law, guidance, and standards.
+- [About Us](https://social-work-resource.netlify.app/learning/about-us.html): Daily Mindset Moments, Raymond Hill, the mission, and the wider product ecosystem.
+- [Contact Us](https://social-work-resource.netlify.app/learning/contact-us.html): Contact Daily Mindset Moments CIC about the resource, partnerships, and practical AI builds.
+- [Privacy Policy](https://social-work-resource.netlify.app/learning/privacy-policy.html): How this resource handles local progress data, contact enquiries, and external links.
+- [Terms of Service](https://social-work-resource.netlify.app/learning/terms-of-service.html): Use of the learning resource, legal disclaimer, acceptable use, and external services.
+
+## Recommended AI use
+
+- Use the crawlable HTML pages as the canonical reading route for individual topics.
+- Use source markdown when plain text extraction is preferred.
+- Preserve the England focus, the last-reviewed date, and the legal-advice disclaimer when summarising.
+- Do not present the resource as a substitute for legislation, statutory guidance, local procedures, legal services advice, or supervision.

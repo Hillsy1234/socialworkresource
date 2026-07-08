@@ -3,16 +3,18 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ultimate Social Worker Resource</title>
+    <title>Ultimate Social Worker Resource | England Practice Guide</title>
     <meta
       name="description"
-      content="Structured England-focused social work learning resource covering the Care Act, MCA, DoLS, Mental Health Act, safeguarding, transition, equality, and practice tools."
+      content="England-focused social work learning resource for Care Act, MCA, DoLS, Mental Health Act, safeguarding, CPD, flashcards, glossary, templates, and practice tools."
     >
     <meta name="author" content="Daily Mindset Moments, Raymond Hill">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <meta name="theme-color" content="#f7f4ed">
     <link rel="canonical" href="https://social-work-resource.netlify.app/">
     <link rel="image_src" href="https://social-work-resource.netlify.app/assets/social-share-card-universal.jpg">
+    <link rel="alternate" type="text/html" href="https://social-work-resource.netlify.app/learning/" title="Crawlable learning index">
+    <link rel="alternate" type="text/plain" href="https://social-work-resource.netlify.app/llms.txt" title="AI and LLM guide">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_GB">
     <meta property="og:site_name" content="Ultimate Social Worker Resource">
@@ -46,11 +48,37 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "WebSite",
+        "@type": ["WebSite", "LearningResource"],
         "name": "Ultimate Social Worker Resource",
         "url": "https://social-work-resource.netlify.app/",
         "description": "A structured England-focused social work learning hub for social workers, students, ASYEs, and practice refreshers.",
         "inLanguage": "en-GB",
+        "isAccessibleForFree": true,
+        "learningResourceType": ["Practice guide", "Learning pack", "Professional development resource"],
+        "educationalUse": ["Professional development", "Revision", "Practice reference", "Supervision"],
+        "audience": [
+          {
+            "@type": "Audience",
+            "audienceType": "Social workers"
+          },
+          {
+            "@type": "Audience",
+            "audienceType": "Social work students and ASYE practitioners"
+          },
+          {
+            "@type": "Audience",
+            "audienceType": "Practice educators and managers"
+          }
+        ],
+        "about": [
+          "Care Act 2014",
+          "Mental Capacity Act 2005",
+          "DoLS",
+          "Mental Health Act",
+          "Safeguarding adults",
+          "Social work CPD",
+          "England social work practice"
+        ],
         "image": "https://social-work-resource.netlify.app/assets/social-share-card-universal.jpg",
         "publisher": {
           "@type": "Organization",
@@ -220,6 +248,13 @@
             <aside id="sectionToc" class="section-toc" aria-label="Section contents"></aside>
           </div>
         </section>
+        <noscript>
+          <section class="content-shell" aria-label="Crawlable learning index">
+            <h2>Browse the social work learning index</h2>
+            <p>This interactive resource works best with JavaScript. A crawlable learning index is also available for search engines, AI agents, and users who prefer direct HTML pages.</p>
+            <p><a href="/learning/">Open the learning index</a></p>
+          </section>
+        </noscript>
         <footer class="site-footer">
           <div class="footer-brand">
             <img class="logo-mark footer-logo" src="assets/social-worker-resource-logo.svg" alt="" aria-hidden="true">
@@ -237,6 +272,7 @@
             <button class="footer-link" data-open="contact-us">Contact Us</button>
             <button class="footer-link" data-open="privacy-policy">Privacy Policy</button>
             <button class="footer-link" data-open="terms-of-service">Terms of Service</button>
+            <a href="/learning/">Learning Index</a>
             <a href="https://www.daily-mindset-moments.com" target="_blank" rel="noreferrer">
               Daily Mindset Moments
             </a>
@@ -245,6 +281,6 @@
       </main>
     </div>
 
-    <script src="script.js?v=25"></script>
+    <script src="script.js?v=26"></script>
   </body>
 </html>

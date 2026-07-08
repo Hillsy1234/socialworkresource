@@ -1,0 +1,250 @@
+{
+  "name": "Ultimate Social Worker Resource",
+  "url": "https://social-work-resource.netlify.app/",
+  "description": "Structured England-focused social work learning resource for legal literacy, practice reflection, CPD, and supervision.",
+  "lastReviewed": "2026-07-07",
+  "publisher": "Daily Mindset Moments CIC",
+  "founder": "Raymond Hill",
+  "jurisdiction": "England",
+  "audience": [
+    "social workers",
+    "social work students",
+    "ASYEs",
+    "practice educators",
+    "safeguarding practitioners",
+    "care coordinators",
+    "managers"
+  ],
+  "notLegalAdvice": true,
+  "coreTopics": [
+    "Care Act 2014",
+    "Mental Capacity Act 2005",
+    "DoLS",
+    "deprivation of liberty",
+    "Mental Health Act",
+    "safeguarding adults",
+    "children and transitions",
+    "Equality Act",
+    "Human Rights Act",
+    "recording",
+    "CPD"
+  ],
+  "resources": [
+    {
+      "id": "readme",
+      "title": "Start Here",
+      "group": "Start",
+      "summary": "Orientation, law-watch notes, and the core practice formula for the whole pack.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/start-here.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=readme",
+      "markdownUrl": "https://social-work-resource.netlify.app/README.md"
+    },
+    {
+      "id": "map",
+      "title": "Learning Map",
+      "group": "Start",
+      "summary": "A study route, decision map, and 8-week programme for building confidence.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/learning-map.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=map",
+      "markdownUrl": "https://social-work-resource.netlify.app/LEARNING_MAP.md"
+    },
+    {
+      "id": "case-route-finder",
+      "title": "Case Route Finder",
+      "group": "Practice Tools",
+      "summary": "A guided route-checker for matching case facts to legal frameworks and recording points.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/case-route-finder.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=case-route-finder",
+      "markdownUrl": "https://social-work-resource.netlify.app/CASE_ROUTE_FINDER.md"
+    },
+    {
+      "id": "flashcards",
+      "title": "Learning Flashcards",
+      "group": "Learning Tools",
+      "summary": "Module-by-module flashcards for quick revision, supervision prompts, and student refreshers.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/learning-flashcards.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=flashcards",
+      "markdownUrl": "https://social-work-resource.netlify.app/FLASHCARDS.md"
+    },
+    {
+      "id": "student-asye-pathway",
+      "title": "Student and ASYE Pathway",
+      "group": "Start",
+      "summary": "A guided pathway for students, newly qualified social workers, and practice educators.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/student-and-asye-pathway.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=student-asye-pathway",
+      "markdownUrl": "https://social-work-resource.netlify.app/STUDENT_ASYE_PATHWAY.md"
+    },
+    {
+      "id": "glossary",
+      "title": "Practice Glossary",
+      "group": "Learning Tools",
+      "summary": "Plain-English practice terms for legal literacy, recording, supervision, and revision.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/practice-glossary.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=glossary",
+      "markdownUrl": "https://social-work-resource.netlify.app/GLOSSARY.md"
+    },
+    {
+      "id": "cpd-log",
+      "title": "CPD and Reflection Log",
+      "group": "Learning Tools",
+      "summary": "A private browser-based reflection log for learning notes, supervision questions, and next actions.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/cpd-and-reflection-log.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=cpd-log",
+      "markdownUrl": "https://social-work-resource.netlify.app/CPD_REFLECTION_LOG.md"
+    },
+    {
+      "id": "foundations",
+      "title": "Professional Foundations",
+      "group": "Modules",
+      "summary": "Values, standards, analysis, supervision, professional curiosity, and evidence.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/professional-foundations.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=foundations",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/01-Professional-Foundations.md"
+    },
+    {
+      "id": "care-act",
+      "title": "Care Act 2014",
+      "group": "Modules",
+      "summary": "Assessment, eligibility, wellbeing, advocacy, carers, planning, and review.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/care-act-2014.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=care-act",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/02-Care-Act-2014.md"
+    },
+    {
+      "id": "mca",
+      "title": "Mental Capacity Act 2005",
+      "group": "Modules",
+      "summary": "Decision-specific capacity, support, best interests, IMCA, restraint, and records.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/mental-capacity-act-2005.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=mca",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/03-Mental-Capacity-Act-2005.md"
+    },
+    {
+      "id": "dols",
+      "title": "DoLS and Deprivation of Liberty",
+      "group": "Modules",
+      "summary": "DoLS, Court authorisation, objection, consent, and the 2026 legal update.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/dols-and-deprivation-of-liberty.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=dols",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/04-DoLS-and-Deprivation-of-Liberty.md"
+    },
+    {
+      "id": "mha",
+      "title": "Mental Health Act",
+      "group": "Modules",
+      "summary": "Civil sections, AMHP analysis, MCA/DoLS interface, Section 117, and reform watch.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/mental-health-act.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=mha",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/05-Mental-Health-Act.md"
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding Adults",
+      "group": "Modules",
+      "summary": "Section 42, Making Safeguarding Personal, self-neglect, domestic abuse, and enquiries.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/safeguarding-adults.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=safeguarding",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/06-Safeguarding-Adults.md"
+    },
+    {
+      "id": "children",
+      "title": "Children, Families, and Transitions",
+      "group": "Modules",
+      "summary": "Whole-family practice, children in need, child protection, SEND, young carers, and transition.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/children-families-and-transitions.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=children",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/07-Children-Families-and-Transitions.md"
+    },
+    {
+      "id": "rights",
+      "title": "Equality, Human Rights, and Recording",
+      "group": "Modules",
+      "summary": "Equality, reasonable adjustments, human rights analysis, anti-oppressive practice, and records.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/equality-human-rights-and-recording.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=rights",
+      "markdownUrl": "https://social-work-resource.netlify.app/modules/08-Equality-Human-Rights-and-Recording.md"
+    },
+    {
+      "id": "quick-reference",
+      "title": "Quick Reference",
+      "group": "Practice Tools",
+      "summary": "A fast legal map, threshold checks, risk flags, and decision reminders.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/quick-reference.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=quick-reference",
+      "markdownUrl": "https://social-work-resource.netlify.app/practice-tools/quick-reference.md"
+    },
+    {
+      "id": "templates",
+      "title": "Templates and Checklists",
+      "group": "Practice Tools",
+      "summary": "Reusable assessment, safeguarding, MCA, best interests, supervision, and risk templates.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/templates-and-checklists.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=templates",
+      "markdownUrl": "https://social-work-resource.netlify.app/practice-tools/templates-and-checklists.md"
+    },
+    {
+      "id": "printable-tools",
+      "title": "Printable Tools",
+      "group": "Practice Tools",
+      "summary": "Downloadable and printable practice prompts for assessments, MCA, safeguarding, and supervision.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/printable-tools.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=printable-tools",
+      "markdownUrl": "https://social-work-resource.netlify.app/PRINTABLE_TOOLS.md"
+    },
+    {
+      "id": "scenarios",
+      "title": "Practice Scenarios",
+      "group": "Practice Tools",
+      "summary": "Applied scenarios for supervision, ASYE learning, workshops, and private study.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/practice-scenarios.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=scenarios",
+      "markdownUrl": "https://social-work-resource.netlify.app/practice-tools/scenarios.md"
+    },
+    {
+      "id": "sources",
+      "title": "Source Library",
+      "group": "Sources",
+      "summary": "Official and authoritative links for checking current law, guidance, and standards.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/source-library.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=sources",
+      "markdownUrl": "https://social-work-resource.netlify.app/SOURCE_LIBRARY.md"
+    },
+    {
+      "id": "about-us",
+      "title": "About Us",
+      "group": "Website",
+      "summary": "Daily Mindset Moments, Raymond Hill, the mission, and the wider product ecosystem.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/about-us.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=about-us",
+      "markdownUrl": "https://social-work-resource.netlify.app/ABOUT_US.md"
+    },
+    {
+      "id": "contact-us",
+      "title": "Contact Us",
+      "group": "Website",
+      "summary": "Contact Daily Mindset Moments CIC about the resource, partnerships, and practical AI builds.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/contact-us.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=contact-us",
+      "markdownUrl": "https://social-work-resource.netlify.app/CONTACT_US.md"
+    },
+    {
+      "id": "privacy-policy",
+      "title": "Privacy Policy",
+      "group": "Website",
+      "summary": "How this resource handles local progress data, contact enquiries, and external links.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/privacy-policy.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=privacy-policy",
+      "markdownUrl": "https://social-work-resource.netlify.app/PRIVACY_POLICY.md"
+    },
+    {
+      "id": "terms-of-service",
+      "title": "Terms of Service",
+      "group": "Website",
+      "summary": "Use of the learning resource, legal disclaimer, acceptable use, and external services.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/terms-of-service.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=terms-of-service",
+      "markdownUrl": "https://social-work-resource.netlify.app/TERMS_OF_SERVICE.md"
+    }
+  ]
+}

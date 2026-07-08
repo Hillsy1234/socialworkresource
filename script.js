@@ -217,7 +217,7 @@ const resources = [
   }
 ];
 
-const contentVersion = "25";
+const contentVersion = "26";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -798,8 +798,24 @@ const studentPathwaySteps = [
   { title: "Record Rights-Based Analysis", resource: "rights", task: "Record equality, human rights, proportionality, rationale, and review." }
 ];
 
+function getInitialResourceId() {
+  const params = new URLSearchParams(window.location.search);
+  const requested = params.get("resource") || params.get("section") || window.location.hash.replace("#", "");
+  return resources.some((resource) => resource.id === requested) ? requested : "readme";
+}
+
+function updateResourceUrl(id, targetSection = "") {
+  if (!window.history?.replaceState) {
+    return;
+  }
+  const url = new URL(window.location.href);
+  url.searchParams.set("resource", id);
+  url.hash = targetSection || "readerSection";
+  window.history.replaceState(null, "", url);
+}
+
 const state = {
-  activeId: "readme",
+  activeId: getInitialResourceId(),
   query: "",
   documents: new Map(),
   read: new Set(JSON.parse(localStorage.getItem("socialWorkerResourceRead") || "[]")),
@@ -2034,6 +2050,7 @@ function openResource(id, shouldScroll = true, targetSection = "") {
   renderModuleCards();
   renderProgress();
   if (shouldScroll) {
+    updateResourceUrl(id, targetSection);
     if (targetSection) {
       scrollToContentSection(targetSection);
     } else {
