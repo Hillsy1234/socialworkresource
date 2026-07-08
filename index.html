@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ultimate Social Worker Resource</title>
+    <meta
+      name="description"
+      content="Structured England-focused social work learning resource covering the Care Act, MCA, DoLS, Mental Health Act, safeguarding, transition, equality, and practice tools."
+    >
+    <link rel="icon" type="image/svg+xml" href="assets/social-worker-resource-logo.svg">
+    <link rel="stylesheet" href="styles.css?v=19">
+  </head>
+  <body>
+    <header class="site-header" aria-label="Site header">
+      <div class="site-header-inner">
+        <button class="header-brand" data-open="readme">
+          <img class="logo-mark header-logo" src="assets/social-worker-resource-logo.svg" alt="" aria-hidden="true">
+          <span>Ultimate Social Worker Resource</span>
+        </button>
+        <nav class="header-nav" aria-label="Website navigation">
+          <button data-open="readme">Learning Resource</button>
+          <button data-open="case-route-finder">Route Finder</button>
+          <button data-open="flashcards">Flashcards</button>
+          <button data-open="glossary">Glossary</button>
+          <button data-open="cpd-log">CPD Log</button>
+          <button data-open="about-us">About Us</button>
+          <button data-open="contact-us">Contact Us</button>
+        </nav>
+      </div>
+    </header>
+
+    <header class="hero-panel" aria-labelledby="pageTitle">
+      <img
+        class="hero-image"
+        src="assets/social-work-learning-desk.png"
+        alt="Structured social work learning desk with case notes and colour-coded resources"
+      >
+      <div class="hero-scrim" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="hero-kicker">Structured learning resource</p>
+        <h1 id="pageTitle">Ultimate Social Worker Resource</h1>
+        <p>
+          A practical learning hub for Care Act, MCA, DoLS, Mental Health Act,
+          safeguarding, transition, equality, human rights, and evidence-led recording.
+        </p>
+        <div class="quick-actions" aria-label="Key modules">
+          <button class="chip-button" data-open="case-route-finder">Route Finder</button>
+          <button class="chip-button" data-open="care-act">Care Act</button>
+          <button class="chip-button" data-open="mca">MCA</button>
+          <button class="chip-button" data-open="dols">DoLS</button>
+          <button class="chip-button" data-open="mha">MHA</button>
+          <button class="chip-button" data-open="safeguarding">Safeguarding</button>
+          <button class="chip-button" data-open="flashcards">Flashcards</button>
+          <button class="chip-button" data-open="student-asye-pathway">Student/ASYE</button>
+          <button class="chip-button" data-open="cpd-log">CPD Log</button>
+        </div>
+      </div>
+    </header>
+
+    <div id="learningWorkspace" class="site-shell">
+      <aside class="sidebar" aria-label="Resource navigation">
+        <div class="brand-block">
+          <img class="logo-mark sidebar-logo" src="assets/social-worker-resource-logo.svg" alt="" aria-hidden="true">
+          <div>
+            <div class="brand-title">Social Worker Resource</div>
+            <div class="brand-subtitle">England practice guide</div>
+          </div>
+        </div>
+
+        <label class="search-wrap">
+          <span class="search-label">Search</span>
+          <span class="search-box">
+            <span aria-hidden="true">Find</span>
+            <input id="searchInput" type="search" placeholder="Care Act, DoLS, MHA..." autocomplete="off">
+          </span>
+        </label>
+
+        <div id="sidebarSearchResults" class="sidebar-search-results" hidden></div>
+
+        <div id="navList" class="nav-list"></div>
+      </aside>
+
+      <main class="main-view">
+        <section class="workspace-heading" aria-label="Learning workspace">
+          <div>
+            <span class="panel-kicker">Learning Workspace</span>
+            <h2>Choose a legal route, search the pack, and build confident case analysis.</h2>
+          </div>
+          <div class="workspace-stats" aria-label="Resource summary">
+            <span>24 sections</span>
+            <span>8 modules</span>
+            <span>40 flashcards</span>
+            <span>5 interactive tools</span>
+          </div>
+        </section>
+
+        <section id="searchResults" class="search-results" hidden></section>
+
+        <section class="module-showcase" aria-label="Core learning routes">
+          <div class="section-heading">
+            <div>
+              <span class="panel-kicker">Route Finder</span>
+              <h2>Start with the framework you need today.</h2>
+            </div>
+            <p>Each card opens the full learning section, with checklists and practice prompts nearby.</p>
+          </div>
+          <div id="moduleCards" class="module-cards"></div>
+        </section>
+
+        <section class="dashboard-grid" aria-label="Practice dashboard">
+          <article class="dashboard-panel law-watch">
+            <div class="panel-icon" aria-hidden="true">!</div>
+            <span class="panel-kicker">Law Watch</span>
+            <h2>Current practice alerts</h2>
+            <ul>
+              <li>Use the 2026 multifactorial approach for deprivation of liberty.</li>
+              <li>Check which Mental Health Act 2025 provisions are in force.</li>
+              <li>Working Together was updated on 18 March 2026.</li>
+            </ul>
+          </article>
+
+          <article class="dashboard-panel">
+            <div class="panel-icon" aria-hidden="true">Path</div>
+            <span class="panel-kicker">Case Spine</span>
+            <h2>Every complex case</h2>
+            <ol>
+              <li>Person and outcomes</li>
+              <li>Needs, strengths, risks</li>
+              <li>Capacity and consent</li>
+              <li>Legal route and least restriction</li>
+              <li>Plan, contingency, review</li>
+            </ol>
+          </article>
+
+          <article class="dashboard-panel">
+            <div class="panel-icon" aria-hidden="true">Done</div>
+            <span class="panel-kicker">Progress</span>
+            <h2 id="progressText">0 of 19 sections read</h2>
+            <div class="progress-track" aria-hidden="true">
+              <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <button id="markReadButton" class="secondary-button">Mark current section read</button>
+          </article>
+        </section>
+
+        <section id="readerSection" class="content-shell" aria-live="polite" aria-label="Current learning section">
+          <div class="reader-header">
+            <div>
+              <span id="activeGroup" class="panel-kicker">Start</span>
+              <h2 id="activeTitle">Start Here</h2>
+              <p id="activeSummary">Open a section to begin working through the resource.</p>
+              <div id="sourceStatus" class="source-status" aria-label="Source status"></div>
+            </div>
+            <div class="reader-actions">
+              <label class="confidence-control">
+                <span>Confidence</span>
+                <select id="confidenceSelect">
+                  <option value="not-started">Not started</option>
+                  <option value="learning">Learning</option>
+                  <option value="confident">Confident</option>
+                  <option value="supervision">Needs supervision</option>
+                </select>
+              </label>
+              <button id="readerMarkReadButton" class="reader-action">Mark section read</button>
+            </div>
+          </div>
+          <div class="reader-layout">
+            <article id="contentView" class="content-view"></article>
+            <aside id="sectionToc" class="section-toc" aria-label="Section contents"></aside>
+          </div>
+        </section>
+        <footer class="site-footer">
+          <div class="footer-brand">
+            <img class="logo-mark footer-logo" src="assets/social-worker-resource-logo.svg" alt="" aria-hidden="true">
+            <div>
+              <strong>Ultimate Social Worker Resource</strong>
+              <span>Built by Daily Mindset Moments CIC for clearer social work learning and practice.</span>
+            </div>
+          </div>
+          <nav class="footer-nav" aria-label="Footer links">
+            <button class="footer-link" data-open="about-us">About Us</button>
+            <button class="footer-link" data-open="case-route-finder">Route Finder</button>
+            <button class="footer-link" data-open="flashcards">Flashcards</button>
+            <button class="footer-link" data-open="glossary">Glossary</button>
+            <button class="footer-link" data-open="cpd-log">CPD Log</button>
+            <button class="footer-link" data-open="contact-us">Contact Us</button>
+            <button class="footer-link" data-open="privacy-policy">Privacy Policy</button>
+            <button class="footer-link" data-open="terms-of-service">Terms of Service</button>
+            <a href="https://www.daily-mindset-moments.com" target="_blank" rel="noreferrer">
+              Daily Mindset Moments
+            </a>
+          </nav>
+        </footer>
+      </main>
+    </div>
+
+    <script src="script.js?v=19"></script>
+  </body>
+</html>

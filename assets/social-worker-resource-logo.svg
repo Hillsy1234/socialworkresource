@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Ultimate Social Worker Resource logo</title>
+  <desc id="logoDesc">A rounded learning mark with a path, open pages, and a warm centre point.</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#287c8f"/>
+      <stop offset="0.48" stop-color="#4f8a66"/>
+      <stop offset="1" stop-color="#c5902d"/>
+    </linearGradient>
+    <linearGradient id="pageGradient" x1="27" y1="29" x2="72" y2="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fffdf8"/>
+      <stop offset="1" stop-color="#e6f4f8"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#1f3234" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="96" height="96" rx="24" fill="#fffdf8"/>
+  <rect x="7" y="7" width="82" height="82" rx="20" fill="url(#markGradient)" filter="url(#softShadow)"/>
+  <path d="M24 34c9-5 18-5 24 2 6-7 15-7 24-2v33c-9-5-18-4-24 3-6-7-15-8-24-3V34Z" fill="url(#pageGradient)" opacity="0.96"/>
+  <path d="M48 36v34" fill="none" stroke="#287c8f" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M30 43c6-2.8 11-1.9 15 2.6M30 53c6-2.4 11-1.5 15 2.4M66 43c-6-2.8-11-1.9-15 2.6M66 53c-6-2.4-11-1.5-15 2.4" fill="none" stroke="#4f8a66" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 27c-7 6-10 12-10 18 0 9 7 15 10 18 3-3 10-9 10-18 0-6-3-12-10-18Z" fill="#cf7258"/>
+  <circle cx="48" cy="44" r="5.8" fill="#ffd179"/>
+  <path d="M25 72c11-6 22-4 23 5 1-9 12-11 23-5" fill="none" stroke="#fffdf8" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+</svg>
