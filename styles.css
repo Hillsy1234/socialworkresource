@@ -94,6 +94,42 @@ button {
   line-height: 1.12;
 }
 
+.mobile-nav-toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  flex: 0 0 auto;
+  align-content: center;
+  place-items: center;
+  gap: 5px;
+  border: 1px solid rgba(40, 124, 143, 0.22);
+  border-radius: var(--radius);
+  background: rgba(255, 253, 248, 0.92);
+  color: var(--ink);
+  box-shadow: 0 10px 22px rgba(33, 49, 52, 0.08);
+}
+
+.mobile-nav-toggle span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--ink);
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.site-header.nav-open .mobile-nav-toggle span:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.site-header.nav-open .mobile-nav-toggle span:nth-child(2) {
+  opacity: 0;
+}
+
+.site-header.nav-open .mobile-nav-toggle span:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
 .logo-mark {
   display: block;
   flex: 0 0 auto;
@@ -1838,21 +1874,60 @@ mark {
 
 @media (max-width: 980px) {
   :root {
-    --header-offset: 112px;
+    --header-offset: 68px;
   }
 
   .site-header-inner {
-    flex-wrap: wrap;
-    gap: 8px;
-    padding: 10px 0;
+    position: relative;
+    min-height: var(--header-offset);
+    gap: 12px;
+    padding: 0;
+  }
+
+  .header-brand {
+    flex: 1 1 auto;
+  }
+
+  .mobile-nav-toggle {
+    display: grid;
   }
 
   .header-nav {
-    width: 100%;
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 0;
+    left: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    max-height: min(70vh, 460px);
+    overflow: auto;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 253, 248, 0.98);
+    box-shadow: var(--shadow-lift);
+    padding: 12px;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-8px);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 40;
+  }
+
+  .site-header.nav-open .header-nav {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+  }
+
+  .header-nav button,
+  .header-nav a {
     justify-content: flex-start;
-    overflow-x: auto;
-    padding-bottom: 3px;
-    scrollbar-width: thin;
+    min-height: 44px;
+    border-color: rgba(40, 124, 143, 0.14);
+    background: rgba(240, 249, 247, 0.74);
+    padding: 0 12px;
+    white-space: normal;
   }
 
   .site-shell {
@@ -1936,7 +2011,7 @@ mark {
 
 @media (max-width: 620px) {
   :root {
-    --header-offset: 120px;
+    --header-offset: 64px;
   }
 
   .site-header-inner {
@@ -1955,9 +2030,13 @@ mark {
 
   .header-nav button,
   .header-nav a {
-    min-height: 34px;
-    padding: 0 9px;
+    min-height: 42px;
+    padding: 0 10px;
     font-size: 0.84rem;
+  }
+
+  .header-nav {
+    grid-template-columns: 1fr;
   }
 
   .hero-panel {

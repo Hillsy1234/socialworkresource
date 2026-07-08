@@ -217,7 +217,7 @@ const resources = [
   }
 ];
 
-const contentVersion = "24";
+const contentVersion = "25";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -823,6 +823,16 @@ const sourceStatus = document.querySelector("#sourceStatus");
 const confidenceSelect = document.querySelector("#confidenceSelect");
 const sectionToc = document.querySelector("#sectionToc");
 const siteHeader = document.querySelector(".site-header");
+const mobileNavToggle = document.querySelector("#mobileNavToggle");
+
+function setMobileNavigation(open) {
+  if (!siteHeader || !mobileNavToggle) {
+    return;
+  }
+  siteHeader.classList.toggle("nav-open", open);
+  mobileNavToggle.setAttribute("aria-expanded", String(open));
+  mobileNavToggle.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
+}
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -2134,6 +2144,16 @@ function renderSearch() {
 }
 
 document.addEventListener("click", (event) => {
+  const mobileToggle = event.target.closest("#mobileNavToggle");
+  if (mobileToggle) {
+    setMobileNavigation(!siteHeader?.classList.contains("nav-open"));
+    return;
+  }
+
+  if (siteHeader?.classList.contains("nav-open") && !event.target.closest(".site-header")) {
+    setMobileNavigation(false);
+  }
+
   const routeReset = event.target.closest("[data-route-reset]");
   if (routeReset) {
     document.querySelectorAll("[data-route-answer]").forEach((input) => {
@@ -2229,6 +2249,14 @@ document.addEventListener("click", (event) => {
   const opener = event.target.closest("[data-open]");
   if (opener) {
     openResource(opener.dataset.open, true, opener.dataset.section || "");
+    setMobileNavigation(false);
+  }
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && siteHeader?.classList.contains("nav-open")) {
+    setMobileNavigation(false);
+    mobileNavToggle?.focus();
   }
 });
 

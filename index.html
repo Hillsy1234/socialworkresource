@@ -9,7 +9,7 @@
       content="Structured England-focused social work learning resource covering the Care Act, MCA, DoLS, Mental Health Act, safeguarding, transition, equality, and practice tools."
     >
     <link rel="icon" type="image/svg+xml" href="assets/social-worker-resource-logo.svg">
-    <link rel="stylesheet" href="styles.css?v=24">
+    <link rel="stylesheet" href="styles.css?v=25">
   </head>
   <body>
     <header class="site-header" aria-label="Site header">
@@ -18,7 +18,12 @@
           <img class="logo-mark header-logo" src="assets/social-worker-resource-logo.svg" alt="" aria-hidden="true">
           <span>Ultimate Social Worker Resource</span>
         </button>
-        <nav class="header-nav" aria-label="Website navigation">
+        <button id="mobileNavToggle" class="mobile-nav-toggle" type="button" aria-controls="primaryNav" aria-expanded="false" aria-label="Open navigation">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </button>
+        <nav id="primaryNav" class="header-nav" aria-label="Website navigation">
           <button data-open="readme">Learning Resource</button>
           <button data-open="case-route-finder">Route Finder</button>
           <button data-open="flashcards">Flashcards</button>
@@ -184,6 +189,6 @@
       </main>
     </div>
 
-    <script src="script.js?v=24"></script>
+    <script src="script.js?v=25"></script>
   </body>
 </html>
