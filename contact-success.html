@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Enquiry Sent | Ultimate Social Worker Resource</title>
+    <meta name="robots" content="noindex, follow">
+    <link rel="icon" type="image/svg+xml" href="/assets/social-worker-resource-logo.svg">
+    <link rel="stylesheet" href="/styles.css?v=29">
+    <style>
+      body {
+        display: grid;
+        min-height: 100vh;
+        place-items: center;
+        padding: 24px;
+      }
+
+      .success-panel {
+        display: grid;
+        width: min(720px, 100%);
+        gap: 18px;
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        background: var(--panel);
+        box-shadow: var(--shadow-lift);
+        padding: clamp(28px, 6vw, 54px);
+      }
+
+      .success-brand {
+        display: inline-grid;
+        grid-template-columns: 54px minmax(0, 1fr);
+        gap: 14px;
+        align-items: center;
+      }
+
+      .success-brand img {
+        width: 54px;
+        height: 54px;
+      }
+
+      .success-brand strong {
+        color: var(--ink);
+        font-size: 1.15rem;
+        line-height: 1.12;
+      }
+
+      .success-panel h1 {
+        margin: 10px 0 0;
+        color: var(--steel);
+        font-size: clamp(2.2rem, 7vw, 4rem);
+        line-height: 0.98;
+      }
+
+      .success-panel p {
+        margin: 0;
+        color: var(--ink-soft);
+        font-size: 1.08rem;
+        font-weight: 680;
+        line-height: 1.55;
+      }
+
+      .success-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 8px;
+      }
+
+      .success-actions a {
+        display: inline-flex;
+        min-height: 42px;
+        align-items: center;
+        border: 1px solid rgba(40, 124, 143, 0.24);
+        border-radius: var(--radius);
+        background: var(--steel);
+        color: #fffdf8;
+        padding: 0 14px;
+        text-decoration: none;
+        font-weight: 900;
+      }
+
+      .success-actions a.secondary {
+        background: #fffdf8;
+        color: var(--steel);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="success-panel" aria-labelledby="successTitle">
+      <div class="success-brand">
+        <img class="logo-mark" src="/assets/social-worker-resource-logo.svg" alt="" aria-hidden="true">
+        <strong>Ultimate Social Worker Resource</strong>
+      </div>
+      <h1 id="successTitle">Enquiry sent</h1>
+      <p>Thank you. Your message has been submitted through the website contact form.</p>
+      <p>Please do not send confidential case information through this route. For live social work matters, use your employer's supervision, safeguarding, legal advice, and escalation procedures.</p>
+      <div class="success-actions">
+        <a href="/">Return to the resource</a>
+        <a class="secondary" href="/?resource=contact-us#readerSection">Send another enquiry</a>
+      </div>
+    </main>
+  </body>
+</html>

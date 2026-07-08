@@ -864,6 +864,25 @@ mark {
   white-space: nowrap;
 }
 
+.reader-action.is-read {
+  border-color: rgba(87, 139, 97, 0.35);
+  background: linear-gradient(135deg, var(--moss), var(--leaf));
+}
+
+.reader-save-status {
+  max-width: 220px;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 760;
+  line-height: 1.35;
+  text-align: right;
+}
+
+.reader-save-status.is-confirmed {
+  color: var(--steel);
+}
+
 .reader-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(220px, 286px);

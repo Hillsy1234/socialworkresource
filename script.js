@@ -235,7 +235,7 @@ const resources = [
   }
 ];
 
-const contentVersion = "28";
+const contentVersion = "29";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -1272,6 +1272,7 @@ const activeTitle = document.querySelector("#activeTitle");
 const activeSummary = document.querySelector("#activeSummary");
 const sourceStatus = document.querySelector("#sourceStatus");
 const confidenceSelect = document.querySelector("#confidenceSelect");
+const readerSaveStatus = document.querySelector("#readerSaveStatus");
 const sectionToc = document.querySelector("#sectionToc");
 const siteHeader = document.querySelector(".site-header");
 const mobileNavToggle = document.querySelector("#mobileNavToggle");
@@ -1526,6 +1527,10 @@ function renderActiveResource(documentData) {
   if (confidenceSelect) {
     confidenceSelect.value = state.confidence[documentData.id] || "not-started";
   }
+  showReaderSaveStatus(
+    state.read.has(documentData.id) ? "This section is marked read." : "Progress saves in this browser.",
+    state.read.has(documentData.id)
+  );
 }
 
 function sourceStatusFor(documentData) {
@@ -1568,9 +1573,10 @@ function contactFormMarkup() {
         <h2 id="contactFormTitle">Send an enquiry</h2>
         <p>Share the reason for your message, and Daily Mindset Moments CIC will be able to respond from the same enquiry flow used on the main website.</p>
       </div>
-      <form class="contact-form" action="https://formspree.io/f/xeorybzb" method="POST">
-        <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="form-honeypot">
-        <input type="hidden" name="_subject" value="Social Worker Resource enquiry">
+      <form class="contact-form" name="social-worker-resource-contact" action="/contact-success" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="social-worker-resource-contact">
+        <input type="text" name="bot-field" tabindex="-1" autocomplete="off" class="form-honeypot">
+        <input type="hidden" name="subject" value="Social Worker Resource enquiry">
         <div class="form-grid">
           <label class="form-field">
             <span>Name</span>
@@ -2299,6 +2305,14 @@ function confidenceLabel(value) {
   }[value] || "Not started";
 }
 
+function showReaderSaveStatus(message, confirmed = false) {
+  if (!readerSaveStatus) {
+    return;
+  }
+  readerSaveStatus.textContent = message;
+  readerSaveStatus.classList.toggle("is-confirmed", confirmed);
+}
+
 function renderConfidenceOverview() {
   const overview = document.querySelector("#confidenceOverview");
   if (!overview) {
@@ -2745,10 +2759,14 @@ function openResource(id, shouldScroll = true, targetSection = "") {
 
 function renderProgress() {
   const count = state.read.size;
+  const isActiveRead = state.read.has(state.activeId);
   progressText.textContent = `${count} of ${resources.length} sections read`;
   progressBar.style.width = `${Math.round((count / resources.length) * 100)}%`;
-  markReadButton.textContent = state.read.has(state.activeId) ? "Current section read" : "Mark current section read";
-  readerMarkReadButton.textContent = state.read.has(state.activeId) ? "Section read" : "Mark section read";
+  markReadButton.textContent = isActiveRead ? "Current section read" : "Mark current section read";
+  markReadButton.setAttribute("aria-pressed", String(isActiveRead));
+  readerMarkReadButton.textContent = isActiveRead ? "Section read" : "Mark section read";
+  readerMarkReadButton.classList.toggle("is-read", isActiveRead);
+  readerMarkReadButton.setAttribute("aria-pressed", String(isActiveRead));
   if (confidenceSelect) {
     confidenceSelect.value = state.confidence[state.activeId] || "not-started";
   }
@@ -3041,6 +3059,7 @@ if (confidenceSelect) {
     state.confidence[state.activeId] = event.target.value;
     persistConfidence();
     renderProgress();
+    showReaderSaveStatus(`Confidence saved: ${confidenceLabel(event.target.value)}.`, true);
   });
 }
 
@@ -3050,6 +3069,7 @@ markReadButton.addEventListener("click", () => {
   renderNav();
   renderModuleCards();
   renderProgress();
+  showReaderSaveStatus(`${activeTitle.textContent} marked as read.`, true);
 });
 
 readerMarkReadButton.addEventListener("click", () => {
@@ -3058,6 +3078,7 @@ readerMarkReadButton.addEventListener("click", () => {
   renderNav();
   renderModuleCards();
   renderProgress();
+  showReaderSaveStatus(`${activeTitle.textContent} marked as read.`, true);
 });
 
 contentView.innerHTML = '<p class="loading">Loading resource...</p>';

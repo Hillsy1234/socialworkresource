@@ -2979,6 +2979,8 @@ Use this page to contact Daily Mindset Moments CIC about the Social Worker Resou
 
 Daily Mindset Moments CIC is led by Raymond Hill, founder and social worker. The work combines practical AI software development with a social mission: helping people, organisations, families, communities, and professionals do more with less pressure.
 
+The website contact form is handled through Netlify Forms. Website form notifications should be sent to info@dmaily-mindset-moments.com.
+
 ## What to Contact Us About
 
 - feedback, corrections, or improvement ideas for this Social Worker Resource;
@@ -3031,7 +3033,7 @@ Do not save names, addresses, dates of birth, case numbers, or identifiable case
 
 ## Contact Form Information
 
-If you use the Contact Us form, the information you enter is sent through the enquiry form service used by Daily Mindset Moments CIC. This may include:
+If you use the Contact Us form, the information you enter is sent through Netlify Forms and made available to Daily Mindset Moments CIC for responding to the enquiry. Website form notifications should be sent to info@dmaily-mindset-moments.com. This may include:
 
 - your name;
 - your email address;
@@ -3125,6 +3127,8 @@ You must not use this website to:
 ## Contact Form
 
 The Contact Us form is for business, learning, partnership, feedback, and general enquiries. Do not submit confidential case details or personal data about people using services.
+
+The form is handled through Netlify Forms. Website form notifications should be sent to info@dmaily-mindset-moments.com.
 
 ## Local Learning Tools
 

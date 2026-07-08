@@ -51,6 +51,8 @@ You must not use this website to:
 
 The Contact Us form is for business, learning, partnership, feedback, and general enquiries. Do not submit confidential case details or personal data about people using services.
 
+The form is handled through Netlify Forms. Website form notifications should be sent to info@dmaily-mindset-moments.com.
+
 ## Local Learning Tools
 
 The route finder, glossary, flashcards, confidence tracker, printable prompts, and CPD reflection log are learning tools. They support thinking and reflection, but they do not make professional or legal decisions.
