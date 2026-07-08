@@ -15,24 +15,25 @@ Start with the learning map, then move through the modules in order. Use the pra
 3. **Learning Flashcards** - test recall module by module, useful for students, ASYEs, and quick refreshers.
 4. **Student and ASYE Pathway** - follow a structured confidence-building route for placement, ASYE, and supervision.
 5. **Practice Glossary** - search plain-English legal and practice terms, then open the relevant learning section.
-6. **CPD and Reflection Log** - save private browser-based reflections, supervision questions, and next actions.
-7. **Professional Foundations** - revisit social work values, standards, analysis, supervision, and professional curiosity.
-8. **Care Act 2014** - build confidence with assessment, eligibility, wellbeing, advocacy, carers, planning, review, and prevention.
-9. **Mental Capacity Act 2005** - work through decision-specific capacity, best interests, IMCA, LPAs, deputies, restraint, and recording.
-10. **DoLS and Deprivation of Liberty** - understand DoLS, Court of Protection routes, objections, consent, and the June 2026 Supreme Court change.
-11. **Mental Health Act** - review MHA 1983 routes, AMHP analysis, MCA/DoLS interface, Section 117, and the MHA 2025 reform watch.
-12. **Safeguarding Adults** - apply Section 42, Making Safeguarding Personal, risk analysis, enquiries, and protection planning.
-13. **Children, Families, and Transitions** - connect adult practice with children, families, Working Together 2026, SEND, young carers, and transition.
-14. **Equality, Human Rights, and Recording** - strengthen anti-oppressive practice, Equality Act analysis, Human Rights Act reasoning, and evidence-led recording.
-15. **Quick Reference** - use the one-stop legal map, threshold prompts, and decision reminders when you need a fast route check.
-16. **Templates and Checklists** - use structured prompts for assessment, safeguarding, MCA, best interests, supervision, and risk work.
-17. **Printable Tools** - download or print practice prompts for assessment, safeguarding, MCA, DoLS, and supervision.
-18. **Practice Scenarios** - test the law and practice frameworks against realistic case examples.
-19. **Source Library** - check official and authoritative sources before relying on information in live practice.
-20. **About Us** - learn about Daily Mindset Moments CIC, Raymond Hill, the mission, and the wider product ecosystem.
-21. **Contact Us** - send feedback, partnership ideas, AI build enquiries, or resource suggestions.
-22. **Privacy Policy** - understand how progress data, enquiries, and external links are handled.
-23. **Terms of Service** - read the legal disclaimer, acceptable use terms, and limits of the resource.
+6. **Theory Into Practice** - use social work theory lenses to build cautious, evidence-tested practice hypotheses.
+7. **CPD and Reflection Log** - save private browser-based reflections, supervision questions, and next actions.
+8. **Professional Foundations** - revisit social work values, standards, analysis, supervision, and professional curiosity.
+9. **Care Act 2014** - build confidence with assessment, eligibility, wellbeing, advocacy, carers, planning, review, and prevention.
+10. **Mental Capacity Act 2005** - work through decision-specific capacity, best interests, IMCA, LPAs, deputies, restraint, and recording.
+11. **DoLS and Deprivation of Liberty** - understand DoLS, Court of Protection routes, objections, consent, and the June 2026 Supreme Court change.
+12. **Mental Health Act** - review MHA 1983 routes, AMHP analysis, MCA/DoLS interface, Section 117, and the MHA 2025 reform watch.
+13. **Safeguarding Adults** - apply Section 42, Making Safeguarding Personal, risk analysis, enquiries, and protection planning.
+14. **Children, Families, and Transitions** - connect adult practice with children, families, Working Together 2026, SEND, young carers, and transition.
+15. **Equality, Human Rights, and Recording** - strengthen anti-oppressive practice, Equality Act analysis, Human Rights Act reasoning, and evidence-led recording.
+16. **Quick Reference** - use the one-stop legal map, threshold prompts, and decision reminders when you need a fast route check.
+17. **Templates and Checklists** - use structured prompts for assessment, safeguarding, MCA, best interests, supervision, and risk work.
+18. **Printable Tools** - download or print practice prompts for assessment, safeguarding, MCA, DoLS, and supervision.
+19. **Practice Scenarios** - test the law and practice frameworks against realistic case examples.
+20. **Source Library** - check official and authoritative sources before relying on information in live practice.
+21. **About Us** - learn about Daily Mindset Moments CIC, Raymond Hill, the mission, and the wider product ecosystem.
+22. **Contact Us** - send feedback, partnership ideas, AI build enquiries, or resource suggestions.
+23. **Privacy Policy** - understand how progress data, enquiries, and external links are handled.
+24. **Terms of Service** - read the legal disclaimer, acceptable use terms, and limits of the resource.
 
 ## Current Law Watch
 

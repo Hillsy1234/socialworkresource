@@ -54,6 +54,15 @@ const resources = [
     summary: "Plain-English practice terms for legal literacy, recording, supervision, and revision."
   },
   {
+    id: "theory-practice",
+    title: "Theory Into Practice",
+    group: "Learning Tools",
+    path: "THEORY_INTO_PRACTICE.md",
+    code: "Theory",
+    accent: "#b96371",
+    summary: "Social work theory lenses with cautious hypotheses to test in assessment, supervision, and recording."
+  },
+  {
     id: "cpd-log",
     title: "CPD and Reflection Log",
     group: "Learning Tools",
@@ -217,7 +226,7 @@ const resources = [
   }
 ];
 
-const contentVersion = "26";
+const contentVersion = "27";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -599,6 +608,186 @@ const routeDetails = {
     record: "Record the source checked, date checked, policy or legal advice used, and any uncertainty."
   }
 };
+
+const theoryLenses = [
+  {
+    id: "ecological",
+    title: "Ecological Systems Theory",
+    code: "Eco",
+    accent: "#1f7a73",
+    focus: "Person, family, housing, community, services, poverty, policy, culture, and environment.",
+    hypothesis: "The presenting issue may be shaped by pressures around the person, not only by individual behaviour or choice.",
+    test: [
+      "What changed in the environment before the concern escalated?",
+      "Which systems are supporting the person, and which are adding pressure?",
+      "Would risk reduce if housing, income, access, care, or community support changed?"
+    ],
+    links: ["care-act", "rights", "safeguarding"]
+  },
+  {
+    id: "strengths",
+    title: "Strengths-Based Practice",
+    code: "Strengths",
+    accent: "#4f8a66",
+    focus: "Capabilities, identity, relationships, community, culture, hope, and what is already working.",
+    hypothesis: "The person may have protective strategies or relationships that are hidden by a risk-heavy professional account.",
+    test: [
+      "What has helped the person survive or cope so far?",
+      "Who does the person trust, and what role could they safely play?",
+      "Which strengths are real evidence, and which are optimistic assumptions?"
+    ],
+    links: ["foundations", "care-act", "templates"]
+  },
+  {
+    id: "trauma",
+    title: "Trauma-Informed Practice",
+    code: "Trauma",
+    accent: "#cf7258",
+    focus: "Safety, trust, choice, collaboration, empowerment, shame, threat responses, and control.",
+    hypothesis: "Behaviour that looks like refusal, avoidance, anger, or disengagement may be a survival response to trauma, coercion, loss, or fear.",
+    test: [
+      "What might feel unsafe or controlling from the person's perspective?",
+      "What helps the person feel more choice and predictability?",
+      "How can we avoid repeating patterns of powerlessness?"
+    ],
+    links: ["safeguarding", "rights", "foundations"]
+  },
+  {
+    id: "attachment",
+    title: "Attachment Theory",
+    code: "Attach",
+    accent: "#8a638f",
+    focus: "Trust, separation, dependency, rejection, fear, care-seeking, and relationship patterns.",
+    hypothesis: "Responses to professionals or carers may reflect previous experiences of care, loss, abandonment, or unsafe relationships.",
+    test: [
+      "How does the person respond when support increases, reduces, or changes?",
+      "Are there patterns of clinging, pushing away, testing, mistrust, or fear?",
+      "What relationship approach is consistent, boundaried, and safe?"
+    ],
+    links: ["children", "safeguarding", "foundations"]
+  },
+  {
+    id: "systems",
+    title: "Systems and Family Theory",
+    code: "Systems",
+    accent: "#287c8f",
+    focus: "Roles, rules, communication, repeated patterns, conflict, care dynamics, and network effects.",
+    hypothesis: "The concern may be maintained by relationship patterns, family roles, service responses, or network conflict.",
+    test: [
+      "Who gains or loses if the current pattern changes?",
+      "What role has each person been placed in or taken on?",
+      "How do professional responses affect the family or network pattern?"
+    ],
+    links: ["children", "safeguarding", "care-act"]
+  },
+  {
+    id: "anti-oppressive",
+    title: "Anti-Oppressive and Anti-Discriminatory Practice",
+    code: "AOP",
+    accent: "#b96371",
+    focus: "Power, oppression, racism, disability, class, gender, sexuality, culture, age, stigma, and access.",
+    hypothesis: "The presenting issue may be intensified by structural inequality, professional power, discrimination, or inaccessible services.",
+    test: [
+      "What barriers has the person faced before we became involved?",
+      "Whose account is being treated as most credible, and why?",
+      "What reasonable adjustments, cultural humility, or advocacy are needed?"
+    ],
+    links: ["rights", "foundations", "templates"]
+  },
+  {
+    id: "crisis",
+    title: "Crisis Theory",
+    code: "Crisis",
+    accent: "#c5902d",
+    focus: "Immediate stress, narrowed options, temporary disequilibrium, coping capacity, and stabilisation.",
+    hypothesis: "The person or family may be temporarily overwhelmed and need stabilisation before longer-term planning is realistic.",
+    test: [
+      "What immediate event or loss has exceeded usual coping?",
+      "What needs to happen in the next 24 to 72 hours?",
+      "What can wait until safety, sleep, food, medication, or support is more stable?"
+    ],
+    links: ["mha", "safeguarding", "quick-reference"]
+  },
+  {
+    id: "life-course",
+    title: "Life Course Theory",
+    code: "Life",
+    accent: "#5d9a68",
+    focus: "Transitions, cumulative disadvantage, ageing, identity, loss, timing, and turning points.",
+    hypothesis: "Current risk or distress may connect to earlier life events, cumulative exclusion, transition, bereavement, or changing identity.",
+    test: [
+      "What transitions or losses are happening now?",
+      "How has cumulative disadvantage shaped options and trust?",
+      "What strengths, relationships, or identities from earlier life still matter?"
+    ],
+    links: ["children", "care-act", "cpd-log"]
+  },
+  {
+    id: "task-centred",
+    title: "Task-Centred Practice",
+    code: "Task",
+    accent: "#5f7896",
+    focus: "Specific problems, agreed goals, small steps, roles, review, and measurable change.",
+    hypothesis: "The person may benefit from breaking an overwhelming issue into concrete, negotiated tasks with clear review.",
+    test: [
+      "What problem does the person most want to work on first?",
+      "What is the smallest useful next step?",
+      "Who will do what, by when, and how will we know it helped?"
+    ],
+    links: ["templates", "care-act", "cpd-log"]
+  }
+];
+
+const hypothesisSignals = [
+  {
+    id: "self-neglect",
+    label: "Self-neglect, hoarding, home conditions, or repeated crisis presentations.",
+    detail: "Think about trauma, executive functioning, environment, identity, isolation, loss, and safeguarding thresholds.",
+    theories: ["trauma", "ecological", "life-course", "strengths", "crisis"]
+  },
+  {
+    id: "refusal",
+    label: "The person appears to refuse support, miss visits, or disengage.",
+    detail: "Avoid jumping straight to non-compliance. Consider trust, trauma, power, communication, and whether the offer fits the person.",
+    theories: ["trauma", "attachment", "anti-oppressive", "task-centred", "strengths"]
+  },
+  {
+    id: "family-conflict",
+    label: "Family conflict, carer strain, coercion, or unclear roles are present.",
+    detail: "Map roles, power, risk, protective factors, and what happens when professionals intervene.",
+    theories: ["systems", "attachment", "anti-oppressive", "ecological", "crisis"]
+  },
+  {
+    id: "sudden-risk",
+    label: "Risk has escalated quickly or a crisis is dominating the assessment.",
+    detail: "Separate immediate stabilisation from longer-term formulation and legal route decisions.",
+    theories: ["crisis", "ecological", "task-centred", "trauma"]
+  },
+  {
+    id: "transition",
+    label: "There is a transition: adolescence to adulthood, hospital discharge, bereavement, moving home, or ageing.",
+    detail: "Transitions can disrupt identity, support, eligibility, relationships, and coping.",
+    theories: ["life-course", "ecological", "systems", "attachment"]
+  },
+  {
+    id: "inequality",
+    label: "Discrimination, poverty, inaccessible services, stigma, or cultural misunderstanding may be relevant.",
+    detail: "Test whether systems are creating or worsening the difficulty.",
+    theories: ["anti-oppressive", "ecological", "strengths", "trauma"]
+  },
+  {
+    id: "overwhelmed",
+    label: "The person or carer feels overwhelmed and cannot see a way forward.",
+    detail: "Consider crisis, small steps, stabilisation, advocacy, and practical environmental change.",
+    theories: ["crisis", "task-centred", "strengths", "ecological"]
+  },
+  {
+    id: "mistrust",
+    label: "There is mistrust of professionals, fear of services, or repeated complaints.",
+    detail: "Explore previous experiences, power, communication, consistency, and whether the person has reason to feel unsafe.",
+    theories: ["attachment", "trauma", "anti-oppressive", "systems"]
+  }
+];
 
 const glossaryTerms = [
   { term: "Adult at risk", definition: "A shorthand phrase often used for an adult who may have care and support needs, may be experiencing or at risk of abuse or neglect, and may be unable to protect themselves because of those needs.", link: "safeguarding", section: "section-42-duty" },
@@ -1254,6 +1443,126 @@ function renderRouteFinderResults() {
           </article>
         `;
       }).join("")}
+    </div>
+  `;
+}
+
+function theoryPracticeMarkup() {
+  return `
+    <section class="tool-panel theory-panel" aria-labelledby="theoryPracticeTitle">
+      <div class="tool-panel-head">
+        <span class="panel-kicker">Theory Into Practice</span>
+        <h2 id="theoryPracticeTitle">Build a cautious practice hypothesis</h2>
+        <p>Select case features to see theory lenses that may help your assessment. The result is a prompt for curiosity, supervision, and evidence gathering, not a conclusion about the person.</p>
+      </div>
+      <div class="theory-caution">
+        <strong>Use theory as a question, not a label.</strong>
+        <span>Every hypothesis should be tested with the person's account, evidence, alternative explanations, culture, rights, capacity and consent, risk, supervision, and current legal duties.</span>
+      </div>
+      <div class="theory-lens-grid" aria-label="Social work theory lenses">
+        ${theoryLenses.map((lens) => `
+          <article class="theory-card" style="--accent: ${lens.accent}">
+            <div class="theory-card-top">
+              <span>${escapeHtml(lens.code)}</span>
+              <span>Theory lens</span>
+            </div>
+            <h3>${escapeHtml(lens.title)}</h3>
+            <p><strong>Helps notice:</strong> ${escapeHtml(lens.focus)}</p>
+            <p><strong>Practice hypothesis:</strong> ${escapeHtml(lens.hypothesis)}</p>
+            <details>
+              <summary>Evidence to test</summary>
+              <ul>
+                ${lens.test.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+              </ul>
+            </details>
+          </article>
+        `).join("")}
+      </div>
+      <section class="hypothesis-builder" aria-labelledby="hypothesisBuilderTitle">
+        <div class="tool-panel-head compact">
+          <span class="panel-kicker">Hypothesis Builder</span>
+          <h2 id="hypothesisBuilderTitle">What might be happening?</h2>
+          <p>Choose the features that fit the case. Use the results to structure questions, supervision, and recording.</p>
+        </div>
+        <div class="hypothesis-question-grid">
+          ${hypothesisSignals.map((signal) => `
+            <label class="route-question hypothesis-question">
+              <input type="checkbox" data-hypothesis-answer="${signal.id}">
+              <span>
+                <strong>${escapeHtml(signal.label)}</strong>
+                <small>${escapeHtml(signal.detail)}</small>
+              </span>
+            </label>
+          `).join("")}
+        </div>
+        <div class="tool-actions">
+          <button class="secondary-tool-button" type="button" data-hypothesis-reset>Clear hypothesis check</button>
+        </div>
+        <div id="hypothesisResults" class="hypothesis-results" aria-live="polite"></div>
+      </section>
+    </section>
+  `;
+}
+
+function renderHypothesisResults() {
+  const resultsElement = document.querySelector("#hypothesisResults");
+  if (!resultsElement) {
+    return;
+  }
+
+  const selected = [...document.querySelectorAll("[data-hypothesis-answer]:checked")]
+    .map((input) => hypothesisSignals.find((signal) => signal.id === input.dataset.hypothesisAnswer))
+    .filter(Boolean);
+
+  if (!selected.length) {
+    resultsElement.innerHTML = `
+      <div class="empty-state">
+        <strong>No case features selected yet.</strong>
+        <p>Select one or more prompts above. The builder will suggest theory lenses and questions to test, while keeping the person's own account at the centre.</p>
+      </div>
+    `;
+    return;
+  }
+
+  const scores = new Map();
+  selected.forEach((signal) => {
+    signal.theories.forEach((theoryId, index) => {
+      scores.set(theoryId, (scores.get(theoryId) || 0) + (4 - Math.min(index, 3)));
+    });
+  });
+
+  const recommendations = [...scores.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([theoryId, score]) => ({ ...theoryLenses.find((lens) => lens.id === theoryId), score }))
+    .filter((lens) => lens.id)
+    .slice(0, 5);
+
+  resultsElement.innerHTML = `
+    <div class="route-summary hypothesis-summary">
+      <span class="panel-kicker">Suggested Lens</span>
+      <h3>${recommendations.length} theory lens${recommendations.length === 1 ? "" : "es"} to test</h3>
+      <p>Record hypotheses as tentative. Include what supports the idea, what challenges it, what the person says, and what would change your view.</p>
+    </div>
+    <div class="hypothesis-card-grid">
+      ${recommendations.map((lens, index) => `
+        <article class="hypothesis-card" style="--accent: ${lens.accent}">
+          <span class="route-rank">${String(index + 1).padStart(2, "0")}</span>
+          <h3>${escapeHtml(lens.title)}</h3>
+          <p><strong>Possible hypothesis:</strong> ${escapeHtml(lens.hypothesis)}</p>
+          <div>
+            <strong>Questions to test:</strong>
+            <ul>
+              ${lens.test.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+            </ul>
+          </div>
+          <div class="scenario-routes">
+            ${lens.links.map((linkId) => {
+              const resource = resources.find((resourceItem) => resourceItem.id === linkId);
+              return resource ? `<button type="button" data-open="${resource.id}">${escapeHtml(resource.title)}</button>` : "";
+            }).join("")}
+          </div>
+        </article>
+      `).join("")}
     </div>
   `;
 }
@@ -1987,6 +2296,10 @@ function enhanceResource(documentData) {
   if (documentData.id === "student-asye-pathway") {
     contentView.insertAdjacentHTML("beforeend", studentPathwayMarkup());
   }
+  if (documentData.id === "theory-practice") {
+    contentView.insertAdjacentHTML("beforeend", theoryPracticeMarkup());
+    renderHypothesisResults();
+  }
 }
 
 function renderToc() {
@@ -2180,6 +2493,15 @@ document.addEventListener("click", (event) => {
     return;
   }
 
+  const hypothesisReset = event.target.closest("[data-hypothesis-reset]");
+  if (hypothesisReset) {
+    document.querySelectorAll("[data-hypothesis-answer]").forEach((input) => {
+      input.checked = false;
+    });
+    renderHypothesisResults();
+    return;
+  }
+
   const glossaryLetter = event.target.closest("[data-glossary-letter]");
   if (glossaryLetter) {
     const search = document.querySelector("#glossarySearch");
@@ -2295,6 +2617,9 @@ document.addEventListener("input", (event) => {
 document.addEventListener("change", (event) => {
   if (event.target.matches("[data-route-answer]")) {
     renderRouteFinderResults();
+  }
+  if (event.target.matches("[data-hypothesis-answer]")) {
+    renderHypothesisResults();
   }
 });
 

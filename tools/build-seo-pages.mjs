@@ -356,7 +356,7 @@ function buildLlmsTxt(resources, pageMeta) {
   const lines = [
     `# ${siteName}`,
     "",
-    "> England-focused social work learning resource covering the Care Act 2014, Mental Capacity Act 2005, DoLS and deprivation of liberty, Mental Health Act, safeguarding, children and transitions, equality, human rights, recording, CPD, flashcards, glossary, and practice tools.",
+    "> England-focused social work learning resource covering the Care Act 2014, Mental Capacity Act 2005, DoLS and deprivation of liberty, Mental Health Act, safeguarding, social work theory, theory-informed hypotheses, children and transitions, equality, human rights, recording, CPD, flashcards, glossary, and practice tools.",
     "",
     "This resource is for learning, revision, supervision, and practice reflection. It is not legal advice. Users should check current law, statutory guidance, local policy, supervision, and legal advice for live cases.",
     "",
@@ -417,14 +417,14 @@ function buildAnswerEngineIndex(resources, pageMeta) {
   return {
     name: siteName,
     url: `${siteUrl}/`,
-    description: "Structured England-focused social work learning resource for legal literacy, practice reflection, CPD, and supervision.",
+    description: "Structured England-focused social work learning resource for legal literacy, social work theory, practice hypotheses, practice reflection, CPD, and supervision.",
     lastReviewed,
     publisher: publisherName,
     founder: founderName,
     jurisdiction: "England",
     audience: ["social workers", "social work students", "ASYEs", "practice educators", "safeguarding practitioners", "care coordinators", "managers"],
     notLegalAdvice: true,
-    coreTopics: ["Care Act 2014", "Mental Capacity Act 2005", "DoLS", "deprivation of liberty", "Mental Health Act", "safeguarding adults", "children and transitions", "Equality Act", "Human Rights Act", "recording", "CPD"],
+    coreTopics: ["Care Act 2014", "Mental Capacity Act 2005", "DoLS", "deprivation of liberty", "Mental Health Act", "safeguarding adults", "social work theory", "practice hypotheses", "children and transitions", "Equality Act", "Human Rights Act", "recording", "CPD"],
     resources: resources.map((resource) => {
       const meta = pageMeta.get(resource.id);
       return {

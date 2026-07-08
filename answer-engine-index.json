@@ -1,7 +1,7 @@
 {
   "name": "Ultimate Social Worker Resource",
   "url": "https://social-work-resource.netlify.app/",
-  "description": "Structured England-focused social work learning resource for legal literacy, practice reflection, CPD, and supervision.",
+  "description": "Structured England-focused social work learning resource for legal literacy, social work theory, practice hypotheses, practice reflection, CPD, and supervision.",
   "lastReviewed": "2026-07-07",
   "publisher": "Daily Mindset Moments CIC",
   "founder": "Raymond Hill",
@@ -23,6 +23,8 @@
     "deprivation of liberty",
     "Mental Health Act",
     "safeguarding adults",
+    "social work theory",
+    "practice hypotheses",
     "children and transitions",
     "Equality Act",
     "Human Rights Act",
@@ -83,6 +85,15 @@
       "htmlUrl": "https://social-work-resource.netlify.app/learning/practice-glossary.html",
       "interactiveUrl": "https://social-work-resource.netlify.app/?resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/GLOSSARY.md"
+    },
+    {
+      "id": "theory-practice",
+      "title": "Theory Into Practice",
+      "group": "Learning Tools",
+      "summary": "Social work theory lenses with cautious hypotheses to test in assessment, supervision, and recording.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/theory-into-practice.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=theory-practice",
+      "markdownUrl": "https://social-work-resource.netlify.app/THEORY_INTO_PRACTICE.md"
     },
     {
       "id": "cpd-log",

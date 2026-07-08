@@ -970,7 +970,10 @@ mark {
 .glossary-grid,
 .scenario-grid,
 .download-grid,
-.pathway-steps {
+.pathway-steps,
+.theory-lens-grid,
+.hypothesis-question-grid,
+.hypothesis-card-grid {
   display: grid;
   gap: 14px;
 }
@@ -978,7 +981,10 @@ mark {
 .route-question-grid,
 .route-card-grid,
 .download-grid,
-.pathway-steps {
+.pathway-steps,
+.theory-lens-grid,
+.hypothesis-question-grid,
+.hypothesis-card-grid {
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
@@ -1016,6 +1022,30 @@ mark {
   margin-top: 6px;
 }
 
+.theory-caution {
+  display: grid;
+  gap: 5px;
+  border: 1px solid rgba(185, 99, 113, 0.28);
+  border-left: 5px solid var(--rose);
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, rgba(253, 231, 223, 0.62), rgba(255, 253, 248, 0.94));
+  color: var(--ink-soft);
+  margin: 18px 0;
+  padding: 15px 16px;
+}
+
+.theory-caution strong {
+  color: var(--ink);
+}
+
+.hypothesis-builder {
+  margin-top: 22px;
+}
+
+.tool-panel-head.compact {
+  margin-top: 6px;
+}
+
 .empty-state,
 .route-summary {
   border: 1px dashed var(--line-strong);
@@ -1034,7 +1064,9 @@ mark {
 .scenario-card,
 .download-card,
 .pathway-step,
-.cpd-entry {
+.cpd-entry,
+.theory-card,
+.hypothesis-card {
   position: relative;
   display: grid;
   gap: 10px;
@@ -1047,13 +1079,70 @@ mark {
 }
 
 .route-card::before,
-.pathway-step::before {
+.pathway-step::before,
+.theory-card::before,
+.hypothesis-card::before {
   content: "";
   position: absolute;
   inset: 0 auto 0 0;
   width: 5px;
   border-radius: var(--radius) 0 0 var(--radius);
   background: var(--accent, var(--steel));
+}
+
+.theory-card {
+  align-content: start;
+  min-height: 300px;
+}
+
+.theory-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.theory-card-top span:first-child {
+  color: var(--accent, var(--steel));
+}
+
+.theory-card h3,
+.hypothesis-card h3 {
+  margin: 0;
+  line-height: 1.18;
+}
+
+.theory-card p,
+.hypothesis-card p,
+.hypothesis-card li {
+  color: var(--ink-soft);
+}
+
+.theory-card details {
+  border: 1px solid color-mix(in srgb, var(--accent, var(--steel)) 18%, var(--line));
+  border-radius: var(--radius);
+  background: rgba(255, 253, 248, 0.72);
+  padding: 10px 12px;
+}
+
+.theory-card summary {
+  color: var(--accent, var(--steel));
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.theory-card ul,
+.hypothesis-card ul {
+  margin: 8px 0 0;
+  padding-left: 18px;
+}
+
+.hypothesis-summary {
+  margin-bottom: 14px;
 }
 
 .route-rank,
