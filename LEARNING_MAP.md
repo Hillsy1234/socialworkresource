@@ -14,36 +14,15 @@ Social work decision-making usually sits inside five linked questions:
 
 Use this as an orientation tool, not as a substitute for local policy or legal advice.
 
-```text
-Adult with possible care and support needs?
--> Care Act assessment, eligibility, prevention, information and advice, advocacy.
-
-Carer with possible support needs?
--> Care Act carers assessment and support planning.
-
-Decision-specific capacity concern?
--> Mental Capacity Act: support first, assess capacity, best interests if needed.
-
-Restrictions, supervision, locked doors, restraint, sedating medication, or not free in practice?
--> Consider deprivation of liberty using the 2026 multifactorial approach.
--> Hospital/care home: DoLS may apply.
--> Community/other setting: Court of Protection may be needed.
-
-Mental disorder, risk, need for hospital assessment/treatment, and compulsion may be required?
--> Mental Health Act assessment pathway.
-
-Adult has care/support needs and is experiencing or at risk of abuse/neglect, and cannot protect themselves because of those needs?
--> Care Act Section 42 safeguarding duty.
-
-Child or young person under 18?
--> Children Act, Working Together 2026, local safeguarding arrangements.
-
-Young person approaching adulthood?
--> Transition assessment, Care Act, Children Act, SEND, carers/young carers.
-
-Discrimination, dignity, liberty, family life, life, degrading treatment, participation, or reasonable adjustments?
--> Equality Act and Human Rights Act analysis.
-```
+- **Adult with possible care and support needs:** consider Care Act assessment, eligibility, prevention, information and advice, and advocacy.
+- **Carer with possible support needs:** consider a Care Act carer's assessment and support planning.
+- **Decision-specific capacity concern:** use the Mental Capacity Act. Support the person first, assess capacity for the specific decision, then move to best interests if needed.
+- **Restrictions, supervision, locked doors, restraint, sedating medication, or not free in practice:** consider deprivation of liberty using the 2026 multifactorial approach. DoLS may apply in hospital or care home settings, while community arrangements may need Court of Protection authorisation.
+- **Mental disorder, risk, need for hospital assessment or treatment, and possible compulsion:** consider the Mental Health Act assessment pathway.
+- **Adult with care and support needs who is experiencing or at risk of abuse or neglect, and cannot protect themselves because of those needs:** consider the Care Act Section 42 safeguarding duty.
+- **Child or young person under 18:** consider the Children Act, Working Together 2026, and local safeguarding arrangements.
+- **Young person approaching adulthood:** consider transition assessment, the Care Act, Children Act, SEND, carers, and young carers.
+- **Discrimination, dignity, liberty, family life, life, degrading treatment, participation, or reasonable adjustments:** include Equality Act and Human Rights Act analysis.
 
 ## Eight-Week Study Route
 
@@ -51,8 +30,8 @@ Discrimination, dignity, liberty, family life, life, degrading treatment, partic
 
 Read:
 
-- `01-Professional-Foundations.md`
-- `08-Equality-Human-Rights-and-Recording.md`
+- Professional Foundations
+- Equality, Human Rights, and Recording
 
 Practise:
 
@@ -63,8 +42,8 @@ Practise:
 
 Read:
 
-- `02-Care-Act-2014.md`
-- `practice-tools/quick-reference.md`
+- Care Act 2014
+- Quick Reference
 
 Practise:
 
@@ -75,8 +54,8 @@ Practise:
 
 Read:
 
-- `03-Mental-Capacity-Act-2005.md`
-- MCA templates in `templates-and-checklists.md`
+- Mental Capacity Act 2005
+- MCA templates in Templates and Checklists
 
 Practise:
 
@@ -87,7 +66,7 @@ Practise:
 
 Read:
 
-- `04-DoLS-and-Deprivation-of-Liberty.md`
+- DoLS and Deprivation of Liberty
 
 Practise:
 
@@ -98,7 +77,7 @@ Practise:
 
 Read:
 
-- `05-Mental-Health-Act.md`
+- Mental Health Act
 
 Practise:
 
@@ -109,7 +88,7 @@ Practise:
 
 Read:
 
-- `06-Safeguarding-Adults.md`
+- Safeguarding Adults
 
 Practise:
 
@@ -120,7 +99,7 @@ Practise:
 
 Read:
 
-- `07-Children-Families-and-Transitions.md`
+- Children, Families, and Transitions
 
 Practise:
 
@@ -130,8 +109,8 @@ Practise:
 
 Read:
 
-- `practice-tools/scenarios.md`
-- `SOURCE_LIBRARY.md`
+- Practice Scenarios
+- Source Library
 
 Practise:
 
@@ -169,4 +148,3 @@ Use this when stuck:
 - What would be the least restrictive plan that still manages the risk?
 - Who has power in this situation, and how am I using mine?
 - What would I need to evidence if this record were read in court?
-

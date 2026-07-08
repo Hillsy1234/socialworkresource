@@ -217,6 +217,7 @@ const resources = [
   }
 ];
 
+const contentVersion = "21";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -1013,7 +1014,7 @@ function renderModuleCards() {
 
 async function loadDocuments() {
   await Promise.all(resources.map(async (resource) => {
-    const response = await fetch(resource.path);
+    const response = await fetch(`${resource.path}?v=${contentVersion}`);
     if (!response.ok) {
       throw new Error(`Could not load ${resource.path}`);
     }

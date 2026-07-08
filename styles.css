@@ -1735,7 +1735,9 @@ mark {
 }
 
 .content-view pre {
-  overflow-x: auto;
+  overflow-x: visible;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
   border: 1px solid var(--line);
   border-left: 5px solid var(--steel);
   border-radius: var(--radius);
