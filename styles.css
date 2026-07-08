@@ -973,7 +973,10 @@ mark {
 .pathway-steps,
 .theory-lens-grid,
 .hypothesis-question-grid,
-.hypothesis-card-grid {
+.hypothesis-card-grid,
+.children-model-grid,
+.model-question-grid,
+.model-card-grid {
   display: grid;
   gap: 14px;
 }
@@ -984,7 +987,10 @@ mark {
 .pathway-steps,
 .theory-lens-grid,
 .hypothesis-question-grid,
-.hypothesis-card-grid {
+.hypothesis-card-grid,
+.children-model-grid,
+.model-question-grid,
+.model-card-grid {
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
@@ -1042,6 +1048,10 @@ mark {
   margin-top: 22px;
 }
 
+.children-model-finder {
+  margin-top: 22px;
+}
+
 .tool-panel-head.compact {
   margin-top: 6px;
 }
@@ -1066,7 +1076,9 @@ mark {
 .pathway-step,
 .cpd-entry,
 .theory-card,
-.hypothesis-card {
+.hypothesis-card,
+.children-model-card,
+.model-result-card {
   position: relative;
   display: grid;
   gap: 10px;
@@ -1081,7 +1093,9 @@ mark {
 .route-card::before,
 .pathway-step::before,
 .theory-card::before,
-.hypothesis-card::before {
+.hypothesis-card::before,
+.children-model-card::before,
+.model-result-card::before {
   content: "";
   position: absolute;
   inset: 0 auto 0 0;
@@ -1093,6 +1107,11 @@ mark {
 .theory-card {
   align-content: start;
   min-height: 300px;
+}
+
+.children-model-card {
+  align-content: start;
+  min-height: 320px;
 }
 
 .theory-card-top {
@@ -1111,32 +1130,42 @@ mark {
 }
 
 .theory-card h3,
-.hypothesis-card h3 {
+.hypothesis-card h3,
+.children-model-card h3,
+.model-result-card h3 {
   margin: 0;
   line-height: 1.18;
 }
 
 .theory-card p,
 .hypothesis-card p,
-.hypothesis-card li {
+.hypothesis-card li,
+.children-model-card p,
+.children-model-card li,
+.model-result-card p,
+.model-result-card li {
   color: var(--ink-soft);
 }
 
-.theory-card details {
+.theory-card details,
+.children-model-card details {
   border: 1px solid color-mix(in srgb, var(--accent, var(--steel)) 18%, var(--line));
   border-radius: var(--radius);
   background: rgba(255, 253, 248, 0.72);
   padding: 10px 12px;
 }
 
-.theory-card summary {
+.theory-card summary,
+.children-model-card summary {
   color: var(--accent, var(--steel));
   cursor: pointer;
   font-weight: 900;
 }
 
 .theory-card ul,
-.hypothesis-card ul {
+.hypothesis-card ul,
+.children-model-card ul,
+.model-result-card ul {
   margin: 8px 0 0;
   padding-left: 18px;
 }

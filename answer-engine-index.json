@@ -1,7 +1,7 @@
 {
   "name": "Ultimate Social Worker Resource",
   "url": "https://social-work-resource.netlify.app/",
-  "description": "Structured England-focused social work learning resource for legal literacy, social work theory, practice hypotheses, practice reflection, CPD, and supervision.",
+  "description": "Structured England-focused social work learning resource for legal literacy, social work theory, children's practice models, practice hypotheses, practice reflection, CPD, and supervision.",
   "lastReviewed": "2026-07-07",
   "publisher": "Daily Mindset Moments CIC",
   "founder": "Raymond Hill",
@@ -25,6 +25,13 @@
     "safeguarding adults",
     "social work theory",
     "practice hypotheses",
+    "children's social work models",
+    "Signs of Safety",
+    "Contextual Safeguarding",
+    "Family Group Conferencing",
+    "PACE",
+    "GCP2",
+    "Safe and Together",
     "children and transitions",
     "Equality Act",
     "Human Rights Act",
@@ -94,6 +101,15 @@
       "htmlUrl": "https://social-work-resource.netlify.app/learning/theory-into-practice.html",
       "interactiveUrl": "https://social-work-resource.netlify.app/?resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/THEORY_INTO_PRACTICE.md"
+    },
+    {
+      "id": "children-models",
+      "title": "Children and Family Practice Models",
+      "group": "Learning Tools",
+      "summary": "Children's social work models, tools, and practice approaches with cautious use prompts.",
+      "htmlUrl": "https://social-work-resource.netlify.app/learning/children-and-family-practice-models.html",
+      "interactiveUrl": "https://social-work-resource.netlify.app/?resource=children-models",
+      "markdownUrl": "https://social-work-resource.netlify.app/CHILDREN_FAMILY_PRACTICE_MODELS.md"
     },
     {
       "id": "cpd-log",

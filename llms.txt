@@ -1,6 +1,6 @@
 # Ultimate Social Worker Resource
 
-> England-focused social work learning resource covering the Care Act 2014, Mental Capacity Act 2005, DoLS and deprivation of liberty, Mental Health Act, safeguarding, social work theory, theory-informed hypotheses, children and transitions, equality, human rights, recording, CPD, flashcards, glossary, and practice tools.
+> England-focused social work learning resource covering the Care Act 2014, Mental Capacity Act 2005, DoLS and deprivation of liberty, Mental Health Act, safeguarding, social work theory, theory-informed hypotheses, children's social work models, Signs of Safety, Contextual Safeguarding, Family Group Conferencing, PACE, GCP2, Safe and Together, children and transitions, equality, human rights, recording, CPD, flashcards, glossary, and practice tools.
 
 This resource is for learning, revision, supervision, and practice reflection. It is not legal advice. Users should check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
 
@@ -24,6 +24,7 @@ Publisher: Daily Mindset Moments CIC, founded by Raymond Hill, social worker.
 - [Student and ASYE Pathway](https://social-work-resource.netlify.app/learning/student-and-asye-pathway.html): A guided pathway for students, newly qualified social workers, and practice educators.
 - [Practice Glossary](https://social-work-resource.netlify.app/learning/practice-glossary.html): Plain-English practice terms for legal literacy, recording, supervision, and revision.
 - [Theory Into Practice](https://social-work-resource.netlify.app/learning/theory-into-practice.html): Social work theory lenses with cautious hypotheses to test in assessment, supervision, and recording.
+- [Children and Family Practice Models](https://social-work-resource.netlify.app/learning/children-and-family-practice-models.html): Children's social work models, tools, and practice approaches with cautious use prompts.
 - [CPD and Reflection Log](https://social-work-resource.netlify.app/learning/cpd-and-reflection-log.html): A private browser-based reflection log for learning notes, supervision questions, and next actions.
 - [Professional Foundations](https://social-work-resource.netlify.app/learning/professional-foundations.html): Values, standards, analysis, supervision, professional curiosity, and evidence.
 - [Care Act 2014](https://social-work-resource.netlify.app/learning/care-act-2014.html): Assessment, eligibility, wellbeing, advocacy, carers, planning, and review.

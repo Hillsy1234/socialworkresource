@@ -1,6 +1,6 @@
 # Source Library
 
-Last checked: 7 July 2026.
+Last checked: 8 July 2026.
 
 Use this page to go back to primary or authoritative sources. For live cases, check current local policy and legal advice.
 
@@ -79,6 +79,26 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
 - Legislation.gov.uk: Domestic Abuse Act 2021  
   https://www.legislation.gov.uk/ukpga/2021/17
 
+## Children and Family Practice Models
+
+- Signs of Safety: What is Signs of Safety?
+  https://www.signsofsafety.net/what-is-sofs/
+
+- Contextual Safeguarding Network
+  https://www.contextualsafeguarding.org.uk/about-us/
+
+- Family Rights Group: Family Group Conferences
+  https://frg.org.uk/family-group-conferences/what-is-a-family-group-conference/
+
+- Safe and Together Institute: The Safe and Together Model
+  https://safeandtogetherinstitute.com/the-safe-together-model/
+
+- NSPCC: Graded Care Profile 2
+  https://learning.nspcc.org.uk/services-children-families/implementation-support-for-nspcc-services/graded-care-profile-2-gcp2
+
+- DDP Network: PACE
+  https://ddpnetwork.org/about-ddp/meant-pace/
+
 ## Equality and Human Rights
 
 - GOV.UK: Discrimination and protected characteristics  
@@ -108,4 +128,3 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
 
 - BASW: Practice, policy, and professional resources  
   https://basw.co.uk/
-
