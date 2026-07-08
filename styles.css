@@ -1122,6 +1122,53 @@ mark {
   margin-top: 20px;
 }
 
+.swe-cpd-summary,
+.cpd-requirement-status {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 18px 0;
+}
+
+.swe-cpd-summary div,
+.cpd-status-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255, 253, 248, 0.82);
+  padding: 14px;
+}
+
+.swe-cpd-summary strong,
+.cpd-status-card strong {
+  display: block;
+  color: var(--steel);
+  font-size: 1.35rem;
+  line-height: 1.1;
+  margin-bottom: 6px;
+}
+
+.swe-cpd-summary span,
+.cpd-status-card span {
+  color: var(--ink-soft);
+  font-size: 0.88rem;
+  font-weight: 750;
+  line-height: 1.4;
+}
+
+.cpd-status-card {
+  border-color: rgba(207, 114, 88, 0.28);
+  background: rgba(253, 231, 223, 0.5);
+}
+
+.cpd-status-card.ready {
+  border-color: rgba(79, 138, 102, 0.35);
+  background: rgba(231, 245, 235, 0.76);
+}
+
+.cpd-status-card.ready strong {
+  color: var(--moss);
+}
+
 .entry-list-head {
   display: flex;
   justify-content: space-between;
@@ -1159,6 +1206,41 @@ mark {
 .cpd-entry-list {
   display: grid;
   gap: 12px;
+}
+
+.cpd-entry-section {
+  display: grid;
+  gap: 5px;
+}
+
+.cpd-entry-section strong {
+  color: var(--steel);
+}
+
+.cpd-entry-section p {
+  margin: 0;
+}
+
+.peer-note {
+  border-left: 4px solid var(--brass);
+  background: rgba(255, 241, 207, 0.58);
+  padding: 11px 12px;
+}
+
+.standard-pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.standard-pill-row span {
+  border: 1px solid rgba(40, 124, 143, 0.18);
+  border-radius: 999px;
+  background: rgba(230, 244, 248, 0.8);
+  color: var(--steel);
+  padding: 5px 8px;
+  font-size: 0.76rem;
+  font-weight: 900;
 }
 
 .download-card p {
@@ -1460,6 +1542,70 @@ mark {
   gap: 7px;
 }
 
+.standard-checkbox-grid,
+.peer-reflection-panel {
+  min-width: 0;
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background:
+    linear-gradient(180deg, rgba(255, 253, 248, 0.86), rgba(241, 248, 241, 0.76));
+  padding: 16px;
+}
+
+.standard-checkbox-grid legend,
+.peer-reflection-panel legend {
+  color: var(--ink);
+  font-weight: 900;
+  padding: 0 6px;
+}
+
+.standard-checkbox-grid p {
+  margin: 0 0 12px;
+  color: var(--muted);
+}
+
+.standard-checkbox-grid > div {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.checkbox-field {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  align-items: start;
+  border: 1px solid rgba(216, 229, 220, 0.9);
+  border-radius: var(--radius);
+  background: rgba(255, 253, 248, 0.78);
+  padding: 11px;
+}
+
+.checkbox-field input {
+  margin-top: 4px;
+  accent-color: var(--steel);
+}
+
+.checkbox-field span {
+  display: grid;
+  gap: 3px;
+  color: var(--ink-soft);
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.checkbox-field strong {
+  color: var(--ink);
+  font-size: 0.9rem;
+}
+
+.peer-toggle {
+  margin-bottom: 14px;
+  border-color: rgba(197, 144, 45, 0.3);
+  background: rgba(255, 241, 207, 0.46);
+}
+
 .form-field span,
 .form-consent span {
   color: var(--ink-soft);
@@ -1480,6 +1626,45 @@ mark {
 .form-field textarea {
   min-height: 150px;
   resize: vertical;
+}
+
+.word-guidance,
+.word-count,
+.cpd-submit-note {
+  color: var(--muted);
+  font-size: 0.84rem;
+  font-weight: 750;
+  line-height: 1.45;
+}
+
+.word-count {
+  justify-self: start;
+  border-radius: 999px;
+  background: rgba(230, 244, 248, 0.75);
+  color: var(--steel);
+  padding: 4px 9px;
+}
+
+.word-count[data-word-count-status="low"] {
+  background: rgba(253, 231, 223, 0.72);
+  color: var(--clay);
+}
+
+.word-count[data-word-count-status="ready"] {
+  background: rgba(231, 245, 235, 0.9);
+  color: var(--moss);
+}
+
+.word-count[data-word-count-status="high"] {
+  background: rgba(255, 241, 207, 0.86);
+  color: #8b651d;
+}
+
+.cpd-submit-note {
+  border-left: 4px solid var(--steel);
+  background: rgba(230, 244, 248, 0.62);
+  margin: 16px 0 0;
+  padding: 10px 12px;
 }
 
 .form-field input:focus,
@@ -1849,6 +2034,12 @@ mark {
 
   .confidence-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .swe-cpd-summary,
+  .cpd-requirement-status,
+  .standard-checkbox-grid > div {
+    grid-template-columns: 1fr;
   }
 }
 

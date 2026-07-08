@@ -219,6 +219,61 @@ const resources = [
 
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
+const cpdTypes = [
+  "Supervision",
+  "Training course",
+  "Reading or research",
+  "Learning from a case",
+  "Peer discussion",
+  "Policy or guidance update",
+  "Webinar, podcast, or lecture",
+  "Reflective practice",
+  "Other"
+];
+
+const cpdStandards = [
+  {
+    id: "4.1",
+    short: "Feedback",
+    text: "Incorporate feedback from a range of sources, including people with lived experience."
+  },
+  {
+    id: "4.2",
+    short: "Supervision",
+    text: "Use supervision and feedback to critically reflect and identify learning needs."
+  },
+  {
+    id: "4.3",
+    short: "Research and frameworks",
+    text: "Keep practice up to date and record how research, theories, and frameworks inform judgement."
+  },
+  {
+    id: "4.4",
+    short: "Subject knowledge",
+    text: "Demonstrate good subject knowledge and awareness of current issues and social policy."
+  },
+  {
+    id: "4.5",
+    short: "Learning culture",
+    text: "Contribute to an open and creative learning culture to discuss, reflect, and share best practice."
+  },
+  {
+    id: "4.6",
+    short: "Impact",
+    text: "Reflect on learning activities and evidence the impact of CPD on practice quality."
+  },
+  {
+    id: "4.7",
+    short: "Recording",
+    text: "Record learning and reflection regularly and in line with Social Work England CPD guidance."
+  },
+  {
+    id: "4.8",
+    short: "Values and ethics",
+    text: "Reflect on values and challenge the impact they have on practice."
+  }
+];
+
 const flashcardDecks = [
   {
     id: "foundations",
@@ -769,7 +824,7 @@ const sectionToc = document.querySelector("#sectionToc");
 const siteHeader = document.querySelector(".site-header");
 
 function escapeHtml(value) {
-  return value
+  return String(value ?? "")
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
@@ -1270,40 +1325,104 @@ function scenarioHubMarkup() {
 }
 
 function cpdLogMarkup() {
+  const today = new Date().toISOString().slice(0, 10);
+  const registrationYear = currentRegistrationYearLabel();
   return `
     <section class="tool-panel cpd-panel" aria-labelledby="cpdToolTitle">
       <div class="tool-panel-head">
-        <span class="panel-kicker">Private Learning Space</span>
+        <span class="panel-kicker">Social Work England CPD Drafting Space</span>
         <h2 id="cpdToolTitle">CPD and reflection log</h2>
-        <p>Notes are stored only in this browser on this device. Keep reflections anonymised and do not enter identifiable case details.</p>
+        <p>Draft Social Work England-style CPD records here, then copy your final entries into your Social Work England online account. Notes stay only in this browser on this device.</p>
       </div>
+      <div class="swe-cpd-summary" aria-label="Social Work England CPD requirements">
+        <div>
+          <strong>2 pieces</strong>
+          <span>Minimum CPD records each registration year.</span>
+        </div>
+        <div>
+          <strong>1 peer reflection</strong>
+          <span>At least one CPD piece must include peer reflection.</span>
+        </div>
+        <div>
+          <strong>30 November</strong>
+          <span>Record CPD in your Social Work England online account by the annual deadline.</span>
+        </div>
+      </div>
+      <div id="cpdRequirementStatus" class="cpd-requirement-status" aria-live="polite"></div>
       <form class="cpd-form">
         <div class="form-grid">
           <label class="form-field">
-            <span>Learning focus</span>
-            <input type="text" name="focus" placeholder="MCA assessment, Section 42, supervision..." required>
+            <span>CPD activity title</span>
+            <input type="text" name="title" placeholder="MCA assessment refresher, Section 42 supervision, case law reading..." required>
           </label>
           <label class="form-field">
-            <span>Confidence</span>
-            <select name="confidence" required>
-              <option>Learning</option>
-              <option>Needs supervision</option>
-              <option>Confident</option>
-              <option>Follow up source</option>
+            <span>Date of CPD activity</span>
+            <input type="date" name="activityDate" value="${today}" required>
+          </label>
+          <label class="form-field">
+            <span>Type of CPD</span>
+            <select name="type" required>
+              ${cpdTypes.map((type) => `<option>${escapeHtml(type)}</option>`).join("")}
             </select>
           </label>
+          <label class="form-field">
+            <span>Registration year</span>
+            <input type="text" name="registrationYear" value="${escapeHtml(registrationYear)}" required>
+          </label>
+          <fieldset class="full-span standard-checkbox-grid">
+            <legend>Which parts of CPD standard 4 does this activity meet?</legend>
+            <p>Social Work England's online form normally selects 4.6 and 4.7 when you record CPD. Select any others that genuinely apply.</p>
+            <div>
+              ${cpdStandards.map((standard) => `
+                <label class="checkbox-field">
+                  <input type="checkbox" name="standards" value="${standard.id}" ${["4.6", "4.7"].includes(standard.id) ? "checked" : ""}>
+                  <span><strong>${standard.id} ${escapeHtml(standard.short)}</strong>${escapeHtml(standard.text)}</span>
+                </label>
+              `).join("")}
+            </div>
+          </fieldset>
           <label class="form-field full-span">
-            <span>Reflection</span>
-            <textarea name="reflection" rows="5" placeholder="What did you learn? What changed in your thinking?" required></textarea>
+            <span>Describe what you have learnt from doing this CPD activity</span>
+            <textarea name="learning" rows="7" class="word-count-field" data-word-count-field="learning" aria-describedby="learningWordCount" placeholder="What did you learn? What changed in your knowledge, thinking, values, legal reasoning, or confidence?" required></textarea>
+            <small class="word-guidance">Social Work England suggests around 250 to 500 words.</small>
+            <small id="learningWordCount" class="word-count" data-word-count="learning">0 words</small>
           </label>
           <label class="form-field full-span">
-            <span>Supervision question or next action</span>
-            <textarea name="action" rows="3" placeholder="What do you need to check, ask, practise, or record next?"></textarea>
+            <span>Reflect on the positive impact this CPD has had or will have</span>
+            <textarea name="impact" rows="7" class="word-count-field" data-word-count-field="impact" aria-describedby="impactWordCount" placeholder="How has this helped, or how will it help, your practice and the people you work with?" required></textarea>
+            <small class="word-guidance">Think about people with lived experience, carers, families, colleagues, students, or the profession.</small>
+            <small id="impactWordCount" class="word-count" data-word-count="impact">0 words</small>
+          </label>
+          <fieldset class="full-span peer-reflection-panel">
+            <legend>Peer reflection</legend>
+            <label class="checkbox-field peer-toggle">
+              <input type="checkbox" name="peerReflectionIncluded" value="yes">
+              <span><strong>This entry includes peer reflection</strong>Use this when you have discussed the CPD activity with a peer, manager, or another professional.</span>
+            </label>
+            <div class="form-grid">
+              <label class="form-field">
+                <span>Peer role or relationship</span>
+                <input type="text" name="peerRole" placeholder="Team manager, colleague, AMHP, practice educator...">
+              </label>
+              <label class="form-field">
+                <span>Date discussed</span>
+                <input type="date" name="peerDate">
+              </label>
+              <label class="form-field full-span">
+                <span>What did you learn from discussing this CPD with a peer?</span>
+                <textarea name="peerLearning" rows="5" placeholder="Keep this anonymised. Do not record the peer's name or identifiable case details."></textarea>
+              </label>
+            </div>
+          </fieldset>
+          <label class="form-field full-span">
+            <span>Next action or evidence note</span>
+            <textarea name="action" rows="3" placeholder="What will you check, read, practise, discuss in supervision, or change in recording?"></textarea>
           </label>
         </div>
+        <p class="cpd-submit-note">This is a private draft log. It does not submit anything to Social Work England, and it should not contain identifiable case information.</p>
         <div class="tool-actions">
-          <button class="form-submit" type="submit">Save reflection</button>
-          <button class="secondary-tool-button" type="button" data-export-cpd>Export reflections</button>
+          <button class="form-submit" type="submit">Save CPD draft</button>
+          <button class="secondary-tool-button" type="button" data-export-cpd>Export CPD drafts</button>
         </div>
       </form>
       <div id="confidenceOverview" class="confidence-overview"></div>
@@ -1320,33 +1439,144 @@ function saveCpdEntries(entries) {
   localStorage.setItem("socialWorkerResourceCpdEntries", JSON.stringify(entries));
 }
 
+function currentRegistrationYearLabel(date = new Date()) {
+  const year = date.getFullYear();
+  const startYear = date.getMonth() === 11 ? year : year - 1;
+  return `1 December ${startYear} to 30 November ${startYear + 1}`;
+}
+
+function countWords(value) {
+  return String(value || "").trim().split(/\s+/).filter(Boolean).length;
+}
+
+function updateWordCount(field) {
+  const target = document.querySelector(`[data-word-count="${field.dataset.wordCountField}"]`);
+  if (!target) {
+    return;
+  }
+
+  const count = countWords(field.value);
+  const advice = count < 250
+    ? "aim for more detail"
+    : count <= 500
+      ? "within SWE guidance range"
+      : "consider tightening";
+  target.textContent = `${count} words, ${advice}`;
+  target.dataset.wordCountStatus = count < 250 ? "low" : count <= 500 ? "ready" : "high";
+}
+
+function updateAllWordCounts() {
+  document.querySelectorAll("[data-word-count-field]").forEach(updateWordCount);
+}
+
+function cpdEntryTitle(entry) {
+  return entry.title || entry.focus || "Untitled CPD activity";
+}
+
+function cpdEntryLearning(entry) {
+  return entry.learning || entry.reflection || "";
+}
+
+function cpdEntryImpact(entry) {
+  return entry.impact || "";
+}
+
+function cpdEntryType(entry) {
+  return entry.type || entry.confidence || "Reflection";
+}
+
+function cpdEntryIncludesPeer(entry) {
+  return Boolean(entry.peerReflectionIncluded || entry.peerLearning);
+}
+
+function selectedStandardsFor(entry) {
+  if (Array.isArray(entry.standards)) {
+    return entry.standards;
+  }
+  return [];
+}
+
+function standardLabel(id) {
+  const standard = cpdStandards.find((item) => item.id === id);
+  return standard ? `${standard.id} ${standard.short}` : id;
+}
+
+function renderCpdRequirementStatus() {
+  const status = document.querySelector("#cpdRequirementStatus");
+  if (!status) {
+    return;
+  }
+
+  const entries = getCpdEntries();
+  const peerCount = entries.filter(cpdEntryIncludesPeer).length;
+  const hasMinimumPieces = entries.length >= 2;
+  const hasPeerReflection = peerCount >= 1;
+  const isReady = hasMinimumPieces && hasPeerReflection;
+
+  status.innerHTML = `
+    <div class="cpd-status-card ${hasMinimumPieces ? "ready" : ""}">
+      <strong>${entries.length}/2</strong>
+      <span>${hasMinimumPieces ? "Minimum CPD pieces drafted" : "Draft at least 2 separate CPD pieces"}</span>
+    </div>
+    <div class="cpd-status-card ${hasPeerReflection ? "ready" : ""}">
+      <strong>${peerCount}/1</strong>
+      <span>${hasPeerReflection ? "Peer reflection included" : "Add peer reflection to at least 1 piece"}</span>
+    </div>
+    <div class="cpd-status-card ${isReady ? "ready" : ""}">
+      <strong>${isReady ? "Ready" : "Drafting"}</strong>
+      <span>${isReady ? "Copy final entries into your SWE online account" : "This browser log is not your SWE submission"}</span>
+    </div>
+  `;
+}
+
 function renderCpdEntries() {
   const entryList = document.querySelector("#cpdEntries");
   if (!entryList) {
     return;
   }
 
+  renderCpdRequirementStatus();
   const entries = getCpdEntries();
   entryList.innerHTML = entries.length ? `
     <div class="entry-list-head">
-      <span class="panel-kicker">Saved Reflections</span>
+      <span class="panel-kicker">Saved CPD Drafts</span>
       <strong>${entries.length} saved</strong>
     </div>
     ${entries.map((entry) => `
       <article class="cpd-entry">
         <div>
-          <h3>${escapeHtml(entry.focus)}</h3>
-          <span>${escapeHtml(entry.date)} | ${escapeHtml(entry.confidence)}</span>
+          <h3>${escapeHtml(cpdEntryTitle(entry))}</h3>
+          <span>${escapeHtml(entry.activityDate || entry.date || "")} | ${escapeHtml(cpdEntryType(entry))}${entry.registrationYear ? ` | ${escapeHtml(entry.registrationYear)}` : ""}</span>
         </div>
-        <p>${escapeHtml(entry.reflection)}</p>
+        ${selectedStandardsFor(entry).length ? `
+          <div class="standard-pill-row" aria-label="Selected CPD standards">
+            ${selectedStandardsFor(entry).map((standard) => `<span>${escapeHtml(standardLabel(standard))}</span>`).join("")}
+          </div>
+        ` : ""}
+        <div class="cpd-entry-section">
+          <strong>Learning</strong>
+          <p>${escapeHtml(cpdEntryLearning(entry))}</p>
+        </div>
+        ${cpdEntryImpact(entry) ? `
+          <div class="cpd-entry-section">
+            <strong>Impact on practice and people</strong>
+            <p>${escapeHtml(cpdEntryImpact(entry))}</p>
+          </div>
+        ` : ""}
+        ${cpdEntryIncludesPeer(entry) ? `
+          <div class="cpd-entry-section peer-note">
+            <strong>Peer reflection${entry.peerRole ? ` with ${escapeHtml(entry.peerRole)}` : ""}${entry.peerDate ? ` on ${escapeHtml(entry.peerDate)}` : ""}</strong>
+            ${entry.peerLearning ? `<p>${escapeHtml(entry.peerLearning)}</p>` : "<p>Peer reflection included. Add what you learnt from the discussion before copying to Social Work England.</p>"}
+          </div>
+        ` : ""}
         ${entry.action ? `<p><strong>Next:</strong> ${escapeHtml(entry.action)}</p>` : ""}
         <button type="button" data-delete-cpd="${entry.id}">Delete</button>
       </article>
     `).join("")}
   ` : `
     <div class="empty-state">
-      <strong>No reflections saved yet.</strong>
-      <p>Add a short note after reading a module, completing a scenario, or preparing for supervision.</p>
+      <strong>No CPD drafts saved yet.</strong>
+      <p>Add a Social Work England-style draft after reading a module, completing a scenario, or discussing learning in supervision.</p>
     </div>
   `;
 }
@@ -1393,13 +1623,28 @@ function exportCpdLog() {
   const entries = getCpdEntries();
   const content = entries.length
     ? entries.map((entry) => [
-      `Date: ${entry.date}`,
-      `Focus: ${entry.focus}`,
-      `Confidence: ${entry.confidence}`,
-      `Reflection: ${entry.reflection}`,
+      `CPD activity title: ${cpdEntryTitle(entry)}`,
+      `Date saved: ${entry.date || ""}`,
+      `Date of CPD activity: ${entry.activityDate || ""}`,
+      `Registration year: ${entry.registrationYear || ""}`,
+      `Type of CPD: ${cpdEntryType(entry)}`,
+      `CPD standard parts selected: ${selectedStandardsFor(entry).map(standardLabel).join(", ")}`,
+      "",
+      "Describe what you have learnt from doing this CPD activity:",
+      cpdEntryLearning(entry),
+      "",
+      "Reflect on and describe the positive impact the CPD has had or will have on your practice and the people you work with:",
+      cpdEntryImpact(entry),
+      "",
+      `Peer reflection included: ${cpdEntryIncludesPeer(entry) ? "Yes" : "No"}`,
+      `Peer role or relationship: ${entry.peerRole || ""}`,
+      `Date discussed with peer: ${entry.peerDate || ""}`,
+      "What you learnt from discussing this CPD with a peer:",
+      entry.peerLearning || "",
+      "",
       `Next action: ${entry.action || ""}`
     ].join("\n")).join("\n\n---\n\n")
-    : "No CPD reflections saved yet.";
+    : "No CPD drafts saved yet.";
   downloadTextFile("social-worker-resource-cpd-log.txt", content);
 }
 
@@ -1552,6 +1797,7 @@ function enhanceResource(documentData) {
     contentView.insertAdjacentHTML("beforeend", cpdLogMarkup());
     renderConfidenceOverview();
     renderCpdEntries();
+    updateAllWordCounts();
   }
   if (documentData.id === "flashcards") {
     contentView.insertAdjacentHTML("beforeend", flashcardsMarkup());
@@ -1824,6 +2070,9 @@ document.addEventListener("input", (event) => {
     const activeLetter = document.querySelector("[data-glossary-letter].active")?.dataset.glossaryLetter || "All";
     renderGlossary(event.target.value, activeLetter);
   }
+  if (event.target.matches("[data-word-count-field]")) {
+    updateWordCount(event.target);
+  }
 });
 
 document.addEventListener("change", (event) => {
@@ -1843,13 +2092,22 @@ document.addEventListener("submit", (event) => {
   entries.unshift({
     id: String(Date.now()),
     date: new Date().toLocaleDateString("en-GB"),
-    focus: String(formData.get("focus") || "").trim(),
-    confidence: String(formData.get("confidence") || "").trim(),
-    reflection: String(formData.get("reflection") || "").trim(),
+    title: String(formData.get("title") || "").trim(),
+    activityDate: String(formData.get("activityDate") || "").trim(),
+    registrationYear: String(formData.get("registrationYear") || "").trim(),
+    type: String(formData.get("type") || "").trim(),
+    standards: formData.getAll("standards").map((standard) => String(standard)),
+    learning: String(formData.get("learning") || "").trim(),
+    impact: String(formData.get("impact") || "").trim(),
+    peerReflectionIncluded: formData.get("peerReflectionIncluded") === "yes",
+    peerRole: String(formData.get("peerRole") || "").trim(),
+    peerDate: String(formData.get("peerDate") || "").trim(),
+    peerLearning: String(formData.get("peerLearning") || "").trim(),
     action: String(formData.get("action") || "").trim()
   });
   saveCpdEntries(entries);
   form.reset();
+  updateAllWordCounts();
   renderCpdEntries();
 });
 

@@ -16,13 +16,13 @@ The learning resource uses your browser's local storage to remember:
 
 - which sections you have marked as read;
 - your confidence ratings for learning sections;
-- CPD and reflection notes you choose to save in the reflection log.
+- CPD draft entries and reflection notes you choose to save in the CPD log.
 
 This information stays on your device and is not sent to Daily Mindset Moments CIC by the learning resource.
 
 You can clear it by clearing your browser site data for this website.
 
-Do not save names, addresses, dates of birth, case numbers, or identifiable case information in the CPD and reflection log.
+Do not save names, addresses, dates of birth, case numbers, or identifiable case information in the CPD and reflection log. The CPD log is a local drafting tool only. It does not send CPD to Social Work England or to Daily Mindset Moments CIC.
 
 ## Contact Form Information
 
