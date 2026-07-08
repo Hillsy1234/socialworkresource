@@ -217,7 +217,7 @@ const resources = [
   }
 ];
 
-const contentVersion = "22";
+const contentVersion = "24";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -601,35 +601,35 @@ const routeDetails = {
 };
 
 const glossaryTerms = [
-  { term: "Adult at risk", definition: "A shorthand phrase often used for an adult who may have care and support needs, may be experiencing or at risk of abuse or neglect, and may be unable to protect themselves because of those needs.", link: "safeguarding" },
-  { term: "Advocacy", definition: "Support to help a person be involved in decisions, express views, understand information, and challenge decisions where needed.", link: "care-act" },
-  { term: "AMHP", definition: "Approved Mental Health Professional. A trained professional with specific responsibilities under the Mental Health Act, including independent social perspective and least restrictive analysis.", link: "mha" },
-  { term: "Authorisation", definition: "A lawful approval for arrangements that would otherwise interfere with rights, such as DoLS authorisation or Court of Protection authorisation.", link: "dols" },
-  { term: "Best interests", definition: "The decision-making process used under the MCA when a person lacks capacity for a specific decision. It must consider wishes, feelings, beliefs, values, consultation, options, and least restriction.", link: "mca" },
-  { term: "Care and support needs", definition: "Needs that may arise from physical, mental, sensory, cognitive, or other impairment or illness and may affect daily living outcomes.", link: "care-act" },
-  { term: "Carer's assessment", definition: "A Care Act assessment for a carer who may have support needs, including willingness and ability to continue caring and impact on wellbeing.", link: "care-act" },
-  { term: "Coercion", definition: "Pressure, control, intimidation, or manipulation that can undermine apparent consent, choice, or free expression.", link: "safeguarding" },
-  { term: "Decision-specific capacity", definition: "Capacity is assessed for the specific decision at the specific time, not as a general status.", link: "mca" },
-  { term: "Defensible recording", definition: "Recording that shows facts, evidence, analysis, law or policy considered, options, rationale, dissent, and review.", link: "rights" },
-  { term: "Deprivation of liberty", definition: "A serious restriction of liberty requiring careful legal analysis, least restrictive thinking, and the correct authorisation route where Article 5 is engaged.", link: "dols" },
-  { term: "DoLS", definition: "Deprivation of Liberty Safeguards. A statutory process for authorising deprivation of liberty in hospitals and care homes where the legal criteria are met.", link: "dols" },
-  { term: "Eligible needs", definition: "Needs that meet the Care Act eligibility framework after considering impairment or illness, inability to achieve specified outcomes, and significant impact on wellbeing.", link: "care-act" },
-  { term: "Human rights analysis", definition: "A structured check of rights such as liberty, family life, dignity, life, non-discrimination, and fair process.", link: "rights" },
-  { term: "IMCA", definition: "Independent Mental Capacity Advocate. A safeguard for certain serious decisions where a person lacks capacity and has no appropriate person to consult.", link: "mca" },
-  { term: "Least restrictive option", definition: "The option that meets the legitimate aim while interfering least with the person's rights, freedoms, relationships, and autonomy.", link: "mca" },
-  { term: "Making Safeguarding Personal", definition: "A person-led approach to safeguarding that focuses on the adult's views, desired outcomes, rights, safety, and control.", link: "safeguarding" },
-  { term: "Mental disorder", definition: "The Mental Health Act uses this broad concept when considering assessment or treatment under the Act. Practitioners must check current law, Code of Practice, and local policy.", link: "mha" },
-  { term: "Ordinary residence", definition: "A Care Act concept used to decide which local authority is responsible for meeting eligible needs in some situations.", link: "care-act" },
-  { term: "Person-centred", definition: "Practice that keeps the person's voice, outcomes, rights, culture, relationships, strengths, and lived experience central.", link: "foundations" },
-  { term: "Professional curiosity", definition: "The habit of respectfully looking beyond first accounts, testing assumptions, noticing patterns, and seeking missing information.", link: "foundations" },
-  { term: "Proportionality", definition: "A rights-based test of whether an intervention is suitable, necessary, and balanced against the impact on the person.", link: "rights" },
-  { term: "Reasonable adjustments", definition: "Changes that reduce disadvantage for disabled people and support fair access, communication, assessment, and involvement.", link: "rights" },
-  { term: "Section 42 enquiry", definition: "A Care Act safeguarding duty to make or cause enquiries where the statutory criteria are reasonably suspected.", link: "safeguarding" },
-  { term: "Section 117 aftercare", definition: "A joint aftercare duty for people detained under qualifying Mental Health Act sections, linked to needs arising from mental disorder.", link: "mha" },
-  { term: "Self-neglect", definition: "A complex safeguarding and wellbeing concern involving serious neglect of personal care, health, home environment, or safety.", link: "safeguarding" },
-  { term: "Substantial difficulty", definition: "A Care Act advocacy concept covering serious difficulty understanding, retaining, using or weighing information, or communicating views.", link: "care-act" },
-  { term: "Transition assessment", definition: "Assessment for young people or carers approaching adulthood where likely adult care and support needs may arise.", link: "children" },
-  { term: "Wellbeing", definition: "A broad Care Act concept covering dignity, physical and mental health, protection from abuse, control, relationships, accommodation, participation, and contribution to society.", link: "care-act" }
+  { term: "Adult at risk", definition: "A shorthand phrase often used for an adult who may have care and support needs, may be experiencing or at risk of abuse or neglect, and may be unable to protect themselves because of those needs.", link: "safeguarding", section: "section-42-duty" },
+  { term: "Advocacy", definition: "Support to help a person be involved in decisions, express views, understand information, and challenge decisions where needed.", link: "care-act", section: "independent-advocacy" },
+  { term: "AMHP", definition: "Approved Mental Health Professional. A trained professional with specific responsibilities under the Mental Health Act, including independent social perspective and least restrictive analysis.", link: "mha", section: "amhp-role" },
+  { term: "Authorisation", definition: "A lawful approval for arrangements that would otherwise interfere with rights, such as DoLS authorisation or Court of Protection authorisation.", link: "dols", section: "dols-assessments" },
+  { term: "Best interests", definition: "The decision-making process used under the MCA when a person lacks capacity for a specific decision. It must consider wishes, feelings, beliefs, values, consultation, and least restriction.", link: "mca", section: "best-interests" },
+  { term: "Care and support needs", definition: "Needs that may arise from physical, mental, sensory, cognitive, or other impairment or illness and may affect daily living outcomes.", link: "care-act", section: "assessment-duty" },
+  { term: "Carer's assessment", definition: "A Care Act assessment for a carer who may have support needs, including willingness and ability to continue caring and impact on wellbeing.", link: "care-act", section: "carers" },
+  { term: "Coercion", definition: "Pressure, control, intimidation, or manipulation that can undermine apparent consent, choice, or free expression.", link: "safeguarding", section: "consent-and-information-sharing" },
+  { term: "Decision-specific capacity", definition: "Capacity is assessed for the specific decision at the specific time, not as a general status.", link: "mca", section: "key-rule" },
+  { term: "Defensible recording", definition: "Recording that shows facts, evidence, analysis, law or policy considered, options, rationale, dissent, and review.", link: "rights", section: "defensible-decision-making" },
+  { term: "Deprivation of liberty", definition: "A serious restriction of liberty requiring careful legal analysis, least restrictive thinking, and the correct authorisation route where Article 5 is engaged.", link: "dols", section: "current-position-july-2026" },
+  { term: "DoLS", definition: "Deprivation of Liberty Safeguards. A statutory process for authorising deprivation of liberty in hospitals and care homes where the legal criteria are met.", link: "dols", section: "when-to-consider-dols" },
+  { term: "Eligible needs", definition: "Needs that meet the Care Act eligibility framework after considering impairment or illness, inability to achieve specified outcomes, and significant impact on wellbeing.", link: "care-act", section: "eligibility" },
+  { term: "Human rights analysis", definition: "A structured check of rights such as liberty, family life, dignity, life, non-discrimination, and fair process.", link: "rights", section: "human-rights-act" },
+  { term: "IMCA", definition: "Independent Mental Capacity Advocate. A safeguard for certain serious decisions where a person lacks capacity and has no appropriate person to consult.", link: "mca", section: "imca" },
+  { term: "Least restrictive option", definition: "The option that meets the legitimate aim while interfering least with the person's rights, freedoms, relationships, and autonomy.", link: "mca", section: "the-five-principles" },
+  { term: "Making Safeguarding Personal", definition: "A person-led approach to safeguarding that focuses on the adult's views, desired outcomes, rights, safety, and control.", link: "safeguarding", section: "making-safeguarding-personal" },
+  { term: "Mental disorder", definition: "The Mental Health Act uses this broad concept when considering assessment or treatment under the Act. Practitioners must check current law, Code of Practice, and local policy.", link: "mha", section: "core-principles-in-practice" },
+  { term: "Ordinary residence", definition: "A Care Act concept used to decide which local authority is responsible for meeting eligible needs in some situations.", link: "care-act", section: "ordinary-residence-and-moving-areas" },
+  { term: "Person-centred", definition: "Practice that keeps the person's voice, outcomes, rights, culture, relationships, strengths, and lived experience central.", link: "foundations", section: "core-social-work-tasks" },
+  { term: "Professional curiosity", definition: "The habit of respectfully looking beyond first accounts, testing assumptions, noticing patterns, and seeking missing information.", link: "foundations", section: "professional-curiosity" },
+  { term: "Proportionality", definition: "A rights-based test of whether an intervention is suitable, necessary, and balanced against the impact on the person.", link: "rights", section: "human-rights-act" },
+  { term: "Reasonable adjustments", definition: "Changes that reduce disadvantage for disabled people and support fair access, communication, assessment, and involvement.", link: "rights", section: "reasonable-adjustments" },
+  { term: "Section 42 enquiry", definition: "A Care Act safeguarding duty to make or cause enquiries where the statutory criteria are reasonably suspected.", link: "safeguarding", section: "section-42-duty" },
+  { term: "Section 117 aftercare", definition: "A joint aftercare duty for people detained under qualifying Mental Health Act sections, linked to needs arising from mental disorder.", link: "mha", section: "section-117-aftercare" },
+  { term: "Self-neglect", definition: "A complex safeguarding and wellbeing concern involving serious neglect of personal care, health, home environment, or safety.", link: "safeguarding", section: "self-neglect" },
+  { term: "Substantial difficulty", definition: "A Care Act advocacy concept covering serious difficulty understanding, retaining, using or weighing information, or communicating views.", link: "care-act", section: "independent-advocacy" },
+  { term: "Transition assessment", definition: "Assessment for young people or carers approaching adulthood where likely adult care and support needs may arise.", link: "children", section: "transition-to-adulthood" },
+  { term: "Wellbeing", definition: "A broad Care Act concept covering dignity, physical and mental health, protection from abuse, control, relationships, accommodation, participation, and contribution to society.", link: "care-act", section: "core-principle-wellbeing" }
 ];
 
 const scenarioWorkouts = [
@@ -1273,11 +1273,12 @@ function renderGlossary(query = "", letter = "All") {
 
   resultsElement.innerHTML = terms.length ? terms.map((item) => {
     const resource = resources.find((resourceItem) => resourceItem.id === item.link);
+    const sectionAttribute = item.section ? ` data-section="${escapeHtml(item.section)}"` : "";
     return `
       <article class="glossary-card">
         <h3>${escapeHtml(item.term)}</h3>
         <p>${escapeHtml(item.definition)}</p>
-        ${resource ? `<button class="inline-open" type="button" data-open="${resource.id}">Open ${escapeHtml(resource.title)}</button>` : ""}
+        ${resource ? `<button class="inline-open" type="button" data-open="${resource.id}"${sectionAttribute} aria-label="Open ${escapeHtml(item.term)} in ${escapeHtml(resource.title)}">Open related section</button>` : ""}
       </article>
     `;
   }).join("") : `
@@ -1977,18 +1978,35 @@ function renderToc() {
   `;
 }
 
-function scrollToReaderSection() {
-  const readerSection = document.querySelector("#readerSection");
+function scrollToElementWithOffset(element) {
+  if (!element) {
+    return;
+  }
   const headerHeight = siteHeader ? siteHeader.getBoundingClientRect().height : 0;
   const stickyHeader = window.matchMedia("(max-width: 980px)").matches
     ? document.querySelector(".sidebar")
     : null;
   const offset = headerHeight + (stickyHeader ? stickyHeader.getBoundingClientRect().height : 0) + 18;
-  const top = readerSection.getBoundingClientRect().top + window.scrollY - offset;
+  const top = element.getBoundingClientRect().top + window.scrollY - offset;
   window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
 }
 
-function openResource(id, shouldScroll = true) {
+function scrollToReaderSection() {
+  scrollToElementWithOffset(document.querySelector("#readerSection"));
+}
+
+function scrollToContentSection(sectionId) {
+  const target = sectionId ? document.getElementById(sectionId) : null;
+  if (!target) {
+    scrollToReaderSection();
+    return;
+  }
+  target.setAttribute("tabindex", "-1");
+  target.focus({ preventScroll: true });
+  scrollToElementWithOffset(target);
+}
+
+function openResource(id, shouldScroll = true, targetSection = "") {
   const documentData = state.documents.get(id);
   if (!documentData) {
     return;
@@ -2006,7 +2024,11 @@ function openResource(id, shouldScroll = true) {
   renderModuleCards();
   renderProgress();
   if (shouldScroll) {
-    scrollToReaderSection();
+    if (targetSection) {
+      scrollToContentSection(targetSection);
+    } else {
+      scrollToReaderSection();
+    }
   }
 }
 
@@ -2206,7 +2228,7 @@ document.addEventListener("click", (event) => {
 
   const opener = event.target.closest("[data-open]");
   if (opener) {
-    openResource(opener.dataset.open);
+    openResource(opener.dataset.open, true, opener.dataset.section || "");
   }
 });
 
