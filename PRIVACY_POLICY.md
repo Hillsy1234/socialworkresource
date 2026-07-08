@@ -20,9 +20,11 @@ The learning resource uses your browser's local storage to remember:
 
 This information stays on your device and is not sent to Daily Mindset Moments CIC by the learning resource.
 
+It should remain after a normal page refresh. It may disappear if you clear browser site data, use private browsing, change device or browser, or if a workplace device resets browser storage.
+
 You can clear it by clearing your browser site data for this website.
 
-Do not save names, addresses, dates of birth, case numbers, or identifiable case information in the CPD and reflection log. The CPD log is a local drafting tool only. It does not send CPD to Social Work England or to Daily Mindset Moments CIC.
+Do not save names, addresses, dates of birth, case numbers, or identifiable case information in the CPD and reflection log. The CPD log is a local drafting tool only. It does not send CPD to Social Work England or to Daily Mindset Moments CIC. Use the export or Print / Save as PDF option if you need to keep a copy.
 
 ## Contact Form Information
 

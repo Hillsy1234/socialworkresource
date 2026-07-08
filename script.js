@@ -217,7 +217,7 @@ const resources = [
   }
 ];
 
-const contentVersion = "21";
+const contentVersion = "22";
 const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
 
 const cpdTypes = [
@@ -1335,6 +1335,10 @@ function cpdLogMarkup() {
         <h2 id="cpdToolTitle">CPD and reflection log</h2>
         <p>Draft Social Work England-style CPD records here, then copy your final entries into your Social Work England online account. Notes stay only in this browser on this device.</p>
       </div>
+      <div class="cpd-storage-notice">
+        <strong>Save a copy before relying on this log.</strong>
+        <p>CPD drafts are stored in this browser on this device. They should remain after a normal refresh, but they can disappear if browser data is cleared, private browsing is used, workplace systems reset storage, or you change device or browser. Export the text file or use Print / Save as PDF for your own records.</p>
+      </div>
       <div class="swe-cpd-summary" aria-label="Social Work England CPD requirements">
         <div>
           <strong>2 pieces</strong>
@@ -1424,6 +1428,7 @@ function cpdLogMarkup() {
         <div class="tool-actions">
           <button class="form-submit" type="submit">Save CPD draft</button>
           <button class="secondary-tool-button" type="button" data-export-cpd>Export CPD drafts</button>
+          <button class="secondary-tool-button" type="button" data-print-cpd>Print / Save as PDF</button>
         </div>
       </form>
       <div id="confidenceOverview" class="confidence-overview"></div>
@@ -1647,6 +1652,144 @@ function exportCpdLog() {
     ].join("\n")).join("\n\n---\n\n")
     : "No CPD drafts saved yet.";
   downloadTextFile("social-worker-resource-cpd-log.txt", content);
+}
+
+function cpdPrintableEntryMarkup(entry, index) {
+  return `
+    <article class="entry">
+      <h2>${index + 1}. ${escapeHtml(cpdEntryTitle(entry))}</h2>
+      <dl>
+        <div><dt>Date saved</dt><dd>${escapeHtml(entry.date || "")}</dd></div>
+        <div><dt>Date of CPD activity</dt><dd>${escapeHtml(entry.activityDate || "")}</dd></div>
+        <div><dt>Registration year</dt><dd>${escapeHtml(entry.registrationYear || "")}</dd></div>
+        <div><dt>Type of CPD</dt><dd>${escapeHtml(cpdEntryType(entry))}</dd></div>
+        <div><dt>CPD standard parts selected</dt><dd>${escapeHtml(selectedStandardsFor(entry).map(standardLabel).join(", "))}</dd></div>
+        <div><dt>Peer reflection included</dt><dd>${cpdEntryIncludesPeer(entry) ? "Yes" : "No"}</dd></div>
+      </dl>
+      <h3>Describe what you have learnt from doing this CPD activity</h3>
+      <p>${escapeHtml(cpdEntryLearning(entry))}</p>
+      <h3>Reflect on and describe the positive impact the CPD has had or will have</h3>
+      <p>${escapeHtml(cpdEntryImpact(entry))}</p>
+      ${cpdEntryIncludesPeer(entry) ? `
+        <h3>What you learnt from discussing this CPD with a peer</h3>
+        <p><strong>Peer role or relationship:</strong> ${escapeHtml(entry.peerRole || "")}</p>
+        <p><strong>Date discussed:</strong> ${escapeHtml(entry.peerDate || "")}</p>
+        <p>${escapeHtml(entry.peerLearning || "")}</p>
+      ` : ""}
+      ${entry.action ? `
+        <h3>Next action or evidence note</h3>
+        <p>${escapeHtml(entry.action)}</p>
+      ` : ""}
+    </article>
+  `;
+}
+
+function printCpdLog() {
+  const entries = getCpdEntries();
+  const printWindow = window.open("", "_blank", "width=900,height=700");
+  if (!printWindow) {
+    window.print();
+    return;
+  }
+
+  const generatedDate = new Date().toLocaleDateString("en-GB");
+  const body = entries.length
+    ? entries.map(cpdPrintableEntryMarkup).join("")
+    : "<p>No CPD drafts saved yet.</p>";
+
+  printWindow.document.write(`
+    <!doctype html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <title>Social Worker Resource CPD Drafts</title>
+        <style>
+          body {
+            margin: 0;
+            color: #213134;
+            font-family: Arial, sans-serif;
+            line-height: 1.55;
+          }
+
+          main {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 34px 28px;
+          }
+
+          h1 {
+            margin: 0 0 8px;
+            font-size: 28px;
+          }
+
+          h2 {
+            color: #287c8f;
+            font-size: 20px;
+            margin-top: 24px;
+          }
+
+          h3 {
+            color: #213134;
+            font-size: 15px;
+            margin: 18px 0 6px;
+          }
+
+          .notice {
+            border-left: 5px solid #c5902d;
+            background: #fff7df;
+            margin: 20px 0;
+            padding: 12px 14px;
+          }
+
+          .entry {
+            break-inside: avoid;
+            border-top: 1px solid #d8e5dc;
+            margin-top: 22px;
+            padding-top: 12px;
+          }
+
+          dl {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 8px 18px;
+            margin: 12px 0;
+          }
+
+          dt {
+            color: #41555a;
+            font-weight: 700;
+          }
+
+          dd {
+            margin: 0;
+          }
+
+          p {
+            white-space: pre-wrap;
+          }
+
+          @media print {
+            main {
+              padding: 0;
+            }
+          }
+        </style>
+      </head>
+      <body>
+        <main>
+          <h1>Social Worker Resource CPD Drafts</h1>
+          <p>Generated ${escapeHtml(generatedDate)}. These are private draft notes for copying into the Social Work England online account where appropriate.</p>
+          <div class="notice">
+            <strong>Storage reminder:</strong> these drafts are saved in this browser on this device. Keep an exported or PDF copy if you need a reliable record.
+          </div>
+          ${body}
+        </main>
+      </body>
+    </html>
+  `);
+  printWindow.document.close();
+  printWindow.focus();
+  printWindow.print();
 }
 
 function printableToolsMarkup() {
@@ -2025,6 +2168,12 @@ document.addEventListener("click", (event) => {
   const exportCpd = event.target.closest("[data-export-cpd]");
   if (exportCpd) {
     exportCpdLog();
+    return;
+  }
+
+  const printCpd = event.target.closest("[data-print-cpd]");
+  if (printCpd) {
+    printCpdLog();
     return;
   }
 

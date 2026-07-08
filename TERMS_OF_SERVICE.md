@@ -59,6 +59,8 @@ Do not enter identifiable case information into the CPD reflection log or any fr
 
 The CPD reflection log is a private drafting aid based on Social Work England's public CPD guidance. It does not submit CPD to Social Work England, it does not replace the Social Work England online account, and it does not guarantee that a CPD record will be accepted. Users remain responsible for checking current Social Work England requirements and submitting CPD through the official online account.
 
+CPD drafts are stored locally in the user's browser. They should remain after a normal refresh, but they may be lost if browser storage is cleared, private browsing is used, workplace systems reset storage, or the user changes device or browser. Users should export or print/save a PDF copy before relying on the CPD log as a record.
+
 ## External Websites
 
 This website links to external websites operated by Daily Mindset Moments CIC and related product brands. External websites may have their own terms, privacy policies, and contact processes.

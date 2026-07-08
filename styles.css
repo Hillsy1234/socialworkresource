@@ -1130,6 +1130,26 @@ mark {
   margin: 18px 0;
 }
 
+.cpd-storage-notice {
+  border: 1px solid rgba(197, 144, 45, 0.32);
+  border-left: 5px solid var(--brass);
+  border-radius: var(--radius);
+  background: rgba(255, 241, 207, 0.52);
+  margin: 18px 0;
+  padding: 14px 16px;
+}
+
+.cpd-storage-notice strong {
+  display: block;
+  color: var(--ink);
+  margin-bottom: 5px;
+}
+
+.cpd-storage-notice p {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
 .swe-cpd-summary div,
 .cpd-status-card {
   border: 1px solid var(--line);

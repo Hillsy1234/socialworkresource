@@ -4,6 +4,8 @@ Use this private learning space to draft CPD reflections in a format that is ali
 
 Your notes are stored in your own browser on this device. They are not sent to a server and there is no database behind this tool.
 
+They should remain after a normal page refresh, but they can disappear if browser data is cleared, private browsing is used, workplace systems reset storage, or you change device or browser. Export the text file or use Print / Save as PDF if you need to keep a reliable copy.
+
 This tool does not submit CPD to Social Work England. When you are happy with an entry, copy the final wording into your Social Work England online account.
 
 ## Social Work England CPD Shape
