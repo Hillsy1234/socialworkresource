@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: 8 July 2026.
+Last updated: 24 July 2026.
 
 These terms explain how the Ultimate Social Worker Resource may be used.
 
@@ -12,7 +12,7 @@ It is designed to support learning around the Care Act, Mental Capacity Act, DoL
 
 ## Content Review Date
 
-The learning content was last checked on 7 July 2026. This date is a content review note, not a guarantee that every law, guidance document, policy position, or external link remains current after that date.
+The learning content was last checked on 24 July 2026. This date is a content review note, not a guarantee that every law, guidance document, policy position, or external link remains current after that date.
 
 Users should always verify current legislation, statutory guidance, codes of practice, local policy, and legal advice before relying on the resource in live practice.
 

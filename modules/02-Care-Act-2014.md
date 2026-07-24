@@ -86,7 +86,8 @@ Relevant outcomes include:
 The person:
 
 - cannot achieve the outcome without assistance
-- can achieve it without assistance but doing so causes significant pain, distress, anxiety, or danger
+- can achieve it without assistance but doing so causes significant pain, distress, or anxiety
+- can achieve it without assistance but doing so endangers, or is likely to endanger, their health or safety or that of another person
 - can achieve it without assistance but doing so takes significantly longer than would normally be expected
 
 ## Independent Advocacy
@@ -200,4 +201,3 @@ Do not use a Care Act assessment to shortcut a capacity assessment. Do not use a
 - Treating information and advice as a substitute for meeting eligible needs.
 - Failing to record how wellbeing is affected.
 - Not considering advocacy early enough.
-

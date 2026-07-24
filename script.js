@@ -1537,7 +1537,7 @@ function sourceStatusFor(documentData) {
   if (documentData.group === "Website") {
     return {
       label: "Website info",
-      text: "Last reviewed 7 July 2026. For live enquiries, use the contact route and privacy/terms pages."
+      text: "Last reviewed 24 July 2026. For live enquiries, use the contact route and privacy/terms pages."
     };
   }
 
@@ -1550,7 +1550,7 @@ function sourceStatusFor(documentData) {
 
   return {
     label: "Practice source check",
-    text: "England focus. Last reviewed 7 July 2026. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases."
+    text: "England focus. Last reviewed 24 July 2026. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases."
   };
 }
 
@@ -1611,6 +1611,7 @@ function contactFormMarkup() {
           <input type="checkbox" name="contact_consent" value="yes" required>
           <span>I agree to be contacted about this enquiry.</span>
         </label>
+        <p class="form-privacy-note">By sending this form, you confirm that you have read the <button type="button" class="inline-text-button" data-open="privacy-policy">Privacy Policy</button>. Do not include confidential case information.</p>
         <button class="form-submit" type="submit">Send enquiry</button>
       </form>
     </section>

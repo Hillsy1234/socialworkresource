@@ -8,8 +8,9 @@ const siteUrl = "https://social-work-resource.netlify.app";
 const siteName = "Ultimate Social Worker Resource";
 const publisherName = "Daily Mindset Moments CIC";
 const founderName = "Raymond Hill";
-const lastReviewed = "2026-07-07";
-const dateModified = "2026-07-08";
+const lastReviewed = "2026-07-24";
+const lastReviewedLabel = "24 July 2026";
+const dateModified = "2026-07-24";
 const socialImage = `${siteUrl}/assets/social-share-card-universal.jpg`;
 const learningDir = join(rootDir, "learning");
 
@@ -50,7 +51,7 @@ function escapeHtml(value) {
 function inlineMarkdown(text) {
   let html = escapeHtml(text);
   html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_match, label, href) => {
-    const safeHref = href.startsWith("http") || href.startsWith("/") ? href : `/${href}`;
+    const safeHref = /^(https?:|mailto:|tel:|\/)/i.test(href) ? href : `/${href}`;
     return `<a href="${escapeHtml(safeHref)}">${label}</a>`;
   });
   html = html.replace(/`([^`]+)`/g, "<code>$1</code>");
@@ -200,7 +201,7 @@ ${jsonLd(structuredData)}
     </header>
 ${body}
     <footer class="seo-footer">
-      <p>Built by ${publisherName}. England-focused learning resource. Last reviewed ${lastReviewed}. Not legal advice.</p>
+      <p>Built by ${publisherName}. England-focused learning resource. Last reviewed ${lastReviewedLabel}. Not legal advice.</p>
       <p><a href="/">Open the interactive website</a> <span aria-hidden="true">|</span> <a href="/sitemap.xml">Sitemap</a> <span aria-hidden="true">|</span> <a href="/TERMS_OF_SERVICE.md">Terms</a></p>
     </footer>
   </body>
@@ -275,7 +276,7 @@ function renderResourcePage(resource, markdown, pageUrl, slug) {
           </div>
         </header>
         <section class="source-note" aria-label="Practice note">
-          <strong>Practice note:</strong> England focus. Last reviewed ${lastReviewed}. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
+          <strong>Practice note:</strong> England focus. Last reviewed ${lastReviewedLabel}. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
         </section>
         <div class="article-body">
 ${renderMarkdown(markdown)}

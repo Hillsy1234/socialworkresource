@@ -1,14 +1,16 @@
 # Privacy Policy
 
-Last updated: 8 July 2026.
+Last updated: 24 July 2026.
 
 This privacy policy explains how the Ultimate Social Worker Resource handles information when you use this website.
 
 ## Who Runs This Resource
 
-This resource is built by Daily Mindset Moments CIC, founded by Raymond Hill, founder and social worker.
+Daily Mindset Moments CIC is the data controller for personal information collected through this website. It is founded by Raymond Hill, founder and social worker.
 
 Main website: [www.daily-mindset-moments.com](https://www.daily-mindset-moments.com)
+
+Privacy contact: [info@daily-mindset-moments.com](mailto:info@daily-mindset-moments.com)
 
 ## What This Website Stores Locally
 
@@ -28,7 +30,7 @@ Do not save names, addresses, dates of birth, case numbers, or identifiable case
 
 ## Contact Form Information
 
-If you use the Contact Us form, the information you enter is sent through Netlify Forms and made available to Daily Mindset Moments CIC for responding to the enquiry. Website form notifications should be sent to info@daily-mindset-moments.com. This may include:
+If you use the Contact Us form, the information you enter is processed through Netlify Forms and made available to authorised people at Daily Mindset Moments CIC so that we can respond to and manage your enquiry. This may include:
 
 - your name;
 - your email address;
@@ -37,9 +39,21 @@ If you use the Contact Us form, the information you enter is sent through Netlif
 - your message;
 - your consent to be contacted about the enquiry.
 
+We use this information only to respond to and manage the enquiry. The form is optional and asks for your agreement to be contacted; this is our lawful basis for processing the enquiry. We do not use an enquiry for marketing unless you separately ask us to do so or give separate consent.
+
+Netlify Forms provides the form-processing service. Netlify and its service providers may process data in countries outside the UK; where a restricted transfer is involved, the provider's applicable data-transfer safeguards apply. You can read [Netlify's privacy policy](https://www.netlify.com/privacy/).
+
+We retain contact-form enquiries for up to 12 months after the last meaningful contact, unless a longer period is necessary to manage an ongoing relationship or meet a legal obligation. We then delete or anonymise them.
+
 Only send information that is appropriate for a business, learning, partnership, or general enquiry.
 
 Do not send confidential case information or personal data about people using services.
+
+## Your Data Rights
+
+Subject to the circumstances, you can ask to access, correct, erase, restrict, or object to our use of your personal information. You may withdraw your consent to be contacted about an enquiry at any time. To make a request, email [info@daily-mindset-moments.com](mailto:info@daily-mindset-moments.com).
+
+You can also complain to the [Information Commissioner's Office](https://ico.org.uk/make-a-complaint/).
 
 ## External Links
 

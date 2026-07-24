@@ -8,9 +8,11 @@ Adult social workers still need a working knowledge of children, family, transit
 
 - Children Act 1989
 - Children Act 2004
+- Children's Social Care National Framework 2026
 - Working Together to Safeguard Children 2026
 - Keeping Children Safe in Education
 - Children and Families Act 2014
+- Children's Wellbeing and Schools Act 2026 (phased commencement)
 - SEND Code of Practice 0 to 25
 - Care Act 2014 transition duties
 - Domestic Abuse Act 2021
@@ -29,6 +31,8 @@ Section 47 concerns child protection enquiries where there is reasonable cause t
 
 Working Together is statutory guidance on multi-agency working to help, support, and protect children. It applies to organisations and agencies with functions relating to children and to education providers and childcare settings.
 
+The 2026 update reinforces inclusive, anti-discriminatory practice, stronger information sharing, and a whole-family response. It describes Family Help as a more seamless offer combining targeted early help and section 17 support, led by a multi-disciplinary team and a family help plan where appropriate.
+
 For adult social workers, the key message is: adult services are part of the child safeguarding system.
 
 Think whole family where:
@@ -41,9 +45,15 @@ Think whole family where:
 - a parent is detained under the Mental Health Act
 - a person moving from children's to adults services has unmet needs
 
+## Children's Social Care Reform Watch
+
+The Children's Social Care National Framework is statutory guidance for local authority children's social care and relevant safeguarding partners. Use it alongside Working Together when considering purpose, practice principles, outcomes, and good-practice enablers.
+
+The Children's Wellbeing and Schools Act 2026 is being implemented in stages. Do not treat its reform-related duties as operational until the relevant commencement and statutory guidance apply locally. In particular, check current arrangements for multi-agency child protection teams and the new safeguarding information-sharing duty, which the government expects to begin from September 2026.
+
 ## Keeping Children Safe in Education
 
-As of 7 July 2026:
+As of 24 July 2026:
 
 - KCSIE 2025 remains in force until 31 August 2026.
 - KCSIE 2026 comes into force from 1 September 2026.
@@ -125,4 +135,3 @@ Adult and children's safeguarding should be coordinated, not passed back and for
 - Waiting until the 18th birthday to begin transition.
 - Forgetting MCA applies from age 16.
 - Confusing parental preference with the young person's wishes and rights.
-

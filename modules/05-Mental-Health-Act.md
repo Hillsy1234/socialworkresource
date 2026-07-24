@@ -4,7 +4,7 @@
 
 The Mental Health Act 1983, as amended, provides powers for compulsory assessment, detention, treatment, guardianship, community treatment, and forensic mental health pathways in England and Wales.
 
-The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act, but implementation is phased. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
+The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act. Implementation is phased: the first commencement order brought sections 51 and 52 into force on 6 April 2026, while most reforms are not yet in force. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
 
 ## Core Principles in Practice
 
@@ -94,6 +94,8 @@ Key AMHP tasks:
 - record reasons clearly
 
 ## Mental Health Act 2025 Reform Watch
+
+As at 24 July 2026, do not apply the wider 2025 reforms unless the relevant provision has been commenced and reflected in current guidance, local policy, and forms.
 
 The 2025 Act aims to:
 
@@ -197,4 +199,3 @@ Aftercare or follow-up:
 - Not recording why less restrictive options were insufficient.
 - Using MCA/DoLS to avoid MHA where the person is objecting to mental health treatment.
 - Ignoring racial disparity, cultural context, and mistrust of services.
-

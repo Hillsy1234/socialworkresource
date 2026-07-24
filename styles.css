@@ -1873,6 +1873,28 @@ mark {
   margin-top: 4px;
 }
 
+.form-privacy-note {
+  margin: -6px 0 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
+.inline-text-button {
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  background: transparent;
+  color: var(--steel);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+  padding: 0;
+}
+
+.inline-text-button:hover {
+  color: var(--ink);
+}
+
 .form-submit {
   justify-self: start;
   min-height: 44px;

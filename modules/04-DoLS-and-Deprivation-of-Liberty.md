@@ -12,7 +12,7 @@ The previous Cheshire West 2014 "acid test" is no longer the single test. Practi
 
 DoLS has not disappeared. Where there is reason to believe a person is deprived of liberty:
 
-- in a hospital or care home, the DoLS process still applies
+- for a person aged 18 or over in a hospital or care home, the DoLS process still applies
 - in community settings, Court of Protection authorisation may still be needed
 - for children, legal advice may be needed, including High Court inherent jurisdiction or Court of Protection depending on age and circumstances
 
@@ -74,7 +74,7 @@ Any objection points toward possible deprivation of liberty and away from valid 
 
 ## When to Consider DoLS
 
-Consider DoLS where the person is in a hospital or care home and:
+Consider DoLS where the person is aged 18 or over and is in a hospital or care home and:
 
 - they lack capacity for residence/care/treatment arrangements
 - restrictions may amount to deprivation of liberty after multifactorial analysis
@@ -119,7 +119,7 @@ A person subject to DoLS must have safeguards, which may include:
 
 ## Community Deprivation of Liberty
 
-DoLS does not apply in supported living, shared lives, ordinary homes, extra care, or community placements. If arrangements may amount to deprivation of liberty in those settings, Court of Protection authorisation may be required.
+DoLS does not apply in supported living, shared lives, ordinary homes, extra care, or community placements. It also does not apply to anyone under 18. If arrangements may amount to deprivation of liberty in those settings, or involve a child, Court of Protection or High Court authorisation may be required.
 
 Examples:
 
@@ -180,4 +180,3 @@ Review date:
 - Forgetting to review existing authorisations.
 - Treating authorisation as permission to stop thinking about least restriction.
 - Failing to record the person's wishes and feelings in detail.
-

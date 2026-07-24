@@ -1,6 +1,6 @@
 # Ultimate Social Worker Resource
 
-England-focused adult social work learning pack, last checked on 7 July 2026.
+England-focused adult social work learning pack, last checked on 24 July 2026.
 
 This folder is a structured learning resource for social workers, students, ASYEs, AMHP-adjacent practitioners, best interests assessors, safeguarding practitioners, care coordinators, and managers who need a clear working map of the major law and practice frameworks.
 
@@ -43,8 +43,9 @@ The following points need special attention because they are recent or easily mi
 - The Care and Support Statutory Guidance was updated on 22 July 2025 and is under review because some parts are out of date following Health and Care Act 2022 changes.
 - On 2 June 2026, the UK Supreme Court changed the legal approach to identifying deprivation of liberty. DHSC published an update on 15 June 2026. The old Cheshire West "acid test" is no longer the single test; practitioners must use a multifactorial assessment.
 - DoLS still applies in hospitals and care homes when there is reason to believe Article 5 may be engaged. Court authorisation still applies for community settings and children where needed.
-- The Mental Health Act 2025 received Royal Assent on 18 December 2025. It amends the Mental Health Act 1983, but implementation is phased. Practitioners must check which provisions are in force and follow the current Code of Practice and local policy.
-- Working Together to Safeguard Children was updated on 18 March 2026.
+- The Mental Health Act 2025 received Royal Assent on 18 December 2025. Sections 51 and 52 came into force on 6 April 2026, but most reforms remain uncommenced. Practitioners must check which provisions are in force and follow the current Code of Practice and local policy.
+- Working Together to Safeguard Children was updated on 18 March 2026. Use it alongside the Children’s Social Care National Framework 2026, particularly for Family Help, information sharing, anti-discriminatory practice, and whole-family work.
+- The Children’s Wellbeing and Schools Act 2026 is being implemented in stages. Check commencement and local guidance before treating its reform-related duties as operational.
 - Keeping Children Safe in Education 2025 remains in force until 31 August 2026; the 2026 version comes into force on 1 September 2026.
 
 ## Core Practice Formula

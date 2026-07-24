@@ -1,6 +1,6 @@
 # Source Library
 
-Last checked: 8 July 2026.
+Last checked: 24 July 2026.
 
 Use this page to go back to primary or authoritative sources. For live cases, check current local policy and legal advice.
 
@@ -54,10 +54,22 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
 - Legislation.gov.uk: Mental Health Act 2025  
   https://www.legislation.gov.uk/ukpga/2025/33
 
+- Legislation.gov.uk: Mental Health Act 2025 (Commencement No. 1) Regulations 2026
+  https://www.legislation.gov.uk/uksi/2026/385/pdfs/uksi_20260385_en.pdf
+
 ## Children, Families, and Transition
+
+- GOV.UK: Children's Social Care National Framework
+  https://www.gov.uk/government/publications/childrens-social-care-national-framework
 
 - GOV.UK: Working Together to Safeguard Children  
   https://www.gov.uk/government/publications/working-together-to-safeguard-children--2
+
+- GOV.UK: Working Together to Safeguard Children 2026: summary of changes
+  https://www.gov.uk/government/publications/working-together-to-safeguard-children--2/working-together-to-safeguard-children-2026-summary-of-changes
+
+- GOV.UK: Government response to phase 1 of the Southport Inquiry (including Children’s Wellbeing and Schools Act implementation)
+  https://www.gov.uk/government/publications/government-response-to-phase-1-of-the-southport-inquiry/government-response-to-phase-1-of-the-southport-inquiry
 
 - GOV.UK: Keeping Children Safe in Education  
   https://www.gov.uk/government/publications/keeping-children-safe-in-education--2

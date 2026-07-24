@@ -1,6 +1,6 @@
 # Ultimate Social Worker Resource - Full Text Export
 
-England-focused social work learning resource. Last reviewed 2026-07-07. Not legal advice. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
+England-focused social work learning resource. Last reviewed 2026-07-24. Not legal advice. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
 
 # Start Here
 
@@ -10,7 +10,7 @@ Summary: Orientation, law-watch notes, and the core practice formula for the who
 
 # Ultimate Social Worker Resource
 
-England-focused adult social work learning pack, last checked on 7 July 2026.
+England-focused adult social work learning pack, last checked on 24 July 2026.
 
 This folder is a structured learning resource for social workers, students, ASYEs, AMHP-adjacent practitioners, best interests assessors, safeguarding practitioners, care coordinators, and managers who need a clear working map of the major law and practice frameworks.
 
@@ -53,8 +53,9 @@ The following points need special attention because they are recent or easily mi
 - The Care and Support Statutory Guidance was updated on 22 July 2025 and is under review because some parts are out of date following Health and Care Act 2022 changes.
 - On 2 June 2026, the UK Supreme Court changed the legal approach to identifying deprivation of liberty. DHSC published an update on 15 June 2026. The old Cheshire West "acid test" is no longer the single test; practitioners must use a multifactorial assessment.
 - DoLS still applies in hospitals and care homes when there is reason to believe Article 5 may be engaged. Court authorisation still applies for community settings and children where needed.
-- The Mental Health Act 2025 received Royal Assent on 18 December 2025. It amends the Mental Health Act 1983, but implementation is phased. Practitioners must check which provisions are in force and follow the current Code of Practice and local policy.
-- Working Together to Safeguard Children was updated on 18 March 2026.
+- The Mental Health Act 2025 received Royal Assent on 18 December 2025. Sections 51 and 52 came into force on 6 April 2026, but most reforms remain uncommenced. Practitioners must check which provisions are in force and follow the current Code of Practice and local policy.
+- Working Together to Safeguard Children was updated on 18 March 2026. Use it alongside the Children’s Social Care National Framework 2026, particularly for Family Help, information sharing, anti-discriminatory practice, and whole-family work.
+- The Children’s Wellbeing and Schools Act 2026 is being implemented in stages. Check commencement and local guidance before treating its reform-related duties as operational.
 - Keeping Children Safe in Education 2025 remains in force until 31 August 2026; the 2026 version comes into force on 1 September 2026.
 
 ## Core Practice Formula
@@ -1045,7 +1046,8 @@ Relevant outcomes include:
 The person:
 
 - cannot achieve the outcome without assistance
-- can achieve it without assistance but doing so causes significant pain, distress, anxiety, or danger
+- can achieve it without assistance but doing so causes significant pain, distress, or anxiety
+- can achieve it without assistance but doing so endangers, or is likely to endanger, their health or safety or that of another person
 - can achieve it without assistance but doing so takes significantly longer than would normally be expected
 
 ## Independent Advocacy
@@ -1375,7 +1377,7 @@ The previous Cheshire West 2014 "acid test" is no longer the single test. Practi
 
 DoLS has not disappeared. Where there is reason to believe a person is deprived of liberty:
 
-- in a hospital or care home, the DoLS process still applies
+- for a person aged 18 or over in a hospital or care home, the DoLS process still applies
 - in community settings, Court of Protection authorisation may still be needed
 - for children, legal advice may be needed, including High Court inherent jurisdiction or Court of Protection depending on age and circumstances
 
@@ -1437,7 +1439,7 @@ Any objection points toward possible deprivation of liberty and away from valid 
 
 ## When to Consider DoLS
 
-Consider DoLS where the person is in a hospital or care home and:
+Consider DoLS where the person is aged 18 or over and is in a hospital or care home and:
 
 - they lack capacity for residence/care/treatment arrangements
 - restrictions may amount to deprivation of liberty after multifactorial analysis
@@ -1482,7 +1484,7 @@ A person subject to DoLS must have safeguards, which may include:
 
 ## Community Deprivation of Liberty
 
-DoLS does not apply in supported living, shared lives, ordinary homes, extra care, or community placements. If arrangements may amount to deprivation of liberty in those settings, Court of Protection authorisation may be required.
+DoLS does not apply in supported living, shared lives, ordinary homes, extra care, or community placements. It also does not apply to anyone under 18. If arrangements may amount to deprivation of liberty in those settings, or involve a child, Court of Protection or High Court authorisation may be required.
 
 Examples:
 
@@ -1558,7 +1560,7 @@ Summary: Civil sections, AMHP analysis, MCA/DoLS interface, Section 117, and ref
 
 The Mental Health Act 1983, as amended, provides powers for compulsory assessment, detention, treatment, guardianship, community treatment, and forensic mental health pathways in England and Wales.
 
-The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act, but implementation is phased. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
+The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act. Implementation is phased: the first commencement order brought sections 51 and 52 into force on 6 April 2026, while most reforms are not yet in force. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
 
 ## Core Principles in Practice
 
@@ -1648,6 +1650,8 @@ Key AMHP tasks:
 - record reasons clearly
 
 ## Mental Health Act 2025 Reform Watch
+
+As at 24 July 2026, do not apply the wider 2025 reforms unless the relevant provision has been commenced and reflected in current guidance, local policy, and forms.
 
 The 2025 Act aims to:
 
@@ -1954,9 +1958,11 @@ Adult social workers still need a working knowledge of children, family, transit
 
 - Children Act 1989
 - Children Act 2004
+- Children's Social Care National Framework 2026
 - Working Together to Safeguard Children 2026
 - Keeping Children Safe in Education
 - Children and Families Act 2014
+- Children's Wellbeing and Schools Act 2026 (phased commencement)
 - SEND Code of Practice 0 to 25
 - Care Act 2014 transition duties
 - Domestic Abuse Act 2021
@@ -1975,6 +1981,8 @@ Section 47 concerns child protection enquiries where there is reasonable cause t
 
 Working Together is statutory guidance on multi-agency working to help, support, and protect children. It applies to organisations and agencies with functions relating to children and to education providers and childcare settings.
 
+The 2026 update reinforces inclusive, anti-discriminatory practice, stronger information sharing, and a whole-family response. It describes Family Help as a more seamless offer combining targeted early help and section 17 support, led by a multi-disciplinary team and a family help plan where appropriate.
+
 For adult social workers, the key message is: adult services are part of the child safeguarding system.
 
 Think whole family where:
@@ -1987,9 +1995,15 @@ Think whole family where:
 - a parent is detained under the Mental Health Act
 - a person moving from children's to adults services has unmet needs
 
+## Children's Social Care Reform Watch
+
+The Children's Social Care National Framework is statutory guidance for local authority children's social care and relevant safeguarding partners. Use it alongside Working Together when considering purpose, practice principles, outcomes, and good-practice enablers.
+
+The Children's Wellbeing and Schools Act 2026 is being implemented in stages. Do not treat its reform-related duties as operational until the relevant commencement and statutory guidance apply locally. In particular, check current arrangements for multi-agency child protection teams and the new safeguarding information-sharing duty, which the government expects to begin from September 2026.
+
 ## Keeping Children Safe in Education
 
-As of 7 July 2026:
+As of 24 July 2026:
 
 - KCSIE 2025 remains in force until 31 August 2026.
 - KCSIE 2026 comes into force from 1 September 2026.
@@ -2770,7 +2784,7 @@ Summary: Official and authoritative links for checking current law, guidance, an
 
 # Source Library
 
-Last checked: 8 July 2026.
+Last checked: 24 July 2026.
 
 Use this page to go back to primary or authoritative sources. For live cases, check current local policy and legal advice.
 
@@ -2824,10 +2838,22 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
 - Legislation.gov.uk: Mental Health Act 2025  
   https://www.legislation.gov.uk/ukpga/2025/33
 
+- Legislation.gov.uk: Mental Health Act 2025 (Commencement No. 1) Regulations 2026
+  https://www.legislation.gov.uk/uksi/2026/385/pdfs/uksi_20260385_en.pdf
+
 ## Children, Families, and Transition
+
+- GOV.UK: Children's Social Care National Framework
+  https://www.gov.uk/government/publications/childrens-social-care-national-framework
 
 - GOV.UK: Working Together to Safeguard Children  
   https://www.gov.uk/government/publications/working-together-to-safeguard-children--2
+
+- GOV.UK: Working Together to Safeguard Children 2026: summary of changes
+  https://www.gov.uk/government/publications/working-together-to-safeguard-children--2/working-together-to-safeguard-children-2026-summary-of-changes
+
+- GOV.UK: Government response to phase 1 of the Southport Inquiry (including Children’s Wellbeing and Schools Act implementation)
+  https://www.gov.uk/government/publications/government-response-to-phase-1-of-the-southport-inquiry/government-response-to-phase-1-of-the-southport-inquiry
 
 - GOV.UK: Keeping Children Safe in Education  
   https://www.gov.uk/government/publications/keeping-children-safe-in-education--2
@@ -3005,15 +3031,17 @@ Summary: How this resource handles local progress data, contact enquiries, and e
 
 # Privacy Policy
 
-Last updated: 8 July 2026.
+Last updated: 24 July 2026.
 
 This privacy policy explains how the Ultimate Social Worker Resource handles information when you use this website.
 
 ## Who Runs This Resource
 
-This resource is built by Daily Mindset Moments CIC, founded by Raymond Hill, founder and social worker.
+Daily Mindset Moments CIC is the data controller for personal information collected through this website. It is founded by Raymond Hill, founder and social worker.
 
 Main website: [www.daily-mindset-moments.com](https://www.daily-mindset-moments.com)
+
+Privacy contact: [info@daily-mindset-moments.com](mailto:info@daily-mindset-moments.com)
 
 ## What This Website Stores Locally
 
@@ -3033,7 +3061,7 @@ Do not save names, addresses, dates of birth, case numbers, or identifiable case
 
 ## Contact Form Information
 
-If you use the Contact Us form, the information you enter is sent through Netlify Forms and made available to Daily Mindset Moments CIC for responding to the enquiry. Website form notifications should be sent to info@daily-mindset-moments.com. This may include:
+If you use the Contact Us form, the information you enter is processed through Netlify Forms and made available to authorised people at Daily Mindset Moments CIC so that we can respond to and manage your enquiry. This may include:
 
 - your name;
 - your email address;
@@ -3042,9 +3070,21 @@ If you use the Contact Us form, the information you enter is sent through Netlif
 - your message;
 - your consent to be contacted about the enquiry.
 
+We use this information only to respond to and manage the enquiry. The form is optional and asks for your agreement to be contacted; this is our lawful basis for processing the enquiry. We do not use an enquiry for marketing unless you separately ask us to do so or give separate consent.
+
+Netlify Forms provides the form-processing service. Netlify and its service providers may process data in countries outside the UK; where a restricted transfer is involved, the provider's applicable data-transfer safeguards apply. You can read [Netlify's privacy policy](https://www.netlify.com/privacy/).
+
+We retain contact-form enquiries for up to 12 months after the last meaningful contact, unless a longer period is necessary to manage an ongoing relationship or meet a legal obligation. We then delete or anonymise them.
+
 Only send information that is appropriate for a business, learning, partnership, or general enquiry.
 
 Do not send confidential case information or personal data about people using services.
+
+## Your Data Rights
+
+Subject to the circumstances, you can ask to access, correct, erase, restrict, or object to our use of your personal information. You may withdraw your consent to be contacted about an enquiry at any time. To make a request, email [info@daily-mindset-moments.com](mailto:info@daily-mindset-moments.com).
+
+You can also complain to the [Information Commissioner's Office](https://ico.org.uk/make-a-complaint/).
 
 ## External Links
 
@@ -3077,7 +3117,7 @@ Summary: Use of the learning resource, legal disclaimer, acceptable use, and ext
 
 # Terms of Service
 
-Last updated: 8 July 2026.
+Last updated: 24 July 2026.
 
 These terms explain how the Ultimate Social Worker Resource may be used.
 
@@ -3089,7 +3129,7 @@ It is designed to support learning around the Care Act, Mental Capacity Act, DoL
 
 ## Content Review Date
 
-The learning content was last checked on 7 July 2026. This date is a content review note, not a guarantee that every law, guidance document, policy position, or external link remains current after that date.
+The learning content was last checked on 24 July 2026. This date is a content review note, not a guarantee that every law, guidance document, policy position, or external link remains current after that date.
 
 Users should always verify current legislation, statutory guidance, codes of practice, local policy, and legal advice before relying on the resource in live practice.
 
