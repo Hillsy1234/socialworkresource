@@ -303,10 +303,24 @@
               Daily Mindset Moments
             </a>
           </nav>
+          <div class="site-visit-counter" aria-label="Homepage visit count">
+            <span>Homepage visits:</span>
+            <div
+              class="counterapi"
+              ns="social-work-resource.netlify.app"
+              action="view"
+              key="homepage-visits"
+              unique="true"
+              noIcon="true"
+              noLink="true"
+              noCss="true"
+            ></div>
+          </div>
         </footer>
       </main>
     </div>
 
+    <script src="https://counterapi.com/c.js?ns=social-work-resource.netlify.app" async></script>
     <script src="script.js?v=29"></script>
   </body>
 </html>
