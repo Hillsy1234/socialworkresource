@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 24 July 2026.
+Last updated: 8 July 2026.
 
 This privacy policy explains how the Ultimate Social Worker Resource handles information when you use this website.
 
@@ -40,10 +40,6 @@ If you use the Contact Us form, the information you enter is sent through Netlif
 Only send information that is appropriate for a business, learning, partnership, or general enquiry.
 
 Do not send confidential case information or personal data about people using services.
-
-## Homepage Visit Counter
-
-The homepage includes a CounterAPI visit counter that displays the aggregate number of unique homepage visits. CounterAPI states that it anonymises IP address and browser information into non-identifying hashes to calculate this total. The counter does not use cookies and is not used to identify you or follow you across other websites.
 
 ## External Links
 

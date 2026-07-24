@@ -1677,20 +1677,6 @@ mark {
   gap: 8px 14px;
 }
 
-.site-visit-counter {
-  grid-column: 1 / -1;
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-  color: var(--muted);
-  font-size: 0.82rem;
-}
-
-.site-visit-counter .counterapi {
-  color: var(--steel);
-  font-weight: 800;
-}
-
 .site-footer a,
 .footer-link {
   border: 0;
