@@ -69,7 +69,7 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
   https://www.gov.uk/government/publications/working-together-to-safeguard-children--2/working-together-to-safeguard-children-2026-summary-of-changes
 
 - GOV.UK: Government response to phase 1 of the Southport Inquiry (including Children’s Wellbeing and Schools Act implementation)
-  https://www.gov.uk/government/publications/government-response-to-phase-1-of-the-southport-inquiry/government-response-to-phase-1-of-the-southport-inquiry
+  https://www.gov.uk/government/publications/southport-inquiry-phase-1-government-response/government-response-to-phase-1-of-the-southport-inquiry
 
 - GOV.UK: Keeping Children Safe in Education  
   https://www.gov.uk/government/publications/keeping-children-safe-in-education--2

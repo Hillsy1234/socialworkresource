@@ -1249,12 +1249,29 @@ function updateResourceUrl(id, targetSection = "") {
   window.history.replaceState(null, "", url);
 }
 
+function readStoredJson(key, fallback) {
+  try {
+    const stored = window.localStorage.getItem(key);
+    return stored ? JSON.parse(stored) : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+function writeStoredJson(key, value) {
+  try {
+    window.localStorage.setItem(key, JSON.stringify(value));
+  } catch {
+    // Browser storage can be blocked or unavailable; the learning tools still work for this session.
+  }
+}
+
 const state = {
   activeId: getInitialResourceId(),
   query: "",
   documents: new Map(),
-  read: new Set(JSON.parse(localStorage.getItem("socialWorkerResourceRead") || "[]")),
-  confidence: JSON.parse(localStorage.getItem("socialWorkerResourceConfidence") || "{}")
+  read: new Set(readStoredJson("socialWorkerResourceRead", [])),
+  confidence: readStoredJson("socialWorkerResourceConfidence", {})
 };
 
 const navList = document.querySelector("#navList");
@@ -1573,7 +1590,7 @@ function contactFormMarkup() {
         <h2 id="contactFormTitle">Send an enquiry</h2>
         <p>Share the reason for your message, and Daily Mindset Moments CIC will be able to respond from the same enquiry flow used on the main website.</p>
       </div>
-      <form class="contact-form" name="social-worker-resource-contact" action="/contact-success" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <form class="contact-form" name="social-worker-resource-contact" action="/contact-success.html" method="POST" data-netlify="true" netlify-honeypot="bot-field">
         <input type="hidden" name="form-name" value="social-worker-resource-contact">
         <input type="text" name="bot-field" tabindex="-1" autocomplete="off" class="form-honeypot">
         <input type="hidden" name="subject" value="Social Worker Resource enquiry">
@@ -2148,11 +2165,11 @@ function cpdLogMarkup() {
 }
 
 function getCpdEntries() {
-  return JSON.parse(localStorage.getItem("socialWorkerResourceCpdEntries") || "[]");
+  return readStoredJson("socialWorkerResourceCpdEntries", []);
 }
 
 function saveCpdEntries(entries) {
-  localStorage.setItem("socialWorkerResourceCpdEntries", JSON.stringify(entries));
+  writeStoredJson("socialWorkerResourceCpdEntries", entries);
 }
 
 function currentRegistrationYearLabel(date = new Date()) {
@@ -2775,11 +2792,11 @@ function renderProgress() {
 }
 
 function persistRead() {
-  localStorage.setItem("socialWorkerResourceRead", JSON.stringify([...state.read]));
+  writeStoredJson("socialWorkerResourceRead", [...state.read]);
 }
 
 function persistConfidence() {
-  localStorage.setItem("socialWorkerResourceConfidence", JSON.stringify(state.confidence));
+  writeStoredJson("socialWorkerResourceConfidence", state.confidence);
 }
 
 function getSearchMatches(query) {

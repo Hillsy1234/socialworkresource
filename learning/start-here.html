@@ -170,6 +170,10 @@
 <p>Use this on every complex case:</p>
 <pre><code>Person -&gt; Outcomes -&gt; Needs -&gt; Risks -&gt; Capacity/Consent -&gt; Legal Powers/Duties -&gt; Options -&gt; Least Restrictive Plan -&gt; Review</code></pre>
 <p>Good social work is not just knowing the law. It is using the law to keep the person&#39;s voice, rights, relationships, safety, culture, and future at the centre of the work.</p>
+<h3 id="maintenance">Maintenance</h3>
+<p>The interactive site reads the Markdown files directly. The crawlable pages and AI-facing indexes are generated outputs. After changing resources, run this from the project folder:</p>
+<pre><code>node tools/build-seo-pages.mjs</code></pre>
+<p>Then review the generated <code>learning/</code> pages, <code>llms.txt</code>, <code>llms-full.txt</code>, <code>answer-engine-index.json</code>, and <code>sitemap.xml</code> before publishing.</p>
         </div>
       </article>
     </main>

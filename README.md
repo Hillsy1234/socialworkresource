@@ -57,3 +57,13 @@ Person -> Outcomes -> Needs -> Risks -> Capacity/Consent -> Legal Powers/Duties 
 ```
 
 Good social work is not just knowing the law. It is using the law to keep the person's voice, rights, relationships, safety, culture, and future at the centre of the work.
+
+## Maintenance
+
+The interactive site reads the Markdown files directly. The crawlable pages and AI-facing indexes are generated outputs. After changing resources, run this from the project folder:
+
+```bash
+node tools/build-seo-pages.mjs
+```
+
+Then review the generated `learning/` pages, `llms.txt`, `llms-full.txt`, `answer-engine-index.json`, and `sitemap.xml` before publishing.
