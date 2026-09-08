@@ -1361,6 +1361,83 @@ mark {
   margin: 18px 0 12px;
 }
 
+/* Shared CPD layout for every practice location. */
+.cpd-panel .form-grid {
+  gap: 20px 16px;
+}
+
+.cpd-panel .form-field,
+.cpd-panel .form-field input,
+.cpd-panel .form-field select,
+.cpd-panel .form-field textarea {
+  min-width: 0;
+}
+
+.cpd-panel .form-field span {
+  line-height: 1.5;
+}
+
+.cpd-panel .form-field textarea {
+  min-height: 140px;
+}
+
+.cpd-panel .form-field textarea[rows="3"] {
+  min-height: 100px;
+}
+
+.cpd-panel .tool-actions {
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  margin-top: 24px;
+}
+
+.cpd-panel button {
+  min-height: 44px;
+  padding: 10px 16px;
+  line-height: 1.4;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.cpd-panel .entry-list-head {
+  flex-wrap: wrap;
+}
+
+.cpd-panel .entry-list-head h3,
+.cpd-panel .cpd-entry h3 {
+  margin: 0 0 6px;
+}
+
+.cpd-panel .cpd-entry {
+  gap: 18px;
+  overflow-wrap: anywhere;
+}
+
+.cpd-panel .cpd-entry-section p {
+  white-space: pre-wrap;
+}
+
+.cpd-panel .cpd-entry > button {
+  justify-self: start;
+}
+
+.cpd-empty-state {
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  padding: 16px;
+  color: var(--muted);
+}
+
+@media (max-width: 600px) {
+  .cpd-panel .tool-actions {
+    flex-direction: column;
+  }
+
+  .cpd-panel .tool-actions button {
+    width: 100%;
+  }
+}
+
 .confidence-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -2346,8 +2423,6 @@ mark {
 .jurisdiction-notice { border: 1px solid #ccac66; border-radius: 12px; padding: 18px 22px; margin-bottom: 22px; background: #fff6df; color: #594219; }
 .jurisdiction-notice p { margin: 6px 0 0; line-height: 1.6; }
 .jurisdiction-notice[hidden] { display: none; }
-html[data-jurisdiction="wales"] .cpd-form label { display: grid; gap: 8px; }
-html[data-jurisdiction="wales"] .cpd-form textarea { width: 100%; }
 @media (max-width: 600px) {
   .jurisdiction-bar { padding: 12px; }
   .jurisdiction-bar-inner { gap: 8px; }

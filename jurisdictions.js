@@ -224,23 +224,35 @@ async function initializeJurisdictions() {
 
 function walesCpdMarkup() {
   const country = practiceLocationName();
-  return `<section class="tool-panel" aria-labelledby="walesCpdTitle">
-    <h2 id="walesCpdTitle">${country} reflection log</h2>
-    <p>Record learning, its impact and discussions with your manager. These private notes stay in this browser. Export a copy to keep your own record. Do not enter identifiable case details.</p>
+  return `<section class="tool-panel cpd-panel" aria-labelledby="walesCpdTitle">
+    <div class="tool-panel-head">
+      <h2 id="walesCpdTitle">${country} reflection log</h2>
+      <p>Record learning, its impact and discussions with your manager. These private notes stay in this browser. Export a copy to keep your own record. Do not enter identifiable case details.</p>
+    </div>
     <form class="cpd-form">
-      <label>CPD activity title<input name="title" required maxlength="200"></label>
-      <label>Date of activity<input name="activityDate" type="date" required></label>
-      <label>Type of learning<select name="type"><option>Reflection</option><option>Supervision</option><option>Reading or research</option><option>Training</option><option>Practice discussion</option></select></label>
-      <label>What did you learn?<textarea name="learning" required rows="5"></textarea></label>
-      <label>How could this improve practice and outcomes?<textarea name="impact" required rows="5"></textarea></label>
-      <label>Discussion with your manager or colleague (optional)<textarea name="peerLearning" rows="3"></textarea></label>
-      <label>Next action or evidence note<textarea name="action" rows="3"></textarea></label>
-      <div class="tool-actions"><button type="submit">Save reflection</button><button type="button" data-export-cpd>Export ${country} reflections</button><button type="button" data-print-cpd>Print saved reflections</button></div>
-    </form><div id="cpdEntries"></div></section>`;
+      <div class="form-grid">
+        <label class="form-field full-span"><span>CPD activity title</span><input name="title" required maxlength="200"></label>
+        <label class="form-field"><span>Date of activity</span><input name="activityDate" type="date" required></label>
+        <label class="form-field"><span>Type of learning</span><select name="type"><option>Reflection</option><option>Supervision</option><option>Reading or research</option><option>Training</option><option>Practice discussion</option></select></label>
+        <label class="form-field full-span"><span>What did you learn?</span><textarea name="learning" required rows="5"></textarea></label>
+        <label class="form-field full-span"><span>How could this improve practice and outcomes?</span><textarea name="impact" required rows="5"></textarea></label>
+        <label class="form-field full-span"><span>Discussion with your manager or colleague (optional)</span><textarea name="peerLearning" rows="3"></textarea></label>
+        <label class="form-field full-span"><span>Next action or evidence note</span><textarea name="action" rows="3"></textarea></label>
+      </div>
+      <div class="tool-actions">
+        <button class="form-submit" type="submit">Save reflection</button>
+        <button class="secondary-tool-button" type="button" data-export-cpd>Export ${country} reflections</button>
+        <button class="secondary-tool-button" type="button" data-print-cpd>Print saved reflections</button>
+      </div>
+    </form><div id="cpdEntries" class="cpd-entry-list" aria-live="polite"></div></section>`;
 }
 
-function walesEntryMarkup(entry) {
-  return `<article class="cpd-entry"><h3>${escapeHtml(entry.title || "Reflection")}</h3><p>${escapeHtml(practiceLocationName())} · ${escapeHtml(entry.activityDate || entry.date || "")} · ${escapeHtml(entry.type || "Reflection")}</p>${[["Learning",entry.learning],["Impact",entry.impact],["Discussion",entry.peerLearning],["Next action",entry.action]].filter(([,value])=>value).map(([label,value])=>`<h4>${label}</h4><p>${escapeHtml(value)}</p>`).join("")}</article>`;
+function walesEntryMarkup(entry, includeActions = false) {
+  return `<article class="cpd-entry">
+    <div><h3>${escapeHtml(entry.title || "Reflection")}</h3><span>${escapeHtml(practiceLocationName())} · ${escapeHtml(entry.activityDate || entry.date || "")} · ${escapeHtml(entry.type || "Reflection")}</span></div>
+    ${[["Learning",entry.learning],["Impact",entry.impact],["Discussion",entry.peerLearning],["Next action",entry.action]].filter(([,value])=>value).map(([label,value])=>`<div class="cpd-entry-section"><strong>${label}</strong><p>${escapeHtml(value)}</p></div>`).join("")}
+    ${includeActions ? `<button type="button" data-delete-cpd="${escapeHtml(entry.id)}">Delete reflection</button>` : ""}
+  </article>`;
 }
 
 function renderWalesCpdEntries() {
@@ -248,7 +260,7 @@ function renderWalesCpdEntries() {
   const target = document.querySelector("#cpdEntries");
   if (!target) return;
   const entries = getCpdEntries();
-  target.innerHTML = entries.length ? `<h3>${entries.length} saved ${country} reflection${entries.length === 1 ? "" : "s"}</h3>${entries.map((entry)=>`${walesEntryMarkup(entry)}<button type="button" data-delete-cpd="${escapeHtml(entry.id)}">Delete reflection</button>`).join("")}` : `<p>No ${country} reflections saved yet. Your other country records remain separate.</p>`;
+  target.innerHTML = entries.length ? `<div class="entry-list-head"><h3>Saved ${country} reflections</h3><strong>${entries.length} saved</strong></div>${entries.map((entry)=>walesEntryMarkup(entry, true)).join("")}` : `<p class="cpd-empty-state">No ${country} reflections saved yet. Your other country records remain separate.</p>`;
 }
 
 function exportWalesCpd() {
@@ -262,7 +274,7 @@ function printWalesCpd() {
   const printWindow = window.open("", "_blank");
   if (!printWindow) { showJurisdictionMessage("Allow the print window or use the reflection export."); return; }
   const country = practiceLocationName();
-  printWindow.document.write(`<!doctype html><html lang="en"><head><title>${country} reflections</title><style>body{font:16px/1.6 system-ui;max-width:760px;margin:40px auto;padding:20px}article{break-inside:avoid;border-bottom:1px solid #ddd;padding:20px 0}p{white-space:pre-wrap}</style></head><body><h1>${country} reflections</h1><p>Private learning record · ${country} context · Exported ${new Date().toLocaleDateString("en-GB")}</p>${getCpdEntries().map(walesEntryMarkup).join("") || "<p>No saved reflections.</p>"}</body></html>`);
+  printWindow.document.write(`<!doctype html><html lang="en"><head><title>${country} reflections</title><style>body{font:16px/1.6 system-ui;max-width:760px;margin:40px auto;padding:20px}article{break-inside:avoid;border-bottom:1px solid #ddd;padding:20px 0}p{white-space:pre-wrap}</style></head><body><h1>${country} reflections</h1><p>Private learning record · ${country} context · Exported ${new Date().toLocaleDateString("en-GB")}</p>${getCpdEntries().map((entry) => walesEntryMarkup(entry)).join("") || "<p>No saved reflections.</p>"}</body></html>`);
   printWindow.document.close();
   printWindow.focus();
   printWindow.print();

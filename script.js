@@ -1,6 +1,6 @@
 // Country content and tool data are loaded from the same manifests used by static pages.
 const resources = [];
-const contentVersion = "36";
+const contentVersion = "37";
 let featuredIds = [], routeQuestions = [], routeDetails = {}, flashcardDecks = [], glossaryTerms = [];
 let theoryLenses = [], hypothesisSignals = [], childPracticeModels = [], childModelSignals = [];
 let scenarioWorkouts = [], printableTemplates = [], studentPathwaySteps = [];
