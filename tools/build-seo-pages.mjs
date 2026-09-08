@@ -1,16 +1,19 @@
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import vm from "node:vm";
 
 const rootDir = join(dirname(fileURLToPath(import.meta.url)), "..");
 const siteUrl = "https://social-work-resource.netlify.app";
 const siteName = "Ultimate Social Worker Resource";
 const publisherName = "Daily Mindset Moments CIC";
 const founderName = "Raymond Hill";
-const lastReviewed = "2026-07-24";
-const lastReviewedLabel = "24 July 2026";
-const dateModified = "2026-07-24";
+let lastReviewed = "2026-07-24";
+let lastReviewedLabel = "24 July 2026";
+let country = "England";
+let jurisdiction = "england";
+let routePrefix = "";
+let reviewNote = "";
+const dateModified = "2026-09-08";
 const socialImage = `${siteUrl}/assets/social-share-card-universal.jpg`;
 const learningDir = join(rootDir, "learning");
 
@@ -19,17 +22,9 @@ function readProjectFile(path) {
 }
 
 function writeProjectFile(path, content) {
-  writeFileSync(join(rootDir, path), content);
+  writeFileSync(join(rootDir, path), /\.(txt|html)$/.test(path) ? content.replace(/[\t ]+$/gm, '').trimEnd() + '\n' : content);
 }
 
-function extractResources() {
-  const script = readProjectFile("script.js");
-  const match = script.match(/const resources = (\[[\s\S]*?\]);/);
-  if (!match) {
-    throw new Error("Could not find resources array in script.js");
-  }
-  return vm.runInNewContext(match[1]);
-}
 
 function slugify(text) {
   return text
@@ -81,7 +76,19 @@ function renderMarkdown(markdown) {
     }
   }
 
-  for (const line of lines) {
+  for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
+    const line = lines[lineIndex];
+    if (!inCode && line.trim().startsWith("|") && /^\s*\|?[\s:|-]+\|\s*$/.test(lines[lineIndex + 1] || "")) {
+      closeList();
+      const cells = row => row.trim().replace(/^\||\|$/g, "").split("|").map(x => inlineMarkdown(x.trim()));
+      const head = cells(line);
+      lineIndex += 2;
+      const rows = [];
+      while (lineIndex < lines.length && lines[lineIndex].trim().startsWith("|")) rows.push(cells(lines[lineIndex++]));
+      lineIndex--;
+      html.push(`<div class="table-scroll"><table><thead><tr>${head.map(x => `<th scope="col">${x}</th>`).join("")}</tr></thead><tbody>${rows.map(row => `<tr>${row.map(x => `<td>${x}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`);
+      continue;
+    }
     if (line.startsWith("```")) {
       if (inCode) {
         html.push(`<pre><code>${escapeHtml(codeLines.join("\n"))}</code></pre>`);
@@ -195,13 +202,14 @@ ${jsonLd(structuredData)}
       </a>
       <nav aria-label="SEO page navigation">
         <a href="/">Interactive resource</a>
-        <a href="/learning/">Learning index</a>
+        <a href="/learning/">England index</a>
+        <a href="/learning/wales/">Wales index</a>
         <a href="/llms.txt">AI guide</a>
       </nav>
     </header>
 ${body}
     <footer class="seo-footer">
-      <p>Built by ${publisherName}. England-focused learning resource. Last reviewed ${lastReviewedLabel}. Not legal advice.</p>
+      <p>Built by ${publisherName}. ${country}-focused learning resource. ${reviewNote} Not legal advice.</p>
       <p><a href="/">Open the interactive website</a> <span aria-hidden="true">|</span> <a href="/sitemap.xml">Sitemap</a> <span aria-hidden="true">|</span> <a href="/TERMS_OF_SERVICE.md">Terms</a></p>
     </footer>
   </body>
@@ -213,7 +221,7 @@ function resourceStructuredData(resource, pageUrl, markdown) {
   return {
     "@context": "https://schema.org",
     "@type": ["WebPage", "LearningResource"],
-    name: `${resource.title} | ${siteName}`,
+    name: `${resource.title} | ${country} | ${siteName}`,
     headline: resource.title,
     url: pageUrl,
     description: resource.summary,
@@ -221,19 +229,19 @@ function resourceStructuredData(resource, pageUrl, markdown) {
     inLanguage: "en-GB",
     isAccessibleForFree: true,
     dateModified,
-    lastReviewed,
+    ...(jurisdiction === "england" ? { lastReviewed } : { practiceReviewedAt: null }),
     image: socialImage,
     learningResourceType: resource.group,
     educationalUse: ["professional development", "revision", "practice reference"],
     audience: [
       { "@type": "Audience", audienceType: "social workers" },
       { "@type": "Audience", audienceType: "social work students" },
-      { "@type": "Audience", audienceType: "ASYE practitioners" },
+      { "@type": "Audience", audienceType: jurisdiction === "wales" ? "newly qualified social workers in Wales" : "ASYE practitioners" },
       { "@type": "Audience", audienceType: "practice educators" }
     ],
     about: [
       resource.title,
-      "England social work practice",
+      `${country} social work practice`,
       "legal literacy",
       "social work learning"
     ],
@@ -256,12 +264,13 @@ function resourceStructuredData(resource, pageUrl, markdown) {
 }
 
 function renderResourcePage(resource, markdown, pageUrl, slug) {
-  const description = `${resource.summary} Part of an England-focused social work learning resource.`;
+  const description = `${resource.summary} Part of an ${country}-focused social work learning resource.`;
   const body = `    <main class="seo-main">
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="/">Home</a>
         <span aria-hidden="true">/</span>
-        <a href="/learning/">Learning index</a>
+        <a href="/learning/">England index</a>
+        <a href="/learning/wales/">Wales index</a>
         <span aria-hidden="true">/</span>
         <span>${escapeHtml(resource.title)}</span>
       </nav>
@@ -271,12 +280,12 @@ function renderResourcePage(resource, markdown, pageUrl, slug) {
           <h1>${escapeHtml(resource.title)}</h1>
           <p>${escapeHtml(resource.summary)}</p>
           <div class="button-row">
-            <a class="primary-link" href="/?resource=${encodeURIComponent(resource.id)}#readerSection">Open interactive section</a>
+            <a class="primary-link" href="/?jurisdiction=${jurisdiction}&amp;resource=${encodeURIComponent(resource.id)}#readerSection">Open interactive section</a>
             <a class="secondary-link" href="/${escapeHtml(resource.path)}">Read source markdown</a>
           </div>
         </header>
         <section class="source-note" aria-label="Practice note">
-          <strong>Practice note:</strong> England focus. Last reviewed ${lastReviewedLabel}. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
+          <strong>Practice note:</strong> ${country} focus. ${reviewNote} Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
         </section>
         <div class="article-body">
 ${renderMarkdown(markdown)}
@@ -284,9 +293,9 @@ ${renderMarkdown(markdown)}
       </article>
     </main>`;
   return pageShell({
-    title: `${resource.title} | ${siteName}`,
+    title: `${resource.title} | ${country} | ${siteName}`,
     description,
-    canonical: `${siteUrl}/learning/${slug}.html`,
+    canonical: `${siteUrl}/learning/${routePrefix}${slug}.html`,
     body,
     structuredData: resourceStructuredData(resource, pageUrl, markdown)
   });
@@ -307,7 +316,7 @@ function renderLearningIndex(resources, pageMeta) {
           <div class="index-grid">
 ${items.map((resource) => {
   const meta = pageMeta.get(resource.id);
-  return `            <a class="index-card" href="/learning/${meta.slug}.html">
+  return `            <a class="index-card" href="/learning/${routePrefix}${meta.slug}.html">
               <span>${escapeHtml(resource.code)}</span>
               <strong>${escapeHtml(resource.title)}</strong>
               <em>${escapeHtml(resource.summary)}</em>
@@ -322,27 +331,27 @@ ${items.map((resource) => {
       "@type": "ListItem",
       position: index + 1,
       name: resource.title,
-      url: `${siteUrl}/learning/${meta.slug}.html`
+      url: `${siteUrl}/learning/${routePrefix}${meta.slug}.html`
     };
   });
 
   return pageShell({
-    title: `Social Work Learning Index | ${siteName}`,
-    description: "Crawlable learning index for the Ultimate Social Worker Resource, covering Care Act, MCA, DoLS, Mental Health Act, safeguarding, transitions, CPD, flashcards, and practice tools.",
-    canonical: `${siteUrl}/learning/`,
+    title: `${country} Social Work Learning Index | ${siteName}`,
+    description: `${country} social work learning: ${jurisdiction === "wales" ? "Welsh care and support, ALN" : "Care Act"}, capacity, liberty, mental health, safeguarding, reflection and practice tools.`,
+    canonical: `${siteUrl}/learning/${routePrefix}`,
     ogType: "website",
     structuredData: {
       "@context": "https://schema.org",
       "@type": "ItemList",
       name: "Ultimate Social Worker Resource learning index",
-      url: `${siteUrl}/learning/`,
+      url: `${siteUrl}/learning/${routePrefix}`,
       itemListElement: itemList
     },
     body: `    <main class="seo-main">
       <section class="index-hero">
-        <p class="eyebrow">Crawlable learning index</p>
-        <h1>Social work practice learning pages</h1>
-        <p>Direct HTML pages for the England-focused learning resource, designed for search engines, AI agents, students, ASYEs, social workers, practice educators, and quick professional refreshers.</p>
+        <p class="eyebrow">${country} learning index</p>
+        <h1>Social work practice learning pages — ${country}</h1>
+        <p>Browse the ${country} guide by topic. These reading pages support students, newly qualified practitioners, social workers and practice educators. Open a section’s interactive version to use its learning tools.</p>
         <div class="button-row">
           <a class="primary-link" href="/">Open interactive resource</a>
           <a class="secondary-link" href="/llms.txt">Open AI guide</a>
@@ -353,150 +362,55 @@ ${groupCards}
   });
 }
 
-function buildLlmsTxt(resources, pageMeta) {
-  const lines = [
-    `# ${siteName}`,
-    "",
-    "> England-focused social work learning resource covering the Care Act 2014, Mental Capacity Act 2005, DoLS and deprivation of liberty, Mental Health Act, safeguarding, social work theory, theory-informed hypotheses, children's social work models, Signs of Safety, Contextual Safeguarding, Family Group Conferencing, PACE, GCP2, Safe and Together, children and transitions, equality, human rights, recording, CPD, flashcards, glossary, and practice tools.",
-    "",
-    "This resource is for learning, revision, supervision, and practice reflection. It is not legal advice. Users should check current law, statutory guidance, local policy, supervision, and legal advice for live cases.",
-    "",
-    `Last reviewed: ${lastReviewed}`,
-    `Publisher: ${publisherName}, founded by ${founderName}, social worker.`,
-    "",
-    "## Key URLs",
-    "",
-    `- [Interactive website](${siteUrl}/)`,
-    `- [Crawlable learning index](${siteUrl}/learning/)`,
-    `- [Full text for LLMs](${siteUrl}/llms-full.txt)`,
-    `- [Structured answer index](${siteUrl}/answer-engine-index.json)`,
-    `- [Sitemap](${siteUrl}/sitemap.xml)`,
-    "",
-    "## Primary learning sections",
-    ""
-  ];
-
-  for (const resource of resources) {
-    const meta = pageMeta.get(resource.id);
-    lines.push(`- [${resource.title}](${siteUrl}/learning/${meta.slug}.html): ${resource.summary}`);
-  }
-
-  lines.push(
-    "",
-    "## Recommended AI use",
-    "",
-    "- Use the crawlable HTML pages as the canonical reading route for individual topics.",
-    "- Use source markdown when plain text extraction is preferred.",
-    "- Preserve the England focus, the last-reviewed date, and the legal-advice disclaimer when summarising.",
-    "- Do not present the resource as a substitute for legislation, statutory guidance, local procedures, legal services advice, or supervision."
-  );
-
-  return `${lines.join("\n")}\n`;
-}
-
-function buildLlmsFull(resources) {
-  const sections = resources.map((resource) => {
-    const markdown = readProjectFile(resource.path).trim();
-    return `# ${resource.title}
-
-Source: ${siteUrl}/${resource.path}
-Group: ${resource.group}
-Summary: ${resource.summary}
-
-${markdown}`;
-  });
-
-  return `# ${siteName} - Full Text Export
-
-England-focused social work learning resource. Last reviewed ${lastReviewed}. Not legal advice. Check current law, statutory guidance, local policy, supervision, and legal advice for live cases.
-
-${sections.join("\n\n---\n\n")}
-`;
-}
-
-function buildAnswerEngineIndex(resources, pageMeta) {
-  return {
-    name: siteName,
-    url: `${siteUrl}/`,
-    description: "Structured England-focused social work learning resource for legal literacy, social work theory, children's practice models, practice hypotheses, practice reflection, CPD, and supervision.",
-    lastReviewed,
-    publisher: publisherName,
-    founder: founderName,
-    jurisdiction: "England",
-    audience: ["social workers", "social work students", "ASYEs", "practice educators", "safeguarding practitioners", "care coordinators", "managers"],
-    notLegalAdvice: true,
-    coreTopics: ["Care Act 2014", "Mental Capacity Act 2005", "DoLS", "deprivation of liberty", "Mental Health Act", "safeguarding adults", "social work theory", "practice hypotheses", "children's social work models", "Signs of Safety", "Contextual Safeguarding", "Family Group Conferencing", "PACE", "GCP2", "Safe and Together", "children and transitions", "Equality Act", "Human Rights Act", "recording", "CPD"],
-    resources: resources.map((resource) => {
-      const meta = pageMeta.get(resource.id);
-      return {
-        id: resource.id,
-        title: resource.title,
-        group: resource.group,
-        summary: resource.summary,
-        htmlUrl: `${siteUrl}/learning/${meta.slug}.html`,
-        interactiveUrl: `${siteUrl}/?resource=${resource.id}`,
-        markdownUrl: `${siteUrl}/${resource.path}`
-      };
-    })
-  };
-}
-
-function buildSitemap(resources, pageMeta) {
-  const urls = [
-    { loc: `${siteUrl}/`, priority: "1.0" },
-    { loc: `${siteUrl}/learning/`, priority: "0.9" },
-    ...resources.map((resource) => ({
-      loc: `${siteUrl}/learning/${pageMeta.get(resource.id).slug}.html`,
-      priority: resource.group === "Modules" ? "0.8" : "0.7"
-    }))
-  ];
-
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((url) => `  <url>
-    <loc>${url.loc}</loc>
-    <lastmod>${dateModified}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>${url.priority}</priority>
-  </url>`).join("\n")}
-</urlset>
-`;
+function toolSupplement(pack, resource) {
+  const list = (heading, items) => items.length ? `\n\n## ${heading}\n\n${items.join("\n\n")}` : "";
+  if (resource.id === "flashcards") return list("Revision cards", pack.flashcardDecks.flatMap(deck => deck.cards.map(x => `### ${deck.title}: ${x.prompt}\n\n${x.answer}`)));
+  if (resource.id === "glossary") return list("Practice glossary", pack.glossaryTerms.map(x => `### ${x.term}\n\n${x.definition}`));
+  if (resource.id === "scenarios") return list("Worked cases", pack.scenarioWorkouts.map(x => `### ${x.title}\n\n${x.summary}\n\n${x.prompts.map(q => `- ${q}`).join("\n")}\n\nDiscussion: ${x.reveal}`));
+  if (resource.id === "theory-practice") return list("Interactive theory lenses", pack.theoryLenses.map(x => `### ${x.title}\n\n${x.focus}\n\nHypothesis: ${x.hypothesis}\n\n${x.test.map(q => `- ${q}`).join("\n")}`));
+  if (resource.id === "children-models") return list("Model finder", pack.childPracticeModels.map(x => `### ${x.title}\n\n${x.use || x.focus || x.summary || ""}`));
+  if (resource.id === "case-route-finder") return list("Route questions", pack.routeQuestions.map(x => `### ${x.label}\n\n${x.detail}\n\n${x.routes.map(id => pack.routeDetails[id]?.action || "").join(" ")}`));
+  if (["student-pathway", "student-asye-pathway"].includes(resource.id)) return list("Pathway activities", pack.studentPathwaySteps.map(x => `### ${x.title}\n\n${x.task}`));
+  if (resource.id === "printable-tools") return list("Downloadable prompt text", pack.printableTemplates.map(x => `### ${x.title}\n\n\`\`\`text\n${x.body}\n\`\`\``));
+  return "";
 }
 
 function main() {
-  const resources = extractResources();
-  const pageMeta = new Map();
-  const usedSlugs = new Set();
-
-  for (const resource of resources) {
-    let slug = slugify(resource.title);
-    if (usedSlugs.has(slug)) {
-      slug = `${slug}-${resource.id}`;
-    }
-    usedSlugs.add(slug);
-    pageMeta.set(resource.id, { slug });
-  }
-
+  const packs = ["england", "wales", "scotland", "northern-ireland", "ireland", "new-zealand", "australia-nsw", "canada-ontario", "united-states-california", "australia-victoria", "canada-british-columbia", "united-states-new-york"].map(id => JSON.parse(readProjectFile(`content/${id}/manifest.json`)));
+  const entries = [];
+  const fullText = [];
+  const urls = [`${siteUrl}/`, ...packs.map(p => `${siteUrl}/learning/${p.id === 'england' ? '' : `${p.id}/`}`)];
   rmSync(learningDir, { recursive: true, force: true });
   mkdirSync(learningDir, { recursive: true });
-
-  for (const resource of resources) {
-    const markdown = readProjectFile(resource.path);
-    const meta = pageMeta.get(resource.id);
-    const pageUrl = `${siteUrl}/learning/${meta.slug}.html`;
-    writeFileSync(join(learningDir, `${meta.slug}.html`), renderResourcePage(resource, markdown, pageUrl, meta.slug));
+  for (const pack of packs) {
+    jurisdiction = pack.id;
+    country = jurisdiction === "wales" ? "Wales" : jurisdiction === "scotland" ? "Scotland" : jurisdiction === "northern-ireland" ? "Northern Ireland" : jurisdiction === "ireland" ? "Ireland" : jurisdiction === "new-zealand" ? "Aotearoa New Zealand" : jurisdiction === "australia-nsw" ? "New South Wales" : jurisdiction === "canada-ontario" ? "Ontario" : jurisdiction === "united-states-california" ? "California" : jurisdiction === "australia-victoria" ? "Victoria" : jurisdiction === "canada-british-columbia" ? "British Columbia" : jurisdiction === "united-states-new-york" ? "New York" : "England";
+    routePrefix = jurisdiction === "england" ? "" : `${jurisdiction}/`;
+    reviewNote = jurisdiction === "england" ? "Existing learning content review date: 24 July 2026." : `Final learning guide. See the Source Library for references and review scope. Independent ${country} practitioner review is not recorded.`;
+    const dir = join(learningDir, routePrefix);
+    mkdirSync(dir, { recursive: true });
+    const pageMeta = new Map();
+    const usedSlugs = new Set();
+    for (const resource of pack.resources) {
+      let slug = resource.slug || slugify(resource.title);
+      if (usedSlugs.has(slug)) slug += `-${resource.id}`;
+      usedSlugs.add(slug);
+      pageMeta.set(resource.id, { slug });
+      const markdown = (resource.markdown ?? readProjectFile(resource.path)) + toolSupplement(pack, resource);
+      const htmlUrl = `${siteUrl}/learning/${routePrefix}${slug}.html`;
+      writeFileSync(join(dir, `${slug}.html`), renderResourcePage(resource, markdown, htmlUrl, slug).replace(/[\t ]+$/gm, ''));
+      urls.push(htmlUrl);
+      entries.push({ id: resource.id, jurisdiction, title: resource.title, group: resource.group, summary: resource.summary, htmlUrl, interactiveUrl: `${siteUrl}/?jurisdiction=${jurisdiction}&resource=${resource.id}`, markdownUrl: `${siteUrl}/${resource.path}`, sourceCheckedAt: resource.sourceCheckedAt || null, releaseStatus: pack.releaseStatus, ...(jurisdiction !== "england" ? { practiceReviewedAt: resource.practiceReviewedAt || null } : {}) });
+      fullText.push(`# ${resource.title} — ${country}\n\nJurisdiction: ${country}\n${reviewNote}\nSource: ${htmlUrl}\n\n${markdown}`);
+    }
+    writeFileSync(join(dir, "index.html"), renderLearningIndex(pack.resources, pageMeta));
   }
-
-  writeFileSync(join(learningDir, "index.html"), renderLearningIndex(resources, pageMeta));
-  writeProjectFile("llms.txt", buildLlmsTxt(resources, pageMeta));
-  writeProjectFile("llms-full.txt", buildLlmsFull(resources));
-  writeProjectFile("answer-engine-index.json", `${JSON.stringify(buildAnswerEngineIndex(resources, pageMeta), null, 2)}\n`);
-  writeProjectFile("sitemap.xml", buildSitemap(resources, pageMeta));
-  writeProjectFile("robots.txt", `User-agent: *
-Allow: /
-
-Sitemap: ${siteUrl}/sitemap.xml
-`);
+  writeProjectFile("llms.txt", `# ${siteName}\n\nTwelve practice locations have separate final learning guides. Preserve the jurisdiction and source/review status when summarising. Country selection does not determine cross-border legal responsibility. This is a learning aid, not legal advice.\n\n${entries.map(x => `- [${x.title} (${x.jurisdiction})](${x.htmlUrl}): ${x.summary}`).join("\n")}\n`);
+  writeProjectFile("llms-full.txt", `# ${siteName} — full text\n\nKeep country-specific material separate. Check current official sources for live work.\n\n${fullText.join("\n\n---\n\n")}\n`);
+  writeProjectFile("answer-engine-index.json", JSON.stringify({ name: siteName, url: `${siteUrl}/`, jurisdictions: ["england", "wales", "scotland", "northern-ireland", "ireland", "new-zealand", "australia-nsw", "canada-ontario", "united-states-california", "australia-victoria", "canada-british-columbia", "united-states-new-york"], notLegalAdvice: true, resources: entries }, null, 2) + "\n");
+  writeProjectFile("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(loc => `  <url><loc>${loc}</loc><lastmod>${dateModified}</lastmod></url>`).join("\n")}\n</urlset>\n`);
+  writeProjectFile("robots.txt", `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`);
+  console.log(`Built ${entries.length} reading pages, ${packs.length} location indexes, sitemap and jurisdiction-aware text exports.`);
 }
 
 main();

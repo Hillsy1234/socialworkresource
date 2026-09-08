@@ -293,3 +293,9 @@ blockquote {
     min-height: 0;
   }
 }
+
+.table-scroll { overflow-x: auto; }
+.article-body table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+.article-body th, .article-body td { text-align: left; vertical-align: top; border: 1px solid #d9e1df; padding: .7rem; }
+.article-body th { background: #eef5f2; }
+@media print { .seo-header nav, .button-row, .seo-footer { display: none; } .seo-main { width: 100%; margin: 0; } .table-scroll { overflow: visible; } }

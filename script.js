@@ -1,242 +1,9 @@
-const resources = [
-  {
-    id: "readme",
-    title: "Start Here",
-    group: "Start",
-    path: "README.md",
-    code: "00",
-    accent: "#1f7a73",
-    summary: "Orientation, law-watch notes, and the core practice formula for the whole pack."
-  },
-  {
-    id: "map",
-    title: "Learning Map",
-    group: "Start",
-    path: "LEARNING_MAP.md",
-    code: "Map",
-    accent: "#287c8f",
-    summary: "A study route, decision map, and 8-week programme for building confidence."
-  },
-  {
-    id: "case-route-finder",
-    title: "Case Route Finder",
-    group: "Practice Tools",
-    path: "CASE_ROUTE_FINDER.md",
-    code: "Route",
-    accent: "#1f7a73",
-    summary: "A guided route-checker for matching case facts to legal frameworks and recording points."
-  },
-  {
-    id: "flashcards",
-    title: "Learning Flashcards",
-    group: "Learning Tools",
-    path: "FLASHCARDS.md",
-    code: "Cards",
-    accent: "#cf7258",
-    summary: "Module-by-module flashcards for quick revision, supervision prompts, and student refreshers."
-  },
-  {
-    id: "student-asye-pathway",
-    title: "Student and ASYE Pathway",
-    group: "Start",
-    path: "STUDENT_ASYE_PATHWAY.md",
-    code: "ASYE",
-    accent: "#5d9a68",
-    summary: "A guided pathway for students, newly qualified social workers, and practice educators."
-  },
-  {
-    id: "glossary",
-    title: "Practice Glossary",
-    group: "Learning Tools",
-    path: "GLOSSARY.md",
-    code: "A-Z",
-    accent: "#8a638f",
-    summary: "Plain-English practice terms for legal literacy, recording, supervision, and revision."
-  },
-  {
-    id: "theory-practice",
-    title: "Theory Into Practice",
-    group: "Learning Tools",
-    path: "THEORY_INTO_PRACTICE.md",
-    code: "Theory",
-    accent: "#b96371",
-    summary: "Social work theory lenses with cautious hypotheses to test in assessment, supervision, and recording."
-  },
-  {
-    id: "children-models",
-    title: "Children and Family Practice Models",
-    group: "Learning Tools",
-    path: "CHILDREN_FAMILY_PRACTICE_MODELS.md",
-    code: "Child",
-    accent: "#287c8f",
-    summary: "Children's social work models, tools, and practice approaches with cautious use prompts."
-  },
-  {
-    id: "cpd-log",
-    title: "CPD and Reflection Log",
-    group: "Learning Tools",
-    path: "CPD_REFLECTION_LOG.md",
-    code: "CPD",
-    accent: "#c5902d",
-    summary: "A private browser-based reflection log for learning notes, supervision questions, and next actions."
-  },
-  {
-    id: "foundations",
-    title: "Professional Foundations",
-    group: "Modules",
-    path: "modules/01-Professional-Foundations.md",
-    code: "01",
-    accent: "#4f8a66",
-    summary: "Values, standards, analysis, supervision, professional curiosity, and evidence."
-  },
-  {
-    id: "care-act",
-    title: "Care Act 2014",
-    group: "Modules",
-    path: "modules/02-Care-Act-2014.md",
-    code: "02",
-    accent: "#cf7258",
-    summary: "Assessment, eligibility, wellbeing, advocacy, carers, planning, and review."
-  },
-  {
-    id: "mca",
-    title: "Mental Capacity Act 2005",
-    group: "Modules",
-    path: "modules/03-Mental-Capacity-Act-2005.md",
-    code: "03",
-    accent: "#287c8f",
-    summary: "Decision-specific capacity, support, best interests, IMCA, restraint, and records."
-  },
-  {
-    id: "dols",
-    title: "DoLS and Deprivation of Liberty",
-    group: "Modules",
-    path: "modules/04-DoLS-and-Deprivation-of-Liberty.md",
-    code: "04",
-    accent: "#c5902d",
-    summary: "DoLS, Court authorisation, objection, consent, and the 2026 legal update."
-  },
-  {
-    id: "mha",
-    title: "Mental Health Act",
-    group: "Modules",
-    path: "modules/05-Mental-Health-Act.md",
-    code: "05",
-    accent: "#5f7896",
-    summary: "Civil sections, AMHP analysis, MCA/DoLS interface, Section 117, and reform watch."
-  },
-  {
-    id: "safeguarding",
-    title: "Safeguarding Adults",
-    group: "Modules",
-    path: "modules/06-Safeguarding-Adults.md",
-    code: "06",
-    accent: "#c85f5b",
-    summary: "Section 42, Making Safeguarding Personal, self-neglect, domestic abuse, and enquiries."
-  },
-  {
-    id: "children",
-    title: "Children, Families, and Transitions",
-    group: "Modules",
-    path: "modules/07-Children-Families-and-Transitions.md",
-    code: "07",
-    accent: "#5d9a68",
-    summary: "Whole-family practice, children in need, child protection, SEND, young carers, and transition."
-  },
-  {
-    id: "rights",
-    title: "Equality, Human Rights, and Recording",
-    group: "Modules",
-    path: "modules/08-Equality-Human-Rights-and-Recording.md",
-    code: "08",
-    accent: "#8a638f",
-    summary: "Equality, reasonable adjustments, human rights analysis, anti-oppressive practice, and records."
-  },
-  {
-    id: "quick-reference",
-    title: "Quick Reference",
-    group: "Practice Tools",
-    path: "practice-tools/quick-reference.md",
-    code: "Tool",
-    accent: "#1f7a73",
-    summary: "A fast legal map, threshold checks, risk flags, and decision reminders."
-  },
-  {
-    id: "templates",
-    title: "Templates and Checklists",
-    group: "Practice Tools",
-    path: "practice-tools/templates-and-checklists.md",
-    code: "Tool",
-    accent: "#cf7258",
-    summary: "Reusable assessment, safeguarding, MCA, best interests, supervision, and risk templates."
-  },
-  {
-    id: "printable-tools",
-    title: "Printable Tools",
-    group: "Practice Tools",
-    path: "PRINTABLE_TOOLS.md",
-    code: "Print",
-    accent: "#c5902d",
-    summary: "Downloadable and printable practice prompts for assessments, MCA, safeguarding, and supervision."
-  },
-  {
-    id: "scenarios",
-    title: "Practice Scenarios",
-    group: "Practice Tools",
-    path: "practice-tools/scenarios.md",
-    code: "Cases",
-    accent: "#287c8f",
-    summary: "Applied scenarios for supervision, ASYE learning, workshops, and private study."
-  },
-  {
-    id: "sources",
-    title: "Source Library",
-    group: "Sources",
-    path: "SOURCE_LIBRARY.md",
-    code: "Refs",
-    accent: "#5f7896",
-    summary: "Official and authoritative links for checking current law, guidance, and standards."
-  },
-  {
-    id: "about-us",
-    title: "About Us",
-    group: "Website",
-    path: "ABOUT_US.md",
-    code: "About",
-    accent: "#4f8a66",
-    summary: "Daily Mindset Moments, Raymond Hill, the mission, and the wider product ecosystem."
-  },
-  {
-    id: "contact-us",
-    title: "Contact Us",
-    group: "Website",
-    path: "CONTACT_US.md",
-    code: "Contact",
-    accent: "#cf7258",
-    summary: "Contact Daily Mindset Moments CIC about the resource, partnerships, and practical AI builds."
-  },
-  {
-    id: "privacy-policy",
-    title: "Privacy Policy",
-    group: "Website",
-    path: "PRIVACY_POLICY.md",
-    code: "Privacy",
-    accent: "#287c8f",
-    summary: "How this resource handles local progress data, contact enquiries, and external links."
-  },
-  {
-    id: "terms-of-service",
-    title: "Terms of Service",
-    group: "Website",
-    path: "TERMS_OF_SERVICE.md",
-    code: "Terms",
-    accent: "#5f7896",
-    summary: "Use of the learning resource, legal disclaimer, acceptable use, and external services."
-  }
-];
-
-const contentVersion = "29";
-const featuredIds = ["foundations", "care-act", "mca", "dols", "mha", "safeguarding", "children", "rights"];
+// Country content and tool data are loaded from the same manifests used by static pages.
+const resources = [];
+const contentVersion = "35";
+let featuredIds = [], routeQuestions = [], routeDetails = {}, flashcardDecks = [], glossaryTerms = [];
+let theoryLenses = [], hypothesisSignals = [], childPracticeModels = [], childModelSignals = [];
+let scenarioWorkouts = [], printableTemplates = [], studentPathwaySteps = [];
 
 const cpdTypes = [
   "Supervision",
@@ -293,946 +60,6 @@ const cpdStandards = [
   }
 ];
 
-const flashcardDecks = [
-  {
-    id: "foundations",
-    title: "Professional Foundations",
-    cards: [
-      {
-        prompt: "What should professional curiosity help a social worker do?",
-        answer: "Look beyond the first account, test assumptions, notice patterns, and ask respectful questions about risk, strengths, culture, relationships, and lived experience."
-      },
-      {
-        prompt: "What is the purpose of supervision in complex practice?",
-        answer: "To create space for reflection, legal reasoning, emotional impact, risk analysis, accountability, and clear next steps."
-      },
-      {
-        prompt: "What does strengths-based practice avoid?",
-        answer: "It avoids treating optimism as evidence. It recognises agency, relationships, culture, and resources while still analysing needs and risks."
-      },
-      {
-        prompt: "What should good recording show?",
-        answer: "The person's voice, relevant evidence, analysis, options considered, legal basis, rationale, dissent, and review plan."
-      },
-      {
-        prompt: "Why is anti-oppressive practice not a separate task?",
-        answer: "Because power, discrimination, access, culture, communication, trauma, and rights shape every assessment, plan, and professional decision."
-      }
-    ]
-  },
-  {
-    id: "care-act",
-    title: "Care Act 2014",
-    cards: [
-      {
-        prompt: "What is the central organising principle of the Care Act?",
-        answer: "The person's wellbeing, including dignity, control, protection from abuse, relationships, participation, accommodation, and contribution to society."
-      },
-      {
-        prompt: "When should a Care Act assessment be offered?",
-        answer: "When it appears an adult may have needs for care and support, regardless of whether those needs are likely to be eligible."
-      },
-      {
-        prompt: "What is the eligibility route under the Care Act?",
-        answer: "Needs arise from or relate to impairment or illness, the adult cannot achieve specified outcomes, and this has a significant impact on wellbeing."
-      },
-      {
-        prompt: "When is an independent advocate required?",
-        answer: "When the person would have substantial difficulty being involved and there is no appropriate person to support their involvement."
-      },
-      {
-        prompt: "What should a Care Act plan make clear?",
-        answer: "Eligible needs, outcomes, support, personal budget where relevant, contingency, risk management, review arrangements, and how wellbeing is promoted."
-      }
-    ]
-  },
-  {
-    id: "mca",
-    title: "Mental Capacity Act 2005",
-    cards: [
-      {
-        prompt: "What is the starting presumption under the MCA?",
-        answer: "A person is presumed to have capacity unless it is established that they lack capacity for the specific decision at the specific time."
-      },
-      {
-        prompt: "What must be done before concluding a person lacks capacity?",
-        answer: "All practicable steps must be taken to support the person to make the decision, unless those steps are unsuccessful."
-      },
-      {
-        prompt: "What are the four functional abilities in a capacity assessment?",
-        answer: "Understand relevant information, retain it long enough, use or weigh it, and communicate the decision by any means."
-      },
-      {
-        prompt: "What does best interests decision-making require?",
-        answer: "Consider the person's wishes, feelings, beliefs, values, least restrictive options, relevant circumstances, consultation, and whether capacity may return."
-      },
-      {
-        prompt: "When might an IMCA be needed?",
-        answer: "For certain serious decisions when the person lacks capacity and has no appropriate family or friend to consult, subject to the statutory criteria."
-      }
-    ]
-  },
-  {
-    id: "dols",
-    title: "DoLS and Deprivation of Liberty",
-    cards: [
-      {
-        prompt: "Where can DoLS authorisation apply?",
-        answer: "In hospitals and care homes where there is reason to believe Article 5 may be engaged and the person lacks relevant capacity."
-      },
-      {
-        prompt: "What is the least restrictive principle asking practitioners to do?",
-        answer: "Choose the option that interferes least with the person's rights and freedom while still meeting the necessary aim."
-      },
-      {
-        prompt: "Why must deprivation of liberty analysis be carefully evidenced?",
-        answer: "Because Article 5 protects liberty. Restrictions, consent, capacity, objection, purpose, duration, supervision, and practical reality all matter."
-      },
-      {
-        prompt: "When might the Court of Protection be needed?",
-        answer: "For community deprivation of liberty, serious disputes, complex best interests decisions, or situations outside ordinary DoLS authorisation."
-      },
-      {
-        prompt: "Why should practitioners check current deprivation of liberty law?",
-        answer: "Because the legal approach changed in 2026. Practitioners must follow current law, statutory updates, local policy, and legal advice."
-      }
-    ]
-  },
-  {
-    id: "mha",
-    title: "Mental Health Act",
-    cards: [
-      {
-        prompt: "What is the broad purpose of the Mental Health Act?",
-        answer: "To provide a legal framework for compulsory assessment or treatment of mental disorder when the statutory criteria are met."
-      },
-      {
-        prompt: "What does an AMHP bring to MHA decision-making?",
-        answer: "Independent social perspective, least restrictive analysis, rights focus, family and community context, risk analysis, and scrutiny of alternatives."
-      },
-      {
-        prompt: "Why is the MHA and MCA interface important?",
-        answer: "Because practitioners must choose the correct legal route for mental disorder treatment, care, capacity, objection, deprivation of liberty, and safeguards."
-      },
-      {
-        prompt: "What is Section 117 aftercare?",
-        answer: "A joint duty to provide aftercare for eligible people detained under qualifying MHA sections, linked to needs arising from mental disorder."
-      },
-      {
-        prompt: "Why must practitioners check MHA reform updates?",
-        answer: "Because the Mental Health Act 2025 is implemented in phases, so practitioners must check what is currently in force."
-      }
-    ]
-  },
-  {
-    id: "safeguarding",
-    title: "Safeguarding Adults",
-    cards: [
-      {
-        prompt: "What are the three Section 42 enquiry trigger questions?",
-        answer: "Does the adult have care and support needs, are they experiencing or at risk of abuse or neglect, and are they unable to protect themselves because of those needs?"
-      },
-      {
-        prompt: "What does Making Safeguarding Personal require?",
-        answer: "Work with the person to understand desired outcomes, rights, risk, consent, safety, control, and what protection means to them."
-      },
-      {
-        prompt: "Why is consent important in adult safeguarding?",
-        answer: "Because adults with capacity usually make their own decisions, but information-sharing or action may still be justified in specific risk or public interest situations."
-      },
-      {
-        prompt: "What should a safeguarding plan include?",
-        answer: "Desired outcomes, protective actions, roles, risk controls, contingency, review arrangements, communication needs, and escalation routes."
-      },
-      {
-        prompt: "Why can self-neglect be complex?",
-        answer: "It may involve autonomy, capacity, trauma, mental disorder, executive functioning, environmental risk, coercion, and serious harm."
-      }
-    ]
-  },
-  {
-    id: "children",
-    title: "Children, Families, and Transitions",
-    cards: [
-      {
-        prompt: "What does whole-family practice mean?",
-        answer: "Understanding the adult, child, carer, family network, risks, strengths, relationships, and how each person's needs affect the others."
-      },
-      {
-        prompt: "Why are transitions important in social work?",
-        answer: "Young people may move between children's and adults' systems, so planning should start early and keep outcomes, rights, education, health, care, and family roles connected."
-      },
-      {
-        prompt: "What should practitioners consider for young carers?",
-        answer: "The caring role, impact on wellbeing and education, hidden responsibilities, family support, assessment rights, and appropriate services."
-      },
-      {
-        prompt: "What is a key risk in transition planning?",
-        answer: "The young person falling between services because eligibility, responsibility, timing, or information-sharing is unclear."
-      },
-      {
-        prompt: "Why does safeguarding children knowledge matter in adult practice?",
-        answer: "Adult needs, mental health, domestic abuse, substance use, disability, or care pressures may affect children and family safety."
-      }
-    ]
-  },
-  {
-    id: "rights",
-    title: "Equality, Human Rights, and Recording",
-    cards: [
-      {
-        prompt: "What is the purpose of reasonable adjustments?",
-        answer: "To remove or reduce disadvantage for disabled people so they can access assessment, communication, services, decisions, and participation fairly."
-      },
-      {
-        prompt: "Why should human rights analysis be explicit?",
-        answer: "Because decisions may affect liberty, private and family life, dignity, discrimination, safety, and fair process."
-      },
-      {
-        prompt: "What does proportionate recording mean?",
-        answer: "Recording enough evidence, analysis, rationale, and review detail to justify the decision without unnecessary or irrelevant information."
-      },
-      {
-        prompt: "What should be recorded when views differ?",
-        answer: "The different views, evidence, professional analysis, how disagreement was considered, and the reason for the final decision."
-      },
-      {
-        prompt: "How does equality analysis strengthen practice?",
-        answer: "It helps identify barriers, discrimination, communication needs, cultural context, power imbalance, and steps needed for fair involvement."
-      }
-    ]
-  }
-];
-
-const routeQuestions = [
-  {
-    id: "care-needs",
-    label: "The adult may have care and support needs, or a carer may need support.",
-    detail: "Assessment, prevention, carers, advocacy, eligibility, care planning, or review may be relevant.",
-    routes: ["care-act", "quick-reference", "templates"]
-  },
-  {
-    id: "capacity",
-    label: "There is a decision-specific capacity concern.",
-    detail: "The person may need support to decide, a capacity assessment, best interests decision, or IMCA consideration.",
-    routes: ["mca", "templates", "rights"]
-  },
-  {
-    id: "restrictions",
-    label: "Restrictions, close supervision, restraint, locked doors, medication, or not being free in practice are present.",
-    detail: "Consider deprivation of liberty, least restriction, objection, consent, and the correct authorisation route.",
-    routes: ["dols", "mca", "quick-reference"]
-  },
-  {
-    id: "mental-health-crisis",
-    label: "Mental disorder, serious risk, hospital assessment or treatment, and compulsion may be needed.",
-    detail: "Consider whether the Mental Health Act assessment pathway is indicated, alongside MCA for other decisions.",
-    routes: ["mha", "mca", "templates"]
-  },
-  {
-    id: "abuse-neglect",
-    label: "Abuse, neglect, self-neglect, domestic abuse, exploitation, or coercion may be present.",
-    detail: "Consider Section 42, consent, capacity, information sharing, advocacy, and protection planning.",
-    routes: ["safeguarding", "templates", "rights"]
-  },
-  {
-    id: "child-family",
-    label: "A child, young carer, family member, transition issue, SEND, or whole-family risk is relevant.",
-    detail: "Adult practice may need to connect with children's safeguarding, transition, SEND, and young carers frameworks.",
-    routes: ["children", "safeguarding", "rights"]
-  },
-  {
-    id: "rights-equality",
-    label: "Equality, communication, discrimination, liberty, family life, dignity, or participation is central.",
-    detail: "Use equality and human rights analysis to strengthen involvement, proportionality, recording, and challenge routes.",
-    routes: ["rights", "mca", "quick-reference"]
-  },
-  {
-    id: "recording-supervision",
-    label: "The case needs clearer recording, supervision, legal reasoning, or defensible decision-making.",
-    detail: "Use the core practice formula, templates, source library, and reflection log to structure analysis.",
-    routes: ["foundations", "templates", "cpd-log", "sources"]
-  }
-];
-
-const routeDetails = {
-  "care-act": {
-    title: "Care Act 2014",
-    action: "Check appearance of need, assessment duties, eligibility, wellbeing, advocacy, carers, prevention, plan, review, and ordinary residence where relevant.",
-    record: "Record the person's outcomes, needs, strengths, risks, eligibility analysis, advocacy position, carer position, options, rationale, and review."
-  },
-  mca: {
-    title: "Mental Capacity Act 2005",
-    action: "Identify the specific decision, support the person to decide, assess capacity only where needed, and use best interests if capacity is lacking.",
-    record: "Record relevant information, support provided, the functional test, causative link, wishes and feelings, consultation, options, and least restrictive reasoning."
-  },
-  dols: {
-    title: "DoLS and Deprivation of Liberty",
-    action: "Map restrictions, consent, objection, capacity for residence/care, setting, duration, effects, and whether DoLS or Court advice is needed.",
-    record: "Record the care arrangements, person's wishes, restrictions, less restrictive options, authorisation route, review date, and advice sought."
-  },
-  mha: {
-    title: "Mental Health Act",
-    action: "Consider mental disorder, risk, purpose of detention, need for hospital assessment or treatment, alternatives, nearest relative/nominated person position, and least restriction.",
-    record: "Record risk, alternatives, legal criteria considered, consultation, person's views, family position, AMHP reasoning, and interface with MCA/DoLS."
-  },
-  safeguarding: {
-    title: "Safeguarding Adults",
-    action: "Check whether Section 42 criteria are reasonably suspected and consider Making Safeguarding Personal, consent, capacity, coercion, advocacy, and immediate safety.",
-    record: "Record the concern, adult's desired outcomes, criteria analysis, consent/capacity, information sharing, enquiry plan, protection plan, and review."
-  },
-  children: {
-    title: "Children, Families, and Transitions",
-    action: "Check whether children, young carers, SEND, transition, family safety, or children's safeguarding pathways need to be considered alongside adult work.",
-    record: "Record the child's voice, family context, referrals, transition timing, parental/carer roles, information sharing, and joint working."
-  },
-  rights: {
-    title: "Equality, Human Rights, and Recording",
-    action: "Check reasonable adjustments, communication, discrimination, Article 5 liberty, Article 8 family/private life, dignity, proportionality, and involvement.",
-    record: "Record barriers, adjustments, rights engaged, proportionality, options, challenge routes, and how the person's voice shaped the decision."
-  },
-  foundations: {
-    title: "Professional Foundations",
-    action: "Use professional curiosity, supervision, evidence, strengths, anti-oppressive practice, and clear analysis before choosing an intervention.",
-    record: "Record facts, analysis, uncertainty, supervision, actions, review, and what would change your view."
-  },
-  templates: {
-    title: "Templates and Checklists",
-    action: "Use structured prompts to prevent missing legal thresholds, capacity, consent, advocacy, risk, review, or rationale.",
-    record: "Copy the relevant template into your local recording system and adapt it to policy, supervision, and the person's circumstances."
-  },
-  "quick-reference": {
-    title: "Quick Reference",
-    action: "Use the one-stop legal map when you need a fast route check before going into deeper guidance.",
-    record: "Record which framework was considered, why it was selected or ruled out, and what source or supervisor checked your reasoning."
-  },
-  "cpd-log": {
-    title: "CPD and Reflection Log",
-    action: "Capture learning, uncertainty, supervision questions, and next actions while the case analysis is fresh.",
-    record: "Keep reflections anonymised and do not enter identifiable case details into learning notes."
-  },
-  sources: {
-    title: "Source Library",
-    action: "Use official and authoritative sources when a case is live, contested, complex, or legally sensitive.",
-    record: "Record the source checked, date checked, policy or legal advice used, and any uncertainty."
-  }
-};
-
-const theoryLenses = [
-  {
-    id: "ecological",
-    title: "Ecological Systems Theory",
-    code: "Eco",
-    accent: "#1f7a73",
-    focus: "Person, family, housing, community, services, poverty, policy, culture, and environment.",
-    hypothesis: "The presenting issue may be shaped by pressures around the person, not only by individual behaviour or choice.",
-    test: [
-      "What changed in the environment before the concern escalated?",
-      "Which systems are supporting the person, and which are adding pressure?",
-      "Would risk reduce if housing, income, access, care, or community support changed?"
-    ],
-    links: ["care-act", "rights", "safeguarding"]
-  },
-  {
-    id: "strengths",
-    title: "Strengths-Based Practice",
-    code: "Strengths",
-    accent: "#4f8a66",
-    focus: "Capabilities, identity, relationships, community, culture, hope, and what is already working.",
-    hypothesis: "The person may have protective strategies or relationships that are hidden by a risk-heavy professional account.",
-    test: [
-      "What has helped the person survive or cope so far?",
-      "Who does the person trust, and what role could they safely play?",
-      "Which strengths are real evidence, and which are optimistic assumptions?"
-    ],
-    links: ["foundations", "care-act", "templates"]
-  },
-  {
-    id: "trauma",
-    title: "Trauma-Informed Practice",
-    code: "Trauma",
-    accent: "#cf7258",
-    focus: "Safety, trust, choice, collaboration, empowerment, shame, threat responses, and control.",
-    hypothesis: "Behaviour that looks like refusal, avoidance, anger, or disengagement may be a survival response to trauma, coercion, loss, or fear.",
-    test: [
-      "What might feel unsafe or controlling from the person's perspective?",
-      "What helps the person feel more choice and predictability?",
-      "How can we avoid repeating patterns of powerlessness?"
-    ],
-    links: ["safeguarding", "rights", "foundations"]
-  },
-  {
-    id: "attachment",
-    title: "Attachment Theory",
-    code: "Attach",
-    accent: "#8a638f",
-    focus: "Trust, separation, dependency, rejection, fear, care-seeking, and relationship patterns.",
-    hypothesis: "Responses to professionals or carers may reflect previous experiences of care, loss, abandonment, or unsafe relationships.",
-    test: [
-      "How does the person respond when support increases, reduces, or changes?",
-      "Are there patterns of clinging, pushing away, testing, mistrust, or fear?",
-      "What relationship approach is consistent, boundaried, and safe?"
-    ],
-    links: ["children", "safeguarding", "foundations"]
-  },
-  {
-    id: "systems",
-    title: "Systems and Family Theory",
-    code: "Systems",
-    accent: "#287c8f",
-    focus: "Roles, rules, communication, repeated patterns, conflict, care dynamics, and network effects.",
-    hypothesis: "The concern may be maintained by relationship patterns, family roles, service responses, or network conflict.",
-    test: [
-      "Who gains or loses if the current pattern changes?",
-      "What role has each person been placed in or taken on?",
-      "How do professional responses affect the family or network pattern?"
-    ],
-    links: ["children", "safeguarding", "care-act"]
-  },
-  {
-    id: "anti-oppressive",
-    title: "Anti-Oppressive and Anti-Discriminatory Practice",
-    code: "AOP",
-    accent: "#b96371",
-    focus: "Power, oppression, racism, disability, class, gender, sexuality, culture, age, stigma, and access.",
-    hypothesis: "The presenting issue may be intensified by structural inequality, professional power, discrimination, or inaccessible services.",
-    test: [
-      "What barriers has the person faced before we became involved?",
-      "Whose account is being treated as most credible, and why?",
-      "What reasonable adjustments, cultural humility, or advocacy are needed?"
-    ],
-    links: ["rights", "foundations", "templates"]
-  },
-  {
-    id: "crisis",
-    title: "Crisis Theory",
-    code: "Crisis",
-    accent: "#c5902d",
-    focus: "Immediate stress, narrowed options, temporary disequilibrium, coping capacity, and stabilisation.",
-    hypothesis: "The person or family may be temporarily overwhelmed and need stabilisation before longer-term planning is realistic.",
-    test: [
-      "What immediate event or loss has exceeded usual coping?",
-      "What needs to happen in the next 24 to 72 hours?",
-      "What can wait until safety, sleep, food, medication, or support is more stable?"
-    ],
-    links: ["mha", "safeguarding", "quick-reference"]
-  },
-  {
-    id: "life-course",
-    title: "Life Course Theory",
-    code: "Life",
-    accent: "#5d9a68",
-    focus: "Transitions, cumulative disadvantage, ageing, identity, loss, timing, and turning points.",
-    hypothesis: "Current risk or distress may connect to earlier life events, cumulative exclusion, transition, bereavement, or changing identity.",
-    test: [
-      "What transitions or losses are happening now?",
-      "How has cumulative disadvantage shaped options and trust?",
-      "What strengths, relationships, or identities from earlier life still matter?"
-    ],
-    links: ["children", "care-act", "cpd-log"]
-  },
-  {
-    id: "task-centred",
-    title: "Task-Centred Practice",
-    code: "Task",
-    accent: "#5f7896",
-    focus: "Specific problems, agreed goals, small steps, roles, review, and measurable change.",
-    hypothesis: "The person may benefit from breaking an overwhelming issue into concrete, negotiated tasks with clear review.",
-    test: [
-      "What problem does the person most want to work on first?",
-      "What is the smallest useful next step?",
-      "Who will do what, by when, and how will we know it helped?"
-    ],
-    links: ["templates", "care-act", "cpd-log"]
-  }
-];
-
-const hypothesisSignals = [
-  {
-    id: "self-neglect",
-    label: "Self-neglect, hoarding, home conditions, or repeated crisis presentations.",
-    detail: "Think about trauma, executive functioning, environment, identity, isolation, loss, and safeguarding thresholds.",
-    theories: ["trauma", "ecological", "life-course", "strengths", "crisis"]
-  },
-  {
-    id: "refusal",
-    label: "The person appears to refuse support, miss visits, or disengage.",
-    detail: "Avoid jumping straight to non-compliance. Consider trust, trauma, power, communication, and whether the offer fits the person.",
-    theories: ["trauma", "attachment", "anti-oppressive", "task-centred", "strengths"]
-  },
-  {
-    id: "family-conflict",
-    label: "Family conflict, carer strain, coercion, or unclear roles are present.",
-    detail: "Map roles, power, risk, protective factors, and what happens when professionals intervene.",
-    theories: ["systems", "attachment", "anti-oppressive", "ecological", "crisis"]
-  },
-  {
-    id: "sudden-risk",
-    label: "Risk has escalated quickly or a crisis is dominating the assessment.",
-    detail: "Separate immediate stabilisation from longer-term formulation and legal route decisions.",
-    theories: ["crisis", "ecological", "task-centred", "trauma"]
-  },
-  {
-    id: "transition",
-    label: "There is a transition: adolescence to adulthood, hospital discharge, bereavement, moving home, or ageing.",
-    detail: "Transitions can disrupt identity, support, eligibility, relationships, and coping.",
-    theories: ["life-course", "ecological", "systems", "attachment"]
-  },
-  {
-    id: "inequality",
-    label: "Discrimination, poverty, inaccessible services, stigma, or cultural misunderstanding may be relevant.",
-    detail: "Test whether systems are creating or worsening the difficulty.",
-    theories: ["anti-oppressive", "ecological", "strengths", "trauma"]
-  },
-  {
-    id: "overwhelmed",
-    label: "The person or carer feels overwhelmed and cannot see a way forward.",
-    detail: "Consider crisis, small steps, stabilisation, advocacy, and practical environmental change.",
-    theories: ["crisis", "task-centred", "strengths", "ecological"]
-  },
-  {
-    id: "mistrust",
-    label: "There is mistrust of professionals, fear of services, or repeated complaints.",
-    detail: "Explore previous experiences, power, communication, consistency, and whether the person has reason to feel unsafe.",
-    theories: ["attachment", "trauma", "anti-oppressive", "systems"]
-  }
-];
-
-const childPracticeModels = [
-  {
-    id: "signs-of-safety",
-    title: "Signs of Safety",
-    code: "SoS",
-    accent: "#1f7a73",
-    use: "Child protection mapping, danger statements, safety goals, family network work, scaling, and safety planning.",
-    prompt: "What are we worried about, what is working well, and what needs to happen for the child to be safe enough?",
-    test: [
-      "Can worries be written in plain language that the family understands?",
-      "What existing safety has been demonstrated, not just promised?",
-      "Who is in the family network and what role can they safely take?"
-    ],
-    links: ["children", "safeguarding", "templates"]
-  },
-  {
-    id: "signs-of-wellbeing",
-    title: "Signs of Wellbeing, Success, and Belonging",
-    code: "Belong",
-    accent: "#5d9a68",
-    use: "Family support, children in care, permanency, reunification, stability, identity, and belonging work.",
-    prompt: "What would wellbeing, safety, permanence, connection, and belonging look like from the child's perspective?",
-    test: [
-      "What does the child say or show about where they feel safe and connected?",
-      "What would meaningful stability look like in daily life?",
-      "How are family relationships, identity, culture, and belonging being protected?"
-    ],
-    links: ["children", "rights", "student-asye-pathway"]
-  },
-  {
-    id: "family-safeguarding",
-    title: "Family Safeguarding",
-    code: "Family",
-    accent: "#cf7258",
-    use: "Whole-family child protection where parental domestic abuse, mental health, substance misuse, trauma, or adult needs affect child safety.",
-    prompt: "Child safety may improve when adult needs and risks are addressed alongside direct work with the child and family network.",
-    test: [
-      "Which adult needs are directly affecting child safety or care?",
-      "Is the plan joined up across children's and adults' services?",
-      "Are adult-focused interventions linked to measurable child safety outcomes?"
-    ],
-    links: ["children", "safeguarding", "theory-practice"]
-  },
-  {
-    id: "contextual-safeguarding",
-    title: "Contextual Safeguarding",
-    code: "Context",
-    accent: "#287c8f",
-    use: "Extra-familial harm, exploitation, peer group risk, school, neighbourhood, online spaces, and adolescent safeguarding.",
-    prompt: "Harm may be located outside the home, in peer, school, community, or online contexts that parents cannot control alone.",
-    test: [
-      "Where is harm happening: home, school, peer group, community, online, or transport?",
-      "Which context needs intervention, not only which child or parent?",
-      "Who has power or influence in that context?"
-    ],
-    links: ["children", "safeguarding", "rights"]
-  },
-  {
-    id: "family-group-conference",
-    title: "Family Group Conferencing",
-    code: "FGC",
-    accent: "#c5902d",
-    use: "Family-led planning, kinship care, safety planning, pre-proceedings, reunification, and support network building.",
-    prompt: "The wider family network may hold safe, practical solutions that have not yet been fully mapped or invited in.",
-    test: [
-      "Who does the child identify as family or trusted network?",
-      "What information does the family need before private planning?",
-      "How will the plan be checked for safety, clarity, and review?"
-    ],
-    links: ["children", "templates", "rights"]
-  },
-  {
-    id: "systemic-practice",
-    title: "Systemic Practice",
-    code: "Systemic",
-    accent: "#8a638f",
-    use: "Family patterns, repeated cycles, communication, roles, meaning, conflict, and relationship-based formulation.",
-    prompt: "The concern may be maintained by family patterns, relationship roles, service responses, or repeated cycles.",
-    test: [
-      "What pattern repeats, and what keeps it going?",
-      "How does each person make sense of the problem?",
-      "What would change if one part of the system responded differently?"
-    ],
-    links: ["theory-practice", "children", "foundations"]
-  },
-  {
-    id: "motivational-interviewing",
-    title: "Motivational Interviewing",
-    code: "MI",
-    accent: "#5f7896",
-    use: "Ambivalence, parental engagement, adolescent risk, substance use, resistance, and behaviour change conversations.",
-    prompt: "The parent or young person may be caught between reasons to change and reasons to keep things as they are.",
-    test: [
-      "What does the person want to be different?",
-      "What are their reasons for change and reasons against change?",
-      "Are we arguing for change so hard that the person argues against it?"
-    ],
-    links: ["theory-practice", "children", "cpd-log"]
-  },
-  {
-    id: "solution-focused",
-    title: "Solution-Focused Practice",
-    code: "SFBT",
-    accent: "#4f8a66",
-    use: "Goal-setting, exceptions, scaling, strengths, future-focused planning, and building on small signs of progress.",
-    prompt: "Small exceptions or signs of safety may reveal what can be repeated, strengthened, and built into the plan.",
-    test: [
-      "When is the problem slightly less serious?",
-      "What would one point higher on the safety scale look like?",
-      "What has the family already done that helped, even briefly?"
-    ],
-    links: ["foundations", "children", "templates"]
-  },
-  {
-    id: "pace",
-    title: "PACE and DDP-Informed Practice",
-    code: "PACE",
-    accent: "#b96371",
-    use: "Children affected by trauma, attachment disruption, care experience, shame, mistrust, and blocked trust.",
-    prompt: "The child may need relational safety through playfulness, acceptance, curiosity, and empathy before they can reflect or change.",
-    test: [
-      "How does the child's behaviour make sense as communication or protection?",
-      "How can adults stay curious without shaming or escalating?",
-      "What helps the child experience safety in the relationship?"
-    ],
-    links: ["theory-practice", "children", "rights"]
-  },
-  {
-    id: "safe-and-together",
-    title: "Safe and Together",
-    code: "S&T",
-    accent: "#cf7258",
-    use: "Domestic abuse-informed child welfare, perpetrator pattern mapping, protective parent strengths, and child impact.",
-    prompt: "Child safety work should focus on the perpetrator's pattern of behaviour and avoid blaming the non-abusive parent for the abuse.",
-    test: [
-      "What is the perpetrator's pattern and impact on the child?",
-      "What has the protective parent done to promote safety?",
-      "Does the plan increase accountability for the person causing harm?"
-    ],
-    links: ["safeguarding", "children", "rights"]
-  },
-  {
-    id: "gcp2",
-    title: "Graded Care Profile 2",
-    code: "GCP2",
-    accent: "#c5902d",
-    use: "Neglect assessment, evidence-based care mapping, physical care, safety, love and esteem, and developmental care.",
-    prompt: "The quality of care may need structured, observable mapping rather than vague descriptions of neglect.",
-    test: [
-      "Which care domains are strong, inconsistent, or harmful?",
-      "What evidence has been observed rather than assumed?",
-      "Is change measurable across time and review?"
-    ],
-    links: ["children", "safeguarding", "templates"]
-  },
-  {
-    id: "restorative-practice",
-    title: "Restorative Practice",
-    code: "Restore",
-    accent: "#287c8f",
-    use: "Repair, accountability, family meetings, school relationships, conflict, shame, and shared problem-solving.",
-    prompt: "Progress may come through relationship repair, accountability, and shared planning rather than only professional direction.",
-    test: [
-      "Who has been affected and what do they need?",
-      "What repair or accountability is realistic and safe?",
-      "How will the meeting avoid blame and keep the child central?"
-    ],
-    links: ["children", "foundations", "templates"]
-  }
-];
-
-const childModelSignals = [
-  {
-    id: "child-protection",
-    label: "Child protection concerns, safety planning, or danger statements are needed.",
-    detail: "The work needs clear worries, existing safety, safety goals, family network planning, and review.",
-    models: ["signs-of-safety", "family-group-conference", "family-safeguarding", "systemic-practice", "solution-focused"]
-  },
-  {
-    id: "neglect",
-    label: "Neglect, home conditions, missed health needs, or inconsistent care are central.",
-    detail: "The assessment needs observable evidence, care domains, impact on the child, and change over time.",
-    models: ["gcp2", "signs-of-safety", "family-safeguarding", "solution-focused", "family-group-conference"]
-  },
-  {
-    id: "domestic-abuse",
-    label: "Domestic abuse is affecting the child or family safety.",
-    detail: "The plan needs perpetrator pattern analysis, protective parent strengths, child impact, and safe information sharing.",
-    models: ["safe-and-together", "family-safeguarding", "signs-of-safety", "family-group-conference", "contextual-safeguarding"]
-  },
-  {
-    id: "exploitation",
-    label: "Exploitation, adolescent risk, peer harm, school risk, or online/community harm is present.",
-    detail: "Risk may sit outside the home and require contextual mapping beyond parent-focused plans.",
-    models: ["contextual-safeguarding", "systemic-practice", "motivational-interviewing", "signs-of-safety", "restorative-practice"]
-  },
-  {
-    id: "care-experience",
-    label: "The child is in care, on the edge of care, returning home, or permanence is uncertain.",
-    detail: "The work needs belonging, stability, identity, relationships, family network options, and safe permanence planning.",
-    models: ["signs-of-wellbeing", "family-group-conference", "pace", "systemic-practice", "solution-focused"]
-  },
-  {
-    id: "trauma-attachment",
-    label: "Trauma, attachment disruption, mistrust, shame, or relational conflict is central.",
-    detail: "The child may need relational safety and adults who can stay curious, calm, boundaried, and empathic.",
-    models: ["pace", "systemic-practice", "signs-of-wellbeing", "restorative-practice", "motivational-interviewing"]
-  },
-  {
-    id: "family-network",
-    label: "There may be wider family or trusted network members who could help.",
-    detail: "The network may hold safe options for care, practical support, supervision, or belonging.",
-    models: ["family-group-conference", "signs-of-safety", "signs-of-wellbeing", "systemic-practice", "solution-focused"]
-  },
-  {
-    id: "ambivalence",
-    label: "A parent or young person feels ambivalent, defensive, stuck, or hard to engage.",
-    detail: "The work needs careful engagement, change talk, respect for autonomy, and clarity about non-negotiable safety.",
-    models: ["motivational-interviewing", "solution-focused", "signs-of-safety", "pace", "restorative-practice"]
-  },
-  {
-    id: "repair",
-    label: "There has been conflict, harm, school exclusion, relationship breakdown, or a need for repair.",
-    detail: "The work may need accountability, safe dialogue, relationship repair, and a shared plan.",
-    models: ["restorative-practice", "systemic-practice", "pace", "solution-focused", "family-group-conference"]
-  }
-];
-
-const glossaryTerms = [
-  { term: "Adult at risk", definition: "A shorthand phrase often used for an adult who may have care and support needs, may be experiencing or at risk of abuse or neglect, and may be unable to protect themselves because of those needs.", link: "safeguarding", section: "section-42-duty" },
-  { term: "Advocacy", definition: "Support to help a person be involved in decisions, express views, understand information, and challenge decisions where needed.", link: "care-act", section: "independent-advocacy" },
-  { term: "AMHP", definition: "Approved Mental Health Professional. A trained professional with specific responsibilities under the Mental Health Act, including independent social perspective and least restrictive analysis.", link: "mha", section: "amhp-role" },
-  { term: "Authorisation", definition: "A lawful approval for arrangements that would otherwise interfere with rights, such as DoLS authorisation or Court of Protection authorisation.", link: "dols", section: "dols-assessments" },
-  { term: "Best interests", definition: "The decision-making process used under the MCA when a person lacks capacity for a specific decision. It must consider wishes, feelings, beliefs, values, consultation, and least restriction.", link: "mca", section: "best-interests" },
-  { term: "Care and support needs", definition: "Needs that may arise from physical, mental, sensory, cognitive, or other impairment or illness and may affect daily living outcomes.", link: "care-act", section: "assessment-duty" },
-  { term: "Carer's assessment", definition: "A Care Act assessment for a carer who may have support needs, including willingness and ability to continue caring and impact on wellbeing.", link: "care-act", section: "carers" },
-  { term: "Contextual Safeguarding", definition: "A safeguarding approach that looks at extra-familial harm in peer groups, schools, neighbourhoods, transport, online spaces, and other contexts beyond the home.", link: "children-models", section: "contextual-safeguarding" },
-  { term: "Coercion", definition: "Pressure, control, intimidation, or manipulation that can undermine apparent consent, choice, or free expression.", link: "safeguarding", section: "consent-and-information-sharing" },
-  { term: "Decision-specific capacity", definition: "Capacity is assessed for the specific decision at the specific time, not as a general status.", link: "mca", section: "key-rule" },
-  { term: "Defensible recording", definition: "Recording that shows facts, evidence, analysis, law or policy considered, options, rationale, dissent, and review.", link: "rights", section: "defensible-decision-making" },
-  { term: "Deprivation of liberty", definition: "A serious restriction of liberty requiring careful legal analysis, least restrictive thinking, and the correct authorisation route where Article 5 is engaged.", link: "dols", section: "current-position-july-2026" },
-  { term: "DoLS", definition: "Deprivation of Liberty Safeguards. A statutory process for authorising deprivation of liberty in hospitals and care homes where the legal criteria are met.", link: "dols", section: "when-to-consider-dols" },
-  { term: "Eligible needs", definition: "Needs that meet the Care Act eligibility framework after considering impairment or illness, inability to achieve specified outcomes, and significant impact on wellbeing.", link: "care-act", section: "eligibility" },
-  { term: "Family Group Conference", definition: "A family-led planning process where the wider family network is supported to make a safe plan for a child, subject to professional safety checks and review.", link: "children-models", section: "family-group-conferencing" },
-  { term: "Family Safeguarding", definition: "A whole-family model that connects child protection with adult-facing work around domestic abuse, mental health, substance misuse, and parenting capacity.", link: "children-models", section: "family-safeguarding" },
-  { term: "GCP2", definition: "Graded Care Profile 2. A structured tool used in some areas to assess the quality of care and support analysis of neglect.", link: "children-models", section: "graded-care-profile-2" },
-  { term: "Human rights analysis", definition: "A structured check of rights such as liberty, family life, dignity, life, non-discrimination, and fair process.", link: "rights", section: "human-rights-act" },
-  { term: "IMCA", definition: "Independent Mental Capacity Advocate. A safeguard for certain serious decisions where a person lacks capacity and has no appropriate person to consult.", link: "mca", section: "imca" },
-  { term: "Least restrictive option", definition: "The option that meets the legitimate aim while interfering least with the person's rights, freedoms, relationships, and autonomy.", link: "mca", section: "the-five-principles" },
-  { term: "Making Safeguarding Personal", definition: "A person-led approach to safeguarding that focuses on the adult's views, desired outcomes, rights, safety, and control.", link: "safeguarding", section: "making-safeguarding-personal" },
-  { term: "Mental disorder", definition: "The Mental Health Act uses this broad concept when considering assessment or treatment under the Act. Practitioners must check current law, Code of Practice, and local policy.", link: "mha", section: "core-principles-in-practice" },
-  { term: "Motivational Interviewing", definition: "A collaborative approach to conversations about change, useful where a parent or young person feels ambivalent, stuck, defensive, or unsure.", link: "children-models", section: "motivational-interviewing" },
-  { term: "Ordinary residence", definition: "A Care Act concept used to decide which local authority is responsible for meeting eligible needs in some situations.", link: "care-act", section: "ordinary-residence-and-moving-areas" },
-  { term: "PACE", definition: "Playfulness, Acceptance, Curiosity, and Empathy. A relationship-based stance often used in trauma and attachment-informed work with children.", link: "children-models", section: "pace-and-ddp-informed-practice" },
-  { term: "Person-centred", definition: "Practice that keeps the person's voice, outcomes, rights, culture, relationships, strengths, and lived experience central.", link: "foundations", section: "core-social-work-tasks" },
-  { term: "Professional curiosity", definition: "The habit of respectfully looking beyond first accounts, testing assumptions, noticing patterns, and seeking missing information.", link: "foundations", section: "professional-curiosity" },
-  { term: "Proportionality", definition: "A rights-based test of whether an intervention is suitable, necessary, and balanced against the impact on the person.", link: "rights", section: "human-rights-act" },
-  { term: "Reasonable adjustments", definition: "Changes that reduce disadvantage for disabled people and support fair access, communication, assessment, and involvement.", link: "rights", section: "reasonable-adjustments" },
-  { term: "Safe and Together", definition: "A domestic abuse-informed child welfare model that maps perpetrator patterns, protective parent strengths, and the impact on children.", link: "children-models", section: "safe-and-together" },
-  { term: "Section 42 enquiry", definition: "A Care Act safeguarding duty to make or cause enquiries where the statutory criteria are reasonably suspected.", link: "safeguarding", section: "section-42-duty" },
-  { term: "Section 117 aftercare", definition: "A joint aftercare duty for people detained under qualifying Mental Health Act sections, linked to needs arising from mental disorder.", link: "mha", section: "section-117-aftercare" },
-  { term: "Self-neglect", definition: "A complex safeguarding and wellbeing concern involving serious neglect of personal care, health, home environment, or safety.", link: "safeguarding", section: "self-neglect" },
-  { term: "Signs of Safety", definition: "A child protection practice approach using clear worries, what is working well, what needs to happen, safety goals, scaling, and family network planning.", link: "children-models", section: "signs-of-safety" },
-  { term: "Solution-Focused Practice", definition: "A practice approach that explores goals, exceptions, scaling, strengths, and small signs of progress that can be repeated.", link: "children-models", section: "solution-focused-practice" },
-  { term: "Substantial difficulty", definition: "A Care Act advocacy concept covering serious difficulty understanding, retaining, using or weighing information, or communicating views.", link: "care-act", section: "independent-advocacy" },
-  { term: "Transition assessment", definition: "Assessment for young people or carers approaching adulthood where likely adult care and support needs may arise.", link: "children", section: "transition-to-adulthood" },
-  { term: "Wellbeing", definition: "A broad Care Act concept covering dignity, physical and mental health, protection from abuse, control, relationships, accommodation, participation, and contribution to society.", link: "care-act", section: "core-principle-wellbeing" }
-];
-
-const scenarioWorkouts = [
-  {
-    title: "Care Act and Carer Stress",
-    summary: "Falls, home support, carer strain, prevention, and staying at home safely.",
-    routes: ["care-act", "templates"],
-    prompts: ["What appears to need assessment?", "How would you explore carer willingness and sustainability?", "What preventive support could reduce crisis?"],
-    reveal: "Do not treat 'I want to stay home' as the whole plan. Analyse needs, outcomes, carer impact, contingency, equipment, therapy, respite, and review."
-  },
-  {
-    title: "Capacity and Unwise Decision",
-    summary: "Diabetes, grief, risk-taking, and the difference between incapacity and an unwise decision.",
-    routes: ["mca", "care-act", "rights"],
-    prompts: ["What is the exact decision?", "What support has been offered?", "What evidence shows use or weighing?"],
-    reveal: "Risk-taking is not proof of incapacity. Look at the functional test, emotional context, support, grief, mental health, and alternative care responses."
-  },
-  {
-    title: "DoLS After the 2026 Judgment",
-    summary: "Care home restrictions, fluctuating dementia, sedating medication, leaving, and objection.",
-    routes: ["dols", "mca"],
-    prompts: ["What restrictions are in place?", "What are the person's wishes and feelings?", "Which authorisation route may be needed?"],
-    reveal: "Use a multifactorial assessment, explore consent and objection carefully, and seek DoLS or legal advice where Article 5 may be engaged."
-  },
-  {
-    title: "MHA, MCA, or DoLS?",
-    summary: "A&E crisis, psychosis, risk, wanting to leave, and choosing the correct legal route.",
-    routes: ["mha", "mca", "dols"],
-    prompts: ["What is the purpose of detention?", "Is mental health assessment or treatment required?", "What can MCA still cover?"],
-    reveal: "Do not use MCA/DoLS to avoid the MHA where detention for mental health assessment or treatment is required. Keep least restriction and immediate safety in view."
-  },
-  {
-    title: "Adult Safeguarding and Coercion",
-    summary: "Care and support needs, financial control, coercion, apparent refusal, and safe enquiry.",
-    routes: ["safeguarding", "mca", "rights"],
-    prompts: ["Are Section 42 criteria reasonably suspected?", "Can apparent refusal be relied upon?", "How will you speak to the adult safely?"],
-    reveal: "Coercion can undermine apparent consent. Explore private conversation, capacity, information sharing, immediate safety, advocacy, and desired outcomes."
-  },
-  {
-    title: "Transition",
-    summary: "Young person aged 17, EHCP, short breaks, adulthood planning, and voice.",
-    routes: ["children", "care-act", "mca"],
-    prompts: ["Is a transition assessment needed?", "What needs to happen before age 18?", "How will the young person's voice be supported?"],
-    reveal: "Transition should start early enough to be useful and connect housing, education, occupation, relationships, health, care, family, and MCA from 16."
-  },
-  {
-    title: "Organisational Abuse",
-    summary: "Care home concerns, pressure damage, blanket restrictions, records, and multi-agency response.",
-    routes: ["safeguarding", "dols", "mca"],
-    prompts: ["Is this individual safeguarding, organisational safeguarding, or both?", "What immediate protection is needed?", "Which records and partners matter?"],
-    reveal: "Patterns matter. Consider safeguarding, commissioning, CQC, police, MCA, DoLS, provider action, family communication, and individual protection plans."
-  }
-];
-
-const printableTemplates = [
-  {
-    id: "care-act-template",
-    title: "Care Act Assessment Prompt",
-    fileName: "care-act-assessment-prompt.txt",
-    body: `Care Act Assessment Prompt
-
-1. Person's own words and outcomes
-2. Communication, accessibility, advocacy, and reasonable adjustments
-3. Current situation, strengths, networks, and community links
-4. Daily living outcomes and impact on wellbeing
-5. Carer position and carer's assessment
-6. Capacity, consent, and information sharing
-7. Risk, safeguarding, and contingency
-8. Eligibility analysis
-9. Plan, personal budget or direct payment where relevant
-10. Review and what would trigger earlier review`
-  },
-  {
-    id: "mca-template",
-    title: "MCA Capacity and Best Interests Prompt",
-    fileName: "mca-capacity-best-interests-prompt.txt",
-    body: `MCA Capacity and Best Interests Prompt
-
-Decision:
-Relevant information:
-Support provided:
-Understand:
-Retain:
-Use or weigh:
-Communicate:
-Causative link:
-Conclusion:
-
-If the person lacks capacity:
-Wishes and feelings:
-Beliefs and values:
-Options:
-Consultation:
-Least restrictive option:
-Decision and rationale:
-Review:`
-  },
-  {
-    id: "safeguarding-template",
-    title: "Section 42 Safeguarding Prompt",
-    fileName: "section-42-safeguarding-prompt.txt",
-    body: `Section 42 Safeguarding Prompt
-
-Concern:
-Adult's views and desired outcomes:
-Care and support needs:
-Abuse, neglect, or risk:
-Unable to protect because of needs:
-Immediate safety:
-Capacity and consent:
-Advocacy:
-Information sharing:
-Decision:
-Enquiry plan:
-Protection plan:
-Review:`
-  },
-  {
-    id: "dols-template",
-    title: "Deprivation of Liberty Route Prompt",
-    fileName: "deprivation-of-liberty-route-prompt.txt",
-    body: `Deprivation of Liberty Route Prompt
-
-Person and setting:
-Care arrangements:
-Capacity for residence/care:
-Restrictions:
-Duration, effects, and manner:
-Wishes and feelings:
-Objection or acceptance:
-Consent analysis:
-Less restrictive options:
-Possible authorisation route:
-Advice needed:
-Review:`
-  },
-  {
-    id: "supervision-template",
-    title: "Supervision Reflection Prompt",
-    fileName: "supervision-reflection-prompt.txt",
-    body: `Supervision Reflection Prompt
-
-Case or learning theme:
-Person's voice:
-Key facts:
-Uncertainty:
-Legal framework:
-Rights and equality issues:
-Risk and protective factors:
-Options:
-Preferred plan:
-What I need from supervision:
-Next action:
-Review point:`
-  }
-];
-
-const studentPathwaySteps = [
-  { title: "Start With Values and Evidence", resource: "foundations", task: "Write one short case formulation using facts, analysis, law, plan, and review." },
-  { title: "Learn the Care Act Spine", resource: "care-act", task: "Map needs, outcomes, eligibility, advocacy, carer position, and review in one mock case." },
-  { title: "Practise Decision-Specific Capacity", resource: "mca", task: "Write one capacity assessment and identify what support was provided first." },
-  { title: "Understand Liberty and Restriction", resource: "dols", task: "List restrictions, wishes and feelings, consent, objection, setting, and authorisation route." },
-  { title: "Know When MHA May Be Needed", resource: "mha", task: "Compare MHA, MCA, and DoLS in one crisis scenario." },
-  { title: "Apply Safeguarding Thinking", resource: "safeguarding", task: "Make a Section 42 threshold decision and draft desired outcomes." },
-  { title: "Connect Family and Transition", resource: "children", task: "Identify adult, child, carer, young carer, SEND, and transition issues." },
-  { title: "Record Rights-Based Analysis", resource: "rights", task: "Record equality, human rights, proportionality, rationale, and review." }
-];
-
 function getInitialResourceId() {
   const params = new URLSearchParams(window.location.search);
   const requested = params.get("resource") || params.get("section") || window.location.hash.replace("#", "");
@@ -1244,9 +71,11 @@ function updateResourceUrl(id, targetSection = "") {
     return;
   }
   const url = new URL(window.location.href);
+  url.searchParams.set("jurisdiction", activeJurisdiction);
   url.searchParams.set("resource", id);
   url.hash = targetSection || "readerSection";
   window.history.replaceState(null, "", url);
+  activePackUrl = url.href;
 }
 
 function readStoredJson(key, fallback) {
@@ -1261,8 +90,10 @@ function readStoredJson(key, fallback) {
 function writeStoredJson(key, value) {
   try {
     window.localStorage.setItem(key, JSON.stringify(value));
+    return true;
   } catch {
-    // Browser storage can be blocked or unavailable; the learning tools still work for this session.
+    // Keep unsaved forms intact if browser storage is unavailable.
+    return false;
   }
 }
 
@@ -1270,8 +101,8 @@ const state = {
   activeId: getInitialResourceId(),
   query: "",
   documents: new Map(),
-  read: new Set(readStoredJson("socialWorkerResourceRead", [])),
-  confidence: readStoredJson("socialWorkerResourceConfidence", {})
+  read: new Set(),
+  confidence: {}
 };
 
 const navList = document.querySelector("#navList");
@@ -1491,20 +322,23 @@ function renderModuleCards() {
   `).join("");
 }
 
-async function loadDocuments() {
-  await Promise.all(resources.map(async (resource) => {
-    const response = await fetch(`${resource.path}?v=${contentVersion}`);
-    if (!response.ok) {
-      throw new Error(`Could not load ${resource.path}`);
+async function loadDocuments(packResources = resources) {
+  const documents = new Map();
+  await Promise.all(packResources.map(async (resource) => {
+    let markdown = resource.markdown;
+    if (markdown === undefined) {
+      const response = await fetch(`${resource.path}?v=${contentVersion}`);
+      if (!response.ok) throw new Error(`Could not load ${resource.path}`);
+      markdown = await response.text();
     }
-    const markdown = await response.text();
-    state.documents.set(resource.id, {
+    documents.set(resource.id, {
       ...resource,
       markdown,
       html: renderMarkdown(markdown),
       plain: markdown.replace(/[#*`>|-]/g, " ").replace(/\s+/g, " ").trim()
     });
   }));
+  return documents;
 }
 
 function renderNav() {
@@ -1551,6 +385,8 @@ function renderActiveResource(documentData) {
 }
 
 function sourceStatusFor(documentData) {
+  const names = { wales: "Wales", scotland: "Scotland", "northern-ireland": "Northern Ireland", ireland: "Ireland", "new-zealand": "Aotearoa New Zealand", "australia-nsw": "New South Wales", "australia-victoria": "Victoria", "canada-ontario": "Ontario", "canada-british-columbia": "British Columbia", "united-states-california": "California", "united-states-new-york": "New York" };
+  if (activeJurisdiction !== "england" && names[activeJurisdiction]) return { label: `${names[activeJurisdiction]} practice guide`, text: "Final learning guide · See the Source Library for references and review information. Check the applicable official guidance for live work." };
   if (documentData.group === "Website") {
     return {
       label: "Website info",
@@ -1969,7 +805,7 @@ function glossaryMarkup() {
       </div>
       <label class="tool-search">
         <span>Find a term</span>
-        <input id="glossarySearch" type="search" placeholder="Capacity, Section 42, advocacy..." autocomplete="off">
+        <input id="glossarySearch" type="search" placeholder="${activeJurisdiction === "wales" ? "ALN, advocacy, capacity..." : "Capacity, Section 42, advocacy..."}" autocomplete="off">
       </label>
       <div class="glossary-letters" aria-label="Glossary letters">
         ${letters.map((letter) => `
@@ -2021,7 +857,7 @@ function scenarioHubMarkup() {
       <div class="tool-panel-head">
         <span class="panel-kicker">Scenario Workout</span>
         <h2 id="scenarioHubTitle">Interactive practice scenarios</h2>
-        <p>Use these cards for supervision, ASYE learning, workshops, or private study. Think first, then reveal the practice points.</p>
+        <p>Use these cards for supervision, professional learning, workshops, or private study. Think first, then reveal the practice points.</p>
       </div>
       <div class="scenario-grid">
         ${scenarioWorkouts.map((scenario, index) => `
@@ -2165,11 +1001,11 @@ function cpdLogMarkup() {
 }
 
 function getCpdEntries() {
-  return readStoredJson("socialWorkerResourceCpdEntries", []);
+  return readJurisdictionStored("socialWorkerResourceCpdEntries", []);
 }
 
 function saveCpdEntries(entries) {
-  writeStoredJson("socialWorkerResourceCpdEntries", entries);
+  return writeStoredJson(jurisdictionStorageKey("socialWorkerResourceCpdEntries"), entries);
 }
 
 function currentRegistrationYearLabel(date = new Date()) {
@@ -2263,6 +1099,7 @@ function renderCpdRequirementStatus() {
 }
 
 function renderCpdEntries() {
+  if (activeJurisdiction !== "england") return renderWalesCpdEntries();
   const entryList = document.querySelector("#cpdEntries");
   if (!entryList) {
     return;
@@ -2361,6 +1198,7 @@ function renderConfidenceOverview() {
 }
 
 function exportCpdLog() {
+  if (activeJurisdiction !== "england") return exportWalesCpd();
   const entries = getCpdEntries();
   const content = entries.length
     ? entries.map((entry) => [
@@ -2420,6 +1258,7 @@ function cpdPrintableEntryMarkup(entry, index) {
 }
 
 function printCpdLog() {
+  if (activeJurisdiction !== "england") return printWalesCpd();
   const entries = getCpdEntries();
   const printWindow = window.open("", "_blank", "width=900,height=700");
   if (!printWindow) {
@@ -2543,7 +1382,7 @@ function printableToolsMarkup() {
         ${printableTemplates.map((template) => `
           <article class="download-card">
             <h3>${escapeHtml(template.title)}</h3>
-            <p>${escapeHtml(template.body.split("\n").slice(2, 5).join(" "))}</p>
+            <p>${escapeHtml(template.summary || template.body.split("\n").slice(2, 5).join(" "))}</p>
             <button class="inline-open" type="button" data-download-template="${template.id}">Download prompt</button>
           </article>
         `).join("")}
@@ -2568,9 +1407,9 @@ function studentPathwayMarkup() {
   return `
     <section class="tool-panel pathway-panel" aria-labelledby="pathwayTitle">
       <div class="tool-panel-head">
-        <span class="panel-kicker">Student and ASYE Route</span>
+        <span class="panel-kicker">${activeJurisdiction !== "england" ? "Student and newly qualified route" : "Student and ASYE Route"}</span>
         <h2 id="pathwayTitle">Build confidence step by step</h2>
-        <p>Use this route for placement learning, ASYE evidence, supervision preparation, and practice educator conversations.</p>
+        <p>${activeJurisdiction !== "england" ? "Use this route for placement learning, supervision and practice educator conversations." : "Use this route for placement learning, ASYE evidence, supervision preparation, and practice educator conversations."}</p>
       </div>
       <div class="pathway-steps">
         ${studentPathwaySteps.map((step, index) => {
@@ -2665,6 +1504,11 @@ function renderFlashcards(filter = "all") {
 }
 
 function enhanceResource(documentData) {
+  if (activeJurisdiction !== "england" && documentData.id === "cpd-log") {
+    contentView.insertAdjacentHTML("beforeend", walesCpdMarkup());
+    renderWalesCpdEntries();
+    return;
+  }
   if (documentData.id === "case-route-finder") {
     contentView.insertAdjacentHTML("beforeend", routeFinderMarkup());
     renderRouteFinderResults();
@@ -2692,7 +1536,7 @@ function enhanceResource(documentData) {
   if (documentData.id === "scenarios") {
     contentView.insertAdjacentHTML("afterbegin", scenarioHubMarkup());
   }
-  if (documentData.id === "student-asye-pathway") {
+  if (["student-asye-pathway", "student-pathway"].includes(documentData.id)) {
     contentView.insertAdjacentHTML("beforeend", studentPathwayMarkup());
   }
   if (documentData.id === "theory-practice") {
@@ -2749,6 +1593,7 @@ function scrollToContentSection(sectionId) {
 }
 
 function openResource(id, shouldScroll = true, targetSection = "") {
+  if (!stashCpdDraft()) return;
   const documentData = state.documents.get(id);
   if (!documentData) {
     return;
@@ -2760,6 +1605,7 @@ function openResource(id, shouldScroll = true, targetSection = "") {
   renderSearch();
   contentView.innerHTML = documentData.html;
   enhanceResource(documentData);
+  restoreCpdDraft();
   renderActiveResource(documentData);
   renderToc();
   renderNav();
@@ -2792,11 +1638,11 @@ function renderProgress() {
 }
 
 function persistRead() {
-  writeStoredJson("socialWorkerResourceRead", [...state.read]);
+  writeStoredJson(jurisdictionStorageKey("socialWorkerResourceRead"), [...state.read]);
 }
 
 function persistConfidence() {
-  writeStoredJson("socialWorkerResourceConfidence", state.confidence);
+  writeStoredJson(jurisdictionStorageKey("socialWorkerResourceConfidence"), state.confidence);
 }
 
 function getSearchMatches(query) {
@@ -2851,7 +1697,7 @@ function renderSearch() {
     <div class="search-results-header">
       <span class="panel-kicker">Live Search</span>
       <h2>${matches.length ? `${matches.length} result${matches.length === 1 ? "" : "s"} for "${escapeHtml(query)}"` : `No results for "${escapeHtml(query)}"`}</h2>
-      <p>${matches.length ? "Matching sections are shown below. Open a result to read the full learning page." : "Try a different term such as capacity, safeguarding, DoLS, eligibility, Section 42, or best interests."}</p>
+      <p>${matches.length ? "Matching sections are shown below. Open a result to read the full learning page." : "Try decision-making, safeguarding, support, rights or children."}</p>
     </div>
     ${matches.length ? `
       <div class="results-grid">
@@ -2876,7 +1722,7 @@ function renderSearch() {
         <span>${highlightText(match.title, query)}</span>
         <small>${highlightText(snippetFor(`${match.summary} ${match.plain}`, query), query)}</small>
       </button>
-    `).join("") : `<p>Try "capacity", "DoLS", "safeguarding", or "Care Act".</p>`}
+    `).join("") : `<p>Try "capacity", "support", "safeguarding", or "rights".</p>`}
   `;
 }
 
@@ -2950,7 +1796,7 @@ document.addEventListener("click", (event) => {
   const downloadAllTools = event.target.closest("[data-download-all-tools]");
   if (downloadAllTools) {
     downloadTextFile(
-      "social-worker-practice-prompts.txt",
+      `${activeJurisdiction}-social-worker-practice-prompts.txt`,
       printableTemplates.map((template) => template.body).join("\n\n====================\n\n")
     );
     return;
@@ -2977,7 +1823,10 @@ document.addEventListener("click", (event) => {
   const deleteCpd = event.target.closest("[data-delete-cpd]");
   if (deleteCpd) {
     const entries = getCpdEntries().filter((entry) => entry.id !== deleteCpd.dataset.deleteCpd);
-    saveCpdEntries(entries);
+    if (!saveCpdEntries(entries)) {
+      showJurisdictionMessage("Unable to update saved reflections in this browser. Please try again.");
+      return;
+    }
     renderCpdEntries();
     return;
   }
@@ -3051,7 +1900,11 @@ document.addEventListener("submit", (event) => {
   const formData = new FormData(form);
   const entries = getCpdEntries();
   entries.unshift({
-    id: String(Date.now()),
+    id: crypto.randomUUID(),
+    jurisdiction: activeJurisdiction,
+    regulator: activeJurisdiction === "england" ? "Social Work England" : activeJurisdiction === "wales" ? "Social Care Wales" : null,
+    professionalBody: packCache.get(activeJurisdiction)?.professionalBody || null,
+    schemaVersion: 2,
     date: new Date().toLocaleDateString("en-GB"),
     title: String(formData.get("title") || "").trim(),
     activityDate: String(formData.get("activityDate") || "").trim(),
@@ -3066,7 +1919,12 @@ document.addEventListener("submit", (event) => {
     peerLearning: String(formData.get("peerLearning") || "").trim(),
     action: String(formData.get("action") || "").trim()
   });
-  saveCpdEntries(entries);
+  if (!saveCpdEntries(entries)) {
+    showJurisdictionMessage("Unable to save in this browser. Your text is still here; copy it before leaving.");
+    return;
+  }
+  clearCpdDraft();
+  form.dataset.dirty = "false";
   form.reset();
   updateAllWordCounts();
   renderCpdEntries();
@@ -3099,15 +1957,4 @@ readerMarkReadButton.addEventListener("click", () => {
   showReaderSaveStatus(`${activeTitle.textContent} marked as read.`, true);
 });
 
-contentView.innerHTML = '<p class="loading">Loading resource...</p>';
-
-loadDocuments()
-  .then(() => {
-    renderNav();
-    renderModuleCards();
-    renderProgress();
-    openResource(state.activeId, false);
-  })
-  .catch((error) => {
-    contentView.innerHTML = `<p class="error">${escapeHtml(error.message)}</p>`;
-  });
+initializeJurisdictions();

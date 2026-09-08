@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow"><title>Source monitoring | Ultimate Social Worker Resource</title>
+  <link rel="icon" href="/assets/social-worker-resource-logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./dashboard.css"><script src="./dashboard.js" defer></script>
+</head>
+<body>
+  <main>
+    <a class="back" href="/">← Back to the learning guides</a>
+    <header><p class="eyebrow">ULTIMATE SOCIAL WORKER RESOURCE · EDITORIAL TOOLS</p><h1>Keep an eye on<br><span>what’s changing.</span></h1><p>Monthly observations of legislation, policy, professional standards and learning sources across our practice locations.</p><div class="tag">Stage 1 · Source monitoring</div></header>
+    <section class="controls" aria-label="Load monitoring report">
+      <form id="reportForm"><label>Report month<input id="month" type="month" required></label><label class="key">Monitoring access key<input id="token" type="password" autocomplete="off" placeholder="Required for the Netlify report"></label><button type="submit">Load report</button></form>
+      <div class="file-row"><label>Or open a saved report <input id="reportFile" type="file" accept=".json,application/json"></label><span>Your access key is kept only in this page’s memory.</span></div>
+    </section>
+    <p id="message" role="status" aria-live="polite">No report loaded. A first successful check establishes a baseline.</p>
+    <section id="report" hidden>
+      <div class="report-top"><h2 id="reportTitle">Source observations</h2><button id="download" type="button" class="secondary">Download report</button></div>
+      <p id="scope"></p>
+      <div id="stats" class="stats"></div>
+      <div class="filters"><label>Practice location<select id="location"><option value="all">All locations</option></select></label><label>Show<select id="status"><option value="attention">Needs attention</option><option value="all">All observations</option><option value="changed">Changes detected</option><option value="failed">Failed checks</option><option value="baseline">New baselines</option><option value="unchanged">No change detected</option></select></label></div>
+      <div id="batches" class="batches"></div><div id="results"></div>
+    </section>
+    <footer><strong>A successful source check is not a professional review.</strong> Checks cover the registered pages and feeds. They do not certify that guidance is current, determine when a law takes effect or check every linked document. Changes and failed checks need editorial attention. Learning content is never edited by this monitor.</footer>
+  </main>
+</body>
+</html>

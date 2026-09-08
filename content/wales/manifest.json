@@ -1,0 +1,1680 @@
+{
+  "id": "wales",
+  "label": "Wales practice guide",
+  "version": "2026-09-08-final-1",
+  "hero": "Explore social work in Wales: care and support, safeguarding, mental capacity, mental health, Welsh-language practice and professional reflection.",
+  "alerts": [
+    "Use Welsh care and support codes, Wales Safeguarding Procedures and ALN/IDP guidance.",
+    "Social Care Wales’s current professional Code applies from July 2026.",
+    "Liberty guidance changed in June 2026. Check current law and commencement of mental health reforms."
+  ],
+  "resources": [
+    {
+      "id": "readme",
+      "title": "Start Here — Wales",
+      "group": "Start",
+      "code": "00",
+      "accent": "#1f7a73",
+      "summary": "An introduction to the Wales learning guide.",
+      "topicId": "readme",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/readme.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "map",
+      "title": "Learning Map",
+      "group": "Start",
+      "code": "Map",
+      "accent": "#287c8f",
+      "summary": "A suggested route through the Wales guide.",
+      "topicId": "map",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/map.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "case-route-finder",
+      "title": "Case Route Finder",
+      "group": "Practice Tools",
+      "code": "Route",
+      "accent": "#1f7a73",
+      "summary": "Explore Welsh practice sources relevant to a situation.",
+      "topicId": "case-route-finder",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/case-route-finder.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "flashcards",
+      "title": "Learning Flashcards",
+      "group": "Learning Tools",
+      "code": "Cards",
+      "accent": "#cf7258",
+      "summary": "Forty revision cards across eight Wales learning modules.",
+      "topicId": "flashcards",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/flashcards.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "student-pathway",
+      "title": "Student and Newly Qualified Pathway",
+      "group": "Start",
+      "code": "NQSW",
+      "accent": "#5d9a68",
+      "summary": "A starting point for Welsh professional learning.",
+      "topicId": "student-pathway",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/student-pathway.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "glossary",
+      "title": "Practice Glossary",
+      "group": "Learning Tools",
+      "code": "A-Z",
+      "accent": "#8a638f",
+      "summary": "Search 28 Wales practice terms and open the relevant module.",
+      "topicId": "glossary",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/glossary.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "theory-practice",
+      "title": "Theory Into Practice",
+      "group": "Learning Tools",
+      "code": "Theory",
+      "accent": "#b96371",
+      "summary": "Explore theory lenses and test competing hypotheses in Welsh practice.",
+      "topicId": "theory-practice",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/theory-practice.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "children-models",
+      "title": "Children and Family Practice Models",
+      "group": "Learning Tools",
+      "code": "Child",
+      "accent": "#287c8f",
+      "summary": "Compare children’s practice models and identify questions for assessment.",
+      "topicId": "children-models",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/children-models.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "cpd-log",
+      "title": "CPD and Reflection Log",
+      "group": "Learning Tools",
+      "code": "CPD",
+      "accent": "#c5902d",
+      "summary": "A separate private reflection space for Wales.",
+      "topicId": "cpd-log",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/cpd-log.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "foundations",
+      "title": "Professional Foundations",
+      "group": "Modules",
+      "code": "01",
+      "accent": "#4f8a66",
+      "summary": "Values, professional standards, language and reflective practice in Wales.",
+      "topicId": "foundations",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/foundations.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "care-support",
+      "title": "Care and Support in Wales",
+      "group": "Modules",
+      "code": "02",
+      "accent": "#cf7258",
+      "summary": "Assessment, carers, advocacy, planning and the Welsh statutory framework.",
+      "topicId": "care-support",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/care-support.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "mca",
+      "title": "Mental Capacity Act 2005",
+      "group": "Modules",
+      "code": "03",
+      "accent": "#287c8f",
+      "summary": "Shared statutory context with Welsh practice and communication considerations.",
+      "topicId": "mca",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/mca.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "dols",
+      "title": "DoLS and Deprivation of Liberty",
+      "group": "Modules",
+      "code": "04",
+      "accent": "#c5902d",
+      "summary": "Welsh sources for liberty safeguards and restrictive care arrangements.",
+      "topicId": "dols",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/dols.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "mha",
+      "title": "Mental Health in Wales",
+      "group": "Modules",
+      "code": "05",
+      "accent": "#5f7896",
+      "summary": "Welsh Code of Practice, care pathways and mental health sources.",
+      "topicId": "mha",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/mha.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding Adults in Wales",
+      "group": "Modules",
+      "code": "06",
+      "accent": "#c85f5b",
+      "summary": "Adult-at-risk concerns, Welsh procedures and enquiry sources.",
+      "topicId": "safeguarding",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/safeguarding.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "children",
+      "title": "Children, Families and Transitions",
+      "group": "Modules",
+      "code": "07",
+      "accent": "#5d9a68",
+      "summary": "Welsh safeguarding, care and support, ALN and transition sources.",
+      "topicId": "children",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/children.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "rights",
+      "title": "Rights, Language and Recording",
+      "group": "Modules",
+      "code": "08",
+      "accent": "#8a638f",
+      "summary": "Participation, communication and evidence-led recording in Welsh practice.",
+      "topicId": "rights",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/rights.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "quick-reference",
+      "title": "Quick Reference",
+      "group": "Practice Tools",
+      "code": "Tool",
+      "accent": "#1f7a73",
+      "summary": "Official starting points for common Welsh practice topics.",
+      "topicId": "quick-reference",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/quick-reference.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "templates",
+      "title": "Templates and Checklists",
+      "group": "Practice Tools",
+      "code": "Tool",
+      "accent": "#cf7258",
+      "summary": "Ten Wales recording structures with individual and combined downloads.",
+      "topicId": "templates",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/templates.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "printable-tools",
+      "title": "Printable Tools",
+      "group": "Practice Tools",
+      "code": "Print",
+      "accent": "#c5902d",
+      "summary": "Download ten Wales practice prompts, individually or as a collection.",
+      "topicId": "printable-tools",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/printable-tools.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "scenarios",
+      "title": "Practice Scenarios",
+      "group": "Practice Tools",
+      "code": "Cases",
+      "accent": "#287c8f",
+      "summary": "Eight fictional cases with questions and worked discussions.",
+      "topicId": "scenarios",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/scenarios.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "sources",
+      "title": "Source Library",
+      "group": "Sources",
+      "code": "Refs",
+      "accent": "#5f7896",
+      "summary": "Official starting points for the Wales practice guide.",
+      "topicId": "sources",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/sources.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "about-us",
+      "title": "About Us",
+      "group": "Website",
+      "code": "About",
+      "accent": "#4f8a66",
+      "summary": "Daily Mindset Moments, Raymond Hill, the mission, and the wider product ecosystem.",
+      "topicId": "about-us",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/about-us.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "contact-us",
+      "title": "Contact Us",
+      "group": "Website",
+      "code": "Contact",
+      "accent": "#cf7258",
+      "summary": "Contact Daily Mindset Moments CIC about the resource, partnerships, and practical AI builds.",
+      "topicId": "contact-us",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/contact-us.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "privacy-policy",
+      "title": "Privacy Policy",
+      "group": "Website",
+      "code": "Privacy",
+      "accent": "#287c8f",
+      "summary": "How this resource handles local progress data, contact enquiries, and external links.",
+      "topicId": "privacy-policy",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/privacy-policy.md",
+      "sourceCheckedAt": "2026-09-08"
+    },
+    {
+      "id": "terms-of-service",
+      "title": "Terms of Service",
+      "group": "Website",
+      "code": "Terms",
+      "accent": "#5f7896",
+      "summary": "Use of the learning resource, legal disclaimer, acceptable use, and external services.",
+      "topicId": "terms-of-service",
+      "jurisdiction": "wales",
+      "status": "source-checked",
+      "practiceReviewedAt": null,
+      "path": "content/wales/resources/terms-of-service.md",
+      "sourceCheckedAt": "2026-09-08"
+    }
+  ],
+  "featuredIds": [
+    "foundations",
+    "care-support",
+    "mca",
+    "dols",
+    "mha",
+    "safeguarding",
+    "children",
+    "rights"
+  ],
+  "routeQuestions": [
+    {
+      "id": "care-needs",
+      "label": "Care or carer support needs",
+      "detail": "Explore the Welsh assessment, support and advocacy sources.",
+      "routes": [
+        "care-support",
+        "sources"
+      ]
+    },
+    {
+      "id": "capacity",
+      "label": "A decision-specific capacity question",
+      "detail": "Identify the decision and the support needed to participate.",
+      "routes": [
+        "mca",
+        "sources"
+      ]
+    },
+    {
+      "id": "restrictions",
+      "label": "Restrictions or liberty concerns",
+      "detail": "Describe the arrangements and seek current legal and local guidance.",
+      "routes": [
+        "dols",
+        "sources"
+      ]
+    },
+    {
+      "id": "mental-health",
+      "label": "Mental health support or compulsion questions",
+      "detail": "Check the Welsh Code and local professional advice routes.",
+      "routes": [
+        "mha",
+        "sources"
+      ]
+    },
+    {
+      "id": "abuse-neglect",
+      "label": "Abuse, neglect or safeguarding concerns",
+      "detail": "Explore the adult-at-risk framework and Welsh procedures.",
+      "routes": [
+        "safeguarding",
+        "sources"
+      ]
+    },
+    {
+      "id": "child-family",
+      "label": "A child, young carer or transition issue",
+      "detail": "Check Welsh safeguarding, care/support and ALN sources.",
+      "routes": [
+        "children",
+        "sources"
+      ]
+    },
+    {
+      "id": "rights",
+      "label": "Language, participation or recording concerns",
+      "detail": "Explore communication needs and the person’s participation.",
+      "routes": [
+        "rights",
+        "sources"
+      ]
+    },
+    {
+      "id": "learning",
+      "label": "Professional learning or supervision",
+      "detail": "Connect your reflection to the current Social Care Wales guidance.",
+      "routes": [
+        "foundations",
+        "sources"
+      ]
+    }
+  ],
+  "routeDetails": {
+    "care-support": {
+      "title": "Care and Support in Wales",
+      "action": "Explore the Welsh assessment, support and advocacy sources.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "mca": {
+      "title": "Mental Capacity Act 2005",
+      "action": "Identify the decision and the support needed to participate.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "dols": {
+      "title": "DoLS and Deprivation of Liberty",
+      "action": "Describe the arrangements and seek current legal and local guidance.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "mha": {
+      "title": "Mental Health in Wales",
+      "action": "Check the Welsh Code and local professional advice routes.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "safeguarding": {
+      "title": "Safeguarding Adults in Wales",
+      "action": "Explore the adult-at-risk framework and Welsh procedures.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "children": {
+      "title": "Children, Families and Transitions",
+      "action": "Check Welsh safeguarding, care/support and ALN sources.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "rights": {
+      "title": "Rights, Language and Recording",
+      "action": "Explore communication needs and the person’s participation.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "foundations": {
+      "title": "Professional Foundations",
+      "action": "Connect your reflection to the current Social Care Wales guidance.",
+      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+    },
+    "sources": {
+      "title": "Wales Source Library",
+      "action": "Open official sources and check current territorial scope, effective dates and local procedures.",
+      "record": "Record the source, date checked and any uncertainty for supervision."
+    }
+  },
+  "flashcardDecks": [
+    {
+      "id": "foundations",
+      "title": "Professional Foundations",
+      "cards": [
+        {
+          "prompt": "Which professional guidance applies in Wales?",
+          "answer": "The current Social Care Wales Code and social-worker practice guidance. Check the version and effective date."
+        },
+        {
+          "prompt": "What makes a formulation more than a list of events?",
+          "answer": "It separates evidence, the person’s perspective, possible explanations and a reasoned plan with a review point."
+        },
+        {
+          "prompt": "How do you test a strengths-based plan?",
+          "answer": "Ask whether the proposed support is available, wanted and sustainable; do not presume family or community support."
+        },
+        {
+          "prompt": "What does professional curiosity add?",
+          "answer": "Questions about discrepancies and alternative explanations, tested respectfully against evidence and the person’s account."
+        },
+        {
+          "prompt": "What should a reflection lead to?",
+          "answer": "A specific change, feedback or further enquiry and a way to review its impact in supervision."
+        }
+      ]
+    },
+    {
+      "id": "care-support",
+      "title": "Care and Support in Wales",
+      "cards": [
+        {
+          "prompt": "What is the main Welsh care and support framework?",
+          "answer": "The Social Services and Well-being (Wales) Act 2014, with the relevant regulations and Welsh codes."
+        },
+        {
+          "prompt": "Which assessment sections distinguish adults, children and carers?",
+          "answer": "Sections 19, 21 and 24 respectively. Read the applicable criteria and Part 3 Code for the actual duty."
+        },
+        {
+          "prompt": "Does a needs assessment establish what someone will pay?",
+          "answer": "No. Assessment, eligibility, meeting needs and charging are distinct stages with their own rules."
+        },
+        {
+          "prompt": "Can willingness to care be assumed from a family relationship?",
+          "answer": "No. Explore the carer’s own outcomes, ability and willingness, and the sustainability of proposed care."
+        },
+        {
+          "prompt": "What does advocacy planning require?",
+          "answer": "Identify barriers to participation, available support and whether independent professional advocacy is required under the Welsh framework."
+        }
+      ]
+    },
+    {
+      "id": "mca",
+      "title": "Mental Capacity Act 2005",
+      "cards": [
+        {
+          "prompt": "What decision does a capacity assessment address?",
+          "answer": "A specific decision at a particular time, after all practicable support; not global capacity."
+        },
+        {
+          "prompt": "Does a risky refusal establish incapacity?",
+          "answer": "No. Examine the decision-making process and statutory test, rather than whether professionals approve the outcome."
+        },
+        {
+          "prompt": "What are the functional abilities?",
+          "answer": "Understanding, retaining, using or weighing relevant information, and communicating a decision by any means."
+        },
+        {
+          "prompt": "What causal connection matters?",
+          "answer": "An inability to make the decision must result from an impairment of, or disturbance in, the functioning of mind or brain."
+        },
+        {
+          "prompt": "Does a best interests decision itself authorise deprivation of liberty?",
+          "answer": "No. Identify the appropriate separate authority where the arrangements amount to deprivation of liberty."
+        }
+      ]
+    },
+    {
+      "id": "dols",
+      "title": "DoLS and Deprivation of Liberty",
+      "cards": [
+        {
+          "prompt": "What changed in June 2026?",
+          "answer": "The Supreme Court departed from Cheshire West. Use the current judgment and Welsh guidance rather than the former acid test alone."
+        },
+        {
+          "prompt": "Is silence the same as valid consent?",
+          "answer": "No. Explore the person’s wishes and actual situation; mere acquiescence is insufficient."
+        },
+        {
+          "prompt": "Is Article 5 consent simply the same question as domestic MCA capacity?",
+          "answer": "No. The June 2026 judgment distinguishes these questions. Seek appropriate advice when applying it."
+        },
+        {
+          "prompt": "What must a restriction review describe?",
+          "answer": "The actual arrangements, setting, duration, intensity, effects, freedom to leave and the person’s account and objection."
+        },
+        {
+          "prompt": "Which settings are central to the DoLS administrative route?",
+          "answer": "Hospitals and care homes for adults aged 18 or over, subject to the statutory requirements. Other settings or ages need the appropriate legal route."
+        }
+      ]
+    },
+    {
+      "id": "mha",
+      "title": "Mental Health in Wales",
+      "cards": [
+        {
+          "prompt": "Which MHA Code applies to Wales?",
+          "answer": "The Welsh Code, read with the current Act, amendments and commencement information."
+        },
+        {
+          "prompt": "What distinguishes section 2 from section 3 in learning terms?",
+          "answer": "Section 2 concerns admission for assessment, potentially followed by treatment; section 3 concerns admission for treatment. Check all current statutory criteria."
+        },
+        {
+          "prompt": "Why separate the purpose of proposed interventions?",
+          "answer": "Mental health compulsion, physical treatment, care and accommodation may require different legal analyses and authorities."
+        },
+        {
+          "prompt": "What Welsh framework supports care coordination in secondary mental health services?",
+          "answer": "Part 2 of the Mental Health (Wales) Measure 2010 provides the relevant care coordination and care/treatment planning framework."
+        },
+        {
+          "prompt": "Does enactment of reform mean every provision is in force?",
+          "answer": "No. Check commencement and territorial application for the specific provision and date of the decision."
+        }
+      ]
+    },
+    {
+      "id": "safeguarding",
+      "title": "Safeguarding Adults in Wales",
+      "cards": [
+        {
+          "prompt": "What are the three adult-at-risk elements in section 126?",
+          "answer": "Abuse or neglect, or risk of it; care and support needs; and inability to protect oneself as a result of those needs."
+        },
+        {
+          "prompt": "Where is the Welsh local authority adult enquiry duty?",
+          "answer": "Section 126(2), where the authority has reasonable cause to suspect an adult in its area is an adult at risk."
+        },
+        {
+          "prompt": "What does section 128 concern?",
+          "answer": "Relevant partners’ duty to inform the local authority where the statutory adult-at-risk reporting conditions apply."
+        },
+        {
+          "prompt": "Must abuse be proved before reporting?",
+          "answer": "No. Follow the reporting threshold and Welsh procedures; do not delay a concern to conduct your own proof-gathering exercise."
+        },
+        {
+          "prompt": "How should apparent refusal under coercion be approached?",
+          "answer": "Arrange safe communication, explore the person’s account, capacity and coercion, and consider advocacy and lawful protective action."
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "title": "Children, Families and Transitions",
+      "cards": [
+        {
+          "prompt": "Which safeguarding procedure collection applies?",
+          "answer": "Wales Safeguarding Procedures and Welsh statutory guidance, alongside the applicable legislation."
+        },
+        {
+          "prompt": "What education plan terminology is used in Wales?",
+          "answer": "Additional learning needs (ALN) and individual development plans (IDPs). Check duties for the individual learner."
+        },
+        {
+          "prompt": "What should transition planning connect?",
+          "answer": "The young person’s wishes, education, health, care and support, housing, relationships, family support and continuity of services."
+        },
+        {
+          "prompt": "Does an IDP decide all social care responsibilities?",
+          "answer": "No. Education planning and care/support duties need coordinated but distinct consideration."
+        },
+        {
+          "prompt": "What makes a child-centred record?",
+          "answer": "The child’s own account and daily lived experience, supported communication, evidence, analysis and a plan they can understand."
+        }
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "Rights, Language and Recording",
+      "cards": [
+        {
+          "prompt": "What is an active offer of Welsh-language support?",
+          "answer": "Proactively making Welsh-language support available and arranging how the preference will be met, rather than waiting for repeated requests."
+        },
+        {
+          "prompt": "What should a reasonable adjustment record show?",
+          "answer": "The barrier, adjustment offered, whether it worked and what further action or review is needed."
+        },
+        {
+          "prompt": "Is consent always necessary for safeguarding information sharing?",
+          "answer": "No. Establish the lawful basis and justification, share relevant information proportionately and record the reasons."
+        },
+        {
+          "prompt": "How should disagreement appear in a record?",
+          "answer": "Identify who disagrees and why, separate views from evidence and analysis, and record response, escalation and review."
+        },
+        {
+          "prompt": "What makes a rights analysis practical?",
+          "answer": "Identify the right engaged, proposed interference, legal basis, alternatives and proportionality, then record the decision and review."
+        }
+      ]
+    }
+  ],
+  "glossaryTerms": [
+    {
+      "term": "Active Offer",
+      "definition": "Welsh-language health and care provision offered proactively; check the relevant guidance.",
+      "link": "rights"
+    },
+    {
+      "term": "Additional learning needs (ALN)",
+      "definition": "The Welsh education-support framework; consult the Code for the statutory definition and duties.",
+      "link": "children"
+    },
+    {
+      "term": "Advocacy",
+      "definition": "Support to help a person communicate and participate. Check which form of advocacy and duties apply.",
+      "link": "care-support"
+    },
+    {
+      "term": "Consolidation Programme",
+      "definition": "A Welsh professional development programme for newly qualified social workers; check individual requirements.",
+      "link": "student-pathway"
+    },
+    {
+      "term": "CPD",
+      "definition": "Continuing professional development: learning and reflection to improve practice.",
+      "link": "cpd-log"
+    },
+    {
+      "term": "DoLS",
+      "definition": "Deprivation of Liberty Safeguards. Check Welsh sources and current law for the relevant setting.",
+      "link": "dols"
+    },
+    {
+      "term": "Mental capacity",
+      "definition": "The decision-specific legal framework explored through the MCA and its Code.",
+      "link": "mca"
+    },
+    {
+      "term": "Social Care Wales",
+      "definition": "The source of the Welsh professional Code and registration guidance for social workers.",
+      "link": "foundations"
+    },
+    {
+      "term": "Adult at risk",
+      "definition": "The three-part section 126 definition combining abuse/neglect risk, care and support needs and resulting inability to protect oneself.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "AMHP",
+      "definition": "Approved Mental Health Professional: a statutory role in Mental Health Act processes, exercised through the applicable Welsh arrangements.",
+      "link": "mha"
+    },
+    {
+      "term": "Best interests",
+      "definition": "The MCA decision-making process for a person lacking capacity for the relevant decision; includes wishes, values, participation and alternatives.",
+      "link": "mca"
+    },
+    {
+      "term": "Care and support plan",
+      "definition": "A plan translating assessed needs and outcomes into agreed support, responsibilities and review under the Welsh framework.",
+      "link": "care-support"
+    },
+    {
+      "term": "Care Inspectorate Wales",
+      "definition": "The Welsh inspectorate relevant to regulated social care services; safeguarding and other agencies may also need involvement.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Care coordinator",
+      "definition": "The coordinating role within relevant secondary mental health care under the Welsh Measure framework.",
+      "link": "mha"
+    },
+    {
+      "term": "Carer assessment",
+      "definition": "Assessment of the carer’s own support needs and outcomes; family care should not simply be assumed.",
+      "link": "care-support"
+    },
+    {
+      "term": "Coercion",
+      "definition": "Pressure or control that may affect the person’s expressed wishes and ability to act freely; requires safe enquiry and careful analysis.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Eligibility",
+      "definition": "The legal criteria used to determine eligible needs; distinct from the assessment and charging processes.",
+      "link": "care-support"
+    },
+    {
+      "term": "IDP",
+      "definition": "Individual development plan under the Welsh additional learning needs framework.",
+      "link": "children"
+    },
+    {
+      "term": "IMCA",
+      "definition": "Independent Mental Capacity Advocate: a statutory advocacy role for specified circumstances under the MCA framework.",
+      "link": "mca"
+    },
+    {
+      "term": "Independent professional advocacy",
+      "definition": "Advocacy supporting participation under the Welsh social services framework; examine barriers and applicable duties.",
+      "link": "care-support"
+    },
+    {
+      "term": "Least restrictive option",
+      "definition": "Consider whether the purpose can be achieved with less interference in rights and freedom.",
+      "link": "rights"
+    },
+    {
+      "term": "Mental Health (Wales) Measure 2010",
+      "definition": "Welsh legislation addressing primary mental health support, secondary care coordination, assessment for eligible former users and advocacy.",
+      "link": "mha"
+    },
+    {
+      "term": "Ordinary residence",
+      "definition": "A legal concept relevant to allocating some social care responsibilities; cross-border cases require specific analysis.",
+      "link": "care-support"
+    },
+    {
+      "term": "Proportionality",
+      "definition": "A reasoned comparison of the intended benefit, interference with rights and less intrusive alternatives.",
+      "link": "rights"
+    },
+    {
+      "term": "Section 126 enquiry",
+      "definition": "The Welsh local authority enquiry duty when there is reasonable cause to suspect an adult at risk in its area.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Section 128 reporting",
+      "definition": "The relevant-partner duty to report an adult-at-risk concern to the local authority where the statutory conditions apply.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Transition",
+      "definition": "Coordinated preparation for changes in services and adulthood around the young person’s goals and continuity of support.",
+      "link": "children"
+    },
+    {
+      "term": "What matters conversation",
+      "definition": "An approach to understanding the person’s own outcomes, context, strengths and barriers; it does not replace legal assessment duties.",
+      "link": "care-support"
+    }
+  ],
+  "theoryLenses": [
+    {
+      "id": "ecological",
+      "title": "Ecological Systems Theory",
+      "code": "Eco",
+      "accent": "#1f7a73",
+      "focus": "Person, family, housing, community, services, poverty, policy, culture, and environment.",
+      "hypothesis": "The presenting issue may be shaped by pressures around the person, not only by individual behaviour or choice.",
+      "test": [
+        "What changed in the environment before the concern escalated?",
+        "Which systems are supporting the person, and which are adding pressure?",
+        "Would risk reduce if housing, income, access, care, or community support changed?"
+      ],
+      "links": [
+        "care-support",
+        "rights",
+        "safeguarding"
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Strengths-Based Practice",
+      "code": "Strengths",
+      "accent": "#4f8a66",
+      "focus": "Capabilities, identity, relationships, community, culture, hope, and what is already working.",
+      "hypothesis": "The person may have protective strategies or relationships that are hidden by a risk-heavy professional account.",
+      "test": [
+        "What has helped the person survive or cope so far?",
+        "Who does the person trust, and what role could they safely play?",
+        "Which strengths are real evidence, and which are optimistic assumptions?"
+      ],
+      "links": [
+        "foundations",
+        "care-support",
+        "templates"
+      ]
+    },
+    {
+      "id": "trauma",
+      "title": "Trauma-Informed Practice",
+      "code": "Trauma",
+      "accent": "#cf7258",
+      "focus": "Safety, trust, choice, collaboration, empowerment, shame, threat responses, and control.",
+      "hypothesis": "Behaviour that looks like refusal, avoidance, anger, or disengagement may be a survival response to trauma, coercion, loss, or fear.",
+      "test": [
+        "What might feel unsafe or controlling from the person's perspective?",
+        "What helps the person feel more choice and predictability?",
+        "How can we avoid repeating patterns of powerlessness?"
+      ],
+      "links": [
+        "safeguarding",
+        "rights",
+        "foundations"
+      ]
+    },
+    {
+      "id": "attachment",
+      "title": "Attachment Theory",
+      "code": "Attach",
+      "accent": "#8a638f",
+      "focus": "Trust, separation, dependency, rejection, fear, care-seeking, and relationship patterns.",
+      "hypothesis": "Responses to professionals or carers may reflect previous experiences of care, loss, abandonment, or unsafe relationships.",
+      "test": [
+        "How does the person respond when support increases, reduces, or changes?",
+        "Are there patterns of clinging, pushing away, testing, mistrust, or fear?",
+        "What relationship approach is consistent, boundaried, and safe?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "foundations"
+      ]
+    },
+    {
+      "id": "systems",
+      "title": "Systems and Family Theory",
+      "code": "Systems",
+      "accent": "#287c8f",
+      "focus": "Roles, rules, communication, repeated patterns, conflict, care dynamics, and network effects.",
+      "hypothesis": "The concern may be maintained by relationship patterns, family roles, service responses, or network conflict.",
+      "test": [
+        "Who gains or loses if the current pattern changes?",
+        "What role has each person been placed in or taken on?",
+        "How do professional responses affect the family or network pattern?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "care-support"
+      ]
+    },
+    {
+      "id": "anti-oppressive",
+      "title": "Anti-Oppressive and Anti-Discriminatory Practice",
+      "code": "AOP",
+      "accent": "#b96371",
+      "focus": "Power, oppression, racism, disability, class, gender, sexuality, culture, age, stigma, and access.",
+      "hypothesis": "The presenting issue may be intensified by structural inequality, professional power, discrimination, or inaccessible services.",
+      "test": [
+        "What barriers has the person faced before we became involved?",
+        "Whose account is being treated as most credible, and why?",
+        "What reasonable adjustments, cultural humility, or advocacy are needed?"
+      ],
+      "links": [
+        "rights",
+        "foundations",
+        "templates"
+      ]
+    },
+    {
+      "id": "crisis",
+      "title": "Crisis Theory",
+      "code": "Crisis",
+      "accent": "#c5902d",
+      "focus": "Immediate stress, narrowed options, temporary disequilibrium, coping capacity, and stabilisation.",
+      "hypothesis": "The person or family may be temporarily overwhelmed and need stabilisation before longer-term planning is realistic.",
+      "test": [
+        "What immediate event or loss has exceeded usual coping?",
+        "What needs to happen in the next 24 to 72 hours?",
+        "What can wait until safety, sleep, food, medication, or support is more stable?"
+      ],
+      "links": [
+        "mha",
+        "safeguarding",
+        "quick-reference"
+      ]
+    },
+    {
+      "id": "life-course",
+      "title": "Life Course Theory",
+      "code": "Life",
+      "accent": "#5d9a68",
+      "focus": "Transitions, cumulative disadvantage, ageing, identity, loss, timing, and turning points.",
+      "hypothesis": "Current risk or distress may connect to earlier life events, cumulative exclusion, transition, bereavement, or changing identity.",
+      "test": [
+        "What transitions or losses are happening now?",
+        "How has cumulative disadvantage shaped options and trust?",
+        "What strengths, relationships, or identities from earlier life still matter?"
+      ],
+      "links": [
+        "children",
+        "care-support",
+        "cpd-log"
+      ]
+    },
+    {
+      "id": "task-centred",
+      "title": "Task-Centred Practice",
+      "code": "Task",
+      "accent": "#5f7896",
+      "focus": "Specific problems, agreed goals, small steps, roles, review, and measurable change.",
+      "hypothesis": "The person may benefit from breaking an overwhelming issue into concrete, negotiated tasks with clear review.",
+      "test": [
+        "What problem does the person most want to work on first?",
+        "What is the smallest useful next step?",
+        "Who will do what, by when, and how will we know it helped?"
+      ],
+      "links": [
+        "templates",
+        "care-support",
+        "cpd-log"
+      ]
+    }
+  ],
+  "hypothesisSignals": [
+    {
+      "id": "self-neglect",
+      "label": "Self-neglect, hoarding, home conditions, or repeated crisis presentations.",
+      "detail": "Think about trauma, executive functioning, environment, identity, isolation, loss, and safeguarding thresholds.",
+      "theories": [
+        "trauma",
+        "ecological",
+        "life-course",
+        "strengths",
+        "crisis"
+      ]
+    },
+    {
+      "id": "refusal",
+      "label": "The person appears to refuse support, miss visits, or disengage.",
+      "detail": "Avoid jumping straight to non-compliance. Consider trust, trauma, power, communication, and whether the offer fits the person.",
+      "theories": [
+        "trauma",
+        "attachment",
+        "anti-oppressive",
+        "task-centred",
+        "strengths"
+      ]
+    },
+    {
+      "id": "family-conflict",
+      "label": "Family conflict, carer strain, coercion, or unclear roles are present.",
+      "detail": "Map roles, power, risk, protective factors, and what happens when professionals intervene.",
+      "theories": [
+        "systems",
+        "attachment",
+        "anti-oppressive",
+        "ecological",
+        "crisis"
+      ]
+    },
+    {
+      "id": "sudden-risk",
+      "label": "Risk has escalated quickly or a crisis is dominating the assessment.",
+      "detail": "Separate immediate stabilisation from longer-term formulation and legal route decisions.",
+      "theories": [
+        "crisis",
+        "ecological",
+        "task-centred",
+        "trauma"
+      ]
+    },
+    {
+      "id": "transition",
+      "label": "There is a transition: adolescence to adulthood, hospital discharge, bereavement, moving home, or ageing.",
+      "detail": "Transitions can disrupt identity, support, eligibility, relationships, and coping.",
+      "theories": [
+        "life-course",
+        "ecological",
+        "systems",
+        "attachment"
+      ]
+    },
+    {
+      "id": "inequality",
+      "label": "Discrimination, poverty, inaccessible services, stigma, or cultural misunderstanding may be relevant.",
+      "detail": "Test whether systems are creating or worsening the difficulty.",
+      "theories": [
+        "anti-oppressive",
+        "ecological",
+        "strengths",
+        "trauma"
+      ]
+    },
+    {
+      "id": "overwhelmed",
+      "label": "The person or carer feels overwhelmed and cannot see a way forward.",
+      "detail": "Consider crisis, small steps, stabilisation, advocacy, and practical environmental change.",
+      "theories": [
+        "crisis",
+        "task-centred",
+        "strengths",
+        "ecological"
+      ]
+    },
+    {
+      "id": "mistrust",
+      "label": "There is mistrust of professionals, fear of services, or repeated complaints.",
+      "detail": "Explore previous experiences, power, communication, consistency, and whether the person has reason to feel unsafe.",
+      "theories": [
+        "attachment",
+        "trauma",
+        "anti-oppressive",
+        "systems"
+      ]
+    }
+  ],
+  "childPracticeModels": [
+    {
+      "id": "signs-of-safety",
+      "title": "Signs of Safety",
+      "code": "SoS",
+      "accent": "#1f7a73",
+      "use": "Child protection mapping, danger statements, safety goals, family network work, scaling, and safety planning.",
+      "prompt": "What are we worried about, what is working well, and what needs to happen for the child to be safe enough?",
+      "test": [
+        "Can worries be written in plain language that the family understands?",
+        "What existing safety has been demonstrated, not just promised?",
+        "Who is in the family network and what role can they safely take?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "templates"
+      ]
+    },
+    {
+      "id": "signs-of-wellbeing",
+      "title": "Signs of Wellbeing, Success, and Belonging",
+      "code": "Belong",
+      "accent": "#5d9a68",
+      "use": "Family support, children in care, permanency, reunification, stability, identity, and belonging work.",
+      "prompt": "What would wellbeing, safety, permanence, connection, and belonging look like from the child's perspective?",
+      "test": [
+        "What does the child say or show about where they feel safe and connected?",
+        "What would meaningful stability look like in daily life?",
+        "How are family relationships, identity, culture, and belonging being protected?"
+      ],
+      "links": [
+        "children",
+        "rights",
+        "student-pathway"
+      ]
+    },
+    {
+      "id": "family-safeguarding",
+      "title": "Family Safeguarding",
+      "code": "Family",
+      "accent": "#cf7258",
+      "use": "Whole-family child protection where parental domestic abuse, mental health, substance misuse, trauma, or adult needs affect child safety.",
+      "prompt": "Child safety may improve when adult needs and risks are addressed alongside direct work with the child and family network.",
+      "test": [
+        "Which adult needs are directly affecting child safety or care?",
+        "Is the plan joined up across children's and adults' services?",
+        "Are adult-focused interventions linked to measurable child safety outcomes?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "theory-practice"
+      ]
+    },
+    {
+      "id": "contextual-safeguarding",
+      "title": "Contextual Safeguarding",
+      "code": "Context",
+      "accent": "#287c8f",
+      "use": "Extra-familial harm, exploitation, peer group risk, school, neighbourhood, online spaces, and adolescent safeguarding.",
+      "prompt": "Harm may be located outside the home, in peer, school, community, or online contexts that parents cannot control alone.",
+      "test": [
+        "Where is harm happening: home, school, peer group, community, online, or transport?",
+        "Which context needs intervention, not only which child or parent?",
+        "Who has power or influence in that context?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "rights"
+      ]
+    },
+    {
+      "id": "family-group-conference",
+      "title": "Family Group Conferencing",
+      "code": "FGC",
+      "accent": "#c5902d",
+      "use": "Family-led planning, kinship care, safety planning, pre-proceedings, reunification, and support network building.",
+      "prompt": "The wider family network may hold safe, practical solutions that have not yet been fully mapped or invited in.",
+      "test": [
+        "Who does the child identify as family or trusted network?",
+        "What information does the family need before private planning?",
+        "How will the plan be checked for safety, clarity, and review?"
+      ],
+      "links": [
+        "children",
+        "templates",
+        "rights"
+      ]
+    },
+    {
+      "id": "systemic-practice",
+      "title": "Systemic Practice",
+      "code": "Systemic",
+      "accent": "#8a638f",
+      "use": "Family patterns, repeated cycles, communication, roles, meaning, conflict, and relationship-based formulation.",
+      "prompt": "The concern may be maintained by family patterns, relationship roles, service responses, or repeated cycles.",
+      "test": [
+        "What pattern repeats, and what keeps it going?",
+        "How does each person make sense of the problem?",
+        "What would change if one part of the system responded differently?"
+      ],
+      "links": [
+        "theory-practice",
+        "children",
+        "foundations"
+      ]
+    },
+    {
+      "id": "motivational-interviewing",
+      "title": "Motivational Interviewing",
+      "code": "MI",
+      "accent": "#5f7896",
+      "use": "Ambivalence, parental engagement, adolescent risk, substance use, resistance, and behaviour change conversations.",
+      "prompt": "The parent or young person may be caught between reasons to change and reasons to keep things as they are.",
+      "test": [
+        "What does the person want to be different?",
+        "What are their reasons for change and reasons against change?",
+        "Are we arguing for change so hard that the person argues against it?"
+      ],
+      "links": [
+        "theory-practice",
+        "children",
+        "cpd-log"
+      ]
+    },
+    {
+      "id": "solution-focused",
+      "title": "Solution-Focused Practice",
+      "code": "SFBT",
+      "accent": "#4f8a66",
+      "use": "Goal-setting, exceptions, scaling, strengths, future-focused planning, and building on small signs of progress.",
+      "prompt": "Small exceptions or signs of safety may reveal what can be repeated, strengthened, and built into the plan.",
+      "test": [
+        "When is the problem slightly less serious?",
+        "What would one point higher on the safety scale look like?",
+        "What has the family already done that helped, even briefly?"
+      ],
+      "links": [
+        "foundations",
+        "children",
+        "templates"
+      ]
+    },
+    {
+      "id": "pace",
+      "title": "PACE and DDP-Informed Practice",
+      "code": "PACE",
+      "accent": "#b96371",
+      "use": "Children affected by trauma, attachment disruption, care experience, shame, mistrust, and blocked trust.",
+      "prompt": "The child may need relational safety through playfulness, acceptance, curiosity, and empathy before they can reflect or change.",
+      "test": [
+        "How does the child's behaviour make sense as communication or protection?",
+        "How can adults stay curious without shaming or escalating?",
+        "What helps the child experience safety in the relationship?"
+      ],
+      "links": [
+        "theory-practice",
+        "children",
+        "rights"
+      ]
+    },
+    {
+      "id": "safe-and-together",
+      "title": "Safe and Together",
+      "code": "S&T",
+      "accent": "#cf7258",
+      "use": "Domestic abuse-informed child welfare, perpetrator pattern mapping, protective parent strengths, and child impact.",
+      "prompt": "Child safety work should focus on the perpetrator's pattern of behaviour and avoid blaming the non-abusive parent for the abuse.",
+      "test": [
+        "What is the perpetrator's pattern and impact on the child?",
+        "What has the protective parent done to promote safety?",
+        "Does the plan increase accountability for the person causing harm?"
+      ],
+      "links": [
+        "safeguarding",
+        "children",
+        "rights"
+      ]
+    },
+    {
+      "id": "gcp2",
+      "title": "Graded Care Profile 2",
+      "code": "GCP2",
+      "accent": "#c5902d",
+      "use": "Neglect assessment, evidence-based care mapping, physical care, safety, love and esteem, and developmental care.",
+      "prompt": "The quality of care may need structured, observable mapping rather than vague descriptions of neglect.",
+      "test": [
+        "Which care domains are strong, inconsistent, or harmful?",
+        "What evidence has been observed rather than assumed?",
+        "Is change measurable across time and review?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "templates"
+      ]
+    },
+    {
+      "id": "restorative-practice",
+      "title": "Restorative Practice",
+      "code": "Restore",
+      "accent": "#287c8f",
+      "use": "Repair, accountability, family meetings, school relationships, conflict, shame, and shared problem-solving.",
+      "prompt": "Progress may come through relationship repair, accountability, and shared planning rather than only professional direction.",
+      "test": [
+        "Who has been affected and what do they need?",
+        "What repair or accountability is realistic and safe?",
+        "How will the meeting avoid blame and keep the child central?"
+      ],
+      "links": [
+        "children",
+        "foundations",
+        "templates"
+      ]
+    }
+  ],
+  "childModelSignals": [
+    {
+      "id": "child-protection",
+      "label": "Child protection concerns, safety planning, or danger statements are needed.",
+      "detail": "The work needs clear worries, existing safety, safety goals, family network planning, and review.",
+      "models": [
+        "signs-of-safety",
+        "family-group-conference",
+        "family-safeguarding",
+        "systemic-practice",
+        "solution-focused"
+      ]
+    },
+    {
+      "id": "neglect",
+      "label": "Neglect, home conditions, missed health needs, or inconsistent care are central.",
+      "detail": "The assessment needs observable evidence, care domains, impact on the child, and change over time.",
+      "models": [
+        "gcp2",
+        "signs-of-safety",
+        "family-safeguarding",
+        "solution-focused",
+        "family-group-conference"
+      ]
+    },
+    {
+      "id": "domestic-abuse",
+      "label": "Domestic abuse is affecting the child or family safety.",
+      "detail": "The plan needs perpetrator pattern analysis, protective parent strengths, child impact, and safe information sharing.",
+      "models": [
+        "safe-and-together",
+        "family-safeguarding",
+        "signs-of-safety",
+        "family-group-conference",
+        "contextual-safeguarding"
+      ]
+    },
+    {
+      "id": "exploitation",
+      "label": "Exploitation, adolescent risk, peer harm, school risk, or online/community harm is present.",
+      "detail": "Risk may sit outside the home and require contextual mapping beyond parent-focused plans.",
+      "models": [
+        "contextual-safeguarding",
+        "systemic-practice",
+        "motivational-interviewing",
+        "signs-of-safety",
+        "restorative-practice"
+      ]
+    },
+    {
+      "id": "care-experience",
+      "label": "The child is in care, on the edge of care, returning home, or permanence is uncertain.",
+      "detail": "The work needs belonging, stability, identity, relationships, family network options, and safe permanence planning.",
+      "models": [
+        "signs-of-wellbeing",
+        "family-group-conference",
+        "pace",
+        "systemic-practice",
+        "solution-focused"
+      ]
+    },
+    {
+      "id": "trauma-attachment",
+      "label": "Trauma, attachment disruption, mistrust, shame, or relational conflict is central.",
+      "detail": "The child may need relational safety and adults who can stay curious, calm, boundaried, and empathic.",
+      "models": [
+        "pace",
+        "systemic-practice",
+        "signs-of-wellbeing",
+        "restorative-practice",
+        "motivational-interviewing"
+      ]
+    },
+    {
+      "id": "family-network",
+      "label": "There may be wider family or trusted network members who could help.",
+      "detail": "The network may hold safe options for care, practical support, supervision, or belonging.",
+      "models": [
+        "family-group-conference",
+        "signs-of-safety",
+        "signs-of-wellbeing",
+        "systemic-practice",
+        "solution-focused"
+      ]
+    },
+    {
+      "id": "ambivalence",
+      "label": "A parent or young person feels ambivalent, defensive, stuck, or hard to engage.",
+      "detail": "The work needs careful engagement, change talk, respect for autonomy, and clarity about non-negotiable safety.",
+      "models": [
+        "motivational-interviewing",
+        "solution-focused",
+        "signs-of-safety",
+        "pace",
+        "restorative-practice"
+      ]
+    },
+    {
+      "id": "repair",
+      "label": "There has been conflict, harm, school exclusion, relationship breakdown, or a need for repair.",
+      "detail": "The work may need accountability, safe dialogue, relationship repair, and a shared plan.",
+      "models": [
+        "restorative-practice",
+        "systemic-practice",
+        "pace",
+        "solution-focused",
+        "family-group-conference"
+      ]
+    }
+  ],
+  "scenarioWorkouts": [
+    {
+      "title": "Care and carer support",
+      "summary": "Elin, 79, has fallen twice. Her daughter, who works nights, says she cannot continue daily visits. Elin wants to remain at home.",
+      "routes": [
+        "care-support",
+        "templates"
+      ],
+      "prompts": [
+        "Whose assessment is needed and what matters to each person?",
+        "What support is available without assuming the daughter will provide it?",
+        "How will you distinguish assessment, eligibility and charging?"
+      ],
+      "reveal": "Explore Elin’s outcomes, daily living, strengths and barriers, and assess the daughter’s own support needs. Discuss willingness and sustainability separately from affection. Compare home support, adaptations and other options with Elin; identify immediate support, responsible people and a review date. Financial circumstances do not replace the needs assessment."
+    },
+    {
+      "title": "Capacity and an unwise decision",
+      "summary": "Sian declines a proposed move after a tiring hospital stay. Staff say the risk means she lacks capacity. She has asked to speak Welsh.",
+      "routes": [
+        "mca",
+        "rights"
+      ],
+      "prompts": [
+        "What is the exact decision and why is capacity in doubt?",
+        "What practical support must come first?",
+        "What evidence would distinguish disagreement from inability to decide?"
+      ],
+      "reveal": "Arrange suitable timing, language and accessible information. Record Sian’s reasoning and how she uses or weighs the relevant options. Risk alone does not establish incapacity. If the statutory test is met, identify the decision-maker and a separate best interests process; assess any liberty issue separately."
+    },
+    {
+      "title": "Liberty and the person’s wishes",
+      "summary": "Carys lives in a care home with locked doors and staff accompanying trips. Sometimes she asks to leave; the record says she is settled.",
+      "routes": [
+        "dols",
+        "mca"
+      ],
+      "prompts": [
+        "What restrictions actually operate?",
+        "How will you explore wishes, objection and consent?",
+        "Which current Welsh advice and authorisation route needs checking?"
+      ],
+      "reveal": "Describe duration, intensity, freedom to leave, support and the person’s account. Apply current law following the June 2026 judgment, not the former acid test alone. Do not equate quiet behaviour with valid consent or incapacity with lack of consent for every purpose. Seek the appropriate DoLS or legal advice and record review and challenge arrangements."
+    },
+    {
+      "title": "Mental health crisis",
+      "summary": "Owain is distressed in an emergency department and wants to leave. The team is considering compulsory assessment. Physical treatment is also proposed.",
+      "routes": [
+        "mha",
+        "mca",
+        "rights"
+      ],
+      "prompts": [
+        "What is the immediate risk and purpose of each proposed intervention?",
+        "Who must assess the mental health legal route?",
+        "How will you address physical treatment and communication separately?"
+      ],
+      "reveal": "Involve the clinical team and AMHP through the local pathway. Identify the lawful authority for each intervention and available less restrictive options. Use the Welsh MHA Code and check the current provision and commencement position. A capacity assessment is not a general power to detain; physical treatment may involve a different legal analysis."
+    },
+    {
+      "title": "Adult at risk and financial control",
+      "summary": "Rhys has care and support needs. His relative controls his bank card and answers all questions. Rhys says there is no problem while the relative is beside him.",
+      "routes": [
+        "safeguarding",
+        "mca",
+        "rights"
+      ],
+      "prompts": [
+        "Do the facts give reasonable cause to suspect an adult at risk under section 126?",
+        "How can Rhys be heard safely and privately?",
+        "Which immediate reporting and protection steps are needed?"
+      ],
+      "reveal": "Consider abuse or neglect risk, care and support needs and ability to protect himself because of those needs. Follow Welsh reporting procedures, relevant section 128 duties and the local authority enquiry route. Explore coercion, advocacy and desired outcomes. Do not delay reporting while seeking proof, or treat apparent agreement as resolving the concern."
+    },
+    {
+      "title": "Transition and an IDP",
+      "summary": "Seren is 17, has an individual development plan and wants to attend college away from home. Her parent provides substantial daily support.",
+      "routes": [
+        "children",
+        "care-support",
+        "mca"
+      ],
+      "prompts": [
+        "What does Seren want and how will she participate?",
+        "Who is coordinating education, health, care and family support?",
+        "Which decisions and services need planning before adulthood?"
+      ],
+      "reveal": "Bring together Welsh care and support assessment, ALN/IDP planning, health and carer support. Name owners and dates for actions and clarify which decisions use the MCA from age 16. An IDP does not settle all social care duties. Plan continuity and disagreement routes instead of relying on an age-bound handover."
+    },
+    {
+      "title": "Organisational safeguarding",
+      "summary": "Several care-home residents have unexplained injuries and staff describe routine restrictions as policy. Records are inconsistent.",
+      "routes": [
+        "safeguarding",
+        "dols",
+        "mca"
+      ],
+      "prompts": [
+        "Which immediate individual protection steps are required?",
+        "What pattern needs a coordinated safeguarding response?",
+        "Which information and agencies must be involved?"
+      ],
+      "reveal": "Attend to each adult’s safety, wishes and needs while following Welsh safeguarding procedures. Preserve factual records, report concerns and consider police, commissioners and Care Inspectorate Wales as appropriate. Check individual capacity and liberty arrangements rather than treating a provider policy as legal authority."
+    },
+    {
+      "title": "Language and professional disagreement",
+      "summary": "A Welsh-speaking carer says meetings are inaccessible. A draft plan records agreement, but the carer reports feeling pressured.",
+      "routes": [
+        "rights",
+        "foundations",
+        "care-support"
+      ],
+      "prompts": [
+        "Whose account appears in the plan?",
+        "What changes would make the meeting accessible?",
+        "How will disagreement and the next review be recorded?"
+      ],
+      "reveal": "Speak directly with the carer using appropriate language support. Correct the record so that agreement, disagreement and professional analysis are distinct. Explore support needs and advocacy. Escalate unresolved access barriers and record who will act and how the carer can challenge the plan."
+    }
+  ],
+  "printableTemplates": [
+    {
+      "id": "care-support",
+      "title": "Care and support assessment",
+      "fileName": "wales-care-support-prompt.txt",
+      "body": "Care and support assessment\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/social-services-codes-practice\n\n1. Person’s account, language and communication\nNotes: \n\n2. What matters: outcomes and changes sought\nNotes: \n\n3. Strengths, relationships, environment and barriers\nNotes: \n\n4. Care and support needs and evidence\nNotes: \n\n5. Support for participation and advocacy\nNotes: \n\n6. Carer position, willingness and separate assessment\nNotes: \n\n7. Immediate needs and protective action\nNotes: \n\n8. Eligibility analysis under Welsh regulations and Code\nNotes: \n\n9. Options, agreed plan, responsibilities and contingency\nNotes: \n\n10. Charging or financial assessment addressed separately\nNotes: \n\n11. Disagreements, reasons, review date and challenge route\nNotes: ",
+      "summary": "Person’s account, language and communication; What matters: outcomes and changes sought; Strengths, relationships, environment and barriers."
+    },
+    {
+      "id": "carer",
+      "title": "Carer support assessment",
+      "fileName": "wales-carer-prompt.txt",
+      "body": "Carer support assessment\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/social-services-codes-practice\n\n1. Carer’s own account and desired outcomes\nNotes: \n\n2. Nature and impact of caring, including work, study and wellbeing\nNotes: \n\n3. Willingness and ability to continue: do not presume\nNotes: \n\n4. Current support and unmet support needs\nNotes: \n\n5. Language, participation and advocacy\nNotes: \n\n6. Assessment and eligibility analysis\nNotes: \n\n7. Support options, contingency and emergency contacts\nNotes: \n\n8. Agreed actions, responsible people and review\nNotes: ",
+      "summary": "Carer’s own account and desired outcomes; Nature and impact of caring, including work, study and wellbeing; Willingness and ability to continue: do not presume."
+    },
+    {
+      "id": "capacity",
+      "title": "Decision-specific capacity",
+      "fileName": "wales-capacity-prompt.txt",
+      "body": "Decision-specific capacity\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice\n\n1. Exact decision and time\nNotes: \n\n2. Reason to assess and relevant impairment or disturbance\nNotes: \n\n3. All practicable communication and decision support\nNotes: \n\n4. Relevant information and realistic options\nNotes: \n\n5. Person’s responses: understand, retain, use or weigh, communicate\nNotes: \n\n6. How any inability results from impairment or disturbance\nNotes: \n\n7. Evidence for conclusion and uncertainties\nNotes: \n\n8. Can the decision wait? Review trigger and date\nNotes: \n\n9. Next action and separate best interests process if required\nNotes: ",
+      "summary": "Exact decision and time; Reason to assess and relevant impairment or disturbance; All practicable communication and decision support."
+    },
+    {
+      "id": "best-interests",
+      "title": "Best interests decision",
+      "fileName": "wales-best-interests-prompt.txt",
+      "body": "Best interests decision\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice\n\n1. Decision, capacity finding and decision-maker\nNotes: \n\n2. Attorney/deputy/advance decision: validity and scope\nNotes: \n\n3. Person’s participation, wishes, feelings, beliefs and values\nNotes: \n\n4. Relevant circumstances and prospect of regaining capacity\nNotes: \n\n5. People consulted and their views\nNotes: \n\n6. Options, benefits, burdens and less restrictive alternatives\nNotes: \n\n7. Decision, rationale and unresolved disagreement\nNotes: \n\n8. Separate authority for restraint or deprivation of liberty where relevant\nNotes: \n\n9. Implementation, challenge route and review\nNotes: ",
+      "summary": "Decision, capacity finding and decision-maker; Attorney/deputy/advance decision: validity and scope; Person’s participation, wishes, feelings, beliefs and values."
+    },
+    {
+      "id": "adult-safeguarding",
+      "title": "Adult safeguarding: Wales",
+      "fileName": "wales-adult-safeguarding-prompt.txt",
+      "body": "Adult safeguarding: Wales\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://safeguarding.wales/\n\n1. Immediate safety or emergency response\nNotes: \n\n2. Factual concern, source, timing and evidence preserved\nNotes: \n\n3. Section 126 adult-at-risk criteria: analysis not just a tick\nNotes: \n\n4. Adult’s account, desired outcomes, communication and advocacy\nNotes: \n\n5. Safe contact, coercion and capacity questions\nNotes: \n\n6. Reporting under Welsh procedures and relevant section 128 duty\nNotes: \n\n7. Local authority enquiries and multi-agency responsibilities\nNotes: \n\n8. Information-sharing purpose, lawful justification and recipients\nNotes: \n\n9. Protection plan, person responsible, timescale and review\nNotes: \n\n10. Reasons for decisions and escalation of unresolved concerns\nNotes: ",
+      "summary": "Immediate safety or emergency response; Factual concern, source, timing and evidence preserved; Section 126 adult-at-risk criteria: analysis not just a tick."
+    },
+    {
+      "id": "liberty",
+      "title": "Liberty and restriction review",
+      "fileName": "wales-liberty-prompt.txt",
+      "body": "Liberty and restriction review\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty\n\n1. Setting, age and actual care arrangements\nNotes: \n\n2. Restrictions: type, intensity, duration and effects\nNotes: \n\n3. Person’s wishes, feelings, objection and support to express them\nNotes: \n\n4. Consent analysis under current law distinct from domestic capacity\nNotes: \n\n5. Current June 2026 judgment and Welsh guidance checked\nNotes: \n\n6. Less restrictive options considered\nNotes: \n\n7. DoLS, court or other legal route: advice and reasons\nNotes: \n\n8. Existing authorisation scope and conditions\nNotes: \n\n9. Representation, rights to challenge and urgent actions\nNotes: \n\n10. Review date and changes requiring earlier review\nNotes: ",
+      "summary": "Setting, age and actual care arrangements; Restrictions: type, intensity, duration and effects; Person’s wishes, feelings, objection and support to express them."
+    },
+    {
+      "id": "mental-health",
+      "title": "Mental health interface discussion",
+      "fileName": "wales-mental-health-prompt.txt",
+      "body": "Mental health interface discussion\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/mental-health-act-1983-code-practice\n\n1. Immediate safety, person’s account and communication needs\nNotes: \n\n2. Purpose of proposed intervention\nNotes: \n\n3. Clinical team and AMHP involvement\nNotes: \n\n4. Less restrictive support and alternatives\nNotes: \n\n5. Welsh Code and current statutory provision checked\nNotes: \n\n6. MHA/MCA/DoLS interface and reasons for proposed route\nNotes: \n\n7. Physical treatment considered separately\nNotes: \n\n8. Advocacy, rights information, family or carer involvement\nNotes: \n\n9. Care coordination, discharge and aftercare questions\nNotes: \n\n10. Responsibilities, escalation and review\nNotes: ",
+      "summary": "Immediate safety, person’s account and communication needs; Purpose of proposed intervention; Clinical team and AMHP involvement."
+    },
+    {
+      "id": "children-transition",
+      "title": "Child, family and transition planning",
+      "fileName": "wales-children-transition-prompt.txt",
+      "body": "Child, family and transition planning\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/additional-learning-needs-code\n\n1. Child or young person’s own words and aspirations\nNotes: \n\n2. Language, communication and participation\nNotes: \n\n3. Immediate safeguarding concerns and Welsh procedure\nNotes: \n\n4. Family strengths, support needs and young carer considerations\nNotes: \n\n5. ALN/IDP, education, health and care planning links\nNotes: \n\n6. Decisions and capacity framework where applicable\nNotes: \n\n7. Named coordinator, services and cross-border questions\nNotes: \n\n8. Actions before transition and continuity arrangements\nNotes: \n\n9. Carer support, disagreements and advocacy\nNotes: \n\n10. Review with the young person: dates and accountable people\nNotes: ",
+      "summary": "Child or young person’s own words and aspirations; Language, communication and participation; Immediate safeguarding concerns and Welsh procedure."
+    },
+    {
+      "id": "supervision",
+      "title": "Reflective supervision",
+      "fileName": "wales-supervision-prompt.txt",
+      "body": "Reflective supervision\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://socialcare.wales/codes-of-practice-and-guidance/practice-guidance-for-the-code-of-professional-practice\n\n1. Anonymised learning situation and your role\nNotes: \n\n2. Facts separated from reports and assumptions\nNotes: \n\n3. Person’s perspective and what influenced your judgement\nNotes: \n\n4. Competing hypotheses and contrary evidence\nNotes: \n\n5. Relevant Welsh sources and dates checked\nNotes: \n\n6. Power, language, equality and ethical tensions\nNotes: \n\n7. What went well and what needs to change\nNotes: \n\n8. Feedback and discussion with manager\nNotes: \n\n9. Action, evidence of impact and next review\nNotes: ",
+      "summary": "Anonymised learning situation and your role; Facts separated from reports and assumptions; Person’s perspective and what influenced your judgement."
+    },
+    {
+      "id": "chronology",
+      "title": "Chronology and analysis",
+      "fileName": "wales-chronology-prompt.txt",
+      "body": "Chronology and analysis\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://safeguarding.wales/\n\n1. Date/time of event and date information received\nNotes: \n\n2. Event, source and direct or reported evidence\nNotes: \n\n3. Person’s account and impact\nNotes: \n\n4. Action and rationale at the time\nNotes: \n\n5. Patterns, protective factors and alternative explanations\nNotes: \n\n6. Missing or contradictory evidence\nNotes: \n\n7. Current risk and proportionate action\nNotes: \n\n8. Responsible person, deadline and review\nNotes: ",
+      "summary": "Date/time of event and date information received; Event, source and direct or reported evidence; Person’s account and impact."
+    }
+  ],
+  "studentPathwaySteps": [
+    {
+      "title": "Professional foundations",
+      "resource": "foundations",
+      "task": "Write a case formulation distinguishing facts, the person’s account and your analysis."
+    },
+    {
+      "title": "Care and carer support",
+      "resource": "care-support",
+      "task": "Assess a fictional adult and carer separately; distinguish needs, eligibility and financial assessment."
+    },
+    {
+      "title": "Capacity and decisions",
+      "resource": "mca",
+      "task": "Define one decision, provide support and explain the evidence for your conclusion."
+    },
+    {
+      "title": "Liberty and rights",
+      "resource": "dols",
+      "task": "Describe restrictions and wishes; identify the current source and authorisation question."
+    },
+    {
+      "title": "Mental health routes",
+      "resource": "mha",
+      "task": "Compare the purpose and legal basis of mental health and physical healthcare interventions."
+    },
+    {
+      "title": "Adult safeguarding",
+      "resource": "safeguarding",
+      "task": "Apply the section 126 framework to the Rhys scenario and plan safe reporting."
+    },
+    {
+      "title": "Children and transition",
+      "resource": "children",
+      "task": "Map an IDP and care/support transition plan around the young person’s voice."
+    },
+    {
+      "title": "Rights and reflection",
+      "resource": "rights",
+      "task": "Record language support, disagreement, proportionate action and a review date."
+    }
+  ],
+  "toolCount": 9,
+  "releaseStatus": "final"
+}

@@ -2067,6 +2067,7 @@ mark {
     box-shadow: var(--shadow-lift);
     padding: 12px;
     opacity: 0;
+    visibility: hidden;
     pointer-events: none;
     transform: translateY(-8px);
     transition: opacity 0.2s ease, transform 0.2s ease;
@@ -2075,6 +2076,7 @@ mark {
 
   .site-header.nav-open .header-nav {
     opacity: 1;
+    visibility: visible;
     pointer-events: auto;
     transform: translateY(0);
   }
@@ -2313,3 +2315,120 @@ mark {
     padding: 0;
   }
 }
+.jurisdiction-bar {
+  background: #e8f1ec;
+  border-bottom: 1px solid #bdcec3;
+  padding: 16px 24px;
+}
+.jurisdiction-bar-inner {
+  max-width: 1440px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+}
+.jurisdiction-bar label { font-weight: 800; color: #173f37; }
+.jurisdiction-bar select {
+  font: inherit;
+  color: #173f37;
+  background: white;
+  border: 1px solid #77998b;
+  border-radius: 8px;
+  padding: 10px 36px 10px 12px;
+  min-height: 44px;
+  max-width: 100%;
+}
+.jurisdiction-bar select:focus-visible { outline: 3px solid #287c8f; outline-offset: 3px; }
+#jurisdictionStatus { font-size: 0.85rem; color: #365649; flex: 1 1 230px; }
+.jurisdiction-notice { border: 1px solid #ccac66; border-radius: 12px; padding: 18px 22px; margin-bottom: 22px; background: #fff6df; color: #594219; }
+.jurisdiction-notice p { margin: 6px 0 0; line-height: 1.6; }
+.jurisdiction-notice[hidden] { display: none; }
+html[data-jurisdiction="wales"] .cpd-form label { display: grid; gap: 8px; }
+html[data-jurisdiction="wales"] .cpd-form textarea { width: 100%; }
+@media (max-width: 600px) {
+  .jurisdiction-bar { padding: 12px; }
+  .jurisdiction-bar-inner { gap: 8px; }
+  .jurisdiction-bar label, .jurisdiction-bar select { width: 100%; }
+  .jurisdiction-bar select { min-width: 0; }
+}
+@media print { .jurisdiction-bar select { display: none; } }
+
+.download-card > * { min-width: 0; overflow-wrap: anywhere; }
+
+/* Location chooser and selected-location hero. */
+.jurisdiction-bar { background: #edf5f0; padding: 18px 24px; }
+.jurisdiction-bar-inner { max-width: 1180px; gap: 16px 28px; }
+.location-intro { display: grid; gap: 5px; font-weight: 800; color: #173f37; }
+.location-eyebrow { display: block; font-size: 0.65rem; font-weight: 800; letter-spacing: 0.12em; color: #506e65; }
+.location-trigger { display: flex; align-items: center; gap: 14px; min-height: 68px; width: 340px; max-width: 100%; padding: 12px 16px; border: 1px solid #a5c5b7; border-radius: 12px; background: #fffefa; color: #173f37; box-shadow: 0 3px 0 #d7e6dd; text-align: left; transition: background .15s, border-color .15s; }
+.location-trigger:hover { background: #f5fff8; border-color: #317d67; }
+.location-trigger:disabled { cursor: wait; opacity: .65; }
+.location-flag { display: inline-flex; flex-shrink: 0; align-items: center; justify-content: center; width: 48px; height: 36px; overflow: hidden; border-radius: 5px; box-shadow: 0 0 0 1px rgba(0,0,0,.09); background: #fff; }
+.location-flag img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.location-trigger-copy { display: grid; gap: 3px; flex: 1; min-width: 0; }
+.location-trigger-copy strong { font-size: .98rem; overflow-wrap: anywhere; line-height: 1.2; }
+.location-trigger-copy > span { font-size: .74rem; color: #587065; }
+.location-trigger-action { font-size: .75rem; font-weight: 700; color: #346354; white-space: nowrap; }
+.location-trigger-action > span { margin-left: 5px; font-size: 1rem; }
+.location-trigger:focus-visible, .location-dialog button:focus-visible, .location-search:focus-visible { outline: 3px solid #287c8f; outline-offset: 3px; }
+#jurisdictionStatus { max-width: 350px; line-height: 1.45; }
+.location-intro[hidden], .location-trigger[hidden], #locationFallback[hidden], .hero-location-badge[hidden], #heroLocationLine[hidden] { display: none; }
+
+body.location-dialog-open { overflow: hidden; }
+.location-dialog { width: min(620px, calc(100% - 32px)); max-height: min(820px, calc(100dvh - 40px)); padding: 28px; border: 1px solid #c4d8cd; border-radius: 20px; color: var(--ink); background: #fffefa; box-shadow: 0 28px 90px #0d282966; overflow-y: auto; overscroll-behavior: contain; }
+.location-dialog::backdrop { background: rgba(14, 40, 39, .6); backdrop-filter: blur(5px); }
+.location-dialog:not([open]) { display: none; }
+.location-dialog[open] { display: flex; flex-direction: column; overflow: hidden; }
+.location-dialog > * { flex-shrink: 0; }
+.location-dialog-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+.location-dialog h2 { margin: 9px 0 0; font-size: clamp(1.4rem, 4vw, 1.85rem); line-height: 1.15; letter-spacing: -.025em; }
+.location-dialog > p { font-size: .88rem; line-height: 1.5; color: #5c7067; }
+.location-close { display: grid; place-items: center; width: 40px; height: 40px; flex-shrink: 0; background: #edf5f0; color: #244f43; border: 1px solid #d0e1d7; border-radius: 50%; font-size: 1.6rem; }
+.location-search-label { display: block; font-size: .76rem; font-weight: 750; margin: 20px 0 7px; }
+.location-search { width: 100%; min-height: 48px; padding: 12px 14px; border: 1px solid #b5cfc1; border-radius: 10px; background: #f3f8f4; color: #173f37; }
+.location-dialog .location-result-count { margin: 10px 0 18px; font-size: .73rem; }
+.location-groups { display: grid; gap: 20px; flex: 1 1 auto; min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 4px; margin: -4px; }
+.location-group h3 { margin: 0 0 8px; font-size: .75rem; font-weight: 800; letter-spacing: .045em; color: #526c60; }
+.location-options { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 8px; }
+.location-option { min-width: 0; display: flex; align-items: center; gap: 10px; min-height: 58px; padding: 10px; border: 1px solid #d7e5dc; border-radius: 10px; background: #fffefa; color: #254a3d; text-align: left; }
+.location-option:hover { background: #eff7f1; border-color: #8caf9d; }
+.location-option[aria-pressed="true"] { background: #e4f3e9; border-color: #367a5c; box-shadow: inset 0 0 0 1px #367a5c; }
+.location-option .location-flag { width: 36px; height: 27px; border-radius: 3px; }
+.location-option-name { font-size: .86rem; font-weight: 700; flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.location-selected { flex-shrink: 0; width: 14px; font-weight: 900; color: #266747; }
+.location-empty { margin: 8px 0; padding: 24px; border-radius: 12px; background: #f1f7f2; line-height: 1.6; }
+.location-dialog .location-dialog-note { border-top: 1px solid #dde7df; margin: 24px 0 0; padding-top: 16px; font-size: .76rem; }
+
+.hero-scrim { background: linear-gradient(90deg, rgba(13,47,45,.92), rgba(19,69,64,.79) 54%, rgba(17,51,47,.35)), linear-gradient(0deg, rgba(13,39,37,.48), transparent); }
+.hero-content { padding: 48px 0 52px; }
+.hero-location-badge { display: inline-flex; align-items: center; gap: 12px; max-width: 100%; padding: 10px 16px 10px 10px; margin-bottom: 26px; border-radius: 10px; border: 1px solid #ffffff38; background: #fffef00f; }
+.hero-location-badge > span:last-child { display: grid; gap: 5px; min-width: 0; }
+.hero-location-badge small { font-size: .59rem; font-weight: 750; letter-spacing: .12em; color: #d5e6db; }
+.hero-location-badge strong { font-size: .86rem; font-weight: 700; color: #fffdf6; line-height: 1.25; }
+.hero-content .hero-kicker { margin: 0 0 14px; color: #cee5d6; font-size: .72rem; font-weight: 700; letter-spacing: .1em; }
+.hero-content h1 { max-width: 870px; font-size: clamp(2.5rem, 5.1vw, 4.75rem); line-height: 1.06; letter-spacing: -.045em; text-wrap: balance; }
+#heroLocationName { color: #e5eeb3; }
+.hero-content #heroDescription { max-width: 710px; margin: 22px 0 0; font-size: 1.02rem; line-height: 1.65; color: #e2ece5; }
+.hero-location-context { display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 0; padding: 0; list-style: none; }
+.hero-location-context li { padding: 8px 12px; border: 1px solid #ffffff38; border-radius: 999px; color: #edf4ee; background: #112f3047; font-size: .72rem; font-weight: 650; }
+@media (max-width: 720px) {
+  .jurisdiction-bar { padding: 16px 20px; }
+  .jurisdiction-bar-inner { gap: 12px; }
+  .location-intro { width: 100%; }
+  .location-intro .location-eyebrow { display: none; }
+  .location-trigger { width: 100%; }
+  #jurisdictionStatus { max-width: none; font-size: .76rem; }
+  .hero-content { width: calc(100% - 40px); padding: 32px 0 36px; }
+  .hero-location-badge { margin-bottom: 22px; }
+  .hero-content h1 { font-size: clamp(2.35rem, 7.8vw, 3.5rem); }
+  .hero-content #heroDescription { font-size: .95rem; }
+}
+@media (max-width: 420px) {
+  .location-dialog { width: calc(100% - 20px); max-height: calc(100dvh - 20px); padding: 20px 16px; border-radius: 14px; }
+  .location-options { grid-template-columns: 1fr; }
+  .location-trigger { gap: 10px; padding: 12px; }
+  .hero-location-context li { padding: 7px 10px; font-size: .68rem; }
+}
+@media (prefers-reduced-motion: reduce) { .location-trigger { transition: none; } }
+@media print { .location-trigger, .location-dialog, .location-intro { display: none !important; } }

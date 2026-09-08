@@ -1,1 +1,11 @@
 .playwright-cli/
+node_modules/
+dist/
+.netlify/
+.env
+.env.*
+!.env.example
+.monitor-data/
+output/monitoring/
+output/
+.DS_Store

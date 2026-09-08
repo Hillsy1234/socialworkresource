@@ -98,7 +98,7 @@
       }
     </script>
     <link rel="icon" type="image/svg+xml" href="assets/social-worker-resource-logo.svg">
-    <link rel="stylesheet" href="styles.css?v=29">
+    <link rel="stylesheet" href="styles.css?v=35">
   </head>
   <body>
     <form name="social-worker-resource-contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" hidden>
@@ -141,6 +141,46 @@
       </div>
     </header>
 
+    <section class="jurisdiction-bar" aria-label="Practice location">
+      <div class="jurisdiction-bar-inner">
+        <div id="locationFallback">
+        <label for="jurisdictionSelect">Where do you practise?</label>
+        <select id="jurisdictionSelect" aria-describedby="jurisdictionStatus" disabled>
+          <option value="england">England</option>
+          <option value="wales">Wales</option>
+          <option value="scotland">Scotland</option>
+          <option value="northern-ireland">Northern Ireland</option>
+          <option value="ireland">Ireland</option>
+          <option value="new-zealand">Aotearoa New Zealand</option>
+          <option value="australia-nsw">New South Wales</option>
+          <option value="canada-ontario">Ontario</option>
+          <option value="united-states-california">California</option>
+          <option value="australia-victoria">Victoria</option>
+          <option value="canada-british-columbia">British Columbia</option>
+          <option value="united-states-new-york">New York</option>
+        </select>
+        </div>
+        <div class="location-intro" hidden><span class="location-eyebrow">MAKE IT LOCAL</span><span>Where do you practise?</span></div>
+        <button id="locationChooserButton" class="location-trigger" type="button" aria-haspopup="dialog" aria-controls="locationDialog" aria-expanded="false" disabled hidden>
+          <span id="locationTriggerFlag" class="location-flag" aria-hidden="true"></span>
+          <span class="location-trigger-copy"><strong id="locationTriggerName">Choose your location</strong><span id="locationTriggerCountry">Your local practice guide</span></span>
+          <span class="location-trigger-action">Change <span aria-hidden="true">⌄</span></span>
+        </button>
+        <span id="jurisdictionStatus" role="status">Loading practice guide…</span>
+      </div>
+    </section>
+    <dialog id="locationDialog" class="location-dialog" aria-labelledby="locationDialogTitle" aria-describedby="locationDialogDescription">
+      <div class="location-dialog-heading">
+        <div><span class="location-eyebrow">YOUR PRACTICE, YOUR PLACE</span><h2 id="locationDialogTitle">Where do you practise?</h2></div>
+        <button id="closeLocationDialog" class="location-close" type="button" aria-label="Close location chooser">×</button>
+      </div>
+      <p id="locationDialogDescription">Find your guide by country, state or province.</p>
+      <label class="location-search-label" for="locationSearch">Search locations</label>
+      <input id="locationSearch" class="location-search" type="search" placeholder="Try Wales, Canada or New York…" autocomplete="off" spellcheck="false">
+      <p id="locationResultCount" class="location-result-count" role="status"></p>
+      <div id="locationGroups" class="location-groups"></div>
+      <p class="location-dialog-note">Your reading progress and reflections stay separate for each location.</p>
+    </dialog>
     <header class="hero-panel" aria-labelledby="pageTitle">
       <img
         class="hero-image"
@@ -149,13 +189,15 @@
       >
       <div class="hero-scrim" aria-hidden="true"></div>
       <div class="hero-content">
-        <p class="hero-kicker">Structured learning resource</p>
-        <h1 id="pageTitle">Ultimate Social Worker Resource</h1>
-        <p>
+        <div id="heroLocationBadge" class="hero-location-badge" hidden><span id="heroLocationFlag" class="location-flag" aria-hidden="true"></span><span><small>YOUR PRACTICE LOCATION</small><strong id="heroLocationLabel"></strong></span></div>
+        <p class="hero-kicker">Ultimate Social Worker Resource</p>
+        <h1 id="pageTitle">Your social work guide<span id="heroLocationLine" hidden> for <span id="heroLocationName"></span>.</span></h1>
+        <p id="heroDescription">
           A practical learning hub for Care Act, MCA, DoLS, Mental Health Act,
           safeguarding, social work theory, children's models, equality, human rights,
           and evidence-led recording.
         </p>
+        <ul id="heroLocationContext" class="hero-location-context" aria-label="Practice context"></ul>
       </div>
     </header>
 
@@ -183,6 +225,7 @@
       </aside>
 
       <main class="main-view">
+        <div id="jurisdictionNotice" class="jurisdiction-notice" hidden></div>
         <section class="workspace-heading" aria-label="Learning workspace">
           <div>
             <span class="panel-kicker">Learning Workspace</span>
@@ -307,6 +350,8 @@
       </main>
     </div>
 
-    <script src="script.js?v=29"></script>
+    <script src="location-chooser.js?v=35"></script>
+    <script src="jurisdictions.js?v=35"></script>
+    <script src="script.js?v=35"></script>
   </body>
 </html>

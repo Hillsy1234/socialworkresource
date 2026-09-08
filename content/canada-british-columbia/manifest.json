@@ -1,0 +1,1710 @@
+{
+  "id": "canada-british-columbia",
+  "label": "British Columbia practice guide",
+  "version": "2026-09-08-final-1",
+  "hero": "Explore social work in British Columbia: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
+  "alerts": [
+    "Use the British Columbia sources and the procedures for the actual service and setting.",
+    "Professional context: British Columbia College of Social Workers (BCCSW).",
+    "For cross-border work, establish legal responsibility explicitly; the selector does not decide it."
+  ],
+  "resources": [
+    {
+      "id": "readme",
+      "title": "Start Here — British Columbia",
+      "group": "Start",
+      "code": "00",
+      "accent": "#1f7a73",
+      "summary": "Use start here in the British Columbia learning guide.",
+      "topicId": "readme",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/readme.md",
+      "sourceCheckedAt": null,
+      "slug": "start-here-british-columbia-british-columbia"
+    },
+    {
+      "id": "map",
+      "title": "Learning Map — British Columbia",
+      "group": "Start",
+      "code": "Map",
+      "accent": "#287c8f",
+      "summary": "Use learning map in the British Columbia learning guide.",
+      "topicId": "map",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/map.md",
+      "sourceCheckedAt": null,
+      "slug": "learning-map-british-columbia"
+    },
+    {
+      "id": "case-route-finder",
+      "title": "Case Route Finder — British Columbia",
+      "group": "Practice Tools",
+      "code": "Route",
+      "accent": "#1f7a73",
+      "summary": "Use case route finder in the British Columbia learning guide.",
+      "topicId": "case-route-finder",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/case-route-finder.md",
+      "sourceCheckedAt": null,
+      "slug": "case-route-finder-british-columbia"
+    },
+    {
+      "id": "flashcards",
+      "title": "Learning Flashcards — British Columbia",
+      "group": "Learning Tools",
+      "code": "Cards",
+      "accent": "#cf7258",
+      "summary": "Use learning flashcards in the British Columbia learning guide.",
+      "topicId": "flashcards",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/flashcards.md",
+      "sourceCheckedAt": null,
+      "slug": "learning-flashcards-british-columbia"
+    },
+    {
+      "id": "student-pathway",
+      "title": "Student and Newly Qualified Pathway — British Columbia",
+      "group": "Start",
+      "code": "NQSW",
+      "accent": "#5d9a68",
+      "summary": "Use student and newly qualified pathway in the British Columbia learning guide.",
+      "topicId": "student-pathway",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/student-pathway.md",
+      "sourceCheckedAt": null,
+      "slug": "student-and-newly-qualified-pathway-british-columbia-british-columbia"
+    },
+    {
+      "id": "glossary",
+      "title": "Practice Glossary — British Columbia",
+      "group": "Learning Tools",
+      "code": "A-Z",
+      "accent": "#8a638f",
+      "summary": "Use practice glossary in the British Columbia learning guide.",
+      "topicId": "glossary",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/glossary.md",
+      "sourceCheckedAt": null,
+      "slug": "practice-glossary-british-columbia"
+    },
+    {
+      "id": "theory-practice",
+      "title": "Theory Into Practice — British Columbia",
+      "group": "Learning Tools",
+      "code": "Theory",
+      "accent": "#b96371",
+      "summary": "Use theory into practice in the British Columbia learning guide.",
+      "topicId": "theory-practice",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/theory-practice.md",
+      "sourceCheckedAt": null,
+      "slug": "theory-into-practice-british-columbia-british-columbia"
+    },
+    {
+      "id": "children-models",
+      "title": "Children and Family Practice Models — British Columbia",
+      "group": "Learning Tools",
+      "code": "Child",
+      "accent": "#287c8f",
+      "summary": "Use children and family practice models in the British Columbia learning guide.",
+      "topicId": "children-models",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/children-models.md",
+      "sourceCheckedAt": null,
+      "slug": "children-and-family-practice-models-british-columbia-british-columbia"
+    },
+    {
+      "id": "cpd-log",
+      "title": "CPD and Reflection Log — British Columbia",
+      "group": "Learning Tools",
+      "code": "CPD",
+      "accent": "#c5902d",
+      "summary": "Use cpd and reflection log in the British Columbia learning guide.",
+      "topicId": "cpd-log",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/cpd-log.md",
+      "sourceCheckedAt": null,
+      "slug": "cpd-and-reflection-log-british-columbia"
+    },
+    {
+      "id": "foundations",
+      "title": "Professional Foundations — British Columbia",
+      "group": "Modules",
+      "code": "01",
+      "accent": "#4f8a66",
+      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "topicId": "foundations",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/foundations.md",
+      "sourceCheckedAt": null,
+      "slug": "professional-foundations-british-columbia"
+    },
+    {
+      "id": "care-support",
+      "title": "Social Care and Support — British Columbia",
+      "group": "Modules",
+      "code": "02",
+      "accent": "#cf7258",
+      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "topicId": "care-support",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/care-support.md",
+      "sourceCheckedAt": null,
+      "slug": "social-care-and-support-british-columbia-british-columbia"
+    },
+    {
+      "id": "mca",
+      "title": "Decision-Making and Capacity — British Columbia",
+      "group": "Modules",
+      "code": "03",
+      "accent": "#287c8f",
+      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "topicId": "mca",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/mca.md",
+      "sourceCheckedAt": null,
+      "slug": "decision-making-and-capacity-british-columbia-british-columbia"
+    },
+    {
+      "id": "dols",
+      "title": "Restrictions and Liberty — British Columbia",
+      "group": "Modules",
+      "code": "04",
+      "accent": "#c5902d",
+      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "topicId": "dols",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/dols.md",
+      "sourceCheckedAt": null,
+      "slug": "restrictions-and-liberty-british-columbia-british-columbia"
+    },
+    {
+      "id": "mha",
+      "title": "Mental Health — British Columbia",
+      "group": "Modules",
+      "code": "05",
+      "accent": "#5f7896",
+      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "topicId": "mha",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/mha.md",
+      "sourceCheckedAt": null,
+      "slug": "mental-health-british-columbia-british-columbia"
+    },
+    {
+      "id": "safeguarding",
+      "title": "Adult Safeguarding — British Columbia",
+      "group": "Modules",
+      "code": "06",
+      "accent": "#c85f5b",
+      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "topicId": "safeguarding",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/safeguarding.md",
+      "sourceCheckedAt": null,
+      "slug": "safeguarding-and-family-violence-british-columbia-british-columbia"
+    },
+    {
+      "id": "children",
+      "title": "Children, Families and Transitions — British Columbia",
+      "group": "Modules",
+      "code": "07",
+      "accent": "#5d9a68",
+      "summary": "Child participation, family support, child protection and transitions.",
+      "topicId": "children",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/children.md",
+      "sourceCheckedAt": null,
+      "slug": "tamariki-rangatahi-and-wh-nau-british-columbia-british-columbia"
+    },
+    {
+      "id": "rights",
+      "title": "Rights, Culture and Recording — British Columbia",
+      "group": "Modules",
+      "code": "08",
+      "accent": "#8a638f",
+      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "topicId": "rights",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/rights.md",
+      "sourceCheckedAt": null,
+      "slug": "rights-culture-and-recording-british-columbia-british-columbia"
+    },
+    {
+      "id": "quick-reference",
+      "title": "Quick Reference — British Columbia",
+      "group": "Practice Tools",
+      "code": "Tool",
+      "accent": "#1f7a73",
+      "summary": "Use quick reference in the British Columbia learning guide.",
+      "topicId": "quick-reference",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/quick-reference.md",
+      "sourceCheckedAt": null,
+      "slug": "quick-reference-british-columbia"
+    },
+    {
+      "id": "templates",
+      "title": "Templates and Checklists — British Columbia",
+      "group": "Practice Tools",
+      "code": "Tool",
+      "accent": "#cf7258",
+      "summary": "Use templates and checklists in the British Columbia learning guide.",
+      "topicId": "templates",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/templates.md",
+      "sourceCheckedAt": null,
+      "slug": "templates-and-checklists-british-columbia"
+    },
+    {
+      "id": "printable-tools",
+      "title": "Printable Tools — British Columbia",
+      "group": "Practice Tools",
+      "code": "Print",
+      "accent": "#c5902d",
+      "summary": "Use printable tools in the British Columbia learning guide.",
+      "topicId": "printable-tools",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/printable-tools.md",
+      "sourceCheckedAt": null,
+      "slug": "printable-tools-british-columbia"
+    },
+    {
+      "id": "scenarios",
+      "title": "Practice Scenarios — British Columbia",
+      "group": "Practice Tools",
+      "code": "Cases",
+      "accent": "#287c8f",
+      "summary": "Use practice scenarios in the British Columbia learning guide.",
+      "topicId": "scenarios",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/scenarios.md",
+      "sourceCheckedAt": null,
+      "slug": "practice-scenarios-british-columbia"
+    },
+    {
+      "id": "sources",
+      "title": "Source Library — British Columbia",
+      "group": "Sources",
+      "code": "Refs",
+      "accent": "#5f7896",
+      "summary": "Use source library in the British Columbia learning guide.",
+      "topicId": "sources",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/sources.md",
+      "sourceCheckedAt": null,
+      "slug": "source-library-british-columbia"
+    },
+    {
+      "id": "about-us",
+      "title": "About Us — British Columbia",
+      "group": "Website",
+      "code": "About",
+      "accent": "#4f8a66",
+      "summary": "Use about us in the British Columbia learning guide.",
+      "topicId": "about-us",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/about-us.md",
+      "sourceCheckedAt": null,
+      "slug": "about-us-british-columbia"
+    },
+    {
+      "id": "contact-us",
+      "title": "Contact Us — British Columbia",
+      "group": "Website",
+      "code": "Contact",
+      "accent": "#cf7258",
+      "summary": "Use contact us in the British Columbia learning guide.",
+      "topicId": "contact-us",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/contact-us.md",
+      "sourceCheckedAt": null,
+      "slug": "contact-us-british-columbia"
+    },
+    {
+      "id": "privacy-policy",
+      "title": "Privacy Policy — British Columbia",
+      "group": "Website",
+      "code": "Privacy",
+      "accent": "#287c8f",
+      "summary": "Use privacy policy in the British Columbia learning guide.",
+      "topicId": "privacy-policy",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/privacy-policy.md",
+      "sourceCheckedAt": null,
+      "slug": "privacy-policy-british-columbia"
+    },
+    {
+      "id": "terms-of-service",
+      "title": "Terms of Service — British Columbia",
+      "group": "Website",
+      "code": "Terms",
+      "accent": "#5f7896",
+      "summary": "Use terms of service in the British Columbia learning guide.",
+      "topicId": "terms-of-service",
+      "jurisdiction": "canada-british-columbia",
+      "status": "learning-guide",
+      "practiceReviewedAt": null,
+      "path": "content/canada-british-columbia/resources/terms-of-service.md",
+      "sourceCheckedAt": null,
+      "slug": "terms-of-service-british-columbia"
+    }
+  ],
+  "featuredIds": [
+    "foundations",
+    "care-support",
+    "mca",
+    "dols",
+    "mha",
+    "safeguarding",
+    "children",
+    "rights"
+  ],
+  "routeQuestions": [
+    {
+      "id": "care-needs",
+      "label": "Care or carer support needs",
+      "detail": "Which needs and outcomes belong to the person and to carers?",
+      "routes": [
+        "care-support",
+        "sources"
+      ]
+    },
+    {
+      "id": "capacity",
+      "label": "A decision-specific capacity question",
+      "detail": "What is the precise decision and why is ability to decide questioned?",
+      "routes": [
+        "mca",
+        "sources"
+      ]
+    },
+    {
+      "id": "restrictions",
+      "label": "Restrictions or liberty concerns",
+      "detail": "What restrictions actually operate and how do they affect the person?",
+      "routes": [
+        "dols",
+        "sources"
+      ]
+    },
+    {
+      "id": "mental-health",
+      "label": "Mental health support or compulsion questions",
+      "detail": "What is the purpose of each proposed intervention?",
+      "routes": [
+        "mha",
+        "sources"
+      ]
+    },
+    {
+      "id": "abuse-neglect",
+      "label": "Abuse, neglect or safeguarding concerns",
+      "detail": "How can the person be heard safely and privately?",
+      "routes": [
+        "safeguarding",
+        "sources"
+      ]
+    },
+    {
+      "id": "child-family",
+      "label": "A child, young carer or transition issue",
+      "detail": "What does the child say or show about safety and daily life?",
+      "routes": [
+        "children",
+        "sources"
+      ]
+    },
+    {
+      "id": "rights",
+      "label": "Language, participation or recording concerns",
+      "detail": "What makes participation accessible for this person?",
+      "routes": [
+        "rights",
+        "sources"
+      ]
+    },
+    {
+      "id": "learning",
+      "label": "Professional learning or supervision",
+      "detail": "What is the purpose and limit of your role?",
+      "routes": [
+        "foundations",
+        "sources"
+      ]
+    }
+  ],
+  "routeDetails": {
+    "foundations": {
+      "title": "Professional Foundations — British Columbia",
+      "action": "What is the purpose and limit of your role?",
+      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "care-support": {
+      "title": "Social Care and Support — British Columbia",
+      "action": "Which needs and outcomes belong to the person and to carers?",
+      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "mca": {
+      "title": "Decision-Making and Capacity — British Columbia",
+      "action": "What is the precise decision and why is ability to decide questioned?",
+      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "dols": {
+      "title": "Restrictions and Liberty — British Columbia",
+      "action": "What restrictions actually operate and how do they affect the person?",
+      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "mha": {
+      "title": "Mental Health — British Columbia",
+      "action": "What is the purpose of each proposed intervention?",
+      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "safeguarding": {
+      "title": "Adult Safeguarding — British Columbia",
+      "action": "How can the person be heard safely and privately?",
+      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "children": {
+      "title": "Children, Families and Transitions — British Columbia",
+      "action": "What does the child say or show about safety and daily life?",
+      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "rights": {
+      "title": "Rights, Culture and Recording — British Columbia",
+      "action": "What makes participation accessible for this person?",
+      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+    },
+    "sources": {
+      "title": "British Columbia Source Library",
+      "action": "Check territorial scope, current version, commencement and the relevant service procedure.",
+      "record": "Record the exact source and provision used, date accessed and any unresolved question."
+    }
+  },
+  "flashcardDecks": [
+    {
+      "id": "foundations",
+      "title": "Professional Foundations — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking professional foundations in British Columbia?",
+          "answer": "Start with British Columbia College of Social Workers (BCCSW). Check the professional requirements for your role and the applicable law."
+        },
+        {
+          "prompt": "How does a formulation differ from a chronology?",
+          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+        },
+        {
+          "prompt": "How can supervision test bias?",
+          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+        },
+        {
+          "prompt": "What makes a professional record useful?",
+          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+        },
+        {
+          "prompt": "What makes reflective learning actionable?",
+          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+        }
+      ]
+    },
+    {
+      "id": "care-support",
+      "title": "Social Care and Support — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking social care and support in British Columbia?",
+          "answer": "Open BC government services from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "Can family support be assumed?",
+          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+        },
+        {
+          "prompt": "Why distinguish assessment from funding?",
+          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+        },
+        {
+          "prompt": "What belongs in a support plan?",
+          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+        },
+        {
+          "prompt": "What if support is unavailable?",
+          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+        }
+      ]
+    },
+    {
+      "id": "mca",
+      "title": "Decision-Making and Capacity — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking decision-making and capacity in British Columbia?",
+          "answer": "Open BC Laws from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "Does a risky refusal alone establish inability to decide?",
+          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+        },
+        {
+          "prompt": "What support can improve participation?",
+          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+        },
+        {
+          "prompt": "Does a family relationship establish decision-making authority?",
+          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+        },
+        {
+          "prompt": "Why identify the exact decision?",
+          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+        }
+      ]
+    },
+    {
+      "id": "dols",
+      "title": "Restrictions and Liberty — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking restrictions and liberty in British Columbia?",
+          "answer": "Open BC Laws and BC mental-health law from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "What should a restriction record describe?",
+          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+        },
+        {
+          "prompt": "Does quiet behaviour demonstrate consent?",
+          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+        },
+        {
+          "prompt": "Can provider policy alone establish legal authority?",
+          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+        },
+        {
+          "prompt": "What should review consider?",
+          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+        }
+      ]
+    },
+    {
+      "id": "mha",
+      "title": "Mental Health — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking mental health in British Columbia?",
+          "answer": "Open BC mental-health law from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "Why distinguish admission from treatment?",
+          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+        },
+        {
+          "prompt": "What should happen alongside crisis assessment?",
+          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+        },
+        {
+          "prompt": "Can a social worker use every mental-health power?",
+          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+        },
+        {
+          "prompt": "What does a rights explanation cover?",
+          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+        }
+      ]
+    },
+    {
+      "id": "safeguarding",
+      "title": "Adult Safeguarding — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking adult safeguarding in British Columbia?",
+          "answer": "Open BC adult protection legislation from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "Why offer a private conversation?",
+          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+        },
+        {
+          "prompt": "Is proof needed before checking reporting duties?",
+          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+        },
+        {
+          "prompt": "What should a report contain?",
+          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+        },
+        {
+          "prompt": "Does a referral complete the response?",
+          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "title": "Children, Families and Transitions — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking children, families and transitions in British Columbia?",
+          "answer": "Open BC child protection from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "How should the child’s account be recorded?",
+          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+        },
+        {
+          "prompt": "Can one child-protection model settle a legal threshold?",
+          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+        },
+        {
+          "prompt": "What makes transition planning useful?",
+          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+        },
+        {
+          "prompt": "Why consider community and cultural relationships?",
+          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+        }
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "Rights, Culture and Recording — British Columbia",
+      "cards": [
+        {
+          "prompt": "Where should you begin checking rights, culture and recording in British Columbia?",
+          "answer": "Open BCCSW standards and resources from the module. Confirm scope, version and local procedures."
+        },
+        {
+          "prompt": "What is data minimisation?",
+          "answer": "Sharing only the information needed for the identified, lawful purpose."
+        },
+        {
+          "prompt": "What is a culturally responsive first step?",
+          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+        },
+        {
+          "prompt": "Why record disagreement?",
+          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+        },
+        {
+          "prompt": "How do you compare alternatives?",
+          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+        }
+      ]
+    }
+  ],
+  "glossaryTerms": [
+    {
+      "term": "Professional Foundations",
+      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "link": "foundations"
+    },
+    {
+      "term": "Social Care and Support",
+      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "link": "care-support"
+    },
+    {
+      "term": "Decision-Making and Capacity",
+      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "link": "mca"
+    },
+    {
+      "term": "Restrictions and Liberty",
+      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "link": "dols"
+    },
+    {
+      "term": "Mental Health",
+      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "link": "mha"
+    },
+    {
+      "term": "Adult Safeguarding",
+      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Children, Families and Transitions",
+      "definition": "Child participation, family support, child protection and transitions.",
+      "link": "children"
+    },
+    {
+      "term": "Rights, Culture and Recording",
+      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "link": "rights"
+    },
+    {
+      "term": "British Columbia College of Social Workers (BCCSW)",
+      "definition": "The professional body identified for this guide. Check its remit and the requirements that apply to your role.",
+      "link": "foundations"
+    },
+    {
+      "term": "Advocacy",
+      "definition": "Support to express views, understand choices and participate; statutory entitlements depend on the local framework.",
+      "link": "rights"
+    },
+    {
+      "term": "CPD",
+      "definition": "Continuing professional development: learning, reflection and evidence of improvement.",
+      "link": "cpd-log"
+    },
+    {
+      "term": "Consent",
+      "definition": "Agreement to a specific action; check the applicable requirements for information, voluntariness and ability to consent.",
+      "link": "mca"
+    },
+    {
+      "term": "Coercion",
+      "definition": "Pressure or control that can affect expressed wishes and freedom to act.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Eligibility",
+      "definition": "The criteria for a particular service or programme; distinct from a description of need.",
+      "link": "care-support"
+    },
+    {
+      "term": "Capacity",
+      "definition": "Ability to make the relevant decision under the applicable legal framework; avoid a global label.",
+      "link": "mca"
+    },
+    {
+      "term": "Representative",
+      "definition": "Someone with a defined support or decision-making role; verify the source and scope of authority.",
+      "link": "mca"
+    },
+    {
+      "term": "Proportionality",
+      "definition": "A reasoned comparison of intended benefit, burdens, rights and alternatives.",
+      "link": "rights"
+    },
+    {
+      "term": "Cultural safety",
+      "definition": "Attention to power, identity and the person’s experience of a service, informed by their preferences.",
+      "link": "rights"
+    },
+    {
+      "term": "Data minimisation",
+      "definition": "Using or sharing only information needed for an identified lawful purpose.",
+      "link": "rights"
+    },
+    {
+      "term": "Confidentiality",
+      "definition": "Protecting information while understanding and explaining lawful exceptions.",
+      "link": "rights"
+    },
+    {
+      "term": "Safeguarding referral",
+      "definition": "Communicating a concern to the appropriate agency; confirm the applicable route and follow-up.",
+      "link": "safeguarding"
+    },
+    {
+      "term": "Professional supervision",
+      "definition": "Structured discussion of decisions, ethics, skills, wellbeing and accountability.",
+      "link": "foundations"
+    },
+    {
+      "term": "Formulation",
+      "definition": "A reasoned account connecting evidence and possible explanations to a plan.",
+      "link": "theory-practice"
+    },
+    {
+      "term": "Family network",
+      "definition": "Relationships that may offer support; availability, safety and willingness need assessment.",
+      "link": "children"
+    },
+    {
+      "term": "Transition",
+      "definition": "Planned change between services or life stages, with continuity and named responsibilities.",
+      "link": "children"
+    },
+    {
+      "term": "Contingency",
+      "definition": "An agreed response if risks increase or the preferred plan cannot operate.",
+      "link": "care-support"
+    },
+    {
+      "term": "Review",
+      "definition": "A planned check of outcomes, changing circumstances and whether actions remain appropriate.",
+      "link": "foundations"
+    },
+    {
+      "term": "Least restrictive option",
+      "definition": "An option that can achieve the purpose with less interference in rights and freedom.",
+      "link": "dols"
+    }
+  ],
+  "theoryLenses": [
+    {
+      "id": "ecological",
+      "title": "Ecological Systems Theory",
+      "code": "Eco",
+      "accent": "#1f7a73",
+      "focus": "Person, family, housing, community, services, poverty, policy, culture, and environment.",
+      "hypothesis": "The presenting issue may be shaped by pressures around the person, not only by individual behaviour or choice.",
+      "test": [
+        "What changed in the environment before the concern escalated?",
+        "Which systems are supporting the person, and which are adding pressure?",
+        "Would risk reduce if housing, income, access, care, or community support changed?"
+      ],
+      "links": [
+        "care-support",
+        "rights",
+        "safeguarding"
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Strengths-Based Practice",
+      "code": "Strengths",
+      "accent": "#4f8a66",
+      "focus": "Capabilities, identity, relationships, community, culture, hope, and what is already working.",
+      "hypothesis": "The person may have protective strategies or relationships that are hidden by a risk-heavy professional account.",
+      "test": [
+        "What has helped the person survive or cope so far?",
+        "Who does the person trust, and what role could they safely play?",
+        "Which strengths are real evidence, and which are optimistic assumptions?"
+      ],
+      "links": [
+        "foundations",
+        "care-support",
+        "templates"
+      ]
+    },
+    {
+      "id": "trauma",
+      "title": "Trauma-Informed Practice",
+      "code": "Trauma",
+      "accent": "#cf7258",
+      "focus": "Safety, trust, choice, collaboration, empowerment, shame, threat responses, and control.",
+      "hypothesis": "Behaviour that looks like refusal, avoidance, anger, or disengagement may be a survival response to trauma, coercion, loss, or fear.",
+      "test": [
+        "What might feel unsafe or controlling from the person's perspective?",
+        "What helps the person feel more choice and predictability?",
+        "How can we avoid repeating patterns of powerlessness?"
+      ],
+      "links": [
+        "safeguarding",
+        "rights",
+        "foundations"
+      ]
+    },
+    {
+      "id": "attachment",
+      "title": "Attachment Theory",
+      "code": "Attach",
+      "accent": "#8a638f",
+      "focus": "Trust, separation, dependency, rejection, fear, care-seeking, and relationship patterns.",
+      "hypothesis": "Responses to professionals or carers may reflect previous experiences of care, loss, abandonment, or unsafe relationships.",
+      "test": [
+        "How does the person respond when support increases, reduces, or changes?",
+        "Are there patterns of clinging, pushing away, testing, mistrust, or fear?",
+        "What relationship approach is consistent, boundaried, and safe?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "foundations"
+      ]
+    },
+    {
+      "id": "systems",
+      "title": "Systems and Family Theory",
+      "code": "Systems",
+      "accent": "#287c8f",
+      "focus": "Roles, rules, communication, repeated patterns, conflict, care dynamics, and network effects.",
+      "hypothesis": "The concern may be maintained by relationship patterns, family roles, service responses, or network conflict.",
+      "test": [
+        "Who gains or loses if the current pattern changes?",
+        "What role has each person been placed in or taken on?",
+        "How do professional responses affect the family or network pattern?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "care-support"
+      ]
+    },
+    {
+      "id": "anti-oppressive",
+      "title": "Anti-Oppressive and Anti-Discriminatory Practice",
+      "code": "AOP",
+      "accent": "#b96371",
+      "focus": "Power, oppression, racism, disability, class, gender, sexuality, culture, age, stigma, and access.",
+      "hypothesis": "The presenting issue may be intensified by structural inequality, professional power, discrimination, or inaccessible services.",
+      "test": [
+        "What barriers has the person faced before we became involved?",
+        "Whose account is being treated as most credible, and why?",
+        "What reasonable adjustments, cultural humility, or advocacy are needed?"
+      ],
+      "links": [
+        "rights",
+        "foundations",
+        "templates"
+      ]
+    },
+    {
+      "id": "crisis",
+      "title": "Crisis Theory",
+      "code": "Crisis",
+      "accent": "#c5902d",
+      "focus": "Immediate stress, narrowed options, temporary disequilibrium, coping capacity, and stabilisation.",
+      "hypothesis": "The person or family may be temporarily overwhelmed and need stabilisation before longer-term planning is realistic.",
+      "test": [
+        "What immediate event or loss has exceeded usual coping?",
+        "What needs to happen in the next 24 to 72 hours?",
+        "What can wait until safety, sleep, food, medication, or support is more stable?"
+      ],
+      "links": [
+        "mha",
+        "safeguarding",
+        "quick-reference"
+      ]
+    },
+    {
+      "id": "life-course",
+      "title": "Life Course Theory",
+      "code": "Life",
+      "accent": "#5d9a68",
+      "focus": "Transitions, cumulative disadvantage, ageing, identity, loss, timing, and turning points.",
+      "hypothesis": "Current risk or distress may connect to earlier life events, cumulative exclusion, transition, bereavement, or changing identity.",
+      "test": [
+        "What transitions or losses are happening now?",
+        "How has cumulative disadvantage shaped options and trust?",
+        "What strengths, relationships, or identities from earlier life still matter?"
+      ],
+      "links": [
+        "children",
+        "care-support",
+        "cpd-log"
+      ]
+    },
+    {
+      "id": "task-centred",
+      "title": "Task-Centred Practice",
+      "code": "Task",
+      "accent": "#5f7896",
+      "focus": "Specific problems, agreed goals, small steps, roles, review, and measurable change.",
+      "hypothesis": "The person may benefit from breaking an overwhelming issue into concrete, negotiated tasks with clear review.",
+      "test": [
+        "What problem does the person most want to work on first?",
+        "What is the smallest useful next step?",
+        "Who will do what, by when, and how will we know it helped?"
+      ],
+      "links": [
+        "templates",
+        "care-support",
+        "cpd-log"
+      ]
+    }
+  ],
+  "hypothesisSignals": [
+    {
+      "id": "self-neglect",
+      "label": "Self-neglect, hoarding, home conditions, or repeated crisis presentations.",
+      "detail": "Think about trauma, executive functioning, environment, identity, isolation, loss, and safeguarding thresholds.",
+      "theories": [
+        "trauma",
+        "ecological",
+        "life-course",
+        "strengths",
+        "crisis"
+      ]
+    },
+    {
+      "id": "refusal",
+      "label": "The person appears to refuse support, miss visits, or disengage.",
+      "detail": "Avoid jumping straight to non-compliance. Consider trust, trauma, power, communication, and whether the offer fits the person.",
+      "theories": [
+        "trauma",
+        "attachment",
+        "anti-oppressive",
+        "task-centred",
+        "strengths"
+      ]
+    },
+    {
+      "id": "family-conflict",
+      "label": "Family conflict, carer strain, coercion, or unclear roles are present.",
+      "detail": "Map roles, power, risk, protective factors, and what happens when professionals intervene.",
+      "theories": [
+        "systems",
+        "attachment",
+        "anti-oppressive",
+        "ecological",
+        "crisis"
+      ]
+    },
+    {
+      "id": "sudden-risk",
+      "label": "Risk has escalated quickly or a crisis is dominating the assessment.",
+      "detail": "Separate immediate stabilisation from longer-term formulation and legal route decisions.",
+      "theories": [
+        "crisis",
+        "ecological",
+        "task-centred",
+        "trauma"
+      ]
+    },
+    {
+      "id": "transition",
+      "label": "There is a transition: adolescence to adulthood, hospital discharge, bereavement, moving home, or ageing.",
+      "detail": "Transitions can disrupt identity, support, eligibility, relationships, and coping.",
+      "theories": [
+        "life-course",
+        "ecological",
+        "systems",
+        "attachment"
+      ]
+    },
+    {
+      "id": "inequality",
+      "label": "Discrimination, poverty, inaccessible services, stigma, or cultural misunderstanding may be relevant.",
+      "detail": "Test whether systems are creating or worsening the difficulty.",
+      "theories": [
+        "anti-oppressive",
+        "ecological",
+        "strengths",
+        "trauma"
+      ]
+    },
+    {
+      "id": "overwhelmed",
+      "label": "The person or carer feels overwhelmed and cannot see a way forward.",
+      "detail": "Consider crisis, small steps, stabilisation, advocacy, and practical environmental change.",
+      "theories": [
+        "crisis",
+        "task-centred",
+        "strengths",
+        "ecological"
+      ]
+    },
+    {
+      "id": "mistrust",
+      "label": "There is mistrust of professionals, fear of services, or repeated complaints.",
+      "detail": "Explore previous experiences, power, communication, consistency, and whether the person has reason to feel unsafe.",
+      "theories": [
+        "attachment",
+        "trauma",
+        "anti-oppressive",
+        "systems"
+      ]
+    }
+  ],
+  "childPracticeModels": [
+    {
+      "id": "signs-of-safety",
+      "title": "Signs of Safety",
+      "code": "SoS",
+      "accent": "#1f7a73",
+      "use": "Child protection mapping, danger statements, safety goals, family network work, scaling, and safety planning.",
+      "prompt": "What are we worried about, what is working well, and what needs to happen for the child to be safe enough?",
+      "test": [
+        "Can worries be written in plain language that the family understands?",
+        "What existing safety has been demonstrated, not just promised?",
+        "Who is in the family network and what role can they safely take?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "templates"
+      ]
+    },
+    {
+      "id": "signs-of-wellbeing",
+      "title": "Signs of Wellbeing, Success, and Belonging",
+      "code": "Belong",
+      "accent": "#5d9a68",
+      "use": "Family support, children in care, permanency, reunification, stability, identity, and belonging work.",
+      "prompt": "What would wellbeing, safety, permanence, connection, and belonging look like from the child's perspective?",
+      "test": [
+        "What does the child say or show about where they feel safe and connected?",
+        "What would meaningful stability look like in daily life?",
+        "How are family relationships, identity, culture, and belonging being protected?"
+      ],
+      "links": [
+        "children",
+        "rights",
+        "student-pathway"
+      ]
+    },
+    {
+      "id": "family-safeguarding",
+      "title": "Family Safeguarding",
+      "code": "Family",
+      "accent": "#cf7258",
+      "use": "Whole-family child protection where parental domestic abuse, mental health, substance misuse, trauma, or adult needs affect child safety.",
+      "prompt": "Child safety may improve when adult needs and risks are addressed alongside direct work with the child and family network.",
+      "test": [
+        "Which adult needs are directly affecting child safety or care?",
+        "Is the plan joined up across children's and adults' services?",
+        "Are adult-focused interventions linked to measurable child safety outcomes?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "theory-practice"
+      ]
+    },
+    {
+      "id": "contextual-safeguarding",
+      "title": "Contextual Safeguarding",
+      "code": "Context",
+      "accent": "#287c8f",
+      "use": "Extra-familial harm, exploitation, peer group risk, school, neighbourhood, online spaces, and adolescent safeguarding.",
+      "prompt": "Harm may be located outside the home, in peer, school, community, or online contexts that parents cannot control alone.",
+      "test": [
+        "Where is harm happening: home, school, peer group, community, online, or transport?",
+        "Which context needs intervention, not only which child or parent?",
+        "Who has power or influence in that context?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "rights"
+      ]
+    },
+    {
+      "id": "family-group-conference",
+      "title": "Family Group Conferencing",
+      "code": "FGC",
+      "accent": "#c5902d",
+      "use": "Family-led planning, kinship care, safety planning, pre-proceedings, reunification, and support network building.",
+      "prompt": "The wider family network may hold safe, practical solutions that have not yet been fully mapped or invited in.",
+      "test": [
+        "Who does the child identify as family or trusted network?",
+        "What information does the family need before private planning?",
+        "How will the plan be checked for safety, clarity, and review?"
+      ],
+      "links": [
+        "children",
+        "templates",
+        "rights"
+      ]
+    },
+    {
+      "id": "systemic-practice",
+      "title": "Systemic Practice",
+      "code": "Systemic",
+      "accent": "#8a638f",
+      "use": "Family patterns, repeated cycles, communication, roles, meaning, conflict, and relationship-based formulation.",
+      "prompt": "The concern may be maintained by family patterns, relationship roles, service responses, or repeated cycles.",
+      "test": [
+        "What pattern repeats, and what keeps it going?",
+        "How does each person make sense of the problem?",
+        "What would change if one part of the system responded differently?"
+      ],
+      "links": [
+        "theory-practice",
+        "children",
+        "foundations"
+      ]
+    },
+    {
+      "id": "motivational-interviewing",
+      "title": "Motivational Interviewing",
+      "code": "MI",
+      "accent": "#5f7896",
+      "use": "Ambivalence, parental engagement, adolescent risk, substance use, resistance, and behaviour change conversations.",
+      "prompt": "The parent or young person may be caught between reasons to change and reasons to keep things as they are.",
+      "test": [
+        "What does the person want to be different?",
+        "What are their reasons for change and reasons against change?",
+        "Are we arguing for change so hard that the person argues against it?"
+      ],
+      "links": [
+        "theory-practice",
+        "children",
+        "cpd-log"
+      ]
+    },
+    {
+      "id": "solution-focused",
+      "title": "Solution-Focused Practice",
+      "code": "SFBT",
+      "accent": "#4f8a66",
+      "use": "Goal-setting, exceptions, scaling, strengths, future-focused planning, and building on small signs of progress.",
+      "prompt": "Small exceptions or signs of safety may reveal what can be repeated, strengthened, and built into the plan.",
+      "test": [
+        "When is the problem slightly less serious?",
+        "What would one point higher on the safety scale look like?",
+        "What has the family already done that helped, even briefly?"
+      ],
+      "links": [
+        "foundations",
+        "children",
+        "templates"
+      ]
+    },
+    {
+      "id": "pace",
+      "title": "PACE and DDP-Informed Practice",
+      "code": "PACE",
+      "accent": "#b96371",
+      "use": "Children affected by trauma, attachment disruption, care experience, shame, mistrust, and blocked trust.",
+      "prompt": "The child may need relational safety through playfulness, acceptance, curiosity, and empathy before they can reflect or change.",
+      "test": [
+        "How does the child's behaviour make sense as communication or protection?",
+        "How can adults stay curious without shaming or escalating?",
+        "What helps the child experience safety in the relationship?"
+      ],
+      "links": [
+        "theory-practice",
+        "children",
+        "rights"
+      ]
+    },
+    {
+      "id": "safe-and-together",
+      "title": "Safe and Together",
+      "code": "S&T",
+      "accent": "#cf7258",
+      "use": "Domestic abuse-informed child welfare, perpetrator pattern mapping, protective parent strengths, and child impact.",
+      "prompt": "Child safety work should focus on the perpetrator's pattern of behaviour and avoid blaming the non-abusive parent for the abuse.",
+      "test": [
+        "What is the perpetrator's pattern and impact on the child?",
+        "What has the protective parent done to promote safety?",
+        "Does the plan increase accountability for the person causing harm?"
+      ],
+      "links": [
+        "safeguarding",
+        "children",
+        "rights"
+      ]
+    },
+    {
+      "id": "gcp2",
+      "title": "Graded Care Profile 2",
+      "code": "GCP2",
+      "accent": "#c5902d",
+      "use": "Neglect assessment, evidence-based care mapping, physical care, safety, love and esteem, and developmental care.",
+      "prompt": "The quality of care may need structured, observable mapping rather than vague descriptions of neglect.",
+      "test": [
+        "Which care domains are strong, inconsistent, or harmful?",
+        "What evidence has been observed rather than assumed?",
+        "Is change measurable across time and review?"
+      ],
+      "links": [
+        "children",
+        "safeguarding",
+        "templates"
+      ]
+    },
+    {
+      "id": "restorative-practice",
+      "title": "Restorative Practice",
+      "code": "Restore",
+      "accent": "#287c8f",
+      "use": "Repair, accountability, family meetings, school relationships, conflict, shame, and shared problem-solving.",
+      "prompt": "Progress may come through relationship repair, accountability, and shared planning rather than only professional direction.",
+      "test": [
+        "Who has been affected and what do they need?",
+        "What repair or accountability is realistic and safe?",
+        "How will the meeting avoid blame and keep the child central?"
+      ],
+      "links": [
+        "children",
+        "foundations",
+        "templates"
+      ]
+    }
+  ],
+  "childModelSignals": [
+    {
+      "id": "child-protection",
+      "label": "Child protection concerns, safety planning, or danger statements are needed.",
+      "detail": "The work needs clear worries, existing safety, safety goals, family network planning, and review.",
+      "models": [
+        "signs-of-safety",
+        "family-group-conference",
+        "family-safeguarding",
+        "systemic-practice",
+        "solution-focused"
+      ]
+    },
+    {
+      "id": "neglect",
+      "label": "Neglect, home conditions, missed health needs, or inconsistent care are central.",
+      "detail": "The assessment needs observable evidence, care domains, impact on the child, and change over time.",
+      "models": [
+        "gcp2",
+        "signs-of-safety",
+        "family-safeguarding",
+        "solution-focused",
+        "family-group-conference"
+      ]
+    },
+    {
+      "id": "domestic-abuse",
+      "label": "Domestic abuse is affecting the child or family safety.",
+      "detail": "The plan needs perpetrator pattern analysis, protective parent strengths, child impact, and safe information sharing.",
+      "models": [
+        "safe-and-together",
+        "family-safeguarding",
+        "signs-of-safety",
+        "family-group-conference",
+        "contextual-safeguarding"
+      ]
+    },
+    {
+      "id": "exploitation",
+      "label": "Exploitation, adolescent risk, peer harm, school risk, or online/community harm is present.",
+      "detail": "Risk may sit outside the home and require contextual mapping beyond parent-focused plans.",
+      "models": [
+        "contextual-safeguarding",
+        "systemic-practice",
+        "motivational-interviewing",
+        "signs-of-safety",
+        "restorative-practice"
+      ]
+    },
+    {
+      "id": "care-experience",
+      "label": "The child is in care, on the edge of care, returning home, or permanence is uncertain.",
+      "detail": "The work needs belonging, stability, identity, relationships, family network options, and safe permanence planning.",
+      "models": [
+        "signs-of-wellbeing",
+        "family-group-conference",
+        "pace",
+        "systemic-practice",
+        "solution-focused"
+      ]
+    },
+    {
+      "id": "trauma-attachment",
+      "label": "Trauma, attachment disruption, mistrust, shame, or relational conflict is central.",
+      "detail": "The child may need relational safety and adults who can stay curious, calm, boundaried, and empathic.",
+      "models": [
+        "pace",
+        "systemic-practice",
+        "signs-of-wellbeing",
+        "restorative-practice",
+        "motivational-interviewing"
+      ]
+    },
+    {
+      "id": "family-network",
+      "label": "There may be wider family or trusted network members who could help.",
+      "detail": "The network may hold safe options for care, practical support, supervision, or belonging.",
+      "models": [
+        "family-group-conference",
+        "signs-of-safety",
+        "signs-of-wellbeing",
+        "systemic-practice",
+        "solution-focused"
+      ]
+    },
+    {
+      "id": "ambivalence",
+      "label": "A parent or young person feels ambivalent, defensive, stuck, or hard to engage.",
+      "detail": "The work needs careful engagement, change talk, respect for autonomy, and clarity about non-negotiable safety.",
+      "models": [
+        "motivational-interviewing",
+        "solution-focused",
+        "signs-of-safety",
+        "pace",
+        "restorative-practice"
+      ]
+    },
+    {
+      "id": "repair",
+      "label": "There has been conflict, harm, school exclusion, relationship breakdown, or a need for repair.",
+      "detail": "The work may need accountability, safe dialogue, relationship repair, and a shared plan.",
+      "models": [
+        "restorative-practice",
+        "systemic-practice",
+        "pace",
+        "solution-focused",
+        "family-group-conference"
+      ]
+    }
+  ],
+  "scenarioWorkouts": [
+    {
+      "title": "Care and family support",
+      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "routes": [
+        "care-support",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which needs and outcomes belong to the person and to carers?",
+        "Which service actually assesses and funds this support?",
+        "What happens if the proposed support is unavailable?"
+      ],
+      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "A decision and a refusal",
+      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "routes": [
+        "mca",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "What is the precise decision and why is ability to decide questioned?",
+        "What communication support would help?",
+        "Who has authority for this decision under the applicable law?"
+      ],
+      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "Restrictions and objections",
+      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "routes": [
+        "dols",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "What restrictions actually operate and how do they affect the person?",
+        "What authority is being relied upon?",
+        "How can the person challenge the arrangements?"
+      ],
+      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "Mental-health crisis",
+      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "routes": [
+        "mha",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "What is the purpose of each proposed intervention?",
+        "Who can assess or exercise the relevant power?",
+        "What voluntary or less restrictive support is available?"
+      ],
+      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "Financial control",
+      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "routes": [
+        "safeguarding",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "How can the person be heard safely and privately?",
+        "Which reporting pathway applies to this person and setting?",
+        "What immediate action and follow-up are required?"
+      ],
+      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "Moving into adult services",
+      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "routes": [
+        "children",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "What does the child say or show about safety and daily life?",
+        "Which reporting duty and receiving agency apply?",
+        "How will education, health and family support coordinate?"
+      ],
+      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "Organisational concerns",
+      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "routes": [
+        "safeguarding",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "How can the person be heard safely and privately?",
+        "Which reporting pathway applies to this person and setting?",
+        "What immediate action and follow-up are required?"
+      ],
+      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the British Columbia module and source library to identify the applicable framework."
+    },
+    {
+      "title": "Communication and agreement",
+      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
+      "routes": [
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "What makes participation accessible for this person?",
+        "What legal basis permits disclosure of this information?",
+        "How will disagreement and reasons be recorded?"
+      ],
+      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the British Columbia module and source library to identify the applicable framework."
+    }
+  ],
+  "printableTemplates": [
+    {
+      "id": "foundations",
+      "title": "Professional Foundations",
+      "fileName": "canada-british-columbia-foundations-prompt.txt",
+      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
+      "body": "Professional Foundations\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBritish Columbia College of Social Workers (BCCSW): https://bccsw.ca/\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+    },
+    {
+      "id": "care-support",
+      "title": "Social Care and Support",
+      "fileName": "canada-british-columbia-care-support-prompt.txt",
+      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
+      "body": "Social Care and Support\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC government services: https://www2.gov.bc.ca/\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+    },
+    {
+      "id": "mca",
+      "title": "Decision-Making and Capacity",
+      "fileName": "canada-british-columbia-mca-prompt.txt",
+      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
+      "body": "Decision-Making and Capacity\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC Laws: https://www.bclaws.gov.bc.ca/\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+    },
+    {
+      "id": "dols",
+      "title": "Restrictions and Liberty",
+      "fileName": "canada-british-columbia-dols-prompt.txt",
+      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
+      "body": "Restrictions and Liberty\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC Laws: https://www.bclaws.gov.bc.ca/\nBC mental-health law: https://www.bclaws.gov.bc.ca/\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+    },
+    {
+      "id": "mha",
+      "title": "Mental Health",
+      "fileName": "canada-british-columbia-mha-prompt.txt",
+      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
+      "body": "Mental Health\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC mental-health law: https://www.bclaws.gov.bc.ca/\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+    },
+    {
+      "id": "safeguarding",
+      "title": "Adult Safeguarding",
+      "fileName": "canada-british-columbia-safeguarding-prompt.txt",
+      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
+      "body": "Adult Safeguarding\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC adult protection legislation: https://www.bclaws.gov.bc.ca/\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+    },
+    {
+      "id": "children",
+      "title": "Children, Families and Transitions",
+      "fileName": "canada-british-columbia-children-prompt.txt",
+      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
+      "body": "Children, Families and Transitions\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC child protection: https://www2.gov.bc.ca/gov/content/safety/public-safety/protecting-children\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+    },
+    {
+      "id": "rights",
+      "title": "Rights, Culture and Recording",
+      "fileName": "canada-british-columbia-rights-prompt.txt",
+      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
+      "body": "Rights, Culture and Recording\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBCCSW standards and resources: https://bccsw.ca/\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+    },
+    {
+      "id": "supervision",
+      "title": "Supervision record",
+      "fileName": "canada-british-columbia-supervision-prompt.txt",
+      "summary": "Question for discussion; Evidence and person’s perspective; Alternative explanations",
+      "body": "Supervision record\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBritish Columbia College of Social Workers (BCCSW): https://bccsw.ca/\n\n1. Question for discussion\nNotes: \n\n2. Evidence and person’s perspective\nNotes: \n\n3. Alternative explanations\nNotes: \n\n4. Feedback and learning\nNotes: \n\n5. Agreed action and review\nNotes: "
+    },
+    {
+      "id": "source-check",
+      "title": "Source and authority check",
+      "fileName": "canada-british-columbia-source-check-prompt.txt",
+      "summary": "Source URL and title; Publisher, jurisdiction and version; Provision and commencement checked",
+      "body": "Source and authority check\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBritish Columbia College of Social Workers (BCCSW): https://bccsw.ca/\n\n1. Source URL and title\nNotes: \n\n2. Publisher, jurisdiction and version\nNotes: \n\n3. Provision and commencement checked\nNotes: \n\n4. Relevant service procedure\nNotes: \n\n5. Uncertainty and specialist advice\nNotes: "
+    }
+  ],
+  "studentPathwaySteps": [
+    {
+      "title": "Professional Foundations",
+      "resource": "foundations",
+      "task": "Using a fictional British Columbia case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+    },
+    {
+      "title": "Social Care and Support",
+      "resource": "care-support",
+      "task": "Using a fictional British Columbia case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+    },
+    {
+      "title": "Decision-Making and Capacity",
+      "resource": "mca",
+      "task": "Using a fictional British Columbia case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+    },
+    {
+      "title": "Restrictions and Liberty",
+      "resource": "dols",
+      "task": "Using a fictional British Columbia case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+    },
+    {
+      "title": "Mental Health",
+      "resource": "mha",
+      "task": "Using a fictional British Columbia case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+    },
+    {
+      "title": "Adult Safeguarding",
+      "resource": "safeguarding",
+      "task": "Using a fictional British Columbia case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+    },
+    {
+      "title": "Children, Families and Transitions",
+      "resource": "children",
+      "task": "Using a fictional British Columbia case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+    },
+    {
+      "title": "Rights, Culture and Recording",
+      "resource": "rights",
+      "task": "Using a fictional British Columbia case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+    }
+  ],
+  "toolCount": 9,
+  "professionalBody": "British Columbia College of Social Workers (BCCSW)",
+  "releaseStatus": "final",
+  "scope": "Learning guide with source-led exercises; not an exhaustive statement of law or an official professional assessment."
+}
