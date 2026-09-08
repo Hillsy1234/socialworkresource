@@ -43,6 +43,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "0245b7aae50f367c",
+      "url": "https://files.ontario.ca/pdf-3/mccss-report-child-abuse-and-neglect-en-2022-03-31.pdf",
+      "title": "CYFSA reporting guidance",
+      "publisher": "files.ontario.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "children",
+          "title": "Children, Families and Transitions — Ontario",
+          "path": "content/canada-ontario/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "02c16a6e5d119544",
       "url": "https://www.aasw.asn.au/",
       "title": "AASW news and professional learning",
@@ -55,6 +75,52 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "032ffab8a58cd3cc",
+      "url": "https://www.nysenate.gov/legislation/laws/MHY/9.39",
+      "title": "Article 9 emergency admission",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "dols",
+          "title": "Restrictions and Liberty — New York",
+          "path": "content/united-states-new-york/resources/dols.md"
+        },
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mha",
+          "title": "Mental Health — New York",
+          "path": "content/united-states-new-york/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0426928393a59d76",
+      "url": "https://www.ontario.ca/laws/statute/90h19",
+      "title": "Ontario Human Rights Code",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ontario",
+          "path": "content/canada-ontario/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "056121216fd74bf7",
@@ -75,6 +141,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "05d4e27621a5b19b",
+      "url": "https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/",
+      "title": "OCSWSSW legislation and confidentiality guidance",
+      "publisher": "www.ocswssw.org",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ontario",
+          "path": "content/canada-ontario/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "0955b58283cb91f6",
@@ -142,7 +228,8 @@
       "category": "legislation",
       "kind": "document",
       "jurisdictions": [
-        "england"
+        "england",
+        "scotland"
       ],
       "references": [
         {
@@ -150,9 +237,102 @@
           "id": "sources",
           "title": "Source Library",
           "path": "SOURCE_LIBRARY.md"
+        },
+        {
+          "jurisdiction": "scotland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Scotland",
+          "path": "content/scotland/resources/rights.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "0b81909f9cc52e57",
+      "url": "https://www.health.gov.au/our-work/chsp/reforms",
+      "title": "CHSP transition arrangements",
+      "publisher": "www.health.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "care-support",
+          "title": "Social Care and Support — New South Wales",
+          "path": "content/australia-nsw/resources/care-support.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "care-support",
+          "title": "Social Care and Support — Victoria",
+          "path": "content/australia-victoria/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0c756614b6996fa5",
+      "url": "https://www.legislation.gov.uk/nisi/1995/755/contents",
+      "title": "Children (Northern Ireland) Order 1995",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Northern Ireland",
+          "path": "content/northern-ireland/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0d20464999e5ce9b",
+      "url": "https://www.niassembly.gov.uk/assembly-business/legislation/2022-2027-mandate/primary-legislation-bills-22-27-mandate/",
+      "title": "Assembly legislation tracker",
+      "publisher": "www.niassembly.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Northern Ireland",
+          "path": "content/northern-ireland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0e6251ba821506f2",
+      "url": "https://ncat.nsw.gov.au/case-types/guardianship.html",
+      "title": "NCAT guardianship jurisdiction",
+      "publisher": "ncat.nsw.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New South Wales",
+          "path": "content/australia-nsw/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "0e7d9420b18e4d6a",
@@ -187,6 +367,86 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "0ec41b971bb49ff7",
+      "url": "https://www.coru.ie/files-codes-of-conduct/swrb-code-of-professional-conduct-and-ethics-for-social-workers.pdf",
+      "title": "CORU social-worker Code",
+      "publisher": "www.coru.ie",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ireland",
+          "path": "content/ireland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0fecf65c0084a82f",
+      "url": "https://www.irishstatutebook.ie/eli/2026/act/11/section/1/enacted/en/html",
+      "title": "Mental Health Act 2026, commencement provision",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "mha",
+          "title": "Mental Health — Ireland",
+          "path": "content/ireland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0ff3870ae3ff50a3",
+      "url": "https://www.nysenate.gov/legislation/laws/MHY/33.13",
+      "title": "Mental Hygiene Law section 33.13",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New York",
+          "path": "content/united-states-new-york/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "10a96b2e594d86ea",
+      "url": "https://legislation.nsw.gov.au/view/pdf/inforce/current/act-2007-008",
+      "title": "Mental Health Act 2007, current PDF",
+      "publisher": "legislation.nsw.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "mha",
+          "title": "Mental Health — New South Wales",
+          "path": "content/australia-nsw/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "10b6b1ecea0a458b",
       "url": "https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty",
       "title": "Welsh regulator statement",
@@ -219,6 +479,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "10bf45512e20616e",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96210_01",
+      "title": "BC Human Rights Code",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — British Columbia",
+          "path": "content/canada-british-columbia/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "11119291cefdd477",
       "url": "https://www.gov.uk/government/publications/childrens-social-care-national-framework",
       "title": "childrens social care national framework",
@@ -237,6 +517,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "114b2ef1445c1336",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008",
+      "title": "Family Violence Protection Act 2008",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Victoria",
+          "path": "content/australia-victoria/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "11f9f4df80fe03b0",
@@ -285,6 +585,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "147c00422b5ab2a9",
+      "url": "https://www.health-ni.gov.uk/publications/interim-guidance-mental-capacity-act-ni-2016",
+      "title": "Interim guidance on the Mental Capacity Act (NI) 2016",
+      "publisher": "www.health-ni.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Northern Ireland",
+          "path": "content/northern-ireland/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "172eba6a58fc08a3",
       "url": "https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland",
       "title": "Co-operating to Safeguard Children",
@@ -309,6 +629,219 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "178e7fe50ab238ba",
+      "url": "https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes",
+      "title": "NDIS legislative changes",
+      "publisher": "ndis.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "care-support",
+          "title": "Social Care and Support — New South Wales",
+          "path": "content/australia-nsw/resources/care-support.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "care-support",
+          "title": "Social Care and Support — Victoria",
+          "path": "content/australia-victoria/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "1798f42b0315e9b4",
+      "url": "https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html",
+      "title": "Social Workers Registration Act 2003",
+      "publisher": "www.legislation.govt.nz",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "foundations",
+          "title": "Professional Foundations — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "17a7c0ead2336a86",
+      "url": "https://www.ndiscommission.gov.au/rules-and-standards/behaviour-support-and-restrictive-practices/rules-implementing-providers",
+      "title": "NDIS implementing-provider rules",
+      "publisher": "www.ndiscommission.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "dols",
+          "title": "Restrictions and Liberty — New South Wales",
+          "path": "content/australia-nsw/resources/dols.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Victoria",
+          "path": "content/australia-victoria/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "17c41ceea8cc34b4",
+      "url": "https://www.disabilitysupport.govt.nz/providers/quality-and-safeguarding/we-can-all-contribute-to-quality-and-safeguarding",
+      "title": "DSS quality and safeguarding responsibilities",
+      "publisher": "www.disabilitysupport.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "18e822a5d5ebecea",
+      "url": "https://www.legislation.gov.uk/asp/2003/13/contents",
+      "title": "Mental Health (Care and Treatment) (Scotland) Act 2003",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "mha",
+          "title": "Mental Health — Scotland",
+          "path": "content/scotland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "19777556652de322",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01",
+      "title": "Mental Health Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "dols",
+          "title": "Restrictions and Liberty — British Columbia",
+          "path": "content/canada-british-columbia/resources/dols.md"
+        },
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "mha",
+          "title": "Mental Health — British Columbia",
+          "path": "content/canada-british-columbia/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "199ec69f85386617",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/guardianship-and-administration-act-2019",
+      "title": "Guardianship and Administration Act 2019",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Victoria",
+          "path": "content/australia-victoria/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "1b559d6b11b01391",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=4712.",
+      "title": "Probate Code, healthcare decision-makers",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — California",
+          "path": "content/united-states-california/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "1dc720533dbae339",
+      "url": "https://www.legislation.gov.uk/asp/2007/10/contents",
+      "title": "Adult Support and Protection (Scotland) Act 2007",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Scotland",
+          "path": "content/scotland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "1e91263dc89e6a38",
+      "url": "https://www.bbs.ca.gov/updates_faqs/updates.html",
+      "title": "BBS updates",
+      "publisher": "California Board of Behavioral Sciences",
+      "category": "policy",
+      "kind": "discovery",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [],
+      "coverageNote": "Checks this URL only; linked publications need separate review."
     },
     {
       "id": "1f4bd803f361cddf",
@@ -364,6 +897,66 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "2120f5a54151eec2",
+      "url": "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html",
+      "title": "New Zealand Bill of Rights Act 1990",
+      "publisher": "www.legislation.govt.nz",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "21ba83d4041a521a",
+      "url": "https://www.nidirect.gov.uk/articles/mental-health-services-and-support",
+      "title": "Mental health services and support",
+      "publisher": "www.nidirect.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "mha",
+          "title": "Mental Health — Northern Ireland",
+          "path": "content/northern-ireland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2214f5a2c293f4fc",
+      "url": "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/are-you-eligible",
+      "title": "Home and community care eligibility",
+      "publisher": "www2.gov.bc.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "care-support",
+          "title": "Social Care and Support — British Columbia",
+          "path": "content/canada-british-columbia/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "22e48fc0482e8054",
       "url": "https://www.gov.uk/government/news/mental-health-bill-receives-royal-assent-revolutionising-care",
       "title": "mental health bill receives royal assent revolutionising care",
@@ -410,6 +1003,66 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "24bbbf87f575dd0b",
+      "url": "https://www.disabilitysupport.govt.nz/disabled-people/assessment-and-funding/needs-assessment-services",
+      "title": "DSS needs assessment services",
+      "publisher": "www.disabilitysupport.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "care-support",
+          "title": "Social Care and Support — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2579559ac31f03ab",
+      "url": "https://cdss.ca.gov/adult-protective-services",
+      "title": "CDSS Adult Protective Services",
+      "publisher": "cdss.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — California",
+          "path": "content/united-states-california/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "272da0d51b3f22d4",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-008",
+      "title": "Mental Health Act 2007, current text",
+      "publisher": "legislation.nsw.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "mha",
+          "title": "Mental Health — New South Wales",
+          "path": "content/australia-nsw/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "27623d2f3f87becc",
       "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2",
       "title": "keeping children safe in education  2",
@@ -428,6 +1081,126 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "27973e738eb1fe84",
+      "url": "https://www.nidirect.gov.uk/articles/arranging-health-and-social-care",
+      "title": "Arranging health and social care",
+      "publisher": "www.nidirect.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "care-support",
+          "title": "Social Care and Support — Northern Ireland",
+          "path": "content/northern-ireland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "28c4415a056b8b9f",
+      "url": "https://socialcare.wales/news-stories/new-codes-of-professional-practice",
+      "title": "New professional Codes, July 2026",
+      "publisher": "socialcare.wales",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "foundations",
+          "title": "Professional Foundations",
+          "path": "content/wales/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "29139d3304fed720",
+      "url": "https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/mental-health-district-inspectors",
+      "title": "District inspectors and rights protection",
+      "publisher": "www.health.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2a76702539d20d0a",
+      "url": "https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992",
+      "title": "Guidelines to the 1992 Act",
+      "publisher": "www.health.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "mha",
+          "title": "Mental Health — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2b100ab749a84a93",
+      "url": "https://www.legislation.gov.uk/mwa/2011/1/contents",
+      "title": "Welsh Language (Wales) Measure 2011",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "rights",
+          "title": "Rights, Language and Recording",
+          "path": "content/wales/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2be809ad5495f196",
+      "url": "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+      "title": "California Courts: advance care planning",
+      "publisher": "selfhelp.courts.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — California",
+          "path": "content/united-states-california/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "2ce4975b01fbf0ac",
@@ -456,6 +1229,46 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "2e7d0100e4172048",
+      "url": "https://www.legislation.gov.uk/wsi/2015/1578/contents",
+      "title": "Care and Support (Eligibility) (Wales) Regulations 2015",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "care-support",
+          "title": "Care and Support in Wales",
+          "path": "content/wales/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2f3178bd29c5ad9e",
+      "url": "https://www.gov.ie/en/department-of-health/publications/national-policy-framework-for-adult-safeguarding-in-the-health-and-social-care-sector/",
+      "title": "National adult-safeguarding policy framework",
+      "publisher": "www.gov.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Ireland",
+          "path": "content/ireland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "2f6c0e9fa38b194d",
       "url": "https://niscc.info/news/",
       "title": "NISCC news",
@@ -467,6 +1280,46 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "2fbec92396b7e63f",
+      "url": "https://www.ontario.ca/laws/statute/10r11",
+      "title": "Retirement Homes Act 2010",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Ontario",
+          "path": "content/canada-ontario/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2fc03057e0f41bdb",
+      "url": "https://www.legislation.gov.uk/mwa/2010/7/contents",
+      "title": "Mental Health (Wales) Measure 2010",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "mha",
+          "title": "Mental Health in Wales",
+          "path": "content/wales/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "30f6b9ba6f0ffa80",
@@ -487,6 +1340,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "3165c1ac71be295e",
+      "url": "https://omh.ny.gov/omhweb/guidance/",
+      "title": "Current OMH guidance and updates",
+      "publisher": "omh.ny.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mha",
+          "title": "Mental Health — New York",
+          "path": "content/united-states-new-york/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "33c5d9625c6801b9",
@@ -521,6 +1394,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "350c85bd998d2e48",
+      "url": "https://www.health.ny.gov/health_care/managed_care/plans/min_needs.htm",
+      "title": "Minimum-needs and legacy guidance",
+      "publisher": "www.health.ny.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "care-support",
+          "title": "Social Care and Support — New York",
+          "path": "content/united-states-new-york/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "35794015569b01fb",
       "url": "https://www.health-ni.gov.uk/ga/articles/mental-capacity-act-legislation",
       "title": "Department of Health: legislation and partial commencement",
@@ -539,6 +1432,33 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "35c85c607ce99b72",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html",
+      "title": "HHS mental and behavioural health privacy guidance",
+      "publisher": "www.hhs.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california",
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — California",
+          "path": "content/united-states-california/resources/rights.md"
+        },
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New York",
+          "path": "content/united-states-new-york/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "377336ef6997efba",
@@ -571,6 +1491,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "3852a029cee21930",
+      "url": "https://www.trustee.bc.ca/adults/protecting-vulnerable-adult-abuse-neglect-or-self-neglect",
+      "title": "PGT: protecting an adult from abuse or neglect",
+      "publisher": "www.trustee.bc.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — British Columbia",
+          "path": "content/canada-british-columbia/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "38b207a9b1285088",
@@ -612,6 +1552,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "3ad55b62d6ff375a",
+      "url": "https://www.tusla.ie/children-first/mandated-persons/what-are-the-thresholds-for-making-a-mandated-report/",
+      "title": "Tusla mandated reporting thresholds",
+      "publisher": "www.tusla.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Ireland",
+          "path": "content/ireland/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "3ba3f1c467f1305a",
       "url": "https://supremecourt.uk/cases/uksc-2025-0042",
       "title": "uksc 2025 0042",
@@ -630,6 +1590,46 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "3d53425c44caa7e4",
+      "url": "https://www.legislation.gov.uk/mwa/2010/7/part/3",
+      "title": "Part 3 information",
+      "publisher": "www.legislation.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "mha",
+          "title": "Mental Health in Wales",
+          "path": "content/wales/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "3d647effc0cfe4a2",
+      "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html",
+      "title": "Crimes Act 1961",
+      "publisher": "www.legislation.govt.nz",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "3d820b8b1f289b1e",
@@ -682,6 +1682,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "4105a8c2adb23533",
+      "url": "https://www.ontario.ca/files/2024-05/moh-information-guide-voluntary-patients-en-2024-05-21.pdf",
+      "title": "Ontario information for voluntary patients",
+      "publisher": "www.ontario.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "mha",
+          "title": "Mental Health — Ontario",
+          "path": "content/canada-ontario/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "4166822f21df9197",
@@ -762,6 +1782,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "43d3893e988134ec",
+      "url": "https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/",
+      "title": "Ontario Health atHome feedback and appeals",
+      "publisher": "www.ontariohealthathome.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "care-support",
+          "title": "Social Care and Support — Ontario",
+          "path": "content/canada-ontario/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "4492636c6f97f296",
       "url": "https://www.legislation.gov.uk/ukpga/1989/41/section/17",
       "title": "17",
@@ -827,6 +1867,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "465291226f47dd75",
+      "url": "https://ageingdisabilitycommission.nsw.gov.au/about-us/reporting/our-response-to-reports.html",
+      "title": "ADC response to reports",
+      "publisher": "ageingdisabilitycommission.nsw.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — New South Wales",
+          "path": "content/australia-nsw/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "46dae35825d24057",
       "url": "https://www.socialworkengland.org.uk/news/",
       "title": "Social Work England news",
@@ -871,6 +1931,26 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "47a184903279bca8",
+      "url": "https://www.gov.wales/individual-development-plan-idp-example-standard-form",
+      "title": "Example IDP standard form, June 2026",
+      "publisher": "www.gov.wales",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "children",
+          "title": "Children, Families and Transitions",
+          "path": "content/wales/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "47ca93a7bd1a1d4c",
@@ -938,6 +2018,66 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "48fa2315e42eb4e1",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.",
+      "title": "California Civil Code, medical-information disclosure",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — California",
+          "path": "content/united-states-california/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "49ae9b2c4920f442",
+      "url": "https://www2.gov.bc.ca/gov/content/safety/public-safety/protecting-children/reporting-child-abuse",
+      "title": "BC reporting child abuse",
+      "publisher": "www2.gov.bc.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "children",
+          "title": "Children, Families and Transitions — British Columbia",
+          "path": "content/canada-british-columbia/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "49e8f9e1c4a94906",
+      "url": "https://www.mwcscot.org.uk/node/510",
+      "title": "SIDMA practice guidance",
+      "publisher": "www.mwcscot.org.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "mha",
+          "title": "Mental Health — Scotland",
+          "path": "content/scotland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "4ae60e6d38e0ae92",
       "url": "https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/",
       "title": "adult enquiry procedures",
@@ -964,6 +2104,86 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "4c41bafe4520cf63",
+      "url": "https://www.privacy.org.nz/privacy-principles/codes-of-practice/hipc2020/hipc-factsheet-3/",
+      "title": "Health-information disclosure guidance",
+      "publisher": "www.privacy.org.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "4ec1a7f090c94f7f",
+      "url": "https://www.bbs.ca.gov/about/board_info.html",
+      "title": "BBS role and regulated professions",
+      "publisher": "www.bbs.ca.gov",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "foundations",
+          "title": "Professional Foundations — California",
+          "path": "content/united-states-california/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "4f397b27b458a9cb",
+      "url": "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/concerns-and-complaints",
+      "title": "Home and community care concerns and complaints",
+      "publisher": "www2.gov.bc.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "care-support",
+          "title": "Social Care and Support — British Columbia",
+          "path": "content/canada-british-columbia/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "4f5b07f89799d695",
+      "url": "https://dcj.nsw.gov.au/service-providers/deliver-disability-services/restrictive-practices-authorisation-portal/policy.html",
+      "title": "NSW restrictive-practices authorisation policy",
+      "publisher": "dcj.nsw.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "dols",
+          "title": "Restrictions and Liberty — New South Wales",
+          "path": "content/australia-nsw/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "50e7e4aa4190d6c2",
       "url": "https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf",
       "title": "Volume 6 statutory guidance",
@@ -984,6 +2204,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "511b98d10d878b22",
+      "url": "https://ncat.nsw.gov.au/publications-and-resources/fact-sheets/person-responsible-fact-sheet.html",
+      "title": "NCAT person responsible guidance",
+      "publisher": "ncat.nsw.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New South Wales",
+          "path": "content/australia-nsw/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "5176fd01bc98f107",
       "url": "https://www.scie.org.uk/mca/",
       "title": "mca",
@@ -1002,6 +2242,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "51937f20b0cf919c",
+      "url": "https://www.nidirect.gov.uk/articles/direct-payments-care",
+      "title": "Direct payments for care",
+      "publisher": "www.nidirect.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "care-support",
+          "title": "Social Care and Support — Northern Ireland",
+          "path": "content/northern-ireland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "5205b0c1371a0f00",
@@ -1076,6 +2336,46 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "55e09db04ff57496",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/disability-act-2006",
+      "title": "Disability Act 2006",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Victoria",
+          "path": "content/australia-victoria/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "5604da82a9c73f48",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001",
+      "title": "Health Records Act 2001",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Victoria",
+          "path": "content/australia-victoria/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "5684a476716847b1",
       "url": "https://www.sssc.uk.com/registration/managing-my-registration/",
       "title": "SSSC registration guidance",
@@ -1094,6 +2394,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "571b2fade4d4296d",
+      "url": "https://www2.hse.ie/services/home-support-service/how-to-apply/",
+      "title": "Applying for Home Support",
+      "publisher": "www2.hse.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "care-support",
+          "title": "Social Care and Support — Ireland",
+          "path": "content/ireland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "57a945b1ce040a88",
@@ -1128,6 +2448,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "57ab3b94e5e62e48",
+      "url": "https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act",
+      "title": "Mental-health replacement and commencement",
+      "publisher": "www.health.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "mha",
+          "title": "Mental Health — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "59111f01037d1dea",
       "url": "https://swrb.govt.nz/",
       "title": "SWRB announcements",
@@ -1139,6 +2479,66 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "595a55f29db1c17c",
+      "url": "https://www.ontario.ca/laws/statute/98s31",
+      "title": "Social Work and Social Service Work Act 1998",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "foundations",
+          "title": "Professional Foundations — Ontario",
+          "path": "content/canada-ontario/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "598d8616fa93d9cc",
+      "url": "https://www.legislation.gov.uk/anaw/2014/4/contents",
+      "title": "Social Services and Well-being (Wales) Act 2014",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "care-support",
+          "title": "Care and Support in Wales",
+          "path": "content/wales/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "59ab56fdb00e2afb",
+      "url": "https://www.legislation.gov.uk/ukpga/1995/36/contents",
+      "title": "Children (Scotland) Act 1995",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Scotland",
+          "path": "content/scotland/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "5cf6a49d7b054643",
@@ -1225,6 +2625,86 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "632cb7d174040301",
+      "url": "https://www.ontario.ca/page/information-about-elder-abuse",
+      "title": "Ontario elder-abuse information",
+      "publisher": "www.ontario.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Ontario",
+          "path": "content/canada-ontario/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "635940a3272e9302",
+      "url": "https://bccsw.ca/for-registrants/standards-scope-of-practice/",
+      "title": "BCCSW Standards and Scope of Practice",
+      "publisher": "bccsw.ca",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "foundations",
+          "title": "Professional Foundations — British Columbia",
+          "path": "content/canada-british-columbia/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "64b373c44d6a062c",
+      "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/adult-protective-services/information-for-mandated-reporters",
+      "title": "CDSS mandated adult-abuse reporting",
+      "publisher": "www.cdss.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — California",
+          "path": "content/united-states-california/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "65ab2af9d9c08336",
+      "url": "https://www.gov.scot/policies/human-rights/childrens-rights/",
+      "title": "Children’s rights and incorporation",
+      "publisher": "www.gov.scot",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Scotland",
+          "path": "content/scotland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "66f4f33472596a58",
       "url": "https://support-for-social-workers.education.gov.uk/",
       "title": "Department for Education",
@@ -1306,9 +2786,35 @@
           "id": "sources",
           "title": "Source Library — Northern Ireland",
           "path": "content/northern-ireland/resources/sources.md"
+        },
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "foundations",
+          "title": "Professional Foundations — Northern Ireland",
+          "path": "content/northern-ireland/resources/foundations.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "6b2aa743b9d15946",
+      "url": "https://www.irishstatutebook.ie/eli/2014/act/25/section/42/enacted/en/html",
+      "title": "Irish Human Rights and Equality Commission Act 2014: public bodies",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ireland",
+          "path": "content/ireland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "6be1ba7401585811",
@@ -1404,9 +2910,35 @@
           "id": "sources",
           "title": "Source Library — Aotearoa New Zealand",
           "path": "content/new-zealand/resources/sources.md"
+        },
+        {
+          "jurisdiction": "new-zealand",
+          "id": "foundations",
+          "title": "Professional Foundations — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/foundations.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "716d2ef2253c5bc0",
+      "url": "https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html",
+      "title": "ALN decision-making and communication guidance",
+      "publisher": "www.gov.wales",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "children",
+          "title": "Children, Families and Transitions",
+          "path": "content/wales/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "71dfefdfc59ed735",
@@ -1433,6 +2965,66 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "721bec9bd75f0a24",
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/473",
+      "title": "Social Services Law section 473",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — New York",
+          "path": "content/united-states-new-york/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "731130678d056947",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/charter-human-rights-and-responsibilities-act-2006",
+      "title": "Charter of Human Rights and Responsibilities Act 2006",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Victoria",
+          "path": "content/australia-victoria/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "74e4bc1efdb5b6e9",
+      "url": "https://www.decisionsupportservice.ie/resources/codes-practice/code-practice-supporting-decision-making-and-assessing-capacity",
+      "title": "DSS capacity and decision-support Code",
+      "publisher": "www.decisionsupportservice.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Ireland",
+          "path": "content/ireland/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "74e8f8a1546b8f48",
@@ -1475,6 +3067,46 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "75cc92369e008ea0",
+      "url": "https://www.dhcs.ca.gov/services/home-and-community-based-services-hcbs-grievance-and-hearings/",
+      "title": "HCBS grievances and hearing rights",
+      "publisher": "www.dhcs.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "care-support",
+          "title": "Social Care and Support — California",
+          "path": "content/united-states-california/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "75f962c7d19de8b4",
+      "url": "https://www.legislation.gov.uk/anaw/2014/4/section/126",
+      "title": "Welsh Act, adult-at-risk and enquiry provision",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "safeguarding",
+          "title": "Safeguarding Adults in Wales",
+          "path": "content/wales/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "76a4221843076600",
       "url": "https://www.health.govt.nz/strategies-initiatives/health-strategies/health-of-disabled-people-strategy",
       "title": "Health of Disabled People Strategy",
@@ -1505,6 +3137,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "77617218eb6b5994",
+      "url": "https://www.gov.scot/publications/adults-with-incapacity-act-principles/",
+      "title": "AWI principles",
+      "publisher": "www.gov.scot",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Scotland",
+          "path": "content/scotland/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "77d0caae4a1957ea",
@@ -1571,6 +3223,52 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "78ba41ab0133f7c9",
+      "url": "https://www2.hse.ie/services/home-support-service/home-support-service-for-older-people/",
+      "title": "HSE Home Support Service",
+      "publisher": "www2.hse.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "care-support",
+          "title": "Social Care and Support — Ireland",
+          "path": "content/ireland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "7a00fd54bbcbb880",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96006_01",
+      "title": "Adult Guardianship Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "dols",
+          "title": "Restrictions and Liberty — British Columbia",
+          "path": "content/canada-british-columbia/resources/dols.md"
+        },
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — British Columbia",
+          "path": "content/canada-british-columbia/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "7a3a6443b72dabef",
       "url": "https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/",
       "title": "CORU Social Workers Registration Board",
@@ -1586,9 +3284,41 @@
           "id": "sources",
           "title": "Source Library — Ireland",
           "path": "content/ireland/resources/sources.md"
+        },
+        {
+          "jurisdiction": "ireland",
+          "id": "foundations",
+          "title": "Professional Foundations — Ireland",
+          "path": "content/ireland/resources/foundations.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "7bb51a44d363038b",
+      "url": "https://www.ontario.ca/laws/statute/90m07",
+      "title": "Mental Health Act",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Ontario",
+          "path": "content/canada-ontario/resources/dols.md"
+        },
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "mha",
+          "title": "Mental Health — Ontario",
+          "path": "content/canada-ontario/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "7bfd657bb4ff483a",
@@ -1611,6 +3341,52 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "7d0a7a4f54135208",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=15630.",
+      "title": "Welfare and Institutions Code, section 15630",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — California",
+          "path": "content/united-states-california/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "7d39629c6f6e128d",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96181_01",
+      "title": "Health Care (Consent) and Care Facility (Admission) Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — British Columbia",
+          "path": "content/canada-british-columbia/resources/mca.md"
+        },
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "dols",
+          "title": "Restrictions and Liberty — British Columbia",
+          "path": "content/canada-british-columbia/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "7da36aeae73fb1e3",
       "url": "https://www.legislation.gov.uk/ukpga/1983/20/contents",
       "title": "contents",
@@ -1629,6 +3405,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "7e4d387434e31e08",
+      "url": "https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+      "title": "Oranga Tamariki Act 1989",
+      "publisher": "www.legislation.govt.nz",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "children",
+          "title": "Children, Families and Transitions — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "7f86afa6d452e8fc",
@@ -1661,6 +3457,19 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "7fde6301a3177011",
+      "url": "https://bccsw.ca/for-registrants/continuing-professional-development/",
+      "title": "BCCSW continuing professional development",
+      "publisher": "British Columbia College of Social Workers",
+      "category": "training",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [],
+      "coverageNote": "Checks this URL only; linked publications need separate review."
     },
     {
       "id": "8088bc772f0f33a2",
@@ -1793,6 +3602,152 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "8513b65721386501",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048",
+      "title": "Anti-Discrimination Act 1977",
+      "publisher": "legislation.nsw.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New South Wales",
+          "path": "content/australia-nsw/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "86785c3efc06e6ad",
+      "url": "https://www.humanrights.vic.gov.au/for-public-sector/charter-responsibilities/charter-and-the-government/",
+      "title": "Charter responsibilities of public authorities",
+      "publisher": "www.humanrights.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Victoria",
+          "path": "content/australia-victoria/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "8746608b00ac0443",
+      "url": "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/how-to-arrange-for-care",
+      "title": "Arranging care and assessment",
+      "publisher": "www2.gov.bc.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "care-support",
+          "title": "Social Care and Support — British Columbia",
+          "path": "content/canada-british-columbia/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "8837cecac58eefae",
+      "url": "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/repository/index.htm",
+      "title": "NYIAP current policy repository",
+      "publisher": "www.health.ny.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "care-support",
+          "title": "Social Care and Support — New York",
+          "path": "content/united-states-new-york/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "889a1548934a1238",
+      "url": "https://www.irishstatutebook.ie/eli/2015/act/36/enacted/en/html",
+      "title": "Children First Act 2015",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Ireland",
+          "path": "content/ireland/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "88b1addef60b7a5c",
+      "url": "https://www.health.vic.gov.au/mental-health-and-wellbeing-act-handbook/treatments-and-interventions/treatment-orders",
+      "title": "Treatment-order criteria and process",
+      "publisher": "www.health.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mha",
+          "title": "Mental Health — Victoria",
+          "path": "content/australia-victoria/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "89ac1d47b21338e3",
+      "url": "https://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html",
+      "title": "Protection of Personal and Property Rights Act 1988",
+      "publisher": "www.legislation.govt.nz",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/mca.md"
+        },
+        {
+          "jurisdiction": "new-zealand",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "8a14ad07cc7e8179",
       "url": "https://www.nysenate.gov/legislation/laws",
       "title": "New York legislation",
@@ -1857,6 +3812,19 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "8aa70e3676e81db2",
+      "url": "https://www.bbs.ca.gov/licensees/cont_ed.html",
+      "title": "BBS continuing education",
+      "publisher": "California Board of Behavioral Sciences",
+      "category": "training",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [],
+      "coverageNote": "Checks this URL only; linked publications need separate review."
+    },
+    {
       "id": "8b959b8973477e5f",
       "url": "https://dcj.nsw.gov.au/children-and-families/protecting-our-kids/mandatory-reporters/who-are-mandatory-reporters.html",
       "title": "DCJ child protection and mandatory reporting",
@@ -1881,6 +3849,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "8cb2bcc9bae88c24",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/47/section/75",
+      "title": "Northern Ireland Act 1998, section 75",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Northern Ireland",
+          "path": "content/northern-ireland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "8d602df85ef213dd",
@@ -1915,6 +3903,59 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "8fdc741400f19b9c",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/children-youth-and-families-act-2005",
+      "title": "Children, Youth and Families Act 2005",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "children",
+          "title": "Children, Families and Transitions — Victoria",
+          "path": "content/australia-victoria/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "90349bf0ef910208",
+      "url": "https://www.dhcs.ca.gov/wp-content/uploads/2025/10/DHCS_Handbook_English.pdf",
+      "title": "Mental-health rights handbook",
+      "publisher": "www.dhcs.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "dols",
+          "title": "Restrictions and Liberty — California",
+          "path": "content/united-states-california/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "919e4924bfba93a9",
+      "url": "https://www.ocswssw.org/news/",
+      "title": "OCSWSSW news",
+      "publisher": "Ontario College of Social Workers and Social Service Workers",
+      "category": "professional-standards",
+      "kind": "discovery",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [],
+      "coverageNote": "Checks this URL only; linked publications need separate review."
+    },
+    {
       "id": "9235bf4c1e7a3b78",
       "url": "https://ico.org.uk/10steps",
       "title": "ICO safeguarding information-sharing guidance",
@@ -1941,6 +3982,46 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "9267010cb55c7dfc",
+      "url": "https://www.ipc.nsw.gov.au/privacy/nsw-privacy-laws/hrip",
+      "title": "HRIP Act and scope",
+      "publisher": "www.ipc.nsw.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New South Wales",
+          "path": "content/australia-nsw/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "928fcf788aef2598",
+      "url": "https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act",
+      "title": "Current mental-health rights",
+      "publisher": "www.health.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "mha",
+          "title": "Mental Health — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "9460ee92066af482",
       "url": "https://www.socialworkengland.org.uk/cpd/peer-reflection/",
       "title": "Peer reflection",
@@ -1959,6 +4040,46 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "94bcd7914e6fd095",
+      "url": "https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns",
+      "title": "Family group conference policy",
+      "publisher": "practice.orangatamariki.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "children",
+          "title": "Children, Families and Transitions — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "94fac4af04237805",
+      "url": "https://www.irishstatutebook.ie/eli/2015/act/64/enacted/en/html",
+      "title": "Assisted Decision-Making (Capacity) Act 2015",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Ireland",
+          "path": "content/ireland/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "95c9bbd6e1765cd0",
@@ -2039,6 +4160,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "98445e811b7cc169",
+      "url": "https://www.privacy.org.nz/privacy-principles/codes-of-practice/hipc2020/",
+      "title": "Current Health Information Privacy Code",
+      "publisher": "www.privacy.org.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "99142189f67ecfc4",
       "url": "https://www.gov.wales/social-services-codes-practice",
       "title": "Part 11 Code entry in the codes collection",
@@ -2095,6 +4236,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "9cfc2245938d8feb",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/medical-treatment-planning-and-decisions-act-2016",
+      "title": "Medical Treatment Planning and Decisions Act 2016",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Victoria",
+          "path": "content/australia-victoria/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "9d1fa28dba1b0822",
@@ -2167,6 +4328,212 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "9f1885e281e79de2",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01",
+      "title": "Social Workers Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "foundations",
+          "title": "Professional Foundations — British Columbia",
+          "path": "content/canada-british-columbia/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a106df8fc6254e5d",
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/413",
+      "title": "Social Services Law section 413",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "children",
+          "title": "Children, Families and Transitions — New York",
+          "path": "content/united-states-new-york/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a16a8fc57bfd15f1",
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/2994-D",
+      "title": "FHCDA surrogate decisions",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New York",
+          "path": "content/united-states-new-york/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a1b4e4e87f1bcd08",
+      "url": "https://equalityni.org/equality-laws-ni",
+      "title": "Equality laws in Northern Ireland",
+      "publisher": "equalityni.org",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Northern Ireland",
+          "path": "content/northern-ireland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a3411932158e2545",
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/A29-C",
+      "title": "Health care proxies, Public Health Law Article 29-C",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New York",
+          "path": "content/united-states-new-york/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a3c42b5d06a83844",
+      "url": "https://www.bbs.ca.gov/about/law_reg.html",
+      "title": "BBS law changes",
+      "publisher": "California Board of Behavioral Sciences",
+      "category": "legislation",
+      "kind": "discovery",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "foundations",
+          "title": "Professional Foundations — California",
+          "path": "content/united-states-california/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this URL only; linked publications need separate review."
+    },
+    {
+      "id": "a51ff3f4de69776b",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5150.",
+      "title": "Welfare and Institutions Code, section 5150",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "dols",
+          "title": "Restrictions and Liberty — California",
+          "path": "content/united-states-california/resources/dols.md"
+        },
+        {
+          "jurisdiction": "united-states-california",
+          "id": "mha",
+          "title": "Mental Health — California",
+          "path": "content/united-states-california/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a553b2d7d74a0e4a",
+      "url": "https://www.orangedoor.vic.gov.au/",
+      "title": "The Orange Door",
+      "publisher": "www.orangedoor.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Victoria",
+          "path": "content/australia-victoria/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a585e8d36fccee1d",
+      "url": "https://www.dhcs.ca.gov/services/patients-rights/",
+      "title": "DHCS patients’ rights",
+      "publisher": "www.dhcs.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "dols",
+          "title": "Restrictions and Liberty — California",
+          "path": "content/united-states-california/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a7f10b621c55731e",
+      "url": "https://www.dffh.vic.gov.au/about-victorian-senior-practitioner",
+      "title": "Victorian Senior Practitioner responsibilities",
+      "publisher": "www.dffh.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Victoria",
+          "path": "content/australia-victoria/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "a841c72d4beb19a4",
       "url": "https://www.gov.scot/policies/youth-justice/childrens-hearings/",
       "title": "Scottish Government children’s hearings guidance",
@@ -2219,6 +4586,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "aa0e0d19626ed2ab",
+      "url": "https://www.nysenate.gov/legislation/laws/MHY/81.22",
+      "title": "Article 81 personal-needs powers and limits",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "dols",
+          "title": "Restrictions and Liberty — New York",
+          "path": "content/united-states-new-york/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "aa663425d9c622d8",
       "url": "https://www.ocswssw.org/",
       "title": "OCSWSSW news and learning",
@@ -2258,6 +4645,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "ab6d8200d0ea3ef0",
+      "url": "https://bbs.ca.gov/applicants/lcsw.html",
+      "title": "BBS LCSW and ASW requirements",
+      "publisher": "bbs.ca.gov",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "foundations",
+          "title": "Professional Foundations — California",
+          "path": "content/united-states-california/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "aba8b49e7bf588d3",
       "url": "https://www.gov.uk/government/publications/domestic-abuse-act-2021",
       "title": "domestic abuse act 2021",
@@ -2276,6 +4683,46 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "abd3389068da30d6",
+      "url": "https://www.health-ni.gov.uk/publications/adult-safeguarding-prevention-and-protection-partnership-key-documents",
+      "title": "Adult safeguarding policy and documents",
+      "publisher": "www.health-ni.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Northern Ireland",
+          "path": "content/northern-ireland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "abd5ddce47dc656f",
+      "url": "https://www.legislation.gov.uk/uksi/2026/385/contents",
+      "title": "Mental Health Act 2025 first commencement regulations",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "mha",
+          "title": "Mental Health in Wales",
+          "path": "content/wales/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "ac46f18b66851cd1",
@@ -2389,6 +4836,66 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "af12fde4922ba514",
+      "url": "https://www.ontario.ca/laws/statute/04p03",
+      "title": "Personal Health Information Protection Act 2004",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ontario",
+          "path": "content/canada-ontario/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "af9ec0d56e3e0e18",
+      "url": "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/ldss-mmco.htm",
+      "title": "NYIAP roles and responsibilities",
+      "publisher": "www.health.ny.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "care-support",
+          "title": "Social Care and Support — New York",
+          "path": "content/united-states-new-york/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "b097556235420a3e",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/mental-health-and-wellbeing-act-2022",
+      "title": "Mental Health and Wellbeing Act 2022",
+      "publisher": "www.legislation.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mha",
+          "title": "Mental Health — Victoria",
+          "path": "content/australia-victoria/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "b0d9623da2068f54",
       "url": "https://www.legislation.gov.uk/uksi/2026/385/pdfs/uksi_20260385_en.pdf",
       "title": "uksi_20260385_en.pdf",
@@ -2409,24 +4916,58 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
-      "id": "b317d6c148c8d1aa",
-      "url": "https://www.gov.wales/sites/default/files/publications/2021-08/atisn15305doc6.pdf",
-      "title": "Part 3 information",
-      "publisher": "Welsh Government",
+      "id": "b286547727334e1a",
+      "url": "https://www.cdss.ca.gov/hearing-requests",
+      "title": "CDSS State Hearing requests",
+      "publisher": "www.cdss.ca.gov",
       "category": "policy",
       "kind": "document",
       "jurisdictions": [
-        "wales"
+        "united-states-california"
       ],
       "references": [
         {
-          "jurisdiction": "wales",
-          "id": "mha",
-          "title": "Mental Health in Wales",
-          "path": "content/wales/resources/mha.md"
+          "jurisdiction": "united-states-california",
+          "id": "care-support",
+          "title": "Social Care and Support — California",
+          "path": "content/united-states-california/resources/care-support.md"
         }
       ],
-      "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "b28a8ca8afb424de",
+      "url": "https://www.aasw.asn.au/professional/cpd/aasw-live-online/",
+      "title": "AASW live online CPD",
+      "publisher": "Australian Association of Social Workers",
+      "category": "training",
+      "kind": "discovery",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [],
+      "coverageNote": "Checks this URL only; linked publications need separate review."
+    },
+    {
+      "id": "b3f71b9e57a8e00d",
+      "url": "https://www.irishstatutebook.ie/eli/2001/act/25/enacted/en/html",
+      "title": "Mental Health Act 2001",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "mha",
+          "title": "Mental Health — Ireland",
+          "path": "content/ireland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "b4cbd4214cfb9071",
@@ -2455,6 +4996,86 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "b57ad67dd5dba5eb",
+      "url": "https://www.legislation.gov.uk/asp/2013/1/contents",
+      "title": "Social Care (Self-directed Support) (Scotland) Act 2013",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "care-support",
+          "title": "Social Care and Support — Scotland",
+          "path": "content/scotland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "b6af0dee1ceb07d9",
+      "url": "https://www.hdc.org.nz/education/online-learning/consent-for-consumers-who-are-not-competent/",
+      "title": "HDC consent and competence guidance",
+      "publisher": "www.hdc.org.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "b71ca613de1d0d5d",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00",
+      "title": "FIPPA",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — British Columbia",
+          "path": "content/canada-british-columbia/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "b824e8a95029774b",
+      "url": "https://www.ontario.ca/laws/statute/17c14",
+      "title": "Child, Youth and Family Services Act 2017",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "children",
+          "title": "Children, Families and Transitions — Ontario",
+          "path": "content/canada-ontario/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "ba1c793de4bc9e92",
       "url": "https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/",
       "title": "CORU CPD for social workers",
@@ -2464,7 +5085,14 @@
       "jurisdictions": [
         "ireland"
       ],
-      "references": [],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "foundations",
+          "title": "Professional Foundations — Ireland",
+          "path": "content/ireland/resources/foundations.md"
+        }
+      ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
@@ -2486,6 +5114,32 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "bbff7af24d95412e",
+      "url": "https://www.health-ni.gov.uk/articles/mental-capacity-act-faqs",
+      "title": "Mental Capacity Act FAQs",
+      "publisher": "www.health-ni.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Northern Ireland",
+          "path": "content/northern-ireland/resources/mca.md"
+        },
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Northern Ireland",
+          "path": "content/northern-ireland/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "bc1c30890abb6fd7",
@@ -2546,6 +5200,204 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "bca9947386e6bcf0",
+      "url": "https://www.legislation.gov.uk/asp/2011/1/contents",
+      "title": "Children’s Hearings (Scotland) Act 2011",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Scotland",
+          "path": "content/scotland/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "bd8a175a92523698",
+      "url": "https://www.disabilitysupport.govt.nz/disabled-people/assessment-and-funding/how-to-access-support",
+      "title": "DSS access to support",
+      "publisher": "www.disabilitysupport.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "care-support",
+          "title": "Social Care and Support — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "bdc0534dd1132386",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11_19_2002",
+      "title": "Designated Agencies Regulation",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — British Columbia",
+          "path": "content/canada-british-columbia/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "bf299a07bffec10d",
+      "url": "https://www.health.gov.au/our-work/aged-care-act/resources/providers",
+      "title": "Current aged-care provider rules and reforms",
+      "publisher": "www.health.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "care-support",
+          "title": "Social Care and Support — New South Wales",
+          "path": "content/australia-nsw/resources/care-support.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "care-support",
+          "title": "Social Care and Support — Victoria",
+          "path": "content/australia-victoria/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "bf7829753be6d04c",
+      "url": "https://www.hhs.gov/hipaa/part-2/index.html",
+      "title": "Current Part 2 confidentiality requirements",
+      "publisher": "www.hhs.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california",
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — California",
+          "path": "content/united-states-california/resources/rights.md"
+        },
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New York",
+          "path": "content/united-states-new-york/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "bff21c94d0235e09",
+      "url": "https://www.ontario.ca/laws/statute/96h02",
+      "title": "Health Care Consent Act 1996",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Ontario",
+          "path": "content/canada-ontario/resources/mca.md"
+        },
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Ontario",
+          "path": "content/canada-ontario/resources/dols.md"
+        },
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "mha",
+          "title": "Mental Health — Ontario",
+          "path": "content/canada-ontario/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "c049939152d19db6",
+      "url": "https://omh.ny.gov/omhweb/guidance/transport-civil-voluntary-involuntary-admissions-statutes.html",
+      "title": "OMH current admission and transport guidance",
+      "publisher": "omh.ny.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "dols",
+          "title": "Restrictions and Liberty — New York",
+          "path": "content/united-states-new-york/resources/dols.md"
+        },
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mha",
+          "title": "Mental Health — New York",
+          "path": "content/united-states-new-york/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "c136b137e0b34df4",
+      "url": "https://www.ontario.ca/laws/statute/21f39",
+      "title": "Fixing Long-Term Care Act 2021",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Ontario",
+          "path": "content/canada-ontario/resources/dols.md"
+        },
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Ontario",
+          "path": "content/canada-ontario/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "c1abf78137b91ac2",
       "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/assisted-decision-making-capacity-act-2015/",
       "title": "Assisted Decision-Making Act",
@@ -2572,6 +5424,33 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "c27c9906c2f590a7",
+      "url": "https://ndis.gov.au/applying/application-process/what-access-request-form",
+      "title": "NDIS access application and evidence",
+      "publisher": "ndis.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "care-support",
+          "title": "Social Care and Support — New South Wales",
+          "path": "content/australia-nsw/resources/care-support.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "care-support",
+          "title": "Social Care and Support — Victoria",
+          "path": "content/australia-victoria/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "c32eee564522d9e3",
       "url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
       "title": "contents",
@@ -2579,7 +5458,8 @@
       "category": "legislation",
       "kind": "document",
       "jurisdictions": [
-        "england"
+        "england",
+        "wales"
       ],
       "references": [
         {
@@ -2587,6 +5467,12 @@
           "id": "sources",
           "title": "Source Library",
           "path": "SOURCE_LIBRARY.md"
+        },
+        {
+          "jurisdiction": "wales",
+          "id": "mca",
+          "title": "Mental Capacity Act 2005",
+          "path": "content/wales/resources/mca.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
@@ -2648,6 +5534,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "c42c6c0b56e18b85",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-157",
+      "title": "Children and Young Persons (Care and Protection) Act 1998",
+      "publisher": "legislation.nsw.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "children",
+          "title": "Children, Families and Transitions — New South Wales",
+          "path": "content/australia-nsw/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "c6f363530836e60b",
@@ -2767,6 +5673,166 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "cacdc2ff985438dd",
+      "url": "https://www.health-ni.gov.uk/topics/mental-capacity-act",
+      "title": "Mental Capacity Act: implementation and current guidance",
+      "publisher": "www.health-ni.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Northern Ireland",
+          "path": "content/northern-ireland/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "cc24e714ba67c17e",
+      "url": "https://www.legislation.gov.uk/nia/2002/6/contents",
+      "title": "Carers and Direct Payments Act (Northern Ireland) 2002",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "care-support",
+          "title": "Social Care and Support — Northern Ireland",
+          "path": "content/northern-ireland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "ccb33a488c7c74ce",
+      "url": "https://www.legislation.gov.uk/nia/2016/18/contents",
+      "title": "Mental Capacity Act (Northern Ireland) 2016",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Northern Ireland",
+          "path": "content/northern-ireland/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "cd032d259e5a267d",
+      "url": "https://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/interpreting-an-instructional-directive",
+      "title": "Interpreting an instructional directive",
+      "publisher": "www.publicadvocate.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Victoria",
+          "path": "content/australia-victoria/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "cd355b3139b87803",
+      "url": "https://www.gov.ie/en/department-of-health/press-releases/mental-health-act-2026-signed-into-law-by-president-connolly/",
+      "title": "Department of Health enactment announcement",
+      "publisher": "www.gov.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "mha",
+          "title": "Mental Health — Ireland",
+          "path": "content/ireland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "cd51d819541a9a32",
+      "url": "https://www.ontario.ca/laws/statute/19c05c",
+      "title": "Connecting Care Act 2019",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "care-support",
+          "title": "Social Care and Support — Ontario",
+          "path": "content/canada-ontario/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "cef655fa7e400334",
+      "url": "https://www.legislation.gov.uk/asp/2016/9/contents",
+      "title": "Carers (Scotland) Act 2016",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "care-support",
+          "title": "Social Care and Support — Scotland",
+          "path": "content/scotland/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "d0a6190f1a2a67ce",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=810.",
+      "title": "Probate Code, capacity presumption",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — California",
+          "path": "content/united-states-california/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "d0e037b79b669b4b",
       "url": "https://www2.gov.bc.ca/gov/content/safety/public-safety/protecting-children",
       "title": "BC child protection",
@@ -2791,6 +5857,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "d2b803f9048e5cb6",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1987-257",
+      "title": "Guardianship Act 1987",
+      "publisher": "legislation.nsw.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New South Wales",
+          "path": "content/australia-nsw/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "d50a2fb61925c4b4",
@@ -2871,6 +5957,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "d70ff9687e84f587",
+      "url": "https://www.gov.scot/publications/adult-support-protection-scotland-act-2007-guidance-general-practice/pages/2/",
+      "title": "2022 adult protection guidance",
+      "publisher": "www.gov.scot",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Scotland",
+          "path": "content/scotland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "d9862db0e536a71f",
       "url": "https://www.legislation.gov.uk/ukpga/2021/17",
       "title": "17",
@@ -2904,6 +6010,66 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "d9cca82af01fc3ab",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2019-007",
+      "title": "Ageing and Disability Commissioner Act 2019",
+      "publisher": "legislation.nsw.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — New South Wales",
+          "path": "content/australia-nsw/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "da20c2bb8fe8de77",
+      "url": "https://www.privacy.org.nz/responsibilities/releasing-personal-information-to-police-and-law-enforcement-agencies/",
+      "title": "Requests from police and law enforcement",
+      "publisher": "www.privacy.org.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "db6db13f997bf5c3",
+      "url": "https://www.decisionsupportservice.ie/resources/guidance-materials",
+      "title": "DSS guidance materials",
+      "publisher": "www.decisionsupportservice.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Ireland",
+          "path": "content/ireland/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "dc5e2f9cb8f9fd57",
       "url": "https://www.scie.org.uk/assessment-and-eligibility/",
       "title": "assessment and eligibility",
@@ -2922,6 +6088,72 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "dcef7487cb5f8088",
+      "url": "https://www.legislation.gov.uk/asp/2000/4/contents",
+      "title": "Adults with Incapacity (Scotland) Act 2000",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Scotland",
+          "path": "content/scotland/resources/mca.md"
+        },
+        {
+          "jurisdiction": "scotland",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Scotland",
+          "path": "content/scotland/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "de091aa3e3c93135",
+      "url": "https://www.legislation.gov.uk/nisi/1986/595/contents",
+      "title": "Mental Health (Northern Ireland) Order 1986",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "mha",
+          "title": "Mental Health — Northern Ireland",
+          "path": "content/northern-ireland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "decbc8b597407f19",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01",
+      "title": "Personal Information Protection Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — British Columbia",
+          "path": "content/canada-british-columbia/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "dfacc46d57202c86",
@@ -2982,6 +6214,46 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "e39373f553bc1bf1",
+      "url": "https://www.ontario.ca/laws/statute/92s30",
+      "title": "Substitute Decisions Act 1992",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Ontario",
+          "path": "content/canada-ontario/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "e59a9629de6da350",
+      "url": "https://www.gov.ie/en/department-of-health/publications/adult-safeguarding/",
+      "title": "Department of Health adult safeguarding updates",
+      "publisher": "www.gov.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "safeguarding",
+          "title": "Adult Safeguarding — Ireland",
+          "path": "content/ireland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "e78cbd78394017ed",
       "url": "https://swrb.govt.nz/about-us/policies/",
       "title": "SWRB policy updates including CPD",
@@ -2993,6 +6265,46 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "e81f4a98640039b8",
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/2994-A",
+      "title": "FHCDA definitions",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New York",
+          "path": "content/united-states-new-york/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "e87b8b4541fa7cd5",
+      "url": "https://www.dffh.vic.gov.au/victorian-senior-practitioners-directions-and-prohibitions",
+      "title": "Current directions and prohibitions",
+      "publisher": "www.dffh.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Victoria",
+          "path": "content/australia-victoria/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "e897c775d8f76cc3",
@@ -3013,6 +6325,86 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "e900d5c6606e1f2b",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96046_01",
+      "title": "Child, Family and Community Service Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "children",
+          "title": "Children, Families and Transitions — British Columbia",
+          "path": "content/canada-british-columbia/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "e92ce234c72b2b97",
+      "url": "https://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/patient-capacity-to-consent",
+      "title": "Patient capacity to consent",
+      "publisher": "www.publicadvocate.vic.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Victoria",
+          "path": "content/australia-victoria/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "ea0c8dd64827fc32",
+      "url": "https://www.irishstatutebook.ie/eli/2018/act/7/enacted/en/html",
+      "title": "Data Protection Act 2018",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ireland",
+          "path": "content/ireland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "ea4bbf50604e8ee9",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96405_01",
+      "title": "Representation Agreement Act",
+      "publisher": "www.bclaws.gov.bc.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — British Columbia",
+          "path": "content/canada-british-columbia/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "ebe5475f0e6c0a8d",
@@ -3087,6 +6479,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "edb4d0aefed23430",
+      "url": "https://www.legislation.gov.uk/anaw/2018/2/contents",
+      "title": "ALN and Education Tribunal (Wales) Act 2018",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "children",
+          "title": "Children, Families and Transitions",
+          "path": "content/wales/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "ef2b90222c4cea7a",
       "url": "https://www.gov.wales/additional-learning-needs-guidance-schools-early-years-settings-and-local-authorities",
       "title": "Additional learning needs guidance",
@@ -3139,6 +6551,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "f2655a74d24a3f10",
+      "url": "https://www.nysenate.gov/legislation/laws/MHY/81.02",
+      "title": "Article 81 guardianship standard",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — New York",
+          "path": "content/united-states-new-york/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "f278b983643e362d",
       "url": "https://www.bclaws.gov.bc.ca/",
       "title": "BC Laws",
@@ -3181,6 +6613,46 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "f2b39338c2986ecf",
+      "url": "https://www.dhcs.ca.gov/wp-content/uploads/2025/10/SB-43-FAQs.pdf",
+      "title": "DHCS SB 43 guidance",
+      "publisher": "www.dhcs.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "mha",
+          "title": "Mental Health — California",
+          "path": "content/united-states-california/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "f3251928f194942e",
+      "url": "https://www.cdss.ca.gov/in-home-supportive-services",
+      "title": "CDSS IHSS programme",
+      "publisher": "www.cdss.ca.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "care-support",
+          "title": "Social Care and Support — California",
+          "path": "content/united-states-california/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "f3aaa836afc6f576",
@@ -3242,6 +6714,66 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "f48b868a85415559",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11165.7.",
+      "title": "Penal Code, mandated-reporter categories",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "children",
+          "title": "Children, Families and Transitions — California",
+          "path": "content/united-states-california/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "f48d7c98651e1f2b",
+      "url": "https://equalityni.org/public-authorities/section-75",
+      "title": "Section 75 and equality schemes",
+      "publisher": "equalityni.org",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Northern Ireland",
+          "path": "content/northern-ireland/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "f4abb72e694a23ff",
+      "url": "https://www2.healthservice.hse.ie/organisation/national-pppgs/hse-national-consent-policy/",
+      "title": "HSE National Consent Policy",
+      "publisher": "www2.healthservice.hse.ie",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Ireland",
+          "path": "content/ireland/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "f51bc444f6ea5e1a",
       "url": "https://www.gov.wales/additional-learning-needs-code",
       "title": "ALN Code and official IDP examples",
@@ -3272,6 +6804,58 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "f5efdb1495ab0d5c",
+      "url": "https://www.mwcscot.org.uk/looking-help/your-rights",
+      "title": "Mental Welfare Commission: your rights",
+      "publisher": "www.mwcscot.org.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Scotland",
+          "path": "content/scotland/resources/mca.md"
+        },
+        {
+          "jurisdiction": "scotland",
+          "id": "dols",
+          "title": "Restrictions and Liberty — Scotland",
+          "path": "content/scotland/resources/dols.md"
+        },
+        {
+          "jurisdiction": "scotland",
+          "id": "mha",
+          "title": "Mental Health — Scotland",
+          "path": "content/scotland/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "f618681e701939d9",
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/415",
+      "title": "Social Services Law section 415",
+      "publisher": "www.nysenate.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "children",
+          "title": "Children, Families and Transitions — New York",
+          "path": "content/united-states-new-york/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "f64da43010fb067d",
@@ -3312,6 +6896,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "f66d4c6d41978195",
+      "url": "https://www.gov.scot/policies/girfec/",
+      "title": "GIRFEC framework",
+      "publisher": "www.gov.scot",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Scotland",
+          "path": "content/scotland/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "f7908f25bb66e3c3",
       "url": "https://www.gov.uk/government/collections/mental-health-bill-2025",
       "title": "Government reform collection",
@@ -3336,6 +6940,66 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "f85e71e99d897c8b",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5008.",
+      "title": "Section 5008 definitions",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "mha",
+          "title": "Mental Health — California",
+          "path": "content/united-states-california/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "f92272003e98e6ac",
+      "url": "https://www.health.vic.gov.au/mental-health-and-wellbeing-act-handbook/compulsory-assessment-and-treament",
+      "title": "Compulsory assessment and treatment handbook",
+      "publisher": "www.health.vic.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "mha",
+          "title": "Mental Health — Victoria",
+          "path": "content/australia-victoria/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "f9e1e502ba85ace6",
+      "url": "https://www.op.nysed.gov/professions/social-work/faqs/what-difference-between-lmsw-and-lcsw",
+      "title": "NYSED: LMSW and LCSW distinction",
+      "publisher": "www.op.nysed.gov",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "foundations",
+          "title": "Professional Foundations — New York",
+          "path": "content/united-states-new-york/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "fad9889821f86d42",
@@ -3369,6 +7033,26 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "fcb58135c5c4f59f",
+      "url": "https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html",
+      "title": "Current Welsh explanation of Measure activity",
+      "publisher": "www.gov.wales",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "mha",
+          "title": "Mental Health in Wales",
+          "path": "content/wales/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "fd4da9ba6b680df8",
@@ -3430,83 +7114,44 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
-      "id": "919e4924bfba93a9",
-      "url": "https://www.ocswssw.org/news/",
-      "title": "OCSWSSW news",
-      "publisher": "Ontario College of Social Workers and Social Service Workers",
-      "category": "professional-standards",
-      "kind": "discovery",
-      "jurisdictions": [
-        "canada-ontario"
-      ],
-      "references": [],
-      "coverageNote": "Checks this URL only; linked publications need separate review."
-    },
-    {
-      "id": "7fde6301a3177011",
-      "url": "https://bccsw.ca/for-registrants/continuing-professional-development/",
-      "title": "BCCSW continuing professional development",
-      "publisher": "British Columbia College of Social Workers",
-      "category": "training",
-      "kind": "document",
-      "jurisdictions": [
-        "canada-british-columbia"
-      ],
-      "references": [],
-      "coverageNote": "Checks this URL only; linked publications need separate review."
-    },
-    {
-      "id": "1e91263dc89e6a38",
-      "url": "https://www.bbs.ca.gov/updates_faqs/updates.html",
-      "title": "BBS updates",
-      "publisher": "California Board of Behavioral Sciences",
+      "id": "ff32580c15965078",
+      "url": "https://www.ipc.nsw.gov.au/resources/fact-sheet-health-privacy-principles-hpps",
+      "title": "NSW health privacy principles",
+      "publisher": "www.ipc.nsw.gov.au",
       "category": "policy",
-      "kind": "discovery",
+      "kind": "document",
       "jurisdictions": [
-        "united-states-california"
+        "australia-nsw"
       ],
-      "references": [],
-      "coverageNote": "Checks this URL only; linked publications need separate review."
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New South Wales",
+          "path": "content/australia-nsw/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
-      "id": "8aa70e3676e81db2",
-      "url": "https://www.bbs.ca.gov/licensees/cont_ed.html",
-      "title": "BBS continuing education",
-      "publisher": "California Board of Behavioral Sciences",
-      "category": "training",
+      "id": "ffa1740151e18c5e",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11166.",
+      "title": "Penal Code, section 11166",
+      "publisher": "leginfo.legislature.ca.gov",
+      "category": "legislation",
       "kind": "document",
       "jurisdictions": [
         "united-states-california"
       ],
-      "references": [],
-      "coverageNote": "Checks this URL only; linked publications need separate review."
-    },
-    {
-      "id": "a3c42b5d06a83844",
-      "url": "https://www.bbs.ca.gov/about/law_reg.html",
-      "title": "BBS law changes",
-      "publisher": "California Board of Behavioral Sciences",
-      "category": "legislation",
-      "kind": "discovery",
-      "jurisdictions": [
-        "united-states-california"
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "children",
+          "title": "Children, Families and Transitions — California",
+          "path": "content/united-states-california/resources/children.md"
+        }
       ],
-      "references": [],
-      "coverageNote": "Checks this URL only; linked publications need separate review."
-    },
-    {
-      "id": "b28a8ca8afb424de",
-      "url": "https://www.aasw.asn.au/professional/cpd/aasw-live-online/",
-      "title": "AASW live online CPD",
-      "publisher": "Australian Association of Social Workers",
-      "category": "training",
-      "kind": "discovery",
-      "jurisdictions": [
-        "australia-nsw",
-        "australia-victoria"
-      ],
-      "references": [],
-      "coverageNote": "Checks this URL only; linked publications need separate review."
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     }
   ],
   "excludedDomains": [

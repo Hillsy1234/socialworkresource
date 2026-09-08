@@ -2,13 +2,15 @@
 
 ## What is implemented
 
-The monitor observes 145 registered URLs across 12 practice locations. Shared sources appear in each relevant location, giving 151 location/source observations in a full run. `monitoring/sources.json` contains publisher, category, location coverage, source purpose, coverage limitations and the learning resources that directly link to each source. The register was assembled from the existing resource references, restricted to selected government, regulatory, professional-body and established practice-learning publishers, with additional official news and CPD pages. Inclusion does not imply that a URL is reachable or that every linked document is monitored.
+The working register now contains 318 URLs across 12 practice locations, giving 333 location/source observations in a full run. This expanded register takes effect after deployment; the original September production baseline covered 145 URLs and 151 observations. `monitoring/sources.json` contains publisher, category, location coverage, source purpose, coverage limitations and the learning resources that directly link to each source. The register was assembled from the existing resource references, restricted to selected government, regulatory, professional-body and established practice-learning publishers, with additional official news and CPD pages. Inclusion does not imply that a URL is reachable or that every linked document is monitored.
 
 The first successful observation establishes a baseline. Later runs compare normalized article text and links, or feed entries. Navigation and scripts are excluded. Dates in substantive content are retained. PDF files receive a binary fingerprint check with an explicit manual-review limitation. Dynamic training listings are flagged where the returned HTML says events are still loading. JavaScript-only pages, challenges, missing pages, unsupported files, timeouts and oversized responses are failed checks, never “up to date”. There is no browser-rendering service or AI dependency.
 
 News/listing pages provide discovery by reporting new links; the monitor does not recursively crawl or automatically adopt these links into the source register. A portal is not a substitute for separately registering the particular Act, amendment or commencement instrument. Broader source coverage should be refined during editorial review.
 
 Stage 1 never rewrites resources, updates `sourceCheckedAt` or `practiceReviewedAt`, approves a legal interpretation, or publishes content. Unreviewed changes remain flagged in later reports, even if the source is subsequently unchanged. Each report records the last attempt, last successful observation and consecutive failure count. Direct source references identify known affected resources; a full editorial impact assessment belongs to Stage 2.
+
+The 8 September curriculum expansion links its core teaching sources to the register. Newly added URLs receive a baseline on their first successful run after deployment. A completed September batch is not rerun just because the register changes; the normal next scheduled check is 1 October. See `COUNTRY_CURRICULUM_REVIEW.md` for the editorial and source-access review.
 
 ## Monthly operation
 

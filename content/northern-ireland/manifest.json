@@ -1,10 +1,10 @@
 {
   "id": "northern-ireland",
   "label": "Northern Ireland practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in Northern Ireland: Health and Social Care Trust pathways, adult safeguarding, mental capacity, mental health, children’s safeguarding and professional practice.",
   "alerts": [
-    "Use the Northern Ireland sources and the procedures for the actual service and setting.",
+    "The capacity legislation is partly commenced. Use the current June 2026 interim liberty guidance with the operative provisions.",
     "Professional context: Northern Ireland Social Care Council (NISCC).",
     "For cross-border work, establish legal responsibility explicitly; the selector does not decide it."
   ],
@@ -150,14 +150,15 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/foundations.md",
       "sourceCheckedAt": null,
-      "slug": "professional-foundations"
+      "slug": "professional-foundations",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -165,14 +166,15 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/care-support.md",
       "sourceCheckedAt": null,
-      "slug": "social-care-and-support-northern-ireland"
+      "slug": "social-care-and-support-northern-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -180,14 +182,15 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/mca.md",
       "sourceCheckedAt": null,
-      "slug": "mental-capacity-act-northern-ireland-2016"
+      "slug": "mental-capacity-act-northern-ireland-2016",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -195,14 +198,15 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/dols.md",
       "sourceCheckedAt": null,
-      "slug": "deprivation-of-liberty-northern-ireland"
+      "slug": "deprivation-of-liberty-northern-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -210,14 +214,15 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/mha.md",
       "sourceCheckedAt": null,
-      "slug": "mental-health-northern-ireland"
+      "slug": "mental-health-northern-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -225,14 +230,15 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/safeguarding.md",
       "sourceCheckedAt": null,
-      "slug": "adult-safeguarding-northern-ireland"
+      "slug": "adult-safeguarding-northern-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -240,14 +246,15 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Child participation, family support, child protection and transitions.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/children.md",
       "sourceCheckedAt": null,
-      "slug": "children-families-and-safeguarding-northern-ireland"
+      "slug": "children-families-and-safeguarding-northern-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -255,14 +262,15 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "northern-ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/rights.md",
       "sourceCheckedAt": null,
-      "slug": "rights-participation-and-recording-northern-ireland"
+      "slug": "rights-participation-and-recording-northern-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -487,43 +495,43 @@
   "routeDetails": {
     "foundations": {
       "title": "Professional Foundations — Northern Ireland",
-      "action": "What is the purpose and limit of your role?",
-      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Explain the purpose of contact, professional role and confidentiality limits in accessible language.",
+      "record": "Identify the HSC Trust, provider and any statutory appointment relevant to the task. Use supervision to test how poverty, disability, trauma or barriers to services influence the formulation. Link learning and feedback to the current NISCC registration and professional-development requirements. Explain the relevant Trust or provider complaint route and when a concern about a registered worker belongs with NISCC. Give the person a clear account of who can address the outcome they seek; professional regulation does not itself arrange a care package."
     },
     "care-support": {
       "title": "Social Care and Support — Northern Ireland",
-      "action": "Which needs and outcomes belong to the person and to carers?",
-      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Describe the person’s needs and desired outcomes, including fluctuation and the effect of unavailable support.",
+      "record": "Ask the Trust to explain the assessment and eligibility decisions separately from costs and provision. Offer a carer’s assessment where the relevant conditions are met, including consideration of young carers. Compare arranged services with direct payments and confirm that the proposed support can actually be delivered. Request reasons, reassessment where circumstances change and the appropriate Trust complaint or review route. Record interim arrangements and unmet needs while a decision is disputed. NI Direct explains access, carers’ assessments and direct payments, with links to local services."
     },
     "mca": {
       "title": "Decision-Making and Capacity — Northern Ireland",
-      "action": "What is the precise decision and why is ability to decide questioned?",
-      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the proposed act and confirm that the provision being relied on is commenced for that purpose.",
+      "record": "Specify the decision and provide practical support before applying the relevant capacity test. Check whether the required assessment must be completed by a suitably qualified and trained person. Record the person’s wishes, consultation and the actual legal basis for any decision taken without their own consent. For phase-1 deprivation-of-liberty decisions, check the Review Tribunal route and safeguards in the current Code, forms and interim guidance. For another type of decision, obtain advice about the applicable law rather than extending phase-1 powers by analogy."
     },
     "dols": {
       "title": "Restrictions and Liberty — Northern Ireland",
-      "action": "What restrictions actually operate and how do they affect the person?",
-      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Describe actual arrangements and obtain evidence about the person’s wishes, understanding and objections.",
+      "record": "Consult the current interim guidance before deciding whether the arrangements amount to deprivation of liberty. Use the appropriate trained assessors, Trust process and current forms where an authorisation is required. Keep capacity, best interests, authorisation, consultation and challenge arrangements separately recorded. Identify the nominated person, advocacy or representation required and the person’s access to the Review Tribunal. Check expiry, review and changed circumstances. Do not remove an existing safeguard solely because a judgment or guidance has changed without the responsible legal review."
     },
     "mha": {
       "title": "Mental Health — Northern Ireland",
-      "action": "What is the purpose of each proposed intervention?",
-      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify voluntary support and whether an assessment or treatment detention route is actually being considered.",
+      "record": "Check the current Order, evidence for the particular criteria and the authorised professional’s role. Keep the partly commenced capacity framework and any separate physical-treatment decision distinct. Explain the person’s status and arrange rights information, support and review under the applicable route. The Review Tribunal and the relevant hospital discharge or review processes address detention questions. Help the person obtain advice and understand how to challenge the measure. Confirm which rules apply to their specific admission status and documents."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — Northern Ireland",
-      "action": "How can the person be heard safely and privately?",
-      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify abuse, exploitation or neglect and the adult’s ability to protect themselves in their actual circumstances.",
+      "record": "Use the organisation’s safeguarding arrangements and refer protection concerns to the appropriate HSC Trust route. Contact PSNI where the circumstances require a police response, distinguishing criminal investigation from the support plan. Establish the lawful basis for information sharing and for any proposed intervention without agreement. Use the policy’s participation and proportionate-response approach, together with the applicable consent, capacity and legal safeguards. Explain the Trust or provider complaint process and obtain specialist advice if a coercive intervention is proposed."
     },
     "children": {
       "title": "Children, Families and Transitions — Northern Ireland",
-      "action": "What does the child say or show about safety and daily life?",
-      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Record the child’s account, daily experience, harm concerns and support needs.",
+      "record": "Use the current regional policy and Trust referral procedure for a child-protection concern. Identify who holds parental responsibility and any court order affecting the proposed decision. Coordinate education, health and family support and plan transitions before a service ends. Explain the particular assessment, protection or court process, including how the child and family can participate, obtain advocacy or legal advice and raise disagreement. Do not promise confidentiality that conflicts with a necessary safeguarding response."
     },
     "rights": {
       "title": "Rights, Culture and Recording — Northern Ireland",
-      "action": "What makes participation accessible for this person?",
-      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the relevant equality law and public-authority duty for the actual decision.",
+      "record": "Arrange accessible communication and consider the applicable reasonable-adjustment obligations. Establish the purpose and legal basis of sharing, including the treatment of sensitive information. Record the person’s account, alternatives, reasons, disagreement and the route for correction or challenge. The Equality Commission for Northern Ireland provides information on discrimination and routes to challenge. Distinguish a service complaint, an equality-scheme concern and legal proceedings; obtain timely advice because different limits and remedies apply."
     },
     "sources": {
       "title": "Northern Ireland Source Library",
@@ -537,24 +545,24 @@
       "title": "Professional Foundations — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking professional foundations in Northern Ireland?",
-          "answer": "Start with Northern Ireland Social Care Council (NISCC). Check the professional requirements for your role and the applicable law."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "The Northern Ireland Social Care Council (NISCC) Standards of Conduct and Practice provide the professional framework for registered social workers. Distinguish those standards from the procedures of a Health and Social Care (HSC) Trust and from powers available only to a specifically trained or appointed practitioner."
         },
         {
-          "prompt": "How does a formulation differ from a chronology?",
-          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "HSC Trusts provide important health and social-care functions; the Regulation and Quality Improvement Authority (RQIA) has a separate service-regulation role. Identify the actual decision-maker and employer. A concern about a worker’s professional conduct, a provider’s quality and a Trust’s care decision may need different responses."
         },
         {
-          "prompt": "How can supervision test bias?",
-          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+          "prompt": "What are the key local actions?",
+          "answer": "Explain the purpose of contact, professional role and confidentiality limits in accessible language. Identify the HSC Trust, provider and any statutory appointment relevant to the task. Use supervision to test how poverty, disability, trauma or barriers to services influence the formulation. Link learning and feedback to the current NISCC registration and professional-development requirements."
         },
         {
-          "prompt": "What makes a professional record useful?",
-          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the relevant Trust or provider complaint route and when a concern about a registered worker belongs with NISCC. Give the person a clear account of who can address the outcome they seek; professional regulation does not itself arrange a care package."
         },
         {
-          "prompt": "What makes reflective learning actionable?",
-          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating “the Trust decided” as sufficient explanation without identifying the decision, authority and reasons."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Social Care and Support — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking social care and support in Northern Ireland?",
-          "answer": "Open Department of Health social-care policy from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "An HSC Trust needs assessment is the starting point for community support. The Health and Personal Social Services (Northern Ireland) Order 1972 and the Carers and Direct Payments Act (Northern Ireland) 2002 form part of the legal map. Establish the particular duty, Trust criteria and service being requested."
         },
         {
-          "prompt": "Can family support be assumed?",
-          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Direct payments can allow an eligible person to arrange assessed support. Discuss the option during assessment, including consent, the ability to manage it with support, permitted use and employer responsibilities. A carer’s own assessment concerns their caring role and needs; it does not replace the assessment of the person receiving care."
         },
         {
-          "prompt": "Why distinguish assessment from funding?",
-          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+          "prompt": "What are the key local actions?",
+          "answer": "Describe the person’s needs and desired outcomes, including fluctuation and the effect of unavailable support. Ask the Trust to explain the assessment and eligibility decisions separately from costs and provision. Offer a carer’s assessment where the relevant conditions are met, including consideration of young carers. Compare arranged services with direct payments and confirm that the proposed support can actually be delivered."
         },
         {
-          "prompt": "What belongs in a support plan?",
-          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Request reasons, reassessment where circumstances change and the appropriate Trust complaint or review route. Record interim arrangements and unmet needs while a decision is disputed. NI Direct explains access, carers’ assessments and direct payments, with links to local services."
         },
         {
-          "prompt": "What if support is unavailable?",
-          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+          "prompt": "What common error should you avoid?",
+          "answer": "Confusing the carer’s support with services for the cared-for person, or describing an unpaid family arrangement as an agreed funded plan."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "Decision-Making and Capacity — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking decision-making and capacity in Northern Ireland?",
-          "answer": "Open MCA nominated person guidance from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "The Mental Capacity Act (Northern Ireland) 2016 is only partly commenced. Phase 1 covers research and specified deprivation-of-liberty and money-and-valuables provisions. Do not apply the whole Act as though it were already the general framework for every treatment or welfare decision."
         },
         {
-          "prompt": "Does a risky refusal alone establish inability to decide?",
-          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Within the operative framework, the assessment is decision-specific, with support before a conclusion of incapacity. The inability must result from impairment or disturbance of the mind or brain. Test understanding, retaining information for the decision, appreciating its relevance and using and weighing it, and communicating the choice. Record how any failed ability affects this decision, rather than relying on a diagnosis. The principles address capacity and best interests. Formal assessments and other statutory functions have training and qualification requirements. A nominated person must be consulted in the relevant process; the role does not confer general substitute decision-making authority."
         },
         {
-          "prompt": "What support can improve participation?",
-          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the proposed act and confirm that the provision being relied on is commenced for that purpose. Specify the decision and provide practical support before applying the relevant capacity test. Check whether the required assessment must be completed by a suitably qualified and trained person. Record the person’s wishes, consultation and the actual legal basis for any decision taken without their own consent."
         },
         {
-          "prompt": "Does a family relationship establish decision-making authority?",
-          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "For phase-1 deprivation-of-liberty decisions, check the Review Tribunal route and safeguards in the current Code, forms and interim guidance. For another type of decision, obtain advice about the applicable law rather than extending phase-1 powers by analogy."
         },
         {
-          "prompt": "Why identify the exact decision?",
-          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming full commencement or treating the nominated person as a universal decision-maker."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Restrictions and Liberty — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking restrictions and liberty in Northern Ireland?",
-          "answer": "Open MCA nominated person guidance from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "The operative deprivation-of-liberty provisions of the Mental Capacity Act (Northern Ireland) 2016 require the relevant assessments, authorisation and safeguards. Setting, age, purpose and the applicable mental-health or children’s framework must be established before selecting a route."
         },
         {
-          "prompt": "What should a restriction record describe?",
-          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Department of Health states that the Supreme Court judgment of 2 June 2026 changed the previous approach to defining deprivation of liberty. Interim guidance is available while the Code and other material are reviewed. Read that guidance with current Trust specialist advice; an older training slide is not sufficient evidence of the current legal test."
         },
         {
-          "prompt": "Does quiet behaviour demonstrate consent?",
-          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+          "prompt": "What are the key local actions?",
+          "answer": "Describe actual arrangements and obtain evidence about the person’s wishes, understanding and objections. Consult the current interim guidance before deciding whether the arrangements amount to deprivation of liberty. Use the appropriate trained assessors, Trust process and current forms where an authorisation is required. Keep capacity, best interests, authorisation, consultation and challenge arrangements separately recorded."
         },
         {
-          "prompt": "Can provider policy alone establish legal authority?",
-          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Identify the nominated person, advocacy or representation required and the person’s access to the Review Tribunal. Check expiry, review and changed circumstances. Do not remove an existing safeguard solely because a judgment or guidance has changed without the responsible legal review."
         },
         {
-          "prompt": "What should review consider?",
-          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating an old definition, a completed form or family approval as a complete legal analysis."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Mental Health — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking mental health in Northern Ireland?",
-          "answer": "Open Department of Health social-care policy from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "The Mental Health (Northern Ireland) Order 1986 remains relevant alongside the partly commenced capacity legislation. Assessment and treatment routes have their own criteria and professional roles. For admission for assessment, the Order includes mental disorder of a nature or degree warranting detention for assessment and the relevant substantial likelihood of serious physical harm."
         },
         {
-          "prompt": "Why distinguish admission from treatment?",
-          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An approved social worker has specific training and functions. The medical recommendation, application and hospital processes should be distinguished. A general referral to mental-health services is not a compulsory admission application."
         },
         {
-          "prompt": "What should happen alongside crisis assessment?",
-          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify voluntary support and whether an assessment or treatment detention route is actually being considered. Check the current Order, evidence for the particular criteria and the authorised professional’s role. Keep the partly commenced capacity framework and any separate physical-treatment decision distinct. Explain the person’s status and arrange rights information, support and review under the applicable route."
         },
         {
-          "prompt": "Can a social worker use every mental-health power?",
-          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Review Tribunal and the relevant hospital discharge or review processes address detention questions. Help the person obtain advice and understand how to challenge the measure. Confirm which rules apply to their specific admission status and documents."
         },
         {
-          "prompt": "What does a rights explanation cover?",
-          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming the 2016 capacity legislation has replaced every mental-health admission provision."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Adult Safeguarding — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking adult safeguarding in Northern Ireland?",
-          "answer": "Open Adult safeguarding policy from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "The regional policy Adult Safeguarding: Prevention and Protection in Partnership distinguishes an adult at risk of harm from an adult in need of protection. It considers personal characteristics and life circumstances, with HSC Trust and PSNI roles according to the concern. It is not a general power to compel an adult to accept services."
         },
         {
-          "prompt": "Why offer a private conversation?",
-          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Adult Protection Bill is a reform to monitor, not a source of powers to assume are already operational. The Assembly’s legislative tracker must be checked for passage and any subsequent Act and commencement before applying a new duty."
         },
         {
-          "prompt": "Is proof needed before checking reporting duties?",
-          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify abuse, exploitation or neglect and the adult’s ability to protect themselves in their actual circumstances. Use the organisation’s safeguarding arrangements and refer protection concerns to the appropriate HSC Trust route. Contact PSNI where the circumstances require a police response, distinguishing criminal investigation from the support plan. Establish the lawful basis for information sharing and for any proposed intervention without agreement."
         },
         {
-          "prompt": "What should a report contain?",
-          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Use the policy’s participation and proportionate-response approach, together with the applicable consent, capacity and legal safeguards. Explain the Trust or provider complaint process and obtain specialist advice if a coercive intervention is proposed."
         },
         {
-          "prompt": "Does a referral complete the response?",
-          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating a safeguarding policy as a detention power or treating a proposed Bill as commenced law."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Children, Families and Transitions — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking children, families and transitions in Northern Ireland?",
-          "answer": "Open Co-operating to Safeguard Children from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "The Children (Northern Ireland) Order 1995 provides the main framework for children in need, family support and protective court processes. Co-operating to Safeguard Children and Young People supplies the regional policy framework. The HSC Trust’s children’s services and PSNI have different responsibilities."
         },
         {
-          "prompt": "How should the child’s account be recorded?",
-          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions."
         },
         {
-          "prompt": "Can one child-protection model settle a legal threshold?",
-          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+          "prompt": "What are the key local actions?",
+          "answer": "Record the child’s account, daily experience, harm concerns and support needs. Use the current regional policy and Trust referral procedure for a child-protection concern. Identify who holds parental responsibility and any court order affecting the proposed decision. Coordinate education, health and family support and plan transitions before a service ends."
         },
         {
-          "prompt": "What makes transition planning useful?",
-          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the particular assessment, protection or court process, including how the child and family can participate, obtain advocacy or legal advice and raise disagreement. Do not promise confidentiality that conflicts with a necessary safeguarding response."
         },
         {
-          "prompt": "Why consider community and cultural relationships?",
-          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+          "prompt": "What common error should you avoid?",
+          "answer": "Allowing an internal discussion or a parent’s request for secrecy to replace the required protection response."
         }
       ]
     },
@@ -719,24 +727,24 @@
       "title": "Rights, Culture and Recording — Northern Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking rights, culture and recording in Northern Ireland?",
-          "answer": "Open Department of Health social-care policy from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Northern Ireland practice guide?",
+          "answer": "Northern Ireland has its own equality laws. The Equality Act 2010 does not apply. Identify the relevant disability, sex, race, religious or political discrimination provision and the setting it covers. Section 75 of the Northern Ireland Act 1998 places equality-of-opportunity and good-relations duties on designated public authorities."
         },
         {
-          "prompt": "What is data minimisation?",
-          "answer": "Sharing only the information needed for the identified, lawful purpose."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information."
         },
         {
-          "prompt": "What is a culturally responsive first step?",
-          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the relevant equality law and public-authority duty for the actual decision. Arrange accessible communication and consider the applicable reasonable-adjustment obligations. Establish the purpose and legal basis of sharing, including the treatment of sensitive information. Record the person’s account, alternatives, reasons, disagreement and the route for correction or challenge."
         },
         {
-          "prompt": "Why record disagreement?",
-          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Equality Commission for Northern Ireland provides information on discrimination and routes to challenge. Distinguish a service complaint, an equality-scheme concern and legal proceedings; obtain timely advice because different limits and remedies apply."
         },
         {
-          "prompt": "How do you compare alternatives?",
-          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+          "prompt": "What common error should you avoid?",
+          "answer": "Copying an equality test from another legal system or equating identical treatment with accessible participation."
         }
       ]
     }
@@ -744,42 +752,42 @@
   "glossaryTerms": [
     {
       "term": "Professional Foundations",
-      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "definition": "The Northern Ireland Social Care Council (NISCC) Standards of Conduct and Practice provide the professional framework for registered social workers. Distinguish those standards from the procedures of a Health and Social Care (HSC) Trust and from powers available only to a specifically trained or appointed practitioner.",
       "link": "foundations"
     },
     {
       "term": "Social Care and Support",
-      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "definition": "An HSC Trust needs assessment is the starting point for community support. The Health and Personal Social Services (Northern Ireland) Order 1972 and the Carers and Direct Payments Act (Northern Ireland) 2002 form part of the legal map. Establish the particular duty, Trust criteria and service being requested.",
       "link": "care-support"
     },
     {
       "term": "Decision-Making and Capacity",
-      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "definition": "The Mental Capacity Act (Northern Ireland) 2016 is only partly commenced. Phase 1 covers research and specified deprivation-of-liberty and money-and-valuables provisions. Do not apply the whole Act as though it were already the general framework for every treatment or welfare decision.",
       "link": "mca"
     },
     {
       "term": "Restrictions and Liberty",
-      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "definition": "The operative deprivation-of-liberty provisions of the Mental Capacity Act (Northern Ireland) 2016 require the relevant assessments, authorisation and safeguards. Setting, age, purpose and the applicable mental-health or children’s framework must be established before selecting a route.",
       "link": "dols"
     },
     {
       "term": "Mental Health",
-      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "definition": "The Mental Health (Northern Ireland) Order 1986 remains relevant alongside the partly commenced capacity legislation. Assessment and treatment routes have their own criteria and professional roles. For admission for assessment, the Order includes mental disorder of a nature or degree warranting detention for assessment and the relevant substantial likelihood of serious physical harm.",
       "link": "mha"
     },
     {
       "term": "Adult Safeguarding",
-      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "definition": "The regional policy Adult Safeguarding: Prevention and Protection in Partnership distinguishes an adult at risk of harm from an adult in need of protection. It considers personal characteristics and life circumstances, with HSC Trust and PSNI roles according to the concern. It is not a general power to compel an adult to accept services.",
       "link": "safeguarding"
     },
     {
       "term": "Children, Families and Transitions",
-      "definition": "Child participation, family support, child protection and transitions.",
+      "definition": "The Children (Northern Ireland) Order 1995 provides the main framework for children in need, family support and protective court processes. Co-operating to Safeguard Children and Young People supplies the regional policy framework. The HSC Trust’s children’s services and PSNI have different responsibilities.",
       "link": "children"
     },
     {
       "term": "Rights, Culture and Recording",
-      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "definition": "Northern Ireland has its own equality laws. The Equality Act 2010 does not apply. Identify the relevant disability, sex, race, religious or political discrimination provision and the setting it covers. Section 75 of the Northern Ireland Act 1998 places equality-of-opportunity and good-relations duties on designated public authorities.",
       "link": "rights"
     },
     {
@@ -1470,123 +1478,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and family support",
-      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "title": "Professional Foundations — Northern Ireland",
+      "summary": "A family receives different explanations from a Trust worker and a commissioned provider about why visits have reduced.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Establish who changed the assessed plan and who changed delivery. Obtain the recorded decision and reasons, hear the person’s experience and address immediate unmet needs. Escalate the appropriate assessment or contract issue instead of referring every complaint to the professional regulator."
+    },
+    {
+      "title": "Social Care and Support — Northern Ireland",
+      "summary": "A disabled parent needs morning assistance. Their teenager is missing school to help, and a relative suggests using the parent’s benefits to pay informally.",
       "routes": [
         "care-support",
         "rights",
         "sources"
       ],
       "prompts": [
-        "Which needs and outcomes belong to the person and to carers?",
-        "Which service actually assesses and funds this support?",
-        "What happens if the proposed support is unavailable?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Assess the parent’s support needs and the impact on the young person. Consider Trust-arranged care or an eligible direct-payment arrangement with proper support. Clarify funding and employment responsibilities; do not assume the child can continue filling a gap in services."
     },
     {
-      "title": "A decision and a refusal",
-      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "title": "Decision-Making and Capacity — Northern Ireland",
+      "summary": "A hospital team asks a nominated person to sign consent for an unrelated operation because a deprivation-of-liberty assessment has been completed.",
       "routes": [
         "mca",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the precise decision and why is ability to decide questioned?",
-        "What communication support would help?",
-        "Who has authority for this decision under the applicable law?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Separate the operation from the liberty arrangements. Check the patient’s ability to decide about that treatment and the applicable consent law. The nominated-person role and a liberty assessment do not provide a general consent signature for another intervention."
     },
     {
-      "title": "Restrictions and objections",
-      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "title": "Restrictions and Liberty — Northern Ireland",
+      "summary": "A care setting continues to use an old checklist after June 2026 and says its completed form proves all arrangements are lawful.",
       "routes": [
         "dols",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What restrictions actually operate and how do they affect the person?",
-        "What authority is being relied upon?",
-        "How can the person challenge the arrangements?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Review the actual restrictions and the source version used. Ask the Trust’s MCA team to apply the current guidance and determine any required reassessment or authorisation. Continue meeting immediate care and participation duties while resolving the legal position."
     },
     {
-      "title": "Mental-health crisis",
-      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "title": "Mental Health — Northern Ireland",
+      "summary": "A person declines admission after an argument at home but agrees to a same-day assessment and support from a trusted friend.",
       "routes": [
         "mha",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the purpose of each proposed intervention?",
-        "Who can assess or exercise the relevant power?",
-        "What voluntary or less restrictive support is available?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Explore the immediate safety evidence, physical health and whether voluntary arrangements are workable. Ask the authorised professionals to assess the actual statutory criteria if compulsion is proposed. Refusal of the first offer is not itself the required harm analysis."
     },
     {
-      "title": "Financial control",
-      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "title": "Adult Safeguarding — Northern Ireland",
+      "summary": "An isolated adult says a neighbour takes their pension but fears losing the only person who buys groceries.",
       "routes": [
         "safeguarding",
         "rights",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Arrange a safe conversation and practical alternatives for food and contact. Assess the protection concern and report through the relevant Trust and police routes as appropriate. A refusal of one intervention does not remove the need to explore coercion, dependency and a safer support plan."
     },
     {
-      "title": "Moving into adult services",
-      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "title": "Children, Families and Transitions — Northern Ireland",
+      "summary": "A child tells a school worker they are frightened to return home. The parent asks for the conversation to remain within school.",
       "routes": [
         "children",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What does the child say or show about safety and daily life?",
-        "Which reporting duty and receiving agency apply?",
-        "How will education, health and family support coordinate?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Listen without leading questions, record the child’s words and assess immediate safety. Follow the relevant Trust and police referral arrangements where required. Explain confidentiality limits safely and establish who will act before the child leaves the setting."
     },
     {
-      "title": "Organisational concerns",
-      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "title": "Rights, Culture and Recording — Northern Ireland",
+      "summary": "A service offers an assessment in an inaccessible building and says its policy treats every applicant identically.",
       "routes": [
-        "safeguarding",
         "rights",
+        "foundations",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the Northern Ireland module and source library to identify the applicable framework."
-    },
-    {
-      "title": "Communication and agreement",
-      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
-      "routes": [
-        "rights",
-        "sources"
-      ],
-      "prompts": [
-        "What makes participation accessible for this person?",
-        "What legal basis permits disclosure of this information?",
-        "How will disagreement and reasons be recorded?"
-      ],
-      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the Northern Ireland module and source library to identify the applicable framework."
+      "reveal": "Identify the disability-related barrier and the applicable adjustment duty. Offer an accessible arrangement and revisit any adverse inference caused by the failed appointment. Record the change and how the person can challenge the earlier decision."
     }
   ],
   "printableTemplates": [
@@ -1594,57 +1603,57 @@
       "id": "foundations",
       "title": "Professional Foundations",
       "fileName": "northern-ireland-foundations-prompt.txt",
-      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
-      "body": "Professional Foundations\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNorthern Ireland Social Care Council (NISCC): https://niscc.info/standards-and-guidance/\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
+      "body": "Professional Foundations\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Northern Ireland Social Care Council (NISCC) Standards of Conduct and Practice provide the professional framework for registered social workers. Distinguish those standards from the procedures of a Health and Social Care (HSC) Trust and from powers available only to a specifically trained or appointed practitioner.\n\nHSC Trusts provide important health and social-care functions; the Regulation and Quality Improvement Authority (RQIA) has a separate service-regulation role. Identify the actual decision-maker and employer. A concern about a worker’s professional conduct, a provider’s quality and a Trust’s care decision may need different responses.\n\nLocal pathway:\nExplain the purpose of contact, professional role and confidentiality limits in accessible language.\nIdentify the HSC Trust, provider and any statutory appointment relevant to the task.\nUse supervision to test how poverty, disability, trauma or barriers to services influence the formulation.\nLink learning and feedback to the current NISCC registration and professional-development requirements.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nExplain the relevant Trust or provider complaint route and when a concern about a registered worker belongs with NISCC. Give the person a clear account of who can address the outcome they seek; professional regulation does not itself arrange a care package.\n\nSources:\nhttps://niscc.info/standards-and-guidance/\n"
     },
     {
       "id": "care-support",
       "title": "Social Care and Support",
       "fileName": "northern-ireland-care-support-prompt.txt",
-      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
-      "body": "Social Care and Support\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nDepartment of Health social-care policy: https://www.health-ni.gov.uk/topics/social-care-policy\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
+      "body": "Social Care and Support\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nAn HSC Trust needs assessment is the starting point for community support. The Health and Personal Social Services (Northern Ireland) Order 1972 and the Carers and Direct Payments Act (Northern Ireland) 2002 form part of the legal map. Establish the particular duty, Trust criteria and service being requested.\n\nDirect payments can allow an eligible person to arrange assessed support. Discuss the option during assessment, including consent, the ability to manage it with support, permitted use and employer responsibilities. A carer’s own assessment concerns their caring role and needs; it does not replace the assessment of the person receiving care.\n\nLocal pathway:\nDescribe the person’s needs and desired outcomes, including fluctuation and the effect of unavailable support.\nAsk the Trust to explain the assessment and eligibility decisions separately from costs and provision.\nOffer a carer’s assessment where the relevant conditions are met, including consideration of young carers.\nCompare arranged services with direct payments and confirm that the proposed support can actually be delivered.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nRequest reasons, reassessment where circumstances change and the appropriate Trust complaint or review route. Record interim arrangements and unmet needs while a decision is disputed. NI Direct explains access, carers’ assessments and direct payments, with links to local services.\n\nSources:\nhttps://www.nidirect.gov.uk/articles/arranging-health-and-social-care\nhttps://www.nidirect.gov.uk/articles/direct-payments-care\nhttps://www.legislation.gov.uk/nia/2002/6/contents\n"
     },
     {
       "id": "mca",
       "title": "Decision-Making and Capacity",
       "fileName": "northern-ireland-mca-prompt.txt",
-      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
-      "body": "Decision-Making and Capacity\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nMCA nominated person guidance: https://www.health-ni.gov.uk/articles/mca-nominated-person\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
+      "body": "Decision-Making and Capacity\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Capacity Act (Northern Ireland) 2016 is only partly commenced. Phase 1 covers research and specified deprivation-of-liberty and money-and-valuables provisions. Do not apply the whole Act as though it were already the general framework for every treatment or welfare decision.\n\nWithin the operative framework, the assessment is decision-specific, with support before a conclusion of incapacity. The inability must result from impairment or disturbance of the mind or brain. Test understanding, retaining information for the decision, appreciating its relevance and using and weighing it, and communicating the choice. Record how any failed ability affects this decision, rather than relying on a diagnosis. The principles address capacity and best interests. Formal assessments and other statutory functions have training and qualification requirements. A nominated person must be consulted in the relevant process; the role does not confer general substitute decision-making authority.\n\nLocal pathway:\nIdentify the proposed act and confirm that the provision being relied on is commenced for that purpose.\nSpecify the decision and provide practical support before applying the relevant capacity test.\nCheck whether the required assessment must be completed by a suitably qualified and trained person.\nRecord the person’s wishes, consultation and the actual legal basis for any decision taken without their own consent.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nFor phase-1 deprivation-of-liberty decisions, check the Review Tribunal route and safeguards in the current Code, forms and interim guidance. For another type of decision, obtain advice about the applicable law rather than extending phase-1 powers by analogy.\n\nSources:\nhttps://www.health-ni.gov.uk/topics/mental-capacity-act\nhttps://www.health-ni.gov.uk/articles/mental-capacity-act-faqs\nhttps://www.legislation.gov.uk/nia/2016/18/contents\n"
     },
     {
       "id": "dols",
       "title": "Restrictions and Liberty",
       "fileName": "northern-ireland-dols-prompt.txt",
-      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
-      "body": "Restrictions and Liberty\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nMCA nominated person guidance: https://www.health-ni.gov.uk/articles/mca-nominated-person\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
+      "body": "Restrictions and Liberty\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe operative deprivation-of-liberty provisions of the Mental Capacity Act (Northern Ireland) 2016 require the relevant assessments, authorisation and safeguards. Setting, age, purpose and the applicable mental-health or children’s framework must be established before selecting a route.\n\nThe Department of Health states that the Supreme Court judgment of 2 June 2026 changed the previous approach to defining deprivation of liberty. Interim guidance is available while the Code and other material are reviewed. Read that guidance with current Trust specialist advice; an older training slide is not sufficient evidence of the current legal test.\n\nLocal pathway:\nDescribe actual arrangements and obtain evidence about the person’s wishes, understanding and objections.\nConsult the current interim guidance before deciding whether the arrangements amount to deprivation of liberty.\nUse the appropriate trained assessors, Trust process and current forms where an authorisation is required.\nKeep capacity, best interests, authorisation, consultation and challenge arrangements separately recorded.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nIdentify the nominated person, advocacy or representation required and the person’s access to the Review Tribunal. Check expiry, review and changed circumstances. Do not remove an existing safeguard solely because a judgment or guidance has changed without the responsible legal review.\n\nSources:\nhttps://www.health-ni.gov.uk/publications/interim-guidance-mental-capacity-act-ni-2016\nhttps://www.health-ni.gov.uk/articles/mental-capacity-act-faqs\n"
     },
     {
       "id": "mha",
       "title": "Mental Health",
       "fileName": "northern-ireland-mha-prompt.txt",
-      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
-      "body": "Mental Health\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nDepartment of Health social-care policy: https://www.health-ni.gov.uk/topics/social-care-policy\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
+      "body": "Mental Health\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Health (Northern Ireland) Order 1986 remains relevant alongside the partly commenced capacity legislation. Assessment and treatment routes have their own criteria and professional roles. For admission for assessment, the Order includes mental disorder of a nature or degree warranting detention for assessment and the relevant substantial likelihood of serious physical harm.\n\nAn approved social worker has specific training and functions. The medical recommendation, application and hospital processes should be distinguished. A general referral to mental-health services is not a compulsory admission application.\n\nLocal pathway:\nIdentify voluntary support and whether an assessment or treatment detention route is actually being considered.\nCheck the current Order, evidence for the particular criteria and the authorised professional’s role.\nKeep the partly commenced capacity framework and any separate physical-treatment decision distinct.\nExplain the person’s status and arrange rights information, support and review under the applicable route.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Review Tribunal and the relevant hospital discharge or review processes address detention questions. Help the person obtain advice and understand how to challenge the measure. Confirm which rules apply to their specific admission status and documents.\n\nSources:\nhttps://www.legislation.gov.uk/nisi/1986/595/contents\nhttps://www.nidirect.gov.uk/articles/mental-health-services-and-support\n"
     },
     {
       "id": "safeguarding",
       "title": "Adult Safeguarding",
       "fileName": "northern-ireland-safeguarding-prompt.txt",
-      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
-      "body": "Adult Safeguarding\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nAdult safeguarding policy: https://www.health-ni.gov.uk/articles/adult-safeguarding-prevention-and-protection-partnership\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
+      "body": "Adult Safeguarding\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe regional policy Adult Safeguarding: Prevention and Protection in Partnership distinguishes an adult at risk of harm from an adult in need of protection. It considers personal characteristics and life circumstances, with HSC Trust and PSNI roles according to the concern. It is not a general power to compel an adult to accept services.\n\nThe Adult Protection Bill is a reform to monitor, not a source of powers to assume are already operational. The Assembly’s legislative tracker must be checked for passage and any subsequent Act and commencement before applying a new duty.\n\nLocal pathway:\nIdentify abuse, exploitation or neglect and the adult’s ability to protect themselves in their actual circumstances.\nUse the organisation’s safeguarding arrangements and refer protection concerns to the appropriate HSC Trust route.\nContact PSNI where the circumstances require a police response, distinguishing criminal investigation from the support plan.\nEstablish the lawful basis for information sharing and for any proposed intervention without agreement.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nUse the policy’s participation and proportionate-response approach, together with the applicable consent, capacity and legal safeguards. Explain the Trust or provider complaint process and obtain specialist advice if a coercive intervention is proposed.\n\nSources:\nhttps://www.health-ni.gov.uk/publications/adult-safeguarding-prevention-and-protection-partnership-key-documents\nhttps://www.niassembly.gov.uk/assembly-business/legislation/2022-2027-mandate/primary-legislation-bills-22-27-mandate/\n"
     },
     {
       "id": "children",
       "title": "Children, Families and Transitions",
       "fileName": "northern-ireland-children-prompt.txt",
-      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
-      "body": "Children, Families and Transitions\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCo-operating to Safeguard Children: https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
+      "body": "Children, Families and Transitions\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children (Northern Ireland) Order 1995 provides the main framework for children in need, family support and protective court processes. Co-operating to Safeguard Children and Young People supplies the regional policy framework. The HSC Trust’s children’s services and PSNI have different responsibilities.\n\nAssessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.\n\nLocal pathway:\nRecord the child’s account, daily experience, harm concerns and support needs.\nUse the current regional policy and Trust referral procedure for a child-protection concern.\nIdentify who holds parental responsibility and any court order affecting the proposed decision.\nCoordinate education, health and family support and plan transitions before a service ends.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain the particular assessment, protection or court process, including how the child and family can participate, obtain advocacy or legal advice and raise disagreement. Do not promise confidentiality that conflicts with a necessary safeguarding response.\n\nSources:\nhttps://www.legislation.gov.uk/nisi/1995/755/contents\nhttps://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland\n"
     },
     {
       "id": "rights",
       "title": "Rights, Culture and Recording",
       "fileName": "northern-ireland-rights-prompt.txt",
-      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
-      "body": "Rights, Culture and Recording\nNorthern Ireland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nDepartment of Health social-care policy: https://www.health-ni.gov.uk/topics/social-care-policy\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
+      "body": "Rights, Culture and Recording\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nNorthern Ireland has its own equality laws. The Equality Act 2010 does not apply. Identify the relevant disability, sex, race, religious or political discrimination provision and the setting it covers. Section 75 of the Northern Ireland Act 1998 places equality-of-opportunity and good-relations duties on designated public authorities.\n\nThe Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.\n\nLocal pathway:\nIdentify the relevant equality law and public-authority duty for the actual decision.\nArrange accessible communication and consider the applicable reasonable-adjustment obligations.\nEstablish the purpose and legal basis of sharing, including the treatment of sensitive information.\nRecord the person’s account, alternatives, reasons, disagreement and the route for correction or challenge.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nThe Equality Commission for Northern Ireland provides information on discrimination and routes to challenge. Distinguish a service complaint, an equality-scheme concern and legal proceedings; obtain timely advice because different limits and remedies apply.\n\nSources:\nhttps://equalityni.org/equality-laws-ni\nhttps://equalityni.org/public-authorities/section-75\nhttps://www.legislation.gov.uk/ukpga/1998/47/section/75\n"
     },
     {
       "id": "supervision",
@@ -1665,42 +1674,42 @@
     {
       "title": "Professional Foundations",
       "resource": "foundations",
-      "task": "Using a fictional Northern Ireland case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+      "task": "Explain the purpose of contact, professional role and confidentiality limits in accessible language. Work through the fictional case and explain: Treating “the Trust decided” as sufficient explanation without identifying the decision, authority and reasons."
     },
     {
       "title": "Social Care and Support",
       "resource": "care-support",
-      "task": "Using a fictional Northern Ireland case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+      "task": "Describe the person’s needs and desired outcomes, including fluctuation and the effect of unavailable support. Work through the fictional case and explain: Confusing the carer’s support with services for the cared-for person, or describing an unpaid family arrangement as an agreed funded plan."
     },
     {
       "title": "Decision-Making and Capacity",
       "resource": "mca",
-      "task": "Using a fictional Northern Ireland case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+      "task": "Identify the proposed act and confirm that the provision being relied on is commenced for that purpose. Work through the fictional case and explain: Assuming full commencement or treating the nominated person as a universal decision-maker."
     },
     {
       "title": "Restrictions and Liberty",
       "resource": "dols",
-      "task": "Using a fictional Northern Ireland case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+      "task": "Describe actual arrangements and obtain evidence about the person’s wishes, understanding and objections. Work through the fictional case and explain: Treating an old definition, a completed form or family approval as a complete legal analysis."
     },
     {
       "title": "Mental Health",
       "resource": "mha",
-      "task": "Using a fictional Northern Ireland case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+      "task": "Identify voluntary support and whether an assessment or treatment detention route is actually being considered. Work through the fictional case and explain: Assuming the 2016 capacity legislation has replaced every mental-health admission provision."
     },
     {
       "title": "Adult Safeguarding",
       "resource": "safeguarding",
-      "task": "Using a fictional Northern Ireland case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+      "task": "Identify abuse, exploitation or neglect and the adult’s ability to protect themselves in their actual circumstances. Work through the fictional case and explain: Treating a safeguarding policy as a detention power or treating a proposed Bill as commenced law."
     },
     {
       "title": "Children, Families and Transitions",
       "resource": "children",
-      "task": "Using a fictional Northern Ireland case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+      "task": "Record the child’s account, daily experience, harm concerns and support needs. Work through the fictional case and explain: Allowing an internal discussion or a parent’s request for secrecy to replace the required protection response."
     },
     {
       "title": "Rights, Culture and Recording",
       "resource": "rights",
-      "task": "Using a fictional Northern Ireland case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+      "task": "Identify the relevant equality law and public-authority duty for the actual decision. Work through the fictional case and explain: Copying an equality test from another legal system or equating identical treatment with accessible participation."
     }
   ],
   "toolCount": 9,

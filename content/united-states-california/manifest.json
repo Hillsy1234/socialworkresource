@@ -1,10 +1,10 @@
 {
   "id": "united-states-california",
   "label": "California practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in California: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
-    "Use the California sources and the procedures for the actual service and setting.",
+    "Use the expanded grave-disability criteria and current county procedures; older food, clothing and shelter summaries are incomplete.",
     "Professional context: California Board of Behavioral Sciences (BBS).",
     "For cross-border work, establish legal responsibility explicitly; the selector does not decide it."
   ],
@@ -150,14 +150,15 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/foundations.md",
       "sourceCheckedAt": null,
-      "slug": "professional-foundations"
+      "slug": "professional-foundations",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -165,14 +166,15 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/care-support.md",
       "sourceCheckedAt": null,
-      "slug": "social-care-and-support-california"
+      "slug": "social-care-and-support-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -180,14 +182,15 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/mca.md",
       "sourceCheckedAt": null,
-      "slug": "capacity-and-decision-making-california"
+      "slug": "capacity-and-decision-making-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -195,14 +198,15 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/dols.md",
       "sourceCheckedAt": null,
-      "slug": "restrictions-and-liberty-california"
+      "slug": "restrictions-and-liberty-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -210,14 +214,15 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/mha.md",
       "sourceCheckedAt": null,
-      "slug": "mental-health-california"
+      "slug": "mental-health-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -225,14 +230,15 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/safeguarding.md",
       "sourceCheckedAt": null,
-      "slug": "safeguarding-california"
+      "slug": "safeguarding-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -240,14 +246,15 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Child participation, family support, child protection and transitions.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/children.md",
       "sourceCheckedAt": null,
-      "slug": "children-and-families-california"
+      "slug": "children-and-families-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -255,14 +262,15 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "united-states-california",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/rights.md",
       "sourceCheckedAt": null,
-      "slug": "rights-culture-and-recording-california"
+      "slug": "rights-culture-and-recording-california",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -487,43 +495,43 @@
   "routeDetails": {
     "foundations": {
       "title": "Professional Foundations — California",
-      "action": "What is the purpose and limit of your role?",
-      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Confirm licence or registration status, practice setting and required supervision.",
+      "record": "Explain the practitioner’s role, confidentiality limits and the purpose of the service. Identify any separate statutory designation needed for assessment, reporting or detention work. Use supervision and continuing education to address competence, bias and the person’s feedback. BBS investigates relevant professional complaints; county services, benefit agencies and courts address other decisions. Explain which route can address the person’s concern rather than presenting professional discipline as a service appeal."
     },
     "care-support": {
       "title": "Social Care and Support — California",
-      "action": "Which needs and outcomes belong to the person and to carers?",
-      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Apply through the appropriate county and identify the current eligibility and health-certification requirements.",
+      "record": "Describe functional needs, actual assistance required and the home environment during assessment. Check the authorised tasks, hours, notice and how a provider will be arranged. Track the hearing or review route and any request concerning continued benefits while a decision is challenged. CDSS State Hearings handles relevant disputes, including IHSS decisions. Read the notice for the applicable deadline and any earlier action needed to seek continued assistance. A provider complaint does not automatically preserve a benefit-hearing deadline."
     },
     "mca": {
       "title": "Decision-Making and Capacity — California",
-      "action": "What is the precise decision and why is ability to decide questioned?",
-      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the specific healthcare, personal or financial decision and support the person’s participation.",
+      "record": "Check the relevant capacity standard and evidence rather than relying on diagnosis alone. Read the advance directive, appointment or court order and verify scope and operation. Use the applicable surrogate or court route if authority is missing or disputed. California Courts explains advance planning and conservatorship routes. A clinical consent dispute and a conservatorship petition have different procedures. Seek the relevant legal or clinical advice and preserve the person’s wishes and participation."
     },
     "dols": {
       "title": "Restrictions and Liberty — California",
-      "action": "What restrictions actually operate and how do they affect the person?",
-      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the actual restriction, setting and the legal measure relied on.",
+      "record": "Read the hold, court order or specific restraint authority and check its scope and expiry. Distinguish the person’s detention status from medication consent and other healthcare decisions. Arrange patients’ rights support, the appropriate hearing or court route and a plan to reduce restrictions. County patients’ rights advocates and legal representatives help with applicable detention and treatment rights. Certification review and medication-capacity hearings address different questions. Explain the route relevant to the person’s objection rather than describing every challenge as the same appeal."
     },
     "mha": {
       "title": "Mental Health — California",
-      "action": "What is the purpose of each proposed intervention?",
-      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the authorised person, proposed route and evidence for the current statutory criteria.",
+      "record": "Consider voluntary crisis support and whether the person can be served without detention. Check the start time, required assessment, notices and any further certification or court process. Keep detention and treatment-consent safeguards separate, including medication-capacity procedures where applicable. Explain access to the patients’ rights advocate, legal representation and the relevant hearing or court review. Additional detention is not automatic when an initial period ends. A broad social problem or lack of housing should not be substituted for the required statutory analysis."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — California",
-      "action": "How can the person be heard safely and privately?",
-      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the person’s statutory category, your reporting role, the alleged harm and the setting.",
+      "record": "Make the required report through the correct APS, law-enforcement, ombudsman or other specified route. Check the applicable telephone and written or electronic follow-up deadlines; do not assume one rule covers every institution. Arrange immediate safety, consent-sensitive support and follow-up while preserving the adult’s account. A mandated report and the adult’s consent to ongoing services are different matters. Reporting does not itself appoint a conservator or authorise forced placement. Explain the relevant APS, regulatory, police or court process and available advocacy."
     },
     "children": {
       "title": "Children, Families and Transitions — California",
-      "action": "What does the child say or show about safety and daily life?",
-      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify your mandated-reporter role and the facts supporting knowledge or reasonable suspicion.",
+      "record": "Make the required report to an authorised receiving agency and address immediate danger. Complete the follow-up within the applicable time and record what was reported. Coordinate support and assess any dependency-court or Indian Child Welfare Act requirements where relevant. Explain confidentiality limits and the child’s and family’s access to support or legal advice. A mandated report does not itself establish the legal grounds for removal or a court finding. Preserve the distinction between suspicion, investigation and adjudication."
     },
     "rights": {
       "title": "Rights, Culture and Recording — California",
-      "action": "What makes participation accessible for this person?",
-      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the organisation, service and applicable state and federal rights or privacy duties.",
+      "record": "Arrange disability access, interpretation and culturally responsive participation. Check the legal basis for disclosure and whether specially protected records or proceedings are involved. Explain access, correction, complaints and any applicable patient-rights or legal review route. HHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; California and professional complaint routes address other matters. A subpoena, a court order and a routine agency request need distinct analysis. Seek appropriate advice rather than automatically releasing a complete file."
     },
     "sources": {
       "title": "California Source Library",
@@ -537,24 +545,24 @@
       "title": "Professional Foundations — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking professional foundations in California?",
-          "answer": "Start with California Board of Behavioral Sciences (BBS). Check the professional requirements for your role and the applicable law."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical Social Workers (LCSWs) and Associate Clinical Social Workers (ASWs). Licensure, associate registration, supervision and employer duties must be distinguished. Use the current BBS statutes, regulations and guidance for the practice setting."
         },
         {
-          "prompt": "How does a formulation differ from a chronology?",
-          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law."
         },
         {
-          "prompt": "How can supervision test bias?",
-          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+          "prompt": "What are the key local actions?",
+          "answer": "Confirm licence or registration status, practice setting and required supervision. Explain the practitioner’s role, confidentiality limits and the purpose of the service. Identify any separate statutory designation needed for assessment, reporting or detention work. Use supervision and continuing education to address competence, bias and the person’s feedback."
         },
         {
-          "prompt": "What makes a professional record useful?",
-          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "BBS investigates relevant professional complaints; county services, benefit agencies and courts address other decisions. Explain which route can address the person’s concern rather than presenting professional discipline as a service appeal."
         },
         {
-          "prompt": "What makes reflective learning actionable?",
-          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+          "prompt": "What common error should you avoid?",
+          "answer": "Equating a degree, associate registration and independent clinical licensure."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Social Care and Support — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking social care and support in California?",
-          "answer": "Open California social services from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "In-Home Supportive Services (IHSS) provides assessed in-home assistance to eligible aged, blind or disabled people. County assessment, authorised tasks and hours, financial or programme eligibility and actual provider arrangements are separate decisions. Medi-Cal services, regional-centre support and housing assistance have other rules."
         },
         {
-          "prompt": "Can family support be assumed?",
-          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An IHSS Notice of Action explains the county decision and hearing rights. A disagreement about authorised hours is different from a problem recruiting a worker or a complaint about missed visits. Identify the disputed decision and the evidence relevant to it."
         },
         {
-          "prompt": "Why distinguish assessment from funding?",
-          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+          "prompt": "What are the key local actions?",
+          "answer": "Apply through the appropriate county and identify the current eligibility and health-certification requirements. Describe functional needs, actual assistance required and the home environment during assessment. Check the authorised tasks, hours, notice and how a provider will be arranged. Track the hearing or review route and any request concerning continued benefits while a decision is challenged."
         },
         {
-          "prompt": "What belongs in a support plan?",
-          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "CDSS State Hearings handles relevant disputes, including IHSS decisions. Read the notice for the applicable deadline and any earlier action needed to seek continued assistance. A provider complaint does not automatically preserve a benefit-hearing deadline."
         },
         {
-          "prompt": "What if support is unavailable?",
-          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating worker availability as proof that the assessed need has disappeared."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "Decision-Making and Capacity — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking decision-making and capacity in California?",
-          "answer": "Open California Codes from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "California’s Probate Code provides decision-specific capacity and healthcare decision-making provisions, including advance healthcare directives, agents and surrogate arrangements. Probate conservatorship and Lanterman-Petris-Short (LPS) conservatorship are different processes; neither should be described simply as a family member taking over all decisions."
         },
         {
-          "prompt": "Does a risky refusal alone establish inability to decide?",
-          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Read the directive, power or court order and identify the exact authority. Financial power does not automatically include healthcare. Where no existing authorised decision-maker is available, use the applicable Probate Code surrogate process with the responsible healthcare provider rather than assuming an informal next-of-kin hierarchy."
         },
         {
-          "prompt": "What support can improve participation?",
-          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the specific healthcare, personal or financial decision and support the person’s participation. Check the relevant capacity standard and evidence rather than relying on diagnosis alone. Read the advance directive, appointment or court order and verify scope and operation. Use the applicable surrogate or court route if authority is missing or disputed."
         },
         {
-          "prompt": "Does a family relationship establish decision-making authority?",
-          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "California Courts explains advance planning and conservatorship routes. A clinical consent dispute and a conservatorship petition have different procedures. Seek the relevant legal or clinical advice and preserve the person’s wishes and participation."
         },
         {
-          "prompt": "Why identify the exact decision?",
-          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming financial authority, next-of-kin status or a conservatorship label answers every consent question."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Restrictions and Liberty — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking restrictions and liberty in California?",
-          "answer": "Open California Codes and California mental-health legislation from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "The LPS framework provides particular mental-health detention and conservatorship routes. Probate conservatorship, healthcare consent and facility restraint rules are separate. An admission agreement or conservator’s general status does not explain every locked-door measure, restraint or treatment."
         },
         {
-          "prompt": "What should a restriction record describe?",
-          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "A section 5150 hold is a time-limited assessment and crisis-intervention route, not an automatic order to keep someone for the whole maximum period or to impose every proposed treatment. Continuing detention requires the applicable further authority and safeguards."
         },
         {
-          "prompt": "Does quiet behaviour demonstrate consent?",
-          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the actual restriction, setting and the legal measure relied on. Read the hold, court order or specific restraint authority and check its scope and expiry. Distinguish the person’s detention status from medication consent and other healthcare decisions. Arrange patients’ rights support, the appropriate hearing or court route and a plan to reduce restrictions."
         },
         {
-          "prompt": "Can provider policy alone establish legal authority?",
-          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "County patients’ rights advocates and legal representatives help with applicable detention and treatment rights. Certification review and medication-capacity hearings address different questions. Explain the route relevant to the person’s objection rather than describing every challenge as the same appeal."
         },
         {
-          "prompt": "What should review consider?",
-          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating detention, medication capacity and restraint authorisation as a single decision."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Mental Health — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking mental health in California?",
-          "answer": "Open California mental-health legislation from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "The Lanterman-Petris-Short framework in the Welfare and Institutions Code includes section 5150 assessment and crisis intervention, subsequent certification routes and conservatorship. Section 5150 permits specified authorised persons to act on probable cause under the statutory conditions, for up to 72 hours. It is not a power held by every social worker."
         },
         {
-          "prompt": "Why distinguish admission from treatment?",
-          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "SB 43 expanded the grave-disability definition to include specified circumstances involving severe substance use disorder and inability to meet needs including personal safety or necessary medical care. Counties could defer implementation only until January 2026. Use the current section 5008 wording and criteria rather than an older food-clothing-shelter-only summary."
         },
         {
-          "prompt": "What should happen alongside crisis assessment?",
-          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the authorised person, proposed route and evidence for the current statutory criteria. Consider voluntary crisis support and whether the person can be served without detention. Check the start time, required assessment, notices and any further certification or court process. Keep detention and treatment-consent safeguards separate, including medication-capacity procedures where applicable."
         },
         {
-          "prompt": "Can a social worker use every mental-health power?",
-          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain access to the patients’ rights advocate, legal representation and the relevant hearing or court review. Additional detention is not automatic when an initial period ends. A broad social problem or lack of housing should not be substituted for the required statutory analysis."
         },
         {
-          "prompt": "What does a rights explanation cover?",
-          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using a superseded grave-disability definition or assuming all social workers can initiate a hold."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Adult Safeguarding — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking adult safeguarding in California?",
-          "answer": "Open California adult protective services from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "California’s Elder Abuse and Dependent Adult Civil Protection Act includes mandated-reporting duties. Welfare and Institutions Code section 15630 addresses covered reporters and circumstances. County APS service eligibility and the statutory definitions used for reporting should be checked separately; an agency’s service age range should not be substituted for the legal definition."
         },
         {
-          "prompt": "Why offer a private conversation?",
-          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Community, long-term-care, state-hospital and other institutional concerns can have different reporting recipients and timing rules. CDSS publishes general reporting guidance, but the actual setting and allegation determine which statutory provisions apply."
         },
         {
-          "prompt": "Is proof needed before checking reporting duties?",
-          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the person’s statutory category, your reporting role, the alleged harm and the setting. Make the required report through the correct APS, law-enforcement, ombudsman or other specified route. Check the applicable telephone and written or electronic follow-up deadlines; do not assume one rule covers every institution. Arrange immediate safety, consent-sensitive support and follow-up while preserving the adult’s account."
         },
         {
-          "prompt": "What should a report contain?",
-          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "A mandated report and the adult’s consent to ongoing services are different matters. Reporting does not itself appoint a conservator or authorise forced placement. Explain the relevant APS, regulatory, police or court process and available advocacy."
         },
         {
-          "prompt": "Does a referral complete the response?",
-          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+          "prompt": "What common error should you avoid?",
+          "answer": "Confusing APS service eligibility with statutory reporting definitions or treating an internal report as sufficient."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Children, Families and Transitions — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking children, families and transitions in California?",
-          "answer": "Open California Child Protective Services from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "The Child Abuse and Neglect Reporting Act (CANRA) specifies mandated reporters, reportable concerns and recipients. Penal Code section 11166 requires a covered reporter acting professionally or within employment to report knowledge or reasonable suspicion of child abuse or neglect. Certainty or medical proof is not required."
         },
         {
-          "prompt": "How should the child’s account be recorded?",
-          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The ordinary procedure requires an initial telephone report immediately or as soon as practicably possible and a written follow-up within 36 hours. Reporting to a supervisor is not a substitute. Use the current statutory recipient and procedure, including any applicable special circumstances."
         },
         {
-          "prompt": "Can one child-protection model settle a legal threshold?",
-          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify your mandated-reporter role and the facts supporting knowledge or reasonable suspicion. Make the required report to an authorised receiving agency and address immediate danger. Complete the follow-up within the applicable time and record what was reported. Coordinate support and assess any dependency-court or Indian Child Welfare Act requirements where relevant."
         },
         {
-          "prompt": "What makes transition planning useful?",
-          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain confidentiality limits and the child’s and family’s access to support or legal advice. A mandated report does not itself establish the legal grounds for removal or a court finding. Preserve the distinction between suspicion, investigation and adjudication."
         },
         {
-          "prompt": "Why consider community and cultural relationships?",
-          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+          "prompt": "What common error should you avoid?",
+          "answer": "Waiting for certainty or a manager’s permission before making a required CANRA report."
         }
       ]
     },
@@ -719,24 +727,24 @@
       "title": "Rights, Culture and Recording — California",
       "cards": [
         {
-          "prompt": "Where should you begin checking rights, culture and recording in California?",
-          "answer": "Open BBS professional requirements from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in California practice guide?",
+          "answer": "Federal disability and civil-rights requirements and California protections apply according to the service and decision. For confidentiality, distinguish HIPAA-covered entities, California’s Confidentiality of Medical Information Act and other applicable state rules. A social-work record is not automatically governed by HIPAA solely because it contains sensitive information."
         },
         {
-          "prompt": "What is data minimisation?",
-          "answer": "Sharing only the information needed for the identified, lawful purpose."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure."
         },
         {
-          "prompt": "What is a culturally responsive first step?",
-          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the organisation, service and applicable state and federal rights or privacy duties. Arrange disability access, interpretation and culturally responsive participation. Check the legal basis for disclosure and whether specially protected records or proceedings are involved. Explain access, correction, complaints and any applicable patient-rights or legal review route."
         },
         {
-          "prompt": "Why record disagreement?",
-          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "HHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; California and professional complaint routes address other matters. A subpoena, a court order and a routine agency request need distinct analysis. Seek appropriate advice rather than automatically releasing a complete file."
         },
         {
-          "prompt": "How do you compare alternatives?",
-          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming HIPAA applies to every record or that a general consent covers all uses in legal proceedings."
         }
       ]
     }
@@ -744,42 +752,42 @@
   "glossaryTerms": [
     {
       "term": "Professional Foundations",
-      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "definition": "The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical Social Workers (LCSWs) and Associate Clinical Social Workers (ASWs). Licensure, associate registration, supervision and employer duties must be distinguished. Use the current BBS statutes, regulations and guidance for the practice setting.",
       "link": "foundations"
     },
     {
       "term": "Social Care and Support",
-      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "definition": "In-Home Supportive Services (IHSS) provides assessed in-home assistance to eligible aged, blind or disabled people. County assessment, authorised tasks and hours, financial or programme eligibility and actual provider arrangements are separate decisions. Medi-Cal services, regional-centre support and housing assistance have other rules.",
       "link": "care-support"
     },
     {
       "term": "Decision-Making and Capacity",
-      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "definition": "California’s Probate Code provides decision-specific capacity and healthcare decision-making provisions, including advance healthcare directives, agents and surrogate arrangements. Probate conservatorship and Lanterman-Petris-Short (LPS) conservatorship are different processes; neither should be described simply as a family member taking over all decisions.",
       "link": "mca"
     },
     {
       "term": "Restrictions and Liberty",
-      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "definition": "The LPS framework provides particular mental-health detention and conservatorship routes. Probate conservatorship, healthcare consent and facility restraint rules are separate. An admission agreement or conservator’s general status does not explain every locked-door measure, restraint or treatment.",
       "link": "dols"
     },
     {
       "term": "Mental Health",
-      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "definition": "The Lanterman-Petris-Short framework in the Welfare and Institutions Code includes section 5150 assessment and crisis intervention, subsequent certification routes and conservatorship. Section 5150 permits specified authorised persons to act on probable cause under the statutory conditions, for up to 72 hours. It is not a power held by every social worker.",
       "link": "mha"
     },
     {
       "term": "Adult Safeguarding",
-      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "definition": "California’s Elder Abuse and Dependent Adult Civil Protection Act includes mandated-reporting duties. Welfare and Institutions Code section 15630 addresses covered reporters and circumstances. County APS service eligibility and the statutory definitions used for reporting should be checked separately; an agency’s service age range should not be substituted for the legal definition.",
       "link": "safeguarding"
     },
     {
       "term": "Children, Families and Transitions",
-      "definition": "Child participation, family support, child protection and transitions.",
+      "definition": "The Child Abuse and Neglect Reporting Act (CANRA) specifies mandated reporters, reportable concerns and recipients. Penal Code section 11166 requires a covered reporter acting professionally or within employment to report knowledge or reasonable suspicion of child abuse or neglect. Certainty or medical proof is not required.",
       "link": "children"
     },
     {
       "term": "Rights, Culture and Recording",
-      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "definition": "Federal disability and civil-rights requirements and California protections apply according to the service and decision. For confidentiality, distinguish HIPAA-covered entities, California’s Confidentiality of Medical Information Act and other applicable state rules. A social-work record is not automatically governed by HIPAA solely because it contains sensitive information.",
       "link": "rights"
     },
     {
@@ -1470,123 +1478,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and family support",
-      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "title": "Professional Foundations — California",
+      "summary": "An associate is asked to provide unsupervised clinical services because a manager believes the social-work degree is sufficient.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Check the registration and supervision rules for the setting and arrange a compliant service. Explain the practitioner’s status accurately and escalate any pressure to exceed scope. Keep urgent support within the role while ensuring the appropriate licensed oversight."
+    },
+    {
+      "title": "Social Care and Support — California",
+      "summary": "A recipient’s hours are reduced while their support needs have increased, and the family is told only to find a more efficient worker.",
       "routes": [
         "care-support",
         "rights",
         "sources"
       ],
       "prompts": [
-        "Which needs and outcomes belong to the person and to carers?",
-        "Which service actually assesses and funds this support?",
-        "What happens if the proposed support is unavailable?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the California module and source library to identify the applicable framework."
+      "reveal": "Obtain the assessment and Notice of Action, compare authorised tasks with current evidence and assist with the appropriate hearing request if wanted. Address immediate care gaps separately. Staffing difficulties should not obscure a dispute about the assessment itself."
     },
     {
-      "title": "A decision and a refusal",
-      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "title": "Decision-Making and Capacity — California",
+      "summary": "A relative with financial power of attorney signs for treatment while the patient’s healthcare directive names a different agent.",
       "routes": [
         "mca",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the precise decision and why is ability to decide questioned?",
-        "What communication support would help?",
-        "Who has authority for this decision under the applicable law?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the California module and source library to identify the applicable framework."
+      "reveal": "Check the patient’s own capacity for the treatment, then the directive and the agent’s operative authority. The financial document does not settle healthcare consent. Resolve the discrepancy through the responsible clinical and legal process before treating the signature as valid authority."
     },
     {
-      "title": "Restrictions and objections",
-      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "title": "Restrictions and Liberty — California",
+      "summary": "A facility says a person on an assessment hold cannot object to any medication or restraint because they are already detained.",
       "routes": [
         "dols",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What restrictions actually operate and how do they affect the person?",
-        "What authority is being relied upon?",
-        "How can the person challenge the arrangements?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the California module and source library to identify the applicable framework."
+      "reveal": "Identify the separate authority and safeguards for each intervention. Explain the person’s rights and connect them with the appropriate advocate or attorney. Review necessity and less restrictive options; the hold does not supply a universal treatment or restraint permission."
     },
     {
-      "title": "Mental-health crisis",
-      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "title": "Mental Health — California",
+      "summary": "A team uses an old training sheet to exclude personal safety and necessary medical care from a grave-disability assessment.",
       "routes": [
         "mha",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the purpose of each proposed intervention?",
-        "Who can assess or exercise the relevant power?",
-        "What voluntary or less restrictive support is available?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the California module and source library to identify the applicable framework."
+      "reveal": "Check the current section 5008 definition and DHCS SB 43 guidance. Record the evidence connecting the qualifying condition to the inability to meet the relevant needs, consider available support and preserve the person’s review rights. The expanded definition still requires an individual legal assessment."
     },
     {
-      "title": "Financial control",
-      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "title": "Adult Safeguarding — California",
+      "summary": "A worker reports suspected financial abuse to a supervisor and assumes that an internal form satisfies the legal duty.",
       "routes": [
         "safeguarding",
         "rights",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the California module and source library to identify the applicable framework."
+      "reveal": "Check section 15630 and the setting-specific reporting route, make the required external report and document timing and recipient. Address the adult’s access to money and essential support. Internal reporting can support compliance but does not replace it."
     },
     {
-      "title": "Moving into adult services",
-      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "title": "Children, Families and Transitions — California",
+      "summary": "A child discloses abuse and a manager directs the worker to wait for internal approval before calling the receiving agency.",
       "routes": [
         "children",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What does the child say or show about safety and daily life?",
-        "Which reporting duty and receiving agency apply?",
-        "How will education, health and family support coordinate?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the California module and source library to identify the applicable framework."
+      "reveal": "Apply the reporting threshold and act within the statutory procedure without allowing internal approval to delay the duty. Record the child’s words, the report and immediate safety actions. Avoid conducting a separate investigation to obtain proof before reporting."
     },
     {
-      "title": "Organisational concerns",
-      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "title": "Rights, Culture and Recording — California",
+      "summary": "A court-related request seeks a client’s substance-use treatment record, and a worker relies on a general treatment-sharing consent.",
       "routes": [
-        "safeguarding",
         "rights",
+        "foundations",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the California module and source library to identify the applicable framework."
-    },
-    {
-      "title": "Communication and agreement",
-      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
-      "routes": [
-        "rights",
-        "sources"
-      ],
-      "prompts": [
-        "What makes participation accessible for this person?",
-        "What legal basis permits disclosure of this information?",
-        "How will disagreement and reasons be recorded?"
-      ],
-      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the California module and source library to identify the applicable framework."
+      "reveal": "Check whether Part 2 applies and what the request, consent and current law permit for proceedings. Consider California requirements separately and seek the necessary advice. Document the disclosure decision and limit any release to what is lawfully authorised."
     }
   ],
   "printableTemplates": [
@@ -1594,57 +1603,57 @@
       "id": "foundations",
       "title": "Professional Foundations",
       "fileName": "united-states-california-foundations-prompt.txt",
-      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
-      "body": "Professional Foundations\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia Board of Behavioral Sciences (BBS): https://www.bbs.ca.gov/\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
+      "body": "Professional Foundations\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe California Board of Behavioral Sciences (BBS) regulates Licensed Clinical Social Workers (LCSWs) and Associate Clinical Social Workers (ASWs). Licensure, associate registration, supervision and employer duties must be distinguished. Use the current BBS statutes, regulations and guidance for the practice setting.\n\nAn ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.\n\nLocal pathway:\nConfirm licence or registration status, practice setting and required supervision.\nExplain the practitioner’s role, confidentiality limits and the purpose of the service.\nIdentify any separate statutory designation needed for assessment, reporting or detention work.\nUse supervision and continuing education to address competence, bias and the person’s feedback.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nBBS investigates relevant professional complaints; county services, benefit agencies and courts address other decisions. Explain which route can address the person’s concern rather than presenting professional discipline as a service appeal.\n\nSources:\nhttps://www.bbs.ca.gov/about/board_info.html\nhttps://bbs.ca.gov/applicants/lcsw.html\nhttps://www.bbs.ca.gov/about/law_reg.html\n"
     },
     {
       "id": "care-support",
       "title": "Social Care and Support",
       "fileName": "united-states-california-care-support-prompt.txt",
-      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
-      "body": "Social Care and Support\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia social services: https://www.cdss.ca.gov/\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
+      "body": "Social Care and Support\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nIn-Home Supportive Services (IHSS) provides assessed in-home assistance to eligible aged, blind or disabled people. County assessment, authorised tasks and hours, financial or programme eligibility and actual provider arrangements are separate decisions. Medi-Cal services, regional-centre support and housing assistance have other rules.\n\nAn IHSS Notice of Action explains the county decision and hearing rights. A disagreement about authorised hours is different from a problem recruiting a worker or a complaint about missed visits. Identify the disputed decision and the evidence relevant to it.\n\nLocal pathway:\nApply through the appropriate county and identify the current eligibility and health-certification requirements.\nDescribe functional needs, actual assistance required and the home environment during assessment.\nCheck the authorised tasks, hours, notice and how a provider will be arranged.\nTrack the hearing or review route and any request concerning continued benefits while a decision is challenged.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nCDSS State Hearings handles relevant disputes, including IHSS decisions. Read the notice for the applicable deadline and any earlier action needed to seek continued assistance. A provider complaint does not automatically preserve a benefit-hearing deadline.\n\nSources:\nhttps://www.cdss.ca.gov/in-home-supportive-services\nhttps://www.cdss.ca.gov/hearing-requests\nhttps://www.dhcs.ca.gov/services/home-and-community-based-services-hcbs-grievance-and-hearings/\n"
     },
     {
       "id": "mca",
       "title": "Decision-Making and Capacity",
       "fileName": "united-states-california-mca-prompt.txt",
-      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
-      "body": "Decision-Making and Capacity\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia Codes: https://leginfo.legislature.ca.gov/faces/codes.xhtml\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
+      "body": "Decision-Making and Capacity\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nCalifornia’s Probate Code provides decision-specific capacity and healthcare decision-making provisions, including advance healthcare directives, agents and surrogate arrangements. Probate conservatorship and Lanterman-Petris-Short (LPS) conservatorship are different processes; neither should be described simply as a family member taking over all decisions.\n\nRead the directive, power or court order and identify the exact authority. Financial power does not automatically include healthcare. Where no existing authorised decision-maker is available, use the applicable Probate Code surrogate process with the responsible healthcare provider rather than assuming an informal next-of-kin hierarchy.\n\nLocal pathway:\nIdentify the specific healthcare, personal or financial decision and support the person’s participation.\nCheck the relevant capacity standard and evidence rather than relying on diagnosis alone.\nRead the advance directive, appointment or court order and verify scope and operation.\nUse the applicable surrogate or court route if authority is missing or disputed.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nCalifornia Courts explains advance planning and conservatorship routes. A clinical consent dispute and a conservatorship petition have different procedures. Seek the relevant legal or clinical advice and preserve the person’s wishes and participation.\n\nSources:\nhttps://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=4712.\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=810.\n"
     },
     {
       "id": "dols",
       "title": "Restrictions and Liberty",
       "fileName": "united-states-california-dols-prompt.txt",
-      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
-      "body": "Restrictions and Liberty\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia Codes: https://leginfo.legislature.ca.gov/faces/codes.xhtml\nCalifornia mental-health legislation: https://leginfo.legislature.ca.gov/faces/codes.xhtml\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
+      "body": "Restrictions and Liberty\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe LPS framework provides particular mental-health detention and conservatorship routes. Probate conservatorship, healthcare consent and facility restraint rules are separate. An admission agreement or conservator’s general status does not explain every locked-door measure, restraint or treatment.\n\nA section 5150 hold is a time-limited assessment and crisis-intervention route, not an automatic order to keep someone for the whole maximum period or to impose every proposed treatment. Continuing detention requires the applicable further authority and safeguards.\n\nLocal pathway:\nIdentify the actual restriction, setting and the legal measure relied on.\nRead the hold, court order or specific restraint authority and check its scope and expiry.\nDistinguish the person’s detention status from medication consent and other healthcare decisions.\nArrange patients’ rights support, the appropriate hearing or court route and a plan to reduce restrictions.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nCounty patients’ rights advocates and legal representatives help with applicable detention and treatment rights. Certification review and medication-capacity hearings address different questions. Explain the route relevant to the person’s objection rather than describing every challenge as the same appeal.\n\nSources:\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5150.\nhttps://www.dhcs.ca.gov/services/patients-rights/\nhttps://www.dhcs.ca.gov/wp-content/uploads/2025/10/DHCS_Handbook_English.pdf\n"
     },
     {
       "id": "mha",
       "title": "Mental Health",
       "fileName": "united-states-california-mha-prompt.txt",
-      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
-      "body": "Mental Health\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia mental-health legislation: https://leginfo.legislature.ca.gov/faces/codes.xhtml\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
+      "body": "Mental Health\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Lanterman-Petris-Short framework in the Welfare and Institutions Code includes section 5150 assessment and crisis intervention, subsequent certification routes and conservatorship. Section 5150 permits specified authorised persons to act on probable cause under the statutory conditions, for up to 72 hours. It is not a power held by every social worker.\n\nSB 43 expanded the grave-disability definition to include specified circumstances involving severe substance use disorder and inability to meet needs including personal safety or necessary medical care. Counties could defer implementation only until January 2026. Use the current section 5008 wording and criteria rather than an older food-clothing-shelter-only summary.\n\nLocal pathway:\nIdentify the authorised person, proposed route and evidence for the current statutory criteria.\nConsider voluntary crisis support and whether the person can be served without detention.\nCheck the start time, required assessment, notices and any further certification or court process.\nKeep detention and treatment-consent safeguards separate, including medication-capacity procedures where applicable.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nExplain access to the patients’ rights advocate, legal representation and the relevant hearing or court review. Additional detention is not automatic when an initial period ends. A broad social problem or lack of housing should not be substituted for the required statutory analysis.\n\nSources:\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5150.\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5008.\nhttps://www.dhcs.ca.gov/wp-content/uploads/2025/10/SB-43-FAQs.pdf\n"
     },
     {
       "id": "safeguarding",
       "title": "Adult Safeguarding",
       "fileName": "united-states-california-safeguarding-prompt.txt",
-      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
-      "body": "Adult Safeguarding\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia adult protective services: https://www.cdss.ca.gov/adult-protective-services\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
+      "body": "Adult Safeguarding\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nCalifornia’s Elder Abuse and Dependent Adult Civil Protection Act includes mandated-reporting duties. Welfare and Institutions Code section 15630 addresses covered reporters and circumstances. County APS service eligibility and the statutory definitions used for reporting should be checked separately; an agency’s service age range should not be substituted for the legal definition.\n\nCommunity, long-term-care, state-hospital and other institutional concerns can have different reporting recipients and timing rules. CDSS publishes general reporting guidance, but the actual setting and allegation determine which statutory provisions apply.\n\nLocal pathway:\nIdentify the person’s statutory category, your reporting role, the alleged harm and the setting.\nMake the required report through the correct APS, law-enforcement, ombudsman or other specified route.\nCheck the applicable telephone and written or electronic follow-up deadlines; do not assume one rule covers every institution.\nArrange immediate safety, consent-sensitive support and follow-up while preserving the adult’s account.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nA mandated report and the adult’s consent to ongoing services are different matters. Reporting does not itself appoint a conservator or authorise forced placement. Explain the relevant APS, regulatory, police or court process and available advocacy.\n\nSources:\nhttps://www.cdss.ca.gov/inforesources/cdss-programs/adult-protective-services/information-for-mandated-reporters\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=15630.\nhttps://cdss.ca.gov/adult-protective-services\n"
     },
     {
       "id": "children",
       "title": "Children, Families and Transitions",
       "fileName": "united-states-california-children-prompt.txt",
-      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
-      "body": "Children, Families and Transitions\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCalifornia Child Protective Services: https://www.cdss.ca.gov/reporting/report-abuse/child-protective-services\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
+      "body": "Children, Families and Transitions\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Child Abuse and Neglect Reporting Act (CANRA) specifies mandated reporters, reportable concerns and recipients. Penal Code section 11166 requires a covered reporter acting professionally or within employment to report knowledge or reasonable suspicion of child abuse or neglect. Certainty or medical proof is not required.\n\nThe ordinary procedure requires an initial telephone report immediately or as soon as practicably possible and a written follow-up within 36 hours. Reporting to a supervisor is not a substitute. Use the current statutory recipient and procedure, including any applicable special circumstances.\n\nLocal pathway:\nIdentify your mandated-reporter role and the facts supporting knowledge or reasonable suspicion.\nMake the required report to an authorised receiving agency and address immediate danger.\nComplete the follow-up within the applicable time and record what was reported.\nCoordinate support and assess any dependency-court or Indian Child Welfare Act requirements where relevant.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain confidentiality limits and the child’s and family’s access to support or legal advice. A mandated report does not itself establish the legal grounds for removal or a court finding. Preserve the distinction between suspicion, investigation and adjudication.\n\nSources:\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11166.\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11165.7.\n"
     },
     {
       "id": "rights",
       "title": "Rights, Culture and Recording",
       "fileName": "united-states-california-rights-prompt.txt",
-      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
-      "body": "Rights, Culture and Recording\nCalifornia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBBS professional requirements: https://www.bbs.ca.gov/\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
+      "body": "Rights, Culture and Recording\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nFederal disability and civil-rights requirements and California protections apply according to the service and decision. For confidentiality, distinguish HIPAA-covered entities, California’s Confidentiality of Medical Information Act and other applicable state rules. A social-work record is not automatically governed by HIPAA solely because it contains sensitive information.\n\nCertain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.\n\nLocal pathway:\nIdentify the organisation, service and applicable state and federal rights or privacy duties.\nArrange disability access, interpretation and culturally responsive participation.\nCheck the legal basis for disclosure and whether specially protected records or proceedings are involved.\nExplain access, correction, complaints and any applicable patient-rights or legal review route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nHHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; California and professional complaint routes address other matters. A subpoena, a court order and a routine agency request need distinct analysis. Seek appropriate advice rather than automatically releasing a complete file.\n\nSources:\nhttps://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html\nhttps://www.hhs.gov/hipaa/part-2/index.html\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.\n"
     },
     {
       "id": "supervision",
@@ -1665,42 +1674,42 @@
     {
       "title": "Professional Foundations",
       "resource": "foundations",
-      "task": "Using a fictional California case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+      "task": "Confirm licence or registration status, practice setting and required supervision. Work through the fictional case and explain: Equating a degree, associate registration and independent clinical licensure."
     },
     {
       "title": "Social Care and Support",
       "resource": "care-support",
-      "task": "Using a fictional California case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+      "task": "Apply through the appropriate county and identify the current eligibility and health-certification requirements. Work through the fictional case and explain: Treating worker availability as proof that the assessed need has disappeared."
     },
     {
       "title": "Decision-Making and Capacity",
       "resource": "mca",
-      "task": "Using a fictional California case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+      "task": "Identify the specific healthcare, personal or financial decision and support the person’s participation. Work through the fictional case and explain: Assuming financial authority, next-of-kin status or a conservatorship label answers every consent question."
     },
     {
       "title": "Restrictions and Liberty",
       "resource": "dols",
-      "task": "Using a fictional California case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+      "task": "Identify the actual restriction, setting and the legal measure relied on. Work through the fictional case and explain: Treating detention, medication capacity and restraint authorisation as a single decision."
     },
     {
       "title": "Mental Health",
       "resource": "mha",
-      "task": "Using a fictional California case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+      "task": "Identify the authorised person, proposed route and evidence for the current statutory criteria. Work through the fictional case and explain: Using a superseded grave-disability definition or assuming all social workers can initiate a hold."
     },
     {
       "title": "Adult Safeguarding",
       "resource": "safeguarding",
-      "task": "Using a fictional California case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+      "task": "Identify the person’s statutory category, your reporting role, the alleged harm and the setting. Work through the fictional case and explain: Confusing APS service eligibility with statutory reporting definitions or treating an internal report as sufficient."
     },
     {
       "title": "Children, Families and Transitions",
       "resource": "children",
-      "task": "Using a fictional California case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+      "task": "Identify your mandated-reporter role and the facts supporting knowledge or reasonable suspicion. Work through the fictional case and explain: Waiting for certainty or a manager’s permission before making a required CANRA report."
     },
     {
       "title": "Rights, Culture and Recording",
       "resource": "rights",
-      "task": "Using a fictional California case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+      "task": "Identify the organisation, service and applicable state and federal rights or privacy duties. Work through the fictional case and explain: Assuming HIPAA applies to every record or that a general consent covers all uses in legal proceedings."
     }
   ],
   "toolCount": 9,

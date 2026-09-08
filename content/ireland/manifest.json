@@ -1,10 +1,10 @@
 {
   "id": "ireland",
   "label": "Ireland practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in Ireland: CORU professional standards, HSE and Tusla pathways, assisted decision-making, safeguarding, mental health and children’s welfare.",
   "alerts": [
-    "Use the Ireland sources and the procedures for the actual service and setting.",
+    "The Mental Health Act 2026 has been enacted. Check commencement for each provision before changing the operative pathway.",
     "Professional context: CORU Social Workers Registration Board.",
     "For cross-border work, establish legal responsibility explicitly; the selector does not decide it."
   ],
@@ -150,14 +150,15 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/foundations.md",
       "sourceCheckedAt": null,
-      "slug": "professional-foundations"
+      "slug": "professional-foundations",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -165,14 +166,15 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/care-support.md",
       "sourceCheckedAt": null,
-      "slug": "social-care-and-support-ireland"
+      "slug": "social-care-and-support-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -180,14 +182,15 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/mca.md",
       "sourceCheckedAt": null,
-      "slug": "assisted-decision-making-and-capacity-ireland"
+      "slug": "assisted-decision-making-and-capacity-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -195,14 +198,15 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/dols.md",
       "sourceCheckedAt": null,
-      "slug": "restrictions-and-liberty-ireland"
+      "slug": "restrictions-and-liberty-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -210,14 +214,15 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/mha.md",
       "sourceCheckedAt": null,
-      "slug": "mental-health-ireland"
+      "slug": "mental-health-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -225,14 +230,15 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/safeguarding.md",
       "sourceCheckedAt": null,
-      "slug": "safeguarding-adults-ireland"
+      "slug": "safeguarding-adults-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -240,14 +246,15 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Child participation, family support, child protection and transitions.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/children.md",
       "sourceCheckedAt": null,
-      "slug": "children-and-families-ireland"
+      "slug": "children-and-families-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -255,14 +262,15 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "ireland",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/ireland/resources/rights.md",
       "sourceCheckedAt": null,
-      "slug": "rights-participation-and-recording-ireland"
+      "slug": "rights-participation-and-recording-ireland",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -487,43 +495,43 @@
   "routeDetails": {
     "foundations": {
       "title": "Professional Foundations — Ireland",
-      "action": "What is the purpose and limit of your role?",
-      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Confirm your professional role, competence and any specialist authority needed.",
+      "record": "Explain the purpose of involvement and how the person can influence assessment and planning. Separate the person’s wishes and evidence from organisational assumptions about risk or resources. Use the current CORU CPD guidance to turn supervision and feedback into demonstrable learning. A service complaint and a CORU fitness-to-practise concern address different issues. Help the person find the route relevant to the outcome they want, including the responsible organisation’s complaints and review processes."
     },
     "care-support": {
       "title": "Social Care and Support — Ireland",
-      "action": "Which needs and outcomes belong to the person and to carers?",
-      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify daily-living needs and which HSE service or other body is responsible for the requested support.",
+      "record": "Use the relevant application and needs-assessment process, including discharge coordination if the person is in hospital. Separate the allocation of support from service availability, start dates and any other scheme’s financial assessment. Include family willingness, respite needs and a contingency if provision is delayed. Ask the responsible service for the assessment outcome, reasons and review or complaint route. HSE’s Home Support guidance explains applications and local contacts. Where more than one scheme is involved, track each decision and its challenge route separately."
     },
     "mca": {
       "title": "Decision-Making and Capacity — Ireland",
-      "action": "What is the precise decision and why is ability to decide questioned?",
-      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+      "action": "State the precise decision and provide accessible information and communication support.",
+      "record": "Use the DSS capacity-assessment Code and record evidence against the relevant functional abilities. Read the actual agreement, registration or court order and verify what the supporter or representative can do. Check whether an applicable advance healthcare directive or other arrangement governs the healthcare decision. Use the appropriate DSS complaint or court route for concerns about arrangements or representatives. A disagreement about treatment may require clinical and legal advice under the HSE Consent Policy. Distinguish support to decide from authority to decide for someone."
     },
     "dols": {
       "title": "Restrictions and Liberty — Ireland",
-      "action": "What restrictions actually operate and how do they affect the person?",
-      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Describe what happens if the person asks to leave and record their will and preferences.",
+      "record": "Check capacity for the relevant decision without treating incapacity as a detention authorisation. Use the current HSE Consent Policy and seek urgent legal advice where the person is held contrary to their wishes. Identify the precise court or mental-health authority relied on, its limits and a plan to reduce restrictions. Arrange independent support and access to legal advice where liberty is disputed. Court involvement and review must address the actual arrangement; a family meeting cannot confer the necessary power. Immediate action should not become indefinite confinement without review."
     },
     "mha": {
       "title": "Mental Health — Ireland",
-      "action": "What is the purpose of each proposed intervention?",
-      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Check the commencement record and current MHC operational guidance before choosing forms, criteria or time limits.",
+      "record": "Identify voluntary alternatives and the purpose of the proposed assessment, admission or treatment. Verify the authorised professionals and evidence required by the operative route. Arrange the applicable legal representation, independent review and treatment safeguards, and record which legal version was used. The person needs an accessible explanation of their status, legal support and the applicable tribunal or court process. A mental-health admission does not resolve every physical-health consent or accommodation decision. Check each intervention separately."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — Ireland",
-      "action": "How can the person be heard safely and privately?",
-      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the concern and safe contact arrangements, including coercion and dependency.",
+      "record": "Use the service’s current safeguarding procedure and responsible HSE safeguarding route. Refer criminal or urgent safety issues to the appropriate Garda or emergency response where needed. Check consent, decision support and any legal authority separately from the protection plan. Ask about the adult’s desired outcomes and offer independent advocacy where appropriate. Explain the relevant service complaint, regulatory or DSS route. Record the policy version and whether a new national framework has been implemented through the service’s operative procedure."
     },
     "children": {
       "title": "Children, Families and Transitions — Ireland",
-      "action": "What does the child say or show about safety and daily life?",
-      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Establish whether you are a mandated person and whether the concern meets the statutory reporting threshold.",
+      "record": "Report to Tusla through the correct process; follow emergency arrangements where a child is in immediate danger. Record the child’s words, the facts supporting the concern and what was reported. Coordinate family support, education and health, keeping any court or protection authority distinct. Explain the assessment or protection process and how the child and family can participate and obtain support or legal advice. A concern below the mandated threshold can still warrant a welfare report; the threshold is not a reason to ignore other needs."
     },
     "rights": {
       "title": "Rights, Culture and Recording — Ireland",
-      "action": "What makes participation accessible for this person?",
-      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the right or equality duty engaged by the actual service decision.",
+      "record": "Consider accessibility, discrimination and the person’s preferred cultural and communication support. Document the legal basis and necessary scope of a disclosure, including consent or another applicable basis. Explain access, correction and the relevant service, equality or data-protection complaint route. IHREC provides public-sector duty guidance; the Data Protection Commission addresses data-protection matters. A service complaint or legal challenge may be needed for the underlying decision. Help the person identify the remedy and obtain advice within the applicable time limits."
     },
     "sources": {
       "title": "Ireland Source Library",
@@ -537,24 +545,24 @@
       "title": "Professional Foundations — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking professional foundations in Ireland?",
-          "answer": "Start with CORU Social Workers Registration Board. Check the professional requirements for your role and the applicable law."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "CORU’s Social Workers Registration Board Code of Professional Conduct and Ethics is the professional anchor. Use the social-worker Code, rather than assuming that material for another CORU profession sets identical obligations. Registration, competence, confidentiality, professional boundaries and continuing learning need to be considered alongside the statutory function being performed."
         },
         {
-          "prompt": "How does a formulation differ from a chronology?",
-          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility."
         },
         {
-          "prompt": "How can supervision test bias?",
-          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+          "prompt": "What are the key local actions?",
+          "answer": "Confirm your professional role, competence and any specialist authority needed. Explain the purpose of involvement and how the person can influence assessment and planning. Separate the person’s wishes and evidence from organisational assumptions about risk or resources. Use the current CORU CPD guidance to turn supervision and feedback into demonstrable learning."
         },
         {
-          "prompt": "What makes a professional record useful?",
-          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "A service complaint and a CORU fitness-to-practise concern address different issues. Help the person find the route relevant to the outcome they want, including the responsible organisation’s complaints and review processes."
         },
         {
-          "prompt": "What makes reflective learning actionable?",
-          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using another profession’s Code or assuming that an employer policy creates a statutory power."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Social Care and Support — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking social care and support in Ireland?",
-          "answer": "Open HSE safeguarding and social-care information from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "Map the actual HSE, disability, housing, income-support or nursing-home scheme. HSE Home Support for older people provides assistance with everyday tasks following assessment; it is generally directed to people aged 65 or over, with some younger people also eligible. The published service is free, but an assessment and funding decision must still be followed through to delivery."
         },
         {
-          "prompt": "Can family support be assumed?",
-          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Home Support, disability services and the Nursing Homes Support Scheme are distinct routes. Do not describe one approval as covering all care settings or assume that the rules for nursing-home financial support apply to home support."
         },
         {
-          "prompt": "Why distinguish assessment from funding?",
-          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify daily-living needs and which HSE service or other body is responsible for the requested support. Use the relevant application and needs-assessment process, including discharge coordination if the person is in hospital. Separate the allocation of support from service availability, start dates and any other scheme’s financial assessment. Include family willingness, respite needs and a contingency if provision is delayed."
         },
         {
-          "prompt": "What belongs in a support plan?",
-          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Ask the responsible service for the assessment outcome, reasons and review or complaint route. HSE’s Home Support guidance explains applications and local contacts. Where more than one scheme is involved, track each decision and its challenge route separately."
         },
         {
-          "prompt": "What if support is unavailable?",
-          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating allocation of funding as evidence that a service has started, or conflating home-support and nursing-home schemes."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "Decision-Making and Capacity — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking decision-making and capacity in Ireland?",
-          "answer": "Open Assisted Decision-Making Act from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "The Assisted Decision-Making (Capacity) Act 2015, as amended, uses a functional, decision- and time-specific approach. Presume capacity, provide support and consider understanding, retention, use or weighing of relevant information, and communication. The person’s will and preferences are central to the statutory approach."
         },
         {
-          "prompt": "Does a risky refusal alone establish inability to decide?",
-          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Decision-making assistants, co-decision-makers and court-appointed decision-making representatives have different functions. Enduring powers of attorney and advance healthcare directives require their own checks. The Decision Support Service (DSS) registers or supervises relevant arrangements and provides Codes; it does not itself become the person’s decision-maker."
         },
         {
-          "prompt": "What support can improve participation?",
-          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+          "prompt": "What are the key local actions?",
+          "answer": "State the precise decision and provide accessible information and communication support. Use the DSS capacity-assessment Code and record evidence against the relevant functional abilities. Read the actual agreement, registration or court order and verify what the supporter or representative can do. Check whether an applicable advance healthcare directive or other arrangement governs the healthcare decision."
         },
         {
-          "prompt": "Does a family relationship establish decision-making authority?",
-          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Use the appropriate DSS complaint or court route for concerns about arrangements or representatives. A disagreement about treatment may require clinical and legal advice under the HSE Consent Policy. Distinguish support to decide from authority to decide for someone."
         },
         {
-          "prompt": "Why identify the exact decision?",
-          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating every DSS arrangement as substitute decision-making or replacing will and preferences with professional convenience."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Restrictions and Liberty — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking restrictions and liberty in Ireland?",
-          "answer": "Open Decision Support Service from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "Constitutional liberty and the applicable consent and mental-health law must be considered where a person is prevented from leaving a care setting. Incapacity, good intentions and relatives’ agreement do not supply general authority to detain."
         },
         {
-          "prompt": "What should a restriction record describe?",
-          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The HSE National Consent Policy addresses deprivation of liberty and the need for legal advice and appropriate court involvement. Distinguish an ordinary care arrangement from detention, and distinguish a decision-support arrangement from authority for confinement. Do not start a new wardship process as though it remained the ordinary route after the decision-support reforms."
         },
         {
-          "prompt": "Does quiet behaviour demonstrate consent?",
-          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+          "prompt": "What are the key local actions?",
+          "answer": "Describe what happens if the person asks to leave and record their will and preferences. Check capacity for the relevant decision without treating incapacity as a detention authorisation. Use the current HSE Consent Policy and seek urgent legal advice where the person is held contrary to their wishes. Identify the precise court or mental-health authority relied on, its limits and a plan to reduce restrictions."
         },
         {
-          "prompt": "Can provider policy alone establish legal authority?",
-          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Arrange independent support and access to legal advice where liberty is disputed. Court involvement and review must address the actual arrangement; a family meeting cannot confer the necessary power. Immediate action should not become indefinite confinement without review."
         },
         {
-          "prompt": "What should review consider?",
-          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using consent to admission, a diagnosis or a relative’s signature as blanket authority to prevent departure."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Mental Health — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking mental health in Ireland?",
-          "answer": "Open Mental Health Commission from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "The Mental Health Act 2026 was signed into law on 7 May 2026. Section 1 provides for commencement by ministerial order, potentially on different dates for different provisions. Enactment must not be treated as evidence that all new admission, treatment or review rules have replaced the 2001 framework."
         },
         {
-          "prompt": "Why distinguish admission from treatment?",
-          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "For a real case, identify the operative provisions and current Mental Health Commission (MHC) guidance. The existing 2001 framework has separate application, medical recommendation and consultant-psychiatrist admission stages, with independent tribunal safeguards. Explain the route actually in force for the person rather than mixing stages from old and new legislation."
         },
         {
-          "prompt": "What should happen alongside crisis assessment?",
-          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+          "prompt": "What are the key local actions?",
+          "answer": "Check the commencement record and current MHC operational guidance before choosing forms, criteria or time limits. Identify voluntary alternatives and the purpose of the proposed assessment, admission or treatment. Verify the authorised professionals and evidence required by the operative route. Arrange the applicable legal representation, independent review and treatment safeguards, and record which legal version was used."
         },
         {
-          "prompt": "Can a social worker use every mental-health power?",
-          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The person needs an accessible explanation of their status, legal support and the applicable tribunal or court process. A mental-health admission does not resolve every physical-health consent or accommodation decision. Check each intervention separately."
         },
         {
-          "prompt": "What does a rights explanation cover?",
-          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming that Royal Assent or publication means that every replacement procedure is already operational."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Adult Safeguarding — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking adult safeguarding in Ireland?",
-          "answer": "Open HSE safeguarding policy from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "The Department of Health published the National Policy Framework for Adult Safeguarding in the Health and Social Care Sector in December 2025, with the publication page updated in February 2026. Read it alongside the operative HSE safeguarding procedures and the arrangements in the actual service. An older policy link alone does not describe the whole current policy picture."
         },
         {
-          "prompt": "Why offer a private conversation?",
-          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Separate a safeguarding concern, a criminal matter, a provider-quality issue and a decision-support problem. HSE safeguarding services, An Garda Síochána, HIQA and the DSS have different remits. A safeguarding referral does not automatically create authority to override the adult’s decision."
         },
         {
-          "prompt": "Is proof needed before checking reporting duties?",
-          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the concern and safe contact arrangements, including coercion and dependency. Use the service’s current safeguarding procedure and responsible HSE safeguarding route. Refer criminal or urgent safety issues to the appropriate Garda or emergency response where needed. Check consent, decision support and any legal authority separately from the protection plan."
         },
         {
-          "prompt": "What should a report contain?",
-          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Ask about the adult’s desired outcomes and offer independent advocacy where appropriate. Explain the relevant service complaint, regulatory or DSS route. Record the policy version and whether a new national framework has been implemented through the service’s operative procedure."
         },
         {
-          "prompt": "Does a referral complete the response?",
-          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating a national policy as a universal coercive power or overlooking service continuity after a report."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Children, Families and Transitions — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking children, families and transitions in Ireland?",
-          "answer": "Open Children First guidance and legislation from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "The Children First Act 2015 creates reporting obligations for mandated persons; the Child Care Act 1991 supplies important child-welfare and protection functions. Tusla’s Children First guidance distinguishes the statutory harm threshold from other reasonable welfare concerns that should still be reported through the appropriate route."
         },
         {
-          "prompt": "How should the child’s account be recorded?",
-          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "For mandated reporting, harm includes assault, ill-treatment or neglect seriously affecting or likely seriously to affect health, development or welfare, and sexual abuse. Apply the guidance for the category and circumstances, including its specific provisions on disclosures. Do not require proof before considering reasonable grounds."
         },
         {
-          "prompt": "Can one child-protection model settle a legal threshold?",
-          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+          "prompt": "What are the key local actions?",
+          "answer": "Establish whether you are a mandated person and whether the concern meets the statutory reporting threshold. Report to Tusla through the correct process; follow emergency arrangements where a child is in immediate danger. Record the child’s words, the facts supporting the concern and what was reported. Coordinate family support, education and health, keeping any court or protection authority distinct."
         },
         {
-          "prompt": "What makes transition planning useful?",
-          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the assessment or protection process and how the child and family can participate and obtain support or legal advice. A concern below the mandated threshold can still warrant a welfare report; the threshold is not a reason to ignore other needs."
         },
         {
-          "prompt": "Why consider community and cultural relationships?",
-          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+          "prompt": "What common error should you avoid?",
+          "answer": "Equating the mandated-report threshold with the only circumstances in which Tusla should receive a concern."
         }
       ]
     },
@@ -719,24 +727,24 @@
       "title": "Rights, Culture and Recording — Ireland",
       "cards": [
         {
-          "prompt": "Where should you begin checking rights, culture and recording in Ireland?",
-          "answer": "Open CORU codes from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Ireland practice guide?",
+          "answer": "The Equal Status Acts, constitutional rights, the European Convention on Human Rights Act 2003 and the Irish Human Rights and Equality Commission Act 2014 form part of the rights map. The public-sector equality and human-rights duty requires public bodies to integrate equality and rights into their functions."
         },
         {
-          "prompt": "What is data minimisation?",
-          "answer": "Sharing only the information needed for the identified, lawful purpose."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "GDPR and the Data Protection Act 2018 govern personal-data processing alongside professional confidentiality and sector-specific duties. Identify the controller, purpose, lawful basis and any additional condition for sensitive data. A request from another agency does not itself establish permission to send a full record."
         },
         {
-          "prompt": "What is a culturally responsive first step?",
-          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the right or equality duty engaged by the actual service decision. Consider accessibility, discrimination and the person’s preferred cultural and communication support. Document the legal basis and necessary scope of a disclosure, including consent or another applicable basis. Explain access, correction and the relevant service, equality or data-protection complaint route."
         },
         {
-          "prompt": "Why record disagreement?",
-          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "IHREC provides public-sector duty guidance; the Data Protection Commission addresses data-protection matters. A service complaint or legal challenge may be needed for the underlying decision. Help the person identify the remedy and obtain advice within the applicable time limits."
         },
         {
-          "prompt": "How do you compare alternatives?",
-          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating public-sector status as unrestricted permission to share records."
         }
       ]
     }
@@ -744,42 +752,42 @@
   "glossaryTerms": [
     {
       "term": "Professional Foundations",
-      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "definition": "CORU’s Social Workers Registration Board Code of Professional Conduct and Ethics is the professional anchor. Use the social-worker Code, rather than assuming that material for another CORU profession sets identical obligations. Registration, competence, confidentiality, professional boundaries and continuing learning need to be considered alongside the statutory function being performed.",
       "link": "foundations"
     },
     {
       "term": "Social Care and Support",
-      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "definition": "Map the actual HSE, disability, housing, income-support or nursing-home scheme. HSE Home Support for older people provides assistance with everyday tasks following assessment; it is generally directed to people aged 65 or over, with some younger people also eligible. The published service is free, but an assessment and funding decision must still be followed through to delivery.",
       "link": "care-support"
     },
     {
       "term": "Decision-Making and Capacity",
-      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "definition": "The Assisted Decision-Making (Capacity) Act 2015, as amended, uses a functional, decision- and time-specific approach. Presume capacity, provide support and consider understanding, retention, use or weighing of relevant information, and communication. The person’s will and preferences are central to the statutory approach.",
       "link": "mca"
     },
     {
       "term": "Restrictions and Liberty",
-      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "definition": "Constitutional liberty and the applicable consent and mental-health law must be considered where a person is prevented from leaving a care setting. Incapacity, good intentions and relatives’ agreement do not supply general authority to detain.",
       "link": "dols"
     },
     {
       "term": "Mental Health",
-      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "definition": "The Mental Health Act 2026 was signed into law on 7 May 2026. Section 1 provides for commencement by ministerial order, potentially on different dates for different provisions. Enactment must not be treated as evidence that all new admission, treatment or review rules have replaced the 2001 framework.",
       "link": "mha"
     },
     {
       "term": "Adult Safeguarding",
-      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "definition": "The Department of Health published the National Policy Framework for Adult Safeguarding in the Health and Social Care Sector in December 2025, with the publication page updated in February 2026. Read it alongside the operative HSE safeguarding procedures and the arrangements in the actual service. An older policy link alone does not describe the whole current policy picture.",
       "link": "safeguarding"
     },
     {
       "term": "Children, Families and Transitions",
-      "definition": "Child participation, family support, child protection and transitions.",
+      "definition": "The Children First Act 2015 creates reporting obligations for mandated persons; the Child Care Act 1991 supplies important child-welfare and protection functions. Tusla’s Children First guidance distinguishes the statutory harm threshold from other reasonable welfare concerns that should still be reported through the appropriate route.",
       "link": "children"
     },
     {
       "term": "Rights, Culture and Recording",
-      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "definition": "The Equal Status Acts, constitutional rights, the European Convention on Human Rights Act 2003 and the Irish Human Rights and Equality Commission Act 2014 form part of the rights map. The public-sector equality and human-rights duty requires public bodies to integrate equality and rights into their functions.",
       "link": "rights"
     },
     {
@@ -1470,123 +1478,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and family support",
-      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "title": "Professional Foundations — Ireland",
+      "summary": "A worker is asked to describe a client as refusing support, although the only offer conflicts with the client’s religious practice and transport needs.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Record the actual offer and the reasons it was unsuitable. Explore an accessible alternative and bring any unresolved resource issue to supervision. A professional formulation should make the barrier visible rather than treating the organisation’s first offer as the only reasonable option."
+    },
+    {
+      "title": "Social Care and Support — Ireland",
+      "summary": "An older person is ready to leave hospital, but the family is told that approved home-support funding means daily visits are already in place.",
       "routes": [
         "care-support",
         "rights",
         "sources"
       ],
       "prompts": [
-        "Which needs and outcomes belong to the person and to carers?",
-        "Which service actually assesses and funds this support?",
-        "What happens if the proposed support is unavailable?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Confirm the provider, tasks, hours and first visit. Assess whether an interim plan is safe and agreed if staffing is unavailable. Keep the person’s preference for home, the family’s actual availability and any unmet need in the discharge record."
     },
     {
-      "title": "A decision and a refusal",
-      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "title": "Decision-Making and Capacity — Ireland",
+      "summary": "A person has a decision-making assistance agreement and wants to refuse a proposed move. Staff ask the assistant to approve it instead.",
       "routes": [
         "mca",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the precise decision and why is ability to decide questioned?",
-        "What communication support would help?",
-        "Who has authority for this decision under the applicable law?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Support the person to consider the actual options and record their wishes. Read the agreement: assistance is not replacement decision-making. If a separate assessment or court issue arises, identify it explicitly rather than expanding the assistant’s role."
     },
     {
-      "title": "Restrictions and objections",
-      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "title": "Restrictions and Liberty — Ireland",
+      "summary": "A residential service says an adult cannot leave because the family signed the admission form. The adult repeatedly asks to go home.",
       "routes": [
         "dols",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What restrictions actually operate and how do they affect the person?",
-        "What authority is being relied upon?",
-        "How can the person challenge the arrangements?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Hear the adult with suitable support, establish the actual restrictions and examine the legal basis. Family agreement is not enough. Explore a workable alternative and obtain timely legal advice under the current consent policy about the necessary court or other lawful route."
     },
     {
-      "title": "Mental-health crisis",
-      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "title": "Mental Health — Ireland",
+      "summary": "A team circulates a summary of the newly enacted Act and proposes to use its future procedures for an admission immediately.",
       "routes": [
         "mha",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the purpose of each proposed intervention?",
-        "Who can assess or exercise the relevant power?",
-        "What voluntary or less restrictive support is available?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Check whether the relevant provisions and forms have commenced. Use the operative law and current MHC instructions for the admission. Record the version check and keep preparation for reform separate from the person’s present legal safeguards."
     },
     {
-      "title": "Financial control",
-      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "title": "Adult Safeguarding — Ireland",
+      "summary": "An adult says a paid supporter controls their bank card but asks that the supporter not be dismissed because no replacement is available.",
       "routes": [
         "safeguarding",
         "rights",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Explore coercion and immediate access to money, food and support. Make the appropriate safeguarding response while planning continuity of assistance. Consider whether a criminal, provider or decision-support concern also needs action; do not reduce the plan to removing one worker."
     },
     {
-      "title": "Moving into adult services",
-      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "title": "Children, Families and Transitions — Ireland",
+      "summary": "A child describes repeated lack of food and supervision. A worker is told to wait until the next team meeting to establish proof.",
       "routes": [
         "children",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What does the child say or show about safety and daily life?",
-        "Which reporting duty and receiving agency apply?",
-        "How will education, health and family support coordinate?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Assess immediate safety and the evidence of harm, use the relevant Tusla reporting threshold and act without waiting to prove the allegation. Record the child’s account accurately and arrange practical support alongside the protection response."
     },
     {
-      "title": "Organisational concerns",
-      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "title": "Rights, Culture and Recording — Ireland",
+      "summary": "An agency requests a complete family file to decide whether to offer a transport service.",
       "routes": [
-        "safeguarding",
         "rights",
+        "foundations",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the Ireland module and source library to identify the applicable framework."
-    },
-    {
-      "title": "Communication and agreement",
-      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
-      "routes": [
-        "rights",
-        "sources"
-      ],
-      "prompts": [
-        "What makes participation accessible for this person?",
-        "What legal basis permits disclosure of this information?",
-        "How will disagreement and reasons be recorded?"
-      ],
-      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the Ireland module and source library to identify the applicable framework."
+      "reveal": "Clarify the purpose and the minimum information actually required, the lawful basis and any sensitive-data condition. Discuss participation and confidentiality with the person where appropriate. Record what is shared and why, rather than sending the file simply because the requester is another public body."
     }
   ],
   "printableTemplates": [
@@ -1594,57 +1603,57 @@
       "id": "foundations",
       "title": "Professional Foundations",
       "fileName": "ireland-foundations-prompt.txt",
-      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
-      "body": "Professional Foundations\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCORU Social Workers Registration Board: https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
+      "body": "Professional Foundations\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nCORU’s Social Workers Registration Board Code of Professional Conduct and Ethics is the professional anchor. Use the social-worker Code, rather than assuming that material for another CORU profession sets identical obligations. Registration, competence, confidentiality, professional boundaries and continuing learning need to be considered alongside the statutory function being performed.\n\nHSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.\n\nLocal pathway:\nConfirm your professional role, competence and any specialist authority needed.\nExplain the purpose of involvement and how the person can influence assessment and planning.\nSeparate the person’s wishes and evidence from organisational assumptions about risk or resources.\nUse the current CORU CPD guidance to turn supervision and feedback into demonstrable learning.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nA service complaint and a CORU fitness-to-practise concern address different issues. Help the person find the route relevant to the outcome they want, including the responsible organisation’s complaints and review processes.\n\nSources:\nhttps://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/\nhttps://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/\n"
     },
     {
       "id": "care-support",
       "title": "Social Care and Support",
       "fileName": "ireland-care-support-prompt.txt",
-      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
-      "body": "Social Care and Support\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nHSE safeguarding and social-care information: https://www2.healthservice.hse.ie/organisation/national-pppgs/safeguarding-vulnerable-persons-at-risk-of-abuse-2014-national-policy-procedures/\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
+      "body": "Social Care and Support\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nMap the actual HSE, disability, housing, income-support or nursing-home scheme. HSE Home Support for older people provides assistance with everyday tasks following assessment; it is generally directed to people aged 65 or over, with some younger people also eligible. The published service is free, but an assessment and funding decision must still be followed through to delivery.\n\nHome Support, disability services and the Nursing Homes Support Scheme are distinct routes. Do not describe one approval as covering all care settings or assume that the rules for nursing-home financial support apply to home support.\n\nLocal pathway:\nIdentify daily-living needs and which HSE service or other body is responsible for the requested support.\nUse the relevant application and needs-assessment process, including discharge coordination if the person is in hospital.\nSeparate the allocation of support from service availability, start dates and any other scheme’s financial assessment.\nInclude family willingness, respite needs and a contingency if provision is delayed.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nAsk the responsible service for the assessment outcome, reasons and review or complaint route. HSE’s Home Support guidance explains applications and local contacts. Where more than one scheme is involved, track each decision and its challenge route separately.\n\nSources:\nhttps://www2.hse.ie/services/home-support-service/home-support-service-for-older-people/\nhttps://www2.hse.ie/services/home-support-service/how-to-apply/\n"
     },
     {
       "id": "mca",
       "title": "Decision-Making and Capacity",
       "fileName": "ireland-mca-prompt.txt",
-      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
-      "body": "Decision-Making and Capacity\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nAssisted Decision-Making Act: https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/assisted-decision-making-capacity-act-2015/\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
+      "body": "Decision-Making and Capacity\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Assisted Decision-Making (Capacity) Act 2015, as amended, uses a functional, decision- and time-specific approach. Presume capacity, provide support and consider understanding, retention, use or weighing of relevant information, and communication. The person’s will and preferences are central to the statutory approach.\n\nDecision-making assistants, co-decision-makers and court-appointed decision-making representatives have different functions. Enduring powers of attorney and advance healthcare directives require their own checks. The Decision Support Service (DSS) registers or supervises relevant arrangements and provides Codes; it does not itself become the person’s decision-maker.\n\nLocal pathway:\nState the precise decision and provide accessible information and communication support.\nUse the DSS capacity-assessment Code and record evidence against the relevant functional abilities.\nRead the actual agreement, registration or court order and verify what the supporter or representative can do.\nCheck whether an applicable advance healthcare directive or other arrangement governs the healthcare decision.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nUse the appropriate DSS complaint or court route for concerns about arrangements or representatives. A disagreement about treatment may require clinical and legal advice under the HSE Consent Policy. Distinguish support to decide from authority to decide for someone.\n\nSources:\nhttps://www.decisionsupportservice.ie/resources/codes-practice/code-practice-supporting-decision-making-and-assessing-capacity\nhttps://www.irishstatutebook.ie/eli/2015/act/64/enacted/en/html\nhttps://www.decisionsupportservice.ie/resources/guidance-materials\n"
     },
     {
       "id": "dols",
       "title": "Restrictions and Liberty",
       "fileName": "ireland-dols-prompt.txt",
-      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
-      "body": "Restrictions and Liberty\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nDecision Support Service: https://decisionsupportservice.ie/\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
+      "body": "Restrictions and Liberty\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nConstitutional liberty and the applicable consent and mental-health law must be considered where a person is prevented from leaving a care setting. Incapacity, good intentions and relatives’ agreement do not supply general authority to detain.\n\nThe HSE National Consent Policy addresses deprivation of liberty and the need for legal advice and appropriate court involvement. Distinguish an ordinary care arrangement from detention, and distinguish a decision-support arrangement from authority for confinement. Do not start a new wardship process as though it remained the ordinary route after the decision-support reforms.\n\nLocal pathway:\nDescribe what happens if the person asks to leave and record their will and preferences.\nCheck capacity for the relevant decision without treating incapacity as a detention authorisation.\nUse the current HSE Consent Policy and seek urgent legal advice where the person is held contrary to their wishes.\nIdentify the precise court or mental-health authority relied on, its limits and a plan to reduce restrictions.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nArrange independent support and access to legal advice where liberty is disputed. Court involvement and review must address the actual arrangement; a family meeting cannot confer the necessary power. Immediate action should not become indefinite confinement without review.\n\nSources:\nhttps://www2.healthservice.hse.ie/organisation/national-pppgs/hse-national-consent-policy/\n"
     },
     {
       "id": "mha",
       "title": "Mental Health",
       "fileName": "ireland-mha-prompt.txt",
-      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
-      "body": "Mental Health\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nMental Health Commission: https://www.mhcirl.ie/\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
+      "body": "Mental Health\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Health Act 2026 was signed into law on 7 May 2026. Section 1 provides for commencement by ministerial order, potentially on different dates for different provisions. Enactment must not be treated as evidence that all new admission, treatment or review rules have replaced the 2001 framework.\n\nFor a real case, identify the operative provisions and current Mental Health Commission (MHC) guidance. The existing 2001 framework has separate application, medical recommendation and consultant-psychiatrist admission stages, with independent tribunal safeguards. Explain the route actually in force for the person rather than mixing stages from old and new legislation.\n\nLocal pathway:\nCheck the commencement record and current MHC operational guidance before choosing forms, criteria or time limits.\nIdentify voluntary alternatives and the purpose of the proposed assessment, admission or treatment.\nVerify the authorised professionals and evidence required by the operative route.\nArrange the applicable legal representation, independent review and treatment safeguards, and record which legal version was used.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe person needs an accessible explanation of their status, legal support and the applicable tribunal or court process. A mental-health admission does not resolve every physical-health consent or accommodation decision. Check each intervention separately.\n\nSources:\nhttps://www.irishstatutebook.ie/eli/2026/act/11/section/1/enacted/en/html\nhttps://www.gov.ie/en/department-of-health/press-releases/mental-health-act-2026-signed-into-law-by-president-connolly/\nhttps://www.irishstatutebook.ie/eli/2001/act/25/enacted/en/html\nhttps://www.mhcirl.ie/\n"
     },
     {
       "id": "safeguarding",
       "title": "Adult Safeguarding",
       "fileName": "ireland-safeguarding-prompt.txt",
-      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
-      "body": "Adult Safeguarding\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nHSE safeguarding policy: https://www2.healthservice.hse.ie/organisation/national-pppgs/safeguarding-vulnerable-persons-at-risk-of-abuse-2014-national-policy-procedures/\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
+      "body": "Adult Safeguarding\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Department of Health published the National Policy Framework for Adult Safeguarding in the Health and Social Care Sector in December 2025, with the publication page updated in February 2026. Read it alongside the operative HSE safeguarding procedures and the arrangements in the actual service. An older policy link alone does not describe the whole current policy picture.\n\nSeparate a safeguarding concern, a criminal matter, a provider-quality issue and a decision-support problem. HSE safeguarding services, An Garda Síochána, HIQA and the DSS have different remits. A safeguarding referral does not automatically create authority to override the adult’s decision.\n\nLocal pathway:\nIdentify the concern and safe contact arrangements, including coercion and dependency.\nUse the service’s current safeguarding procedure and responsible HSE safeguarding route.\nRefer criminal or urgent safety issues to the appropriate Garda or emergency response where needed.\nCheck consent, decision support and any legal authority separately from the protection plan.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nAsk about the adult’s desired outcomes and offer independent advocacy where appropriate. Explain the relevant service complaint, regulatory or DSS route. Record the policy version and whether a new national framework has been implemented through the service’s operative procedure.\n\nSources:\nhttps://www.gov.ie/en/department-of-health/publications/national-policy-framework-for-adult-safeguarding-in-the-health-and-social-care-sector/\nhttps://www.gov.ie/en/department-of-health/publications/adult-safeguarding/\n"
     },
     {
       "id": "children",
       "title": "Children, Families and Transitions",
       "fileName": "ireland-children-prompt.txt",
-      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
-      "body": "Children, Families and Transitions\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nChildren First guidance and legislation: https://www.tusla.ie/children-first/children-first-guidance-and-legislation/\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
+      "body": "Children, Families and Transitions\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children First Act 2015 creates reporting obligations for mandated persons; the Child Care Act 1991 supplies important child-welfare and protection functions. Tusla’s Children First guidance distinguishes the statutory harm threshold from other reasonable welfare concerns that should still be reported through the appropriate route.\n\nFor mandated reporting, harm includes assault, ill-treatment or neglect seriously affecting or likely seriously to affect health, development or welfare, and sexual abuse. Apply the guidance for the category and circumstances, including its specific provisions on disclosures. Do not require proof before considering reasonable grounds.\n\nLocal pathway:\nEstablish whether you are a mandated person and whether the concern meets the statutory reporting threshold.\nReport to Tusla through the correct process; follow emergency arrangements where a child is in immediate danger.\nRecord the child’s words, the facts supporting the concern and what was reported.\nCoordinate family support, education and health, keeping any court or protection authority distinct.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain the assessment or protection process and how the child and family can participate and obtain support or legal advice. A concern below the mandated threshold can still warrant a welfare report; the threshold is not a reason to ignore other needs.\n\nSources:\nhttps://www.tusla.ie/children-first/mandated-persons/what-are-the-thresholds-for-making-a-mandated-report/\nhttps://www.tusla.ie/children-first/children-first-guidance-and-legislation/\nhttps://www.irishstatutebook.ie/eli/2015/act/36/enacted/en/html\n"
     },
     {
       "id": "rights",
       "title": "Rights, Culture and Recording",
       "fileName": "ireland-rights-prompt.txt",
-      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
-      "body": "Rights, Culture and Recording\nIreland practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nCORU codes: https://coru.ie/health-and-social-care-professionals/codes-of-professional-conduct/\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
+      "body": "Rights, Culture and Recording\nIreland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Equal Status Acts, constitutional rights, the European Convention on Human Rights Act 2003 and the Irish Human Rights and Equality Commission Act 2014 form part of the rights map. The public-sector equality and human-rights duty requires public bodies to integrate equality and rights into their functions.\n\nGDPR and the Data Protection Act 2018 govern personal-data processing alongside professional confidentiality and sector-specific duties. Identify the controller, purpose, lawful basis and any additional condition for sensitive data. A request from another agency does not itself establish permission to send a full record.\n\nLocal pathway:\nIdentify the right or equality duty engaged by the actual service decision.\nConsider accessibility, discrimination and the person’s preferred cultural and communication support.\nDocument the legal basis and necessary scope of a disclosure, including consent or another applicable basis.\nExplain access, correction and the relevant service, equality or data-protection complaint route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nIHREC provides public-sector duty guidance; the Data Protection Commission addresses data-protection matters. A service complaint or legal challenge may be needed for the underlying decision. Help the person identify the remedy and obtain advice within the applicable time limits.\n\nSources:\nhttps://www.irishstatutebook.ie/eli/2014/act/25/section/42/enacted/en/html\nhttps://www.irishstatutebook.ie/eli/2018/act/7/enacted/en/html\nhttps://www.coru.ie/files-codes-of-conduct/swrb-code-of-professional-conduct-and-ethics-for-social-workers.pdf\n"
     },
     {
       "id": "supervision",
@@ -1665,42 +1674,42 @@
     {
       "title": "Professional Foundations",
       "resource": "foundations",
-      "task": "Using a fictional Ireland case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+      "task": "Confirm your professional role, competence and any specialist authority needed. Work through the fictional case and explain: Using another profession’s Code or assuming that an employer policy creates a statutory power."
     },
     {
       "title": "Social Care and Support",
       "resource": "care-support",
-      "task": "Using a fictional Ireland case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+      "task": "Identify daily-living needs and which HSE service or other body is responsible for the requested support. Work through the fictional case and explain: Treating allocation of funding as evidence that a service has started, or conflating home-support and nursing-home schemes."
     },
     {
       "title": "Decision-Making and Capacity",
       "resource": "mca",
-      "task": "Using a fictional Ireland case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+      "task": "State the precise decision and provide accessible information and communication support. Work through the fictional case and explain: Treating every DSS arrangement as substitute decision-making or replacing will and preferences with professional convenience."
     },
     {
       "title": "Restrictions and Liberty",
       "resource": "dols",
-      "task": "Using a fictional Ireland case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+      "task": "Describe what happens if the person asks to leave and record their will and preferences. Work through the fictional case and explain: Using consent to admission, a diagnosis or a relative’s signature as blanket authority to prevent departure."
     },
     {
       "title": "Mental Health",
       "resource": "mha",
-      "task": "Using a fictional Ireland case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+      "task": "Check the commencement record and current MHC operational guidance before choosing forms, criteria or time limits. Work through the fictional case and explain: Assuming that Royal Assent or publication means that every replacement procedure is already operational."
     },
     {
       "title": "Adult Safeguarding",
       "resource": "safeguarding",
-      "task": "Using a fictional Ireland case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+      "task": "Identify the concern and safe contact arrangements, including coercion and dependency. Work through the fictional case and explain: Treating a national policy as a universal coercive power or overlooking service continuity after a report."
     },
     {
       "title": "Children, Families and Transitions",
       "resource": "children",
-      "task": "Using a fictional Ireland case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+      "task": "Establish whether you are a mandated person and whether the concern meets the statutory reporting threshold. Work through the fictional case and explain: Equating the mandated-report threshold with the only circumstances in which Tusla should receive a concern."
     },
     {
       "title": "Rights, Culture and Recording",
       "resource": "rights",
-      "task": "Using a fictional Ireland case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+      "task": "Identify the right or equality duty engaged by the actual service decision. Work through the fictional case and explain: Treating public-sector status as unrestricted permission to share records."
     }
   ],
   "toolCount": 9,

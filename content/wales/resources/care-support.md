@@ -41,3 +41,40 @@ Fictional example: Elin wants to remain at home after two falls. Her daughter vi
 - Named actions, interim arrangements, review triggers and contact route.
 
 Use the downloadable care/support and carer prompts for a fictional exercise, then discuss your reasoning in supervision.
+
+<!-- curriculum-expansion -->
+
+## Further local practice detail
+
+The Social Services and Well-being (Wales) Act 2014 separates adult, child and carer assessments in sections 19, 21 and 24. Part 4 and the eligibility regulations govern the next stage; the Part 5 charging decision is separate. Use the current Welsh assessment, meeting-needs, charging and advocacy Codes.
+
+Eligibility requires the applicable needs-and-outcomes analysis and consideration of whether the person can meet those needs alone, with willing others or through accessible community services, or requires the authority’s involvement. A service that exists on a directory but cannot be accessed is not an established solution.
+
+### Decision pathway
+
+- Identify the correct assessment duty and explain the person’s outcomes and evidence of need.
+- Apply the relevant Welsh eligibility regulations rather than a test imported from another system.
+- Check participation barriers and the independent professional advocacy requirements.
+- Record the support plan, separate charging decision, unmet needs and review or complaint route.
+
+### Challenge and review in this pathway
+
+Ask for written reasons and the relevant local-authority review or complaints process. Consider independent advocacy where required to make participation effective. A disagreement over charges should not erase the needs assessment or interim support plan.
+
+### Additional worked case
+
+Fictional case: An authority says community support meets a need, but the only advertised group has no accessible transport or available places.
+
+Check actual availability and accessibility in the eligibility reasoning. Revisit whether authority involvement is required, record the unmet need and agree interim action. A directory listing alone does not demonstrate that the outcome can be achieved.
+
+Common error to avoid: Using a theoretically available service or an unwilling relative to conclude that a need is already met.
+
+### Sources for the expanded lesson
+
+- [Social Services and Well-being (Wales) Act 2014](https://www.legislation.gov.uk/anaw/2014/4/contents)
+- [Care and Support (Eligibility) (Wales) Regulations 2015](https://www.legislation.gov.uk/wsi/2015/1578/contents)
+- [Assessment Code](https://www.gov.wales/assessing-care-and-support-needs-individuals-code-practice)
+- [Advocacy Code](https://www.gov.wales/advocacy-services-code-practice)
+- [Welsh codes collection](https://www.gov.wales/social-services-codes-practice)
+
+Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.

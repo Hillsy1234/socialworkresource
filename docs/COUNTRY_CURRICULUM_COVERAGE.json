@@ -1,0 +1,1568 @@
+{
+  "editorialDate": "2026-09-08",
+  "scope": "Eight core teaching topics and linked learning tools. Structural coverage is not certification of all applicable law or independent practitioner review.",
+  "topics": [
+    {
+      "jurisdiction": "scotland",
+      "topic": "foundations",
+      "path": "content/scotland/resources/foundations.md",
+      "words": 719,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.sssc.uk.com/standards/codes-of-practice/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "care-support",
+      "path": "content/scotland/resources/care-support.md",
+      "words": 775,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.scot/publications/statutory-guidance-accompany-social-care-self-directed-support-scotland-act-2013-updated-2025/",
+        "https://www.legislation.gov.uk/asp/2013/1/contents",
+        "https://www.legislation.gov.uk/asp/2016/9/contents"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "mca",
+      "path": "content/scotland/resources/mca.md",
+      "words": 816,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.scot/publications/adults-with-incapacity-act-principles/",
+        "https://www.legislation.gov.uk/asp/2000/4/contents",
+        "https://www.mwcscot.org.uk/looking-help/your-rights"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "dols",
+      "path": "content/scotland/resources/dols.md",
+      "words": 755,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/asp/2000/4/contents",
+        "https://www.mwcscot.org.uk/looking-help/your-rights"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "mha",
+      "path": "content/scotland/resources/mha.md",
+      "words": 752,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/asp/2003/13/contents",
+        "https://www.mwcscot.org.uk/looking-help/your-rights",
+        "https://www.mwcscot.org.uk/node/510"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "safeguarding",
+      "path": "content/scotland/resources/safeguarding.md",
+      "words": 759,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/asp/2007/10/contents",
+        "https://www.gov.scot/publications/adult-support-protection-scotland-act-2007-guidance-general-practice/pages/2/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "children",
+      "path": "content/scotland/resources/children.md",
+      "words": 753,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.scot/policies/girfec/",
+        "https://www.legislation.gov.uk/ukpga/1995/36/contents",
+        "https://www.legislation.gov.uk/asp/2011/1/contents"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "scotland",
+      "topic": "rights",
+      "path": "content/scotland/resources/rights.md",
+      "words": 744,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.scot/policies/human-rights/childrens-rights/",
+        "https://www.legislation.gov.uk/ukpga/2010/15/contents",
+        "https://www.sssc.uk.com/standards/codes-of-practice/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "foundations",
+      "path": "content/northern-ireland/resources/foundations.md",
+      "words": 700,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://niscc.info/standards-and-guidance/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "care-support",
+      "path": "content/northern-ireland/resources/care-support.md",
+      "words": 781,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nidirect.gov.uk/articles/arranging-health-and-social-care",
+        "https://www.nidirect.gov.uk/articles/direct-payments-care",
+        "https://www.legislation.gov.uk/nia/2002/6/contents"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "mca",
+      "path": "content/northern-ireland/resources/mca.md",
+      "words": 826,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.health-ni.gov.uk/topics/mental-capacity-act",
+        "https://www.health-ni.gov.uk/articles/mental-capacity-act-faqs",
+        "https://www.legislation.gov.uk/nia/2016/18/contents"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "dols",
+      "path": "content/northern-ireland/resources/dols.md",
+      "words": 746,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.health-ni.gov.uk/publications/interim-guidance-mental-capacity-act-ni-2016",
+        "https://www.health-ni.gov.uk/articles/mental-capacity-act-faqs"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "mha",
+      "path": "content/northern-ireland/resources/mha.md",
+      "words": 726,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/nisi/1986/595/contents",
+        "https://www.nidirect.gov.uk/articles/mental-health-services-and-support"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "safeguarding",
+      "path": "content/northern-ireland/resources/safeguarding.md",
+      "words": 756,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.health-ni.gov.uk/publications/adult-safeguarding-prevention-and-protection-partnership-key-documents",
+        "https://www.niassembly.gov.uk/assembly-business/legislation/2022-2027-mandate/primary-legislation-bills-22-27-mandate/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "children",
+      "path": "content/northern-ireland/resources/children.md",
+      "words": 731,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/nisi/1995/755/contents",
+        "https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "northern-ireland",
+      "topic": "rights",
+      "path": "content/northern-ireland/resources/rights.md",
+      "words": 722,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://equalityni.org/equality-laws-ni",
+        "https://equalityni.org/public-authorities/section-75",
+        "https://www.legislation.gov.uk/ukpga/1998/47/section/75"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "foundations",
+      "path": "content/ireland/resources/foundations.md",
+      "words": 718,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/",
+        "https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "care-support",
+      "path": "content/ireland/resources/care-support.md",
+      "words": 759,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www2.hse.ie/services/home-support-service/home-support-service-for-older-people/",
+        "https://www2.hse.ie/services/home-support-service/how-to-apply/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "mca",
+      "path": "content/ireland/resources/mca.md",
+      "words": 767,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.decisionsupportservice.ie/resources/codes-practice/code-practice-supporting-decision-making-and-assessing-capacity",
+        "https://www.irishstatutebook.ie/eli/2015/act/64/enacted/en/html",
+        "https://www.decisionsupportservice.ie/resources/guidance-materials"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "dols",
+      "path": "content/ireland/resources/dols.md",
+      "words": 733,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www2.healthservice.hse.ie/organisation/national-pppgs/hse-national-consent-policy/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "mha",
+      "path": "content/ireland/resources/mha.md",
+      "words": 771,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.irishstatutebook.ie/eli/2026/act/11/section/1/enacted/en/html",
+        "https://www.gov.ie/en/department-of-health/press-releases/mental-health-act-2026-signed-into-law-by-president-connolly/",
+        "https://www.irishstatutebook.ie/eli/2001/act/25/enacted/en/html",
+        "https://www.mhcirl.ie/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "safeguarding",
+      "path": "content/ireland/resources/safeguarding.md",
+      "words": 761,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.ie/en/department-of-health/publications/national-policy-framework-for-adult-safeguarding-in-the-health-and-social-care-sector/",
+        "https://www.gov.ie/en/department-of-health/publications/adult-safeguarding/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "children",
+      "path": "content/ireland/resources/children.md",
+      "words": 766,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.tusla.ie/children-first/mandated-persons/what-are-the-thresholds-for-making-a-mandated-report/",
+        "https://www.tusla.ie/children-first/children-first-guidance-and-legislation/",
+        "https://www.irishstatutebook.ie/eli/2015/act/36/enacted/en/html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "ireland",
+      "topic": "rights",
+      "path": "content/ireland/resources/rights.md",
+      "words": 764,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.irishstatutebook.ie/eli/2014/act/25/section/42/enacted/en/html",
+        "https://www.irishstatutebook.ie/eli/2018/act/7/enacted/en/html",
+        "https://www.coru.ie/files-codes-of-conduct/swrb-code-of-professional-conduct-and-ethics-for-social-workers.pdf"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "foundations",
+      "path": "content/new-zealand/resources/foundations.md",
+      "words": 740,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://swrb.govt.nz/practice/core-competence-standards/",
+        "https://swrb.govt.nz/practice/code-of-conduct/",
+        "https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "care-support",
+      "path": "content/new-zealand/resources/care-support.md",
+      "words": 747,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.disabilitysupport.govt.nz/disabled-people/assessment-and-funding/needs-assessment-services",
+        "https://www.disabilitysupport.govt.nz/disabled-people/assessment-and-funding/how-to-access-support"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "mca",
+      "path": "content/new-zealand/resources/mca.md",
+      "words": 772,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.hdc.org.nz/education/online-learning/consent-for-consumers-who-are-not-competent/",
+        "https://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "dols",
+      "path": "content/new-zealand/resources/dols.md",
+      "words": 765,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html",
+        "https://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html",
+        "https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/mental-health-district-inspectors"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "mha",
+      "path": "content/new-zealand/resources/mha.md",
+      "words": 781,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act",
+        "https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992",
+        "https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "safeguarding",
+      "path": "content/new-zealand/resources/safeguarding.md",
+      "words": 752,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.disabilitysupport.govt.nz/providers/quality-and-safeguarding/we-can-all-contribute-to-quality-and-safeguarding",
+        "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "children",
+      "path": "content/new-zealand/resources/children.md",
+      "words": 760,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+        "https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "new-zealand",
+      "topic": "rights",
+      "path": "content/new-zealand/resources/rights.md",
+      "words": 760,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.privacy.org.nz/privacy-principles/codes-of-practice/hipc2020/",
+        "https://www.privacy.org.nz/privacy-principles/codes-of-practice/hipc2020/hipc-factsheet-3/",
+        "https://www.privacy.org.nz/responsibilities/releasing-personal-information-to-police-and-law-enforcement-agencies/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "foundations",
+      "path": "content/australia-nsw/resources/foundations.md",
+      "words": 712,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.aasw.asn.au/about-aasw/ethics-standards/code-of-ethics/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "care-support",
+      "path": "content/australia-nsw/resources/care-support.md",
+      "words": 799,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://ndis.gov.au/applying/application-process/what-access-request-form",
+        "https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes",
+        "https://www.health.gov.au/our-work/aged-care-act/resources/providers",
+        "https://www.health.gov.au/our-work/chsp/reforms"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "mca",
+      "path": "content/australia-nsw/resources/mca.md",
+      "words": 778,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://ncat.nsw.gov.au/publications-and-resources/fact-sheets/person-responsible-fact-sheet.html",
+        "https://legislation.nsw.gov.au/view/html/inforce/current/act-1987-257",
+        "https://ncat.nsw.gov.au/case-types/guardianship.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "dols",
+      "path": "content/australia-nsw/resources/dols.md",
+      "words": 746,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://dcj.nsw.gov.au/service-providers/deliver-disability-services/restrictive-practices-authorisation-portal/policy.html",
+        "https://www.ndiscommission.gov.au/rules-and-standards/behaviour-support-and-restrictive-practices/rules-implementing-providers"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "mha",
+      "path": "content/australia-nsw/resources/mha.md",
+      "words": 759,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-008",
+        "https://legislation.nsw.gov.au/view/pdf/inforce/current/act-2007-008"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "safeguarding",
+      "path": "content/australia-nsw/resources/safeguarding.md",
+      "words": 751,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://ageingdisabilitycommission.nsw.gov.au/about-us/reporting/our-response-to-reports.html",
+        "https://legislation.nsw.gov.au/view/html/inforce/current/act-2019-007"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "children",
+      "path": "content/australia-nsw/resources/children.md",
+      "words": 763,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://dcj.nsw.gov.au/children-and-families/protecting-our-kids/mandatory-reporters/who-are-mandatory-reporters.html",
+        "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-157"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-nsw",
+      "topic": "rights",
+      "path": "content/australia-nsw/resources/rights.md",
+      "words": 751,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ipc.nsw.gov.au/resources/fact-sheet-health-privacy-principles-hpps",
+        "https://www.ipc.nsw.gov.au/privacy/nsw-privacy-laws/hrip",
+        "https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "foundations",
+      "path": "content/australia-victoria/resources/foundations.md",
+      "words": 710,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.aasw.asn.au/about-aasw/ethics-standards/code-of-ethics/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "care-support",
+      "path": "content/australia-victoria/resources/care-support.md",
+      "words": 797,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://ndis.gov.au/applying/application-process/what-access-request-form",
+        "https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes",
+        "https://www.health.gov.au/our-work/aged-care-act/resources/providers",
+        "https://www.health.gov.au/our-work/chsp/reforms"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "mca",
+      "path": "content/australia-victoria/resources/mca.md",
+      "words": 870,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.publicadvocate.vic.gov.au/your-rights/your-healthcare",
+        "https://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/interpreting-an-instructional-directive",
+        "https://www.legislation.vic.gov.au/in-force/acts/medical-treatment-planning-and-decisions-act-2016",
+        "https://www.legislation.vic.gov.au/in-force/acts/guardianship-and-administration-act-2019",
+        "https://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/patient-capacity-to-consent"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "dols",
+      "path": "content/australia-victoria/resources/dols.md",
+      "words": 769,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.dffh.vic.gov.au/about-victorian-senior-practitioner",
+        "https://www.dffh.vic.gov.au/victorian-senior-practitioners-directions-and-prohibitions",
+        "https://www.legislation.vic.gov.au/in-force/acts/disability-act-2006",
+        "https://www.ndiscommission.gov.au/rules-and-standards/behaviour-support-and-restrictive-practices/rules-implementing-providers"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "mha",
+      "path": "content/australia-victoria/resources/mha.md",
+      "words": 772,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.vic.gov.au/in-force/acts/mental-health-and-wellbeing-act-2022",
+        "https://www.health.vic.gov.au/mental-health-and-wellbeing-act-handbook/compulsory-assessment-and-treament",
+        "https://www.health.vic.gov.au/mental-health-and-wellbeing-act-handbook/treatments-and-interventions/treatment-orders"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "safeguarding",
+      "path": "content/australia-victoria/resources/safeguarding.md",
+      "words": 757,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008",
+        "https://www.orangedoor.vic.gov.au/",
+        "https://www.publicadvocate.vic.gov.au/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "children",
+      "path": "content/australia-victoria/resources/children.md",
+      "words": 767,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://providers.dffh.vic.gov.au/mandatory-reporting",
+        "https://www.legislation.vic.gov.au/in-force/acts/children-youth-and-families-act-2005"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "australia-victoria",
+      "topic": "rights",
+      "path": "content/australia-victoria/resources/rights.md",
+      "words": 772,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.humanrights.vic.gov.au/for-public-sector/charter-responsibilities/charter-and-the-government/",
+        "https://www.legislation.vic.gov.au/in-force/acts/charter-human-rights-and-responsibilities-act-2006",
+        "https://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "foundations",
+      "path": "content/canada-ontario/resources/foundations.md",
+      "words": 688,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ocswssw.org/sop/",
+        "https://www.ontario.ca/laws/statute/98s31"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "care-support",
+      "path": "content/canada-ontario/resources/care-support.md",
+      "words": 739,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/",
+        "https://www.ontario.ca/laws/statute/19c05c"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "mca",
+      "path": "content/canada-ontario/resources/mca.md",
+      "words": 735,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ontario.ca/laws/statute/96h02",
+        "https://www.ontario.ca/laws/statute/92s30"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "dols",
+      "path": "content/canada-ontario/resources/dols.md",
+      "words": 731,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ontario.ca/laws/statute/96h02",
+        "https://www.ontario.ca/laws/statute/21f39",
+        "https://www.ontario.ca/laws/statute/90m07"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "mha",
+      "path": "content/canada-ontario/resources/mha.md",
+      "words": 749,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ontario.ca/laws/statute/90m07",
+        "https://www.ontario.ca/files/2024-05/moh-information-guide-voluntary-patients-en-2024-05-21.pdf",
+        "https://www.ontario.ca/laws/statute/96h02"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "safeguarding",
+      "path": "content/canada-ontario/resources/safeguarding.md",
+      "words": 741,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ontario.ca/page/information-about-elder-abuse",
+        "https://www.ontario.ca/laws/statute/10r11",
+        "https://www.ontario.ca/laws/statute/21f39"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "children",
+      "path": "content/canada-ontario/resources/children.md",
+      "words": 750,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://files.ontario.ca/pdf-3/mccss-report-child-abuse-and-neglect-en-2022-03-31.pdf",
+        "https://www.ontario.ca/laws/statute/17c14"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-ontario",
+      "topic": "rights",
+      "path": "content/canada-ontario/resources/rights.md",
+      "words": 740,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.ontario.ca/laws/statute/04p03",
+        "https://www.ontario.ca/laws/statute/90h19",
+        "https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "foundations",
+      "path": "content/canada-british-columbia/resources/foundations.md",
+      "words": 697,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://bccsw.ca/for-registrants/standards-scope-of-practice/",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "care-support",
+      "path": "content/canada-british-columbia/resources/care-support.md",
+      "words": 764,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/are-you-eligible",
+        "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/how-to-arrange-for-care",
+        "https://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/concerns-and-complaints"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "mca",
+      "path": "content/canada-british-columbia/resources/mca.md",
+      "words": 779,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96181_01",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96405_01"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "dols",
+      "path": "content/canada-british-columbia/resources/dols.md",
+      "words": 752,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96006_01",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96181_01",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "mha",
+      "path": "content/canada-british-columbia/resources/mha.md",
+      "words": 714,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "safeguarding",
+      "path": "content/canada-british-columbia/resources/safeguarding.md",
+      "words": 754,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.trustee.bc.ca/adults/protecting-vulnerable-adult-abuse-neglect-or-self-neglect",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96006_01",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11_19_2002"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "children",
+      "path": "content/canada-british-columbia/resources/children.md",
+      "words": 738,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www2.gov.bc.ca/gov/content/safety/public-safety/protecting-children/reporting-child-abuse",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96046_01"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "canada-british-columbia",
+      "topic": "rights",
+      "path": "content/canada-british-columbia/resources/rights.md",
+      "words": 722,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96210_01",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01",
+        "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "foundations",
+      "path": "content/united-states-california/resources/foundations.md",
+      "words": 688,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.bbs.ca.gov/about/board_info.html",
+        "https://bbs.ca.gov/applicants/lcsw.html",
+        "https://www.bbs.ca.gov/about/law_reg.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "care-support",
+      "path": "content/united-states-california/resources/care-support.md",
+      "words": 741,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.cdss.ca.gov/in-home-supportive-services",
+        "https://www.cdss.ca.gov/hearing-requests",
+        "https://www.dhcs.ca.gov/services/home-and-community-based-services-hcbs-grievance-and-hearings/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "mca",
+      "path": "content/united-states-california/resources/mca.md",
+      "words": 754,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://selfhelp.courts.ca.gov/wills-estates-probate/legal-documents",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=4712.",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=810."
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "dols",
+      "path": "content/united-states-california/resources/dols.md",
+      "words": 730,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5150.",
+        "https://www.dhcs.ca.gov/services/patients-rights/",
+        "https://www.dhcs.ca.gov/wp-content/uploads/2025/10/DHCS_Handbook_English.pdf"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "mha",
+      "path": "content/united-states-california/resources/mha.md",
+      "words": 770,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5150.",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=5008.",
+        "https://www.dhcs.ca.gov/wp-content/uploads/2025/10/SB-43-FAQs.pdf"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "safeguarding",
+      "path": "content/united-states-california/resources/safeguarding.md",
+      "words": 753,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.cdss.ca.gov/inforesources/cdss-programs/adult-protective-services/information-for-mandated-reporters",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=15630.",
+        "https://cdss.ca.gov/adult-protective-services"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "children",
+      "path": "content/united-states-california/resources/children.md",
+      "words": 733,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11166.",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11165.7."
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-california",
+      "topic": "rights",
+      "path": "content/united-states-california/resources/rights.md",
+      "words": 763,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html",
+        "https://www.hhs.gov/hipaa/part-2/index.html",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10."
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "foundations",
+      "path": "content/united-states-new-york/resources/foundations.md",
+      "words": 700,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.op.nysed.gov/professions/social-work/faqs/what-difference-between-lmsw-and-lcsw",
+        "https://www.op.nysed.gov/professions/licensed-master-social-worker/laws-rules-regulations"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "care-support",
+      "path": "content/united-states-new-york/resources/care-support.md",
+      "words": 747,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/ldss-mmco.htm",
+        "https://www.health.ny.gov/health_care/medicaid/redesign/nyiap/repository/index.htm",
+        "https://www.health.ny.gov/health_care/managed_care/plans/min_needs.htm"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "mca",
+      "path": "content/united-states-new-york/resources/mca.md",
+      "words": 820,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nysenate.gov/legislation/laws/PBH/2994-D",
+        "https://www.nysenate.gov/legislation/laws/MHY/81.02",
+        "https://www.nysenate.gov/legislation/laws/PBH/A29-C",
+        "https://www.nysenate.gov/legislation/laws/PBH/2994-A"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "dols",
+      "path": "content/united-states-new-york/resources/dols.md",
+      "words": 735,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nysenate.gov/legislation/laws/MHY/81.22",
+        "https://www.nysenate.gov/legislation/laws/MHY/9.39",
+        "https://omh.ny.gov/omhweb/guidance/transport-civil-voluntary-involuntary-admissions-statutes.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "mha",
+      "path": "content/united-states-new-york/resources/mha.md",
+      "words": 757,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nysenate.gov/legislation/laws/MHY/9.39",
+        "https://omh.ny.gov/omhweb/guidance/transport-civil-voluntary-involuntary-admissions-statutes.html",
+        "https://omh.ny.gov/omhweb/guidance/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "safeguarding",
+      "path": "content/united-states-new-york/resources/safeguarding.md",
+      "words": 733,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nysenate.gov/legislation/laws/SOS/473",
+        "https://ocfs.ny.gov/programs/adult-svcs/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "children",
+      "path": "content/united-states-new-york/resources/children.md",
+      "words": 755,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nysenate.gov/legislation/laws/SOS/413",
+        "https://www.nysenate.gov/legislation/laws/SOS/415",
+        "https://ocfs.ny.gov/programs/cps/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "united-states-new-york",
+      "topic": "rights",
+      "path": "content/united-states-new-york/resources/rights.md",
+      "words": 743,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.nysenate.gov/legislation/laws/MHY/33.13",
+        "https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html",
+        "https://www.hhs.gov/hipaa/part-2/index.html"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "foundations",
+      "path": "content/wales/resources/foundations.md",
+      "words": 1102,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://socialcare.wales/news-stories/new-codes-of-professional-practice",
+        "https://socialcare.wales/codes-of-practice-and-guidance/code-of-professional-practice-for-social-care-workers",
+        "https://socialcare.wales/codes-of-practice-and-guidance/practice-guidance-for-the-code-of-professional-practice"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "care-support",
+      "path": "content/wales/resources/care-support.md",
+      "words": 1026,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/anaw/2014/4/contents",
+        "https://www.legislation.gov.uk/wsi/2015/1578/contents",
+        "https://www.gov.wales/assessing-care-and-support-needs-individuals-code-practice",
+        "https://www.gov.wales/advocacy-services-code-practice",
+        "https://www.gov.wales/social-services-codes-practice"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "mca",
+      "path": "content/wales/resources/mca.md",
+      "words": 1353,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+        "https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice",
+        "https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "dols",
+      "path": "content/wales/resources/dols.md",
+      "words": 910,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://supremecourt.uk/cases/press-summary/uksc-2025-0042",
+        "https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty",
+        "https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "mha",
+      "path": "content/wales/resources/mha.md",
+      "words": 1014,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.wales/mental-health-act-1983-code-practice",
+        "https://www.legislation.gov.uk/mwa/2010/7/contents",
+        "https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html",
+        "https://www.legislation.gov.uk/uksi/2026/385/contents",
+        "https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/",
+        "https://www.legislation.gov.uk/mwa/2010/7/part/3",
+        "https://www.gov.uk/government/collections/mental-health-bill-2025"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "safeguarding",
+      "path": "content/wales/resources/safeguarding.md",
+      "words": 959,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/anaw/2014/4/section/126",
+        "https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/",
+        "https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf",
+        "https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "children",
+      "path": "content/wales/resources/children.md",
+      "words": 1006,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.legislation.gov.uk/anaw/2018/2/contents",
+        "https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html",
+        "https://www.gov.wales/individual-development-plan-idp-example-standard-form",
+        "https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance",
+        "https://safeguarding.wales/",
+        "https://www.gov.wales/additional-learning-needs-code"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    },
+    {
+      "jurisdiction": "wales",
+      "topic": "rights",
+      "path": "content/wales/resources/rights.md",
+      "words": 1118,
+      "localFramework": true,
+      "localActions": true,
+      "challengeRoute": true,
+      "workedCase": true,
+      "recordingExercise": true,
+      "sourceUrls": [
+        "https://www.gov.wales/written-statement-update-more-just-words-2022-27",
+        "https://www.legislation.gov.uk/mwa/2011/1/contents",
+        "https://ico.org.uk/10steps",
+        "https://www.gov.wales/social-services-codes-practice"
+      ],
+      "editorialExpandedAt": "2026-09-08",
+      "practiceReviewedAt": null
+    }
+  ]
+}

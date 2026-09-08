@@ -1,10 +1,10 @@
 {
   "id": "united-states-new-york",
   "label": "New York practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in New York: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
-    "Use the New York sources and the procedures for the actual service and setting.",
+    "Current emergency-admission guidance includes essential-needs grounds. Apply the exact admission route and safeguards.",
     "Professional context: New York State Education Department, Office of the Professions.",
     "For cross-border work, establish legal responsibility explicitly; the selector does not decide it."
   ],
@@ -150,14 +150,15 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/foundations.md",
       "sourceCheckedAt": null,
-      "slug": "professional-foundations-new-york"
+      "slug": "professional-foundations-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -165,14 +166,15 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/care-support.md",
       "sourceCheckedAt": null,
-      "slug": "social-care-and-support-new-york-new-york"
+      "slug": "social-care-and-support-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -180,14 +182,15 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/mca.md",
       "sourceCheckedAt": null,
-      "slug": "decision-making-and-capacity-new-york-new-york"
+      "slug": "decision-making-and-capacity-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -195,14 +198,15 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/dols.md",
       "sourceCheckedAt": null,
-      "slug": "restrictions-and-liberty-new-york-new-york"
+      "slug": "restrictions-and-liberty-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -210,14 +214,15 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/mha.md",
       "sourceCheckedAt": null,
-      "slug": "mental-health-new-york-new-york"
+      "slug": "mental-health-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -225,14 +230,15 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/safeguarding.md",
       "sourceCheckedAt": null,
-      "slug": "safeguarding-and-family-violence-new-york-new-york"
+      "slug": "safeguarding-and-family-violence-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -240,14 +246,15 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Child participation, family support, child protection and transitions.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/children.md",
       "sourceCheckedAt": null,
-      "slug": "tamariki-rangatahi-and-wh-nau-new-york-new-york"
+      "slug": "tamariki-rangatahi-and-wh-nau-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -255,14 +262,15 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "united-states-new-york",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/rights.md",
       "sourceCheckedAt": null,
-      "slug": "rights-culture-and-recording-new-york-new-york"
+      "slug": "rights-culture-and-recording-new-york-new-york",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -487,43 +495,43 @@
   "routeDetails": {
     "foundations": {
       "title": "Professional Foundations — New York",
-      "action": "What is the purpose and limit of your role?",
-      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Confirm the licence, current registration, scope and supervision required for the actual work.",
+      "record": "Explain the professional role, service purpose and confidentiality limits. Check any additional designation or qualification required for a statutory mental-health function. Use supervision and continuing education to improve the effect of practice, including cultural responsiveness and access. The Office of the Professions addresses professional regulation; benefit decisions, agency services and mental-health detention have different complaint or review routes. Explain which body can address the person’s concern and desired remedy."
     },
     "care-support": {
       "title": "Social Care and Support — New York",
-      "action": "Which needs and outcomes belong to the person and to carers?",
-      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify Medicaid eligibility, the service requested and the responsible assessment and authorisation bodies.",
+      "record": "Obtain the applicable community assessment and practitioner information through the current NYIAP process. Confirm the plan of care, amount, duration, frequency and actual provider arrangements. Record voluntary informal support, unmet needs and the notice, plan appeal or fair-hearing route for a disputed decision. Managed-care appeals and state fair hearings depend on the decision and programme. Read the notice for time limits, any required internal step and continued-benefit rules. A complaint to the provider is different from challenging the authorisation."
     },
     "mca": {
       "title": "Decision-Making and Capacity — New York",
-      "action": "What is the precise decision and why is ability to decide questioned?",
-      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Specify the decision, support the person and identify the applicable healthcare or guardianship framework.",
+      "record": "Check any proxy, prior decision or court order and the scope of authority. Where FHCDA applies, use the statutory surrogate priority, eligibility and decision standards. For an Article 81 issue, document functional evidence, likely harm and less restrictive available resources. The FHCDA includes requirements for surrogate decisions, with additional safeguards for life-sustaining treatment. Article 81 has court procedures and tailored powers. Disagreement about a healthcare choice should not automatically become a request for broad guardianship."
     },
     "dols": {
       "title": "Restrictions and Liberty — New York",
-      "action": "What restrictions actually operate and how do they affect the person?",
-      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Describe the restriction, setting, person’s wishes and current legal status.",
+      "record": "Read the actual Article 9 documents or Article 81 order and identify its limits. Check separate authority and safeguards for restraint or treatment. Arrange Mental Hygiene Legal Service or other appropriate legal support and the relevant court or complaint process. A court challenge to detention, review of guardianship powers and a service complaint address different matters. Explain the route relevant to the actual restriction. The person should have accessible rights information and help to express and act on objections."
     },
     "mha": {
       "title": "Mental Health — New York",
-      "action": "What is the purpose of each proposed intervention?",
-      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the exact Article 9 route and evidence for its current criteria.",
+      "record": "Check the authorised practitioner, examinations, forms, notices and timing. Use the current OMH guidance, including the updated essential-needs wording, and consider voluntary alternatives. Separate detention from treatment authority and coordinate accepted discharge and community-support arrangements. Section 9.39 requires rights notice and provides a court-hearing route, with Mental Hygiene Legal Service involvement. Different statuses have different review procedures. A treatment-over-objection issue needs its own analysis and should not be assumed resolved by admission."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — New York",
-      "action": "How can the person be heard safely and privately?",
-      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the harm, functional difficulties and whether responsible assistance is actually available.",
+      "record": "Refer through the appropriate local adult-protective services route and address immediate danger. Check any separate provider, facility, police or mandated-reporting requirement. Use the least restrictive appropriate response and distinguish voluntary services from court-authorised measures. The adult’s agreement and participation remain important; an APS referral does not confer general authority to force services. Where a court measure is proposed, identify its own conditions and representation. Explain the local service complaint and relevant legal route."
     },
     "children": {
       "title": "Children, Families and Transitions — New York",
-      "action": "What does the child say or show about safety and daily life?",
-      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the reporter role, child’s age, alleged responsible person and facts supporting reasonable cause.",
+      "record": "Use the required SCR reporting process and immediate emergency response where necessary. Complete the applicable written follow-up and document receipt, facts and safety actions. Consider police, institutional or other reporting duties separately and coordinate family support. Explain the child-protective process and access to support or legal advice. Reporting is not a court determination of abuse or authority for every intervention. Preserve the child’s account and the distinction between an allegation, investigation and finding."
     },
     "rights": {
       "title": "Rights, Culture and Recording — New York",
-      "action": "What makes participation accessible for this person?",
-      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the organisation, record and state or federal privacy provisions involved.",
+      "record": "Arrange accessible communication, interpretation and culturally responsive participation. Check the legal basis, purpose and scope of disclosure, including any special rules for proceedings. Explain records access, correction, complaints and the applicable patient-rights or legal review route. A privacy complaint, professional complaint and mental-hygiene rights challenge address different questions. A request from police, a lawyer or another service does not itself establish authority to release a whole record. Obtain the relevant advice and document the decision."
     },
     "sources": {
       "title": "New York Source Library",
@@ -537,24 +545,24 @@
       "title": "Professional Foundations — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking professional foundations in New York?",
-          "answer": "Start with New York State Education Department, Office of the Professions. Check the professional requirements for your role and the applicable law."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "New York Education Law and the Office of the Professions distinguish Licensed Master Social Workers (LMSWs) from Licensed Clinical Social Workers (LCSWs). An LMSW may provide clinical social-work services, including diagnosis, psychotherapy and assessment-based treatment planning, only under the required supervision; an LCSW may provide those services independently within competence."
         },
         {
-          "prompt": "How does a formulation differ from a chronology?",
-          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Licensure, registration, a permitted practice setting and any separate mental-hygiene designation must be checked. Employer seniority does not create a statutory power. Professional ethical guidance should be read alongside state law and applicable agency obligations."
         },
         {
-          "prompt": "How can supervision test bias?",
-          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+          "prompt": "What are the key local actions?",
+          "answer": "Confirm the licence, current registration, scope and supervision required for the actual work. Explain the professional role, service purpose and confidentiality limits. Check any additional designation or qualification required for a statutory mental-health function. Use supervision and continuing education to improve the effect of practice, including cultural responsiveness and access."
         },
         {
-          "prompt": "What makes a professional record useful?",
-          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Office of the Professions addresses professional regulation; benefit decisions, agency services and mental-health detention have different complaint or review routes. Explain which body can address the person’s concern and desired remedy."
         },
         {
-          "prompt": "What makes reflective learning actionable?",
-          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating LMSW and LCSW practice permissions as interchangeable."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Social Care and Support — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking social care and support in New York?",
-          "answer": "Open New York government services from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Medicaid personal care and Consumer Directed Personal Assistance Services involve assessment, medical necessity and service authorisation. The New York Independent Assessor Program (NYIAP), local departments of social services and managed-care organisations have different responsibilities. An assessment does not itself authorise every requested hour of care."
         },
         {
-          "prompt": "Can family support be assumed?",
-          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Current Department of Health guidance includes minimum-needs requirements introduced in 2025 and legacy-status arrangements. Check the person’s programme and circumstances before applying a new rule or assuming that an existing recipient follows the same route as a new applicant."
         },
         {
-          "prompt": "Why distinguish assessment from funding?",
-          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify Medicaid eligibility, the service requested and the responsible assessment and authorisation bodies. Obtain the applicable community assessment and practitioner information through the current NYIAP process. Confirm the plan of care, amount, duration, frequency and actual provider arrangements. Record voluntary informal support, unmet needs and the notice, plan appeal or fair-hearing route for a disputed decision."
         },
         {
-          "prompt": "What belongs in a support plan?",
-          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Managed-care appeals and state fair hearings depend on the decision and programme. Read the notice for time limits, any required internal step and continued-benefit rules. A complaint to the provider is different from challenging the authorisation."
         },
         {
-          "prompt": "What if support is unavailable?",
-          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+          "prompt": "What common error should you avoid?",
+          "answer": "Confusing NYIAP assessment with final service authorisation or overlooking current minimum-needs and legacy rules."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "Decision-Making and Capacity — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking decision-making and capacity in New York?",
-          "answer": "Open New York legislation from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Healthcare proxies, the Family Health Care Decisions Act (FHCDA) and Mental Hygiene Law Article 81 guardianship are distinct. Check the healthcare setting and statutory scope before using the FHCDA surrogate list. A healthcare proxy or a valid patient decision may need consideration before a default surrogate route. FHCDA capacity concerns understanding and appreciating what the proposed care involves and its consequences, including risks, benefits and alternatives, and making an informed choice. Use the statutory assessment process; a social-work opinion alone does not replace a required practitioner determination."
         },
         {
-          "prompt": "Does a risky refusal alone establish inability to decide?",
-          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Article 81 requires a necessity assessment and, where incapacity is alleged, clear and convincing evidence about inability to meet personal or property needs and insufficient understanding and appreciation of that inability, with likely harm. The court should tailor powers and consider available alternatives. A diagnosis alone does not establish the guardianship test."
         },
         {
-          "prompt": "What support can improve participation?",
-          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+          "prompt": "What are the key local actions?",
+          "answer": "Specify the decision, support the person and identify the applicable healthcare or guardianship framework. Check any proxy, prior decision or court order and the scope of authority. Where FHCDA applies, use the statutory surrogate priority, eligibility and decision standards. For an Article 81 issue, document functional evidence, likely harm and less restrictive available resources."
         },
         {
-          "prompt": "Does a family relationship establish decision-making authority?",
-          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The FHCDA includes requirements for surrogate decisions, with additional safeguards for life-sustaining treatment. Article 81 has court procedures and tailored powers. Disagreement about a healthcare choice should not automatically become a request for broad guardianship."
         },
         {
-          "prompt": "Why identify the exact decision?",
-          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating family status as priority over every valid appointment or using diagnosis alone to establish Article 81 incapacity."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Restrictions and Liberty — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking restrictions and liberty in New York?",
-          "answer": "Open New York legislation and New York Mental Hygiene Law from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Mental Hygiene Law Article 9 admission, Article 81 guardianship and facility restraint rules concern different authorities. An Article 81 guardian receives only the powers granted by the court. The personal-needs provisions do not make guardianship a general permission for involuntary psychiatric admission."
         },
         {
-          "prompt": "What should a restriction record describe?",
-          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Separate a placement decision, the actual restriction on departure and the authority for treatment. An institution should identify the legal basis for each measure and the required review. A family’s agreement or an administrative discharge concern does not establish detention authority."
         },
         {
-          "prompt": "Does quiet behaviour demonstrate consent?",
-          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+          "prompt": "What are the key local actions?",
+          "answer": "Describe the restriction, setting, person’s wishes and current legal status. Read the actual Article 9 documents or Article 81 order and identify its limits. Check separate authority and safeguards for restraint or treatment. Arrange Mental Hygiene Legal Service or other appropriate legal support and the relevant court or complaint process."
         },
         {
-          "prompt": "Can provider policy alone establish legal authority?",
-          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "A court challenge to detention, review of guardianship powers and a service complaint address different matters. Explain the route relevant to the actual restriction. The person should have accessible rights information and help to express and act on objections."
         },
         {
-          "prompt": "What should review consider?",
-          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating a guardian’s placement power as a universal psychiatric detention power."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Mental Health — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking mental health in New York?",
-          "answer": "Open New York Mental Hygiene Law from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Mental Hygiene Law Article 9 provides distinct voluntary, emergency and other involuntary-admission routes. Section 9.39 concerns immediate hospital observation, care and treatment where the mental-illness and likely-serious-harm conditions are met. Its current definition includes specified inability or refusal, because of mental illness, to meet essential needs causing substantial risk of physical harm."
         },
         {
-          "prompt": "Why distinguish admission from treatment?",
-          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Under this route, retention beyond 48 hours requires confirmation by another physician from the psychiatric staff; the emergency period is limited to 15 days. Further retention requires the applicable additional process. These are route-specific limits, not rules to apply indiscriminately to every Article 9 admission."
         },
         {
-          "prompt": "What should happen alongside crisis assessment?",
-          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the exact Article 9 route and evidence for its current criteria. Check the authorised practitioner, examinations, forms, notices and timing. Use the current OMH guidance, including the updated essential-needs wording, and consider voluntary alternatives. Separate detention from treatment authority and coordinate accepted discharge and community-support arrangements."
         },
         {
-          "prompt": "Can a social worker use every mental-health power?",
-          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Section 9.39 requires rights notice and provides a court-hearing route, with Mental Hygiene Legal Service involvement. Different statuses have different review procedures. A treatment-over-objection issue needs its own analysis and should not be assumed resolved by admission."
         },
         {
-          "prompt": "What does a rights explanation cover?",
-          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using an outdated threat-only account of serious harm or confusing the time limits of different admission routes."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Adult Safeguarding — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking adult safeguarding in New York?",
-          "answer": "Open New York OCFS adult services from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Social Services Law section 473 provides protective services for adults meeting its conditions, without regard to income. The framework concerns mental or physical impairments affecting ability to manage resources, daily living or protection from harm, together with the absence of someone available, willing and able to assist responsibly."
         },
         {
-          "prompt": "Why offer a private conversation?",
-          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Local social-services districts provide adult-protective services and coordinate with health, mental-health, legal and other agencies. A general APS referral, a setting-specific mandated report and an application for guardianship are different matters. Do not invent a universal adult-reporting duty from the child-reporting rules."
         },
         {
-          "prompt": "Is proof needed before checking reporting duties?",
-          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the harm, functional difficulties and whether responsible assistance is actually available. Refer through the appropriate local adult-protective services route and address immediate danger. Check any separate provider, facility, police or mandated-reporting requirement. Use the least restrictive appropriate response and distinguish voluntary services from court-authorised measures."
         },
         {
-          "prompt": "What should a report contain?",
-          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The adult’s agreement and participation remain important; an APS referral does not confer general authority to force services. Where a court measure is proposed, identify its own conditions and representation. Explain the local service complaint and relevant legal route."
         },
         {
-          "prompt": "Does a referral complete the response?",
-          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming that any listed relative rules out APS support or that a referral automatically authorises guardianship."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Children, Families and Transitions — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking children, families and transitions in New York?",
-          "answer": "Open OCFS child protection from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Social Services Law sections 413 and 415 identify mandated reporters and reporting procedures. Covered social workers must act on reasonable cause to suspect abuse or maltreatment within the statutory circumstances. The Statewide Central Register route has defined scope, including the relationship of the alleged responsible person to the child."
         },
         {
-          "prompt": "How should the child’s account be recorded?",
-          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An immediate report and the required written follow-up are distinct steps; section 415 generally requires the written report within 48 hours. Abuse by someone outside the child-protective reporting definition may still require police or another safety response. Do not treat an out-of-scope SCR decision as proof that no action is needed."
         },
         {
-          "prompt": "Can one child-protection model settle a legal threshold?",
-          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the reporter role, child’s age, alleged responsible person and facts supporting reasonable cause. Use the required SCR reporting process and immediate emergency response where necessary. Complete the applicable written follow-up and document receipt, facts and safety actions. Consider police, institutional or other reporting duties separately and coordinate family support."
         },
         {
-          "prompt": "What makes transition planning useful?",
-          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the child-protective process and access to support or legal advice. Reporting is not a court determination of abuse or authority for every intervention. Preserve the child’s account and the distinction between an allegation, investigation and finding."
         },
         {
-          "prompt": "Why consider community and cultural relationships?",
-          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+          "prompt": "What common error should you avoid?",
+          "answer": "Confusing reasonable cause with proof, or assuming the SCR is the only possible route for every threat to a child."
         }
       ]
     },
@@ -719,24 +727,24 @@
       "title": "Rights, Culture and Recording — New York",
       "cards": [
         {
-          "prompt": "Where should you begin checking rights, culture and recording in New York?",
-          "answer": "Open New York social-work practice guidance from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in New York practice guide?",
+          "answer": "Federal civil-rights and disability law, New York Human Rights Law and sector-specific patient rights apply according to the service and decision. Identify the responsible body and the actual access barrier or restriction rather than assuming every complaint uses the same route."
         },
         {
-          "prompt": "What is data minimisation?",
-          "answer": "Sharing only the information needed for the identified, lawful purpose."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing."
         },
         {
-          "prompt": "What is a culturally responsive first step?",
-          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the organisation, record and state or federal privacy provisions involved. Arrange accessible communication, interpretation and culturally responsive participation. Check the legal basis, purpose and scope of disclosure, including any special rules for proceedings. Explain records access, correction, complaints and the applicable patient-rights or legal review route."
         },
         {
-          "prompt": "Why record disagreement?",
-          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "A privacy complaint, professional complaint and mental-hygiene rights challenge address different questions. A request from police, a lawyer or another service does not itself establish authority to release a whole record. Obtain the relevant advice and document the decision."
         },
         {
-          "prompt": "How do you compare alternatives?",
-          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+          "prompt": "What common error should you avoid?",
+          "answer": "Checking HIPAA while overlooking state mental-hygiene or specially protected substance-use records."
         }
       ]
     }
@@ -744,42 +752,42 @@
   "glossaryTerms": [
     {
       "term": "Professional Foundations",
-      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "definition": "New York Education Law and the Office of the Professions distinguish Licensed Master Social Workers (LMSWs) from Licensed Clinical Social Workers (LCSWs). An LMSW may provide clinical social-work services, including diagnosis, psychotherapy and assessment-based treatment planning, only under the required supervision; an LCSW may provide those services independently within competence.",
       "link": "foundations"
     },
     {
       "term": "Social Care and Support",
-      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "definition": "Medicaid personal care and Consumer Directed Personal Assistance Services involve assessment, medical necessity and service authorisation. The New York Independent Assessor Program (NYIAP), local departments of social services and managed-care organisations have different responsibilities. An assessment does not itself authorise every requested hour of care.",
       "link": "care-support"
     },
     {
       "term": "Decision-Making and Capacity",
-      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "definition": "Healthcare proxies, the Family Health Care Decisions Act (FHCDA) and Mental Hygiene Law Article 81 guardianship are distinct. Check the healthcare setting and statutory scope before using the FHCDA surrogate list. A healthcare proxy or a valid patient decision may need consideration before a default surrogate route. FHCDA capacity concerns understanding and appreciating what the proposed care involves and its consequences, including risks, benefits and alternatives, and making an informed choice. Use the statutory assessment process; a social-work opinion alone does not replace a required practitioner determination.",
       "link": "mca"
     },
     {
       "term": "Restrictions and Liberty",
-      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "definition": "Mental Hygiene Law Article 9 admission, Article 81 guardianship and facility restraint rules concern different authorities. An Article 81 guardian receives only the powers granted by the court. The personal-needs provisions do not make guardianship a general permission for involuntary psychiatric admission.",
       "link": "dols"
     },
     {
       "term": "Mental Health",
-      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "definition": "Mental Hygiene Law Article 9 provides distinct voluntary, emergency and other involuntary-admission routes. Section 9.39 concerns immediate hospital observation, care and treatment where the mental-illness and likely-serious-harm conditions are met. Its current definition includes specified inability or refusal, because of mental illness, to meet essential needs causing substantial risk of physical harm.",
       "link": "mha"
     },
     {
       "term": "Adult Safeguarding",
-      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "definition": "Social Services Law section 473 provides protective services for adults meeting its conditions, without regard to income. The framework concerns mental or physical impairments affecting ability to manage resources, daily living or protection from harm, together with the absence of someone available, willing and able to assist responsibly.",
       "link": "safeguarding"
     },
     {
       "term": "Children, Families and Transitions",
-      "definition": "Child participation, family support, child protection and transitions.",
+      "definition": "Social Services Law sections 413 and 415 identify mandated reporters and reporting procedures. Covered social workers must act on reasonable cause to suspect abuse or maltreatment within the statutory circumstances. The Statewide Central Register route has defined scope, including the relationship of the alleged responsible person to the child.",
       "link": "children"
     },
     {
       "term": "Rights, Culture and Recording",
-      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "definition": "Federal civil-rights and disability law, New York Human Rights Law and sector-specific patient rights apply according to the service and decision. Identify the responsible body and the actual access barrier or restriction rather than assuming every complaint uses the same route.",
       "link": "rights"
     },
     {
@@ -1470,123 +1478,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and family support",
-      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "title": "Professional Foundations — New York",
+      "summary": "An LMSW is offered an independent psychotherapy caseload without the supervision required for clinical work.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Check the scope, setting and supervision requirements before accepting the arrangement. Arrange appropriate oversight or a lawful alternative and explain the practitioner’s status accurately. A social-work licence does not mean that both licence categories have identical clinical authority."
+    },
+    {
+      "title": "Social Care and Support — New York",
+      "summary": "A person receives an assessment but the plan authorises fewer hours than requested, assuming a relative will provide the rest.",
       "routes": [
         "care-support",
         "rights",
         "sources"
       ],
       "prompts": [
-        "Which needs and outcomes belong to the person and to carers?",
-        "Which service actually assesses and funds this support?",
-        "What happens if the proposed support is unavailable?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Check the assessment evidence, the relative’s voluntarily offered assistance and the plan’s written reasons. Identify the appropriate appeal or hearing process and interim safety arrangements. Do not treat an assumed family contribution as available care."
     },
     {
-      "title": "A decision and a refusal",
-      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "title": "Decision-Making and Capacity — New York",
+      "summary": "A patient’s adult child assumes they can decide because of family status, while a healthcare proxy names a close friend.",
       "routes": [
         "mca",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the precise decision and why is ability to decide questioned?",
-        "What communication support would help?",
-        "Who has authority for this decision under the applicable law?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Assess the patient’s own decision-making ability and check the proxy’s operation and scope. Do not jump to the default surrogate list. If a separate guardianship concern exists, identify its functional evidence and alternatives rather than using it to bypass the healthcare arrangement."
     },
     {
-      "title": "Restrictions and objections",
-      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "title": "Restrictions and Liberty — New York",
+      "summary": "A facility says a guardian’s authority to choose residence allows it to admit the adult involuntarily to a psychiatric hospital.",
       "routes": [
         "dols",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What restrictions actually operate and how do they affect the person?",
-        "What authority is being relied upon?",
-        "How can the person challenge the arrangements?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Read the order and Article 81 limits, then identify whether Article 9 criteria and procedures are met. Obtain appropriate legal and clinical advice and consider voluntary alternatives. Residence powers should not be used as a substitute for psychiatric admission safeguards."
     },
     {
-      "title": "Mental-health crisis",
-      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "title": "Mental Health — New York",
+      "summary": "A team assumes emergency admission requires an express threat and ignores evidence that mental illness prevents a person obtaining essential medical care.",
       "routes": [
         "mha",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the purpose of each proposed intervention?",
-        "Who can assess or exercise the relevant power?",
-        "What voluntary or less restrictive support is available?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Apply the current statutory definition and assess the connection to substantial physical harm, rather than relying on a threat-only summary. Consider realistic support and alternatives, record each criterion and explain the person’s rights and review route."
     },
     {
-      "title": "Financial control",
-      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "title": "Adult Safeguarding — New York",
+      "summary": "An adult cannot obtain food or manage money because of impairment, and the only relative listed as a contact is unwilling to assist.",
       "routes": [
         "safeguarding",
         "rights",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Assess the actual availability and reliability of help against the protective-service conditions. Arrange immediate practical support and the appropriate APS response. A name on a contact form is not evidence that someone can responsibly meet the need."
     },
     {
-      "title": "Moving into adult services",
-      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "title": "Children, Families and Transitions — New York",
+      "summary": "A social worker hears a disclosure but is told to wait for a manager to decide whether it is sufficiently certain to report.",
       "routes": [
         "children",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What does the child say or show about safety and daily life?",
-        "Which reporting duty and receiving agency apply?",
-        "How will education, health and family support coordinate?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Assess reasonable cause under the statute and act through the required procedure. Record the relationship and facts that determine the correct recipient. Do not require certainty or delay a required report for an internal meeting."
     },
     {
-      "title": "Organisational concerns",
-      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "title": "Rights, Culture and Recording — New York",
+      "summary": "A mental-health service receives a broad request for records and assumes HIPAA permission alone resolves all confidentiality requirements.",
       "routes": [
-        "safeguarding",
         "rights",
+        "foundations",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the New York module and source library to identify the applicable framework."
-    },
-    {
-      "title": "Communication and agreement",
-      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
-      "routes": [
-        "rights",
-        "sources"
-      ],
-      "prompts": [
-        "What makes participation accessible for this person?",
-        "What legal basis permits disclosure of this information?",
-        "How will disagreement and reasons be recorded?"
-      ],
-      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the New York module and source library to identify the applicable framework."
+      "reveal": "Check the record’s coverage under state mental-hygiene law and any Part 2 restrictions as well as HIPAA. Identify the actual request and lawful basis, limit disclosure and explain the person’s rights where appropriate. One applicable rule does not remove another."
     }
   ],
   "printableTemplates": [
@@ -1594,57 +1603,57 @@
       "id": "foundations",
       "title": "Professional Foundations",
       "fileName": "united-states-new-york-foundations-prompt.txt",
-      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
-      "body": "Professional Foundations\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York State Education Department, Office of the Professions: https://www.op.nysed.gov/professions/licensed-master-social-worker/laws-rules-regulations\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
+      "body": "Professional Foundations\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nNew York Education Law and the Office of the Professions distinguish Licensed Master Social Workers (LMSWs) from Licensed Clinical Social Workers (LCSWs). An LMSW may provide clinical social-work services, including diagnosis, psychotherapy and assessment-based treatment planning, only under the required supervision; an LCSW may provide those services independently within competence.\n\nLicensure, registration, a permitted practice setting and any separate mental-hygiene designation must be checked. Employer seniority does not create a statutory power. Professional ethical guidance should be read alongside state law and applicable agency obligations.\n\nLocal pathway:\nConfirm the licence, current registration, scope and supervision required for the actual work.\nExplain the professional role, service purpose and confidentiality limits.\nCheck any additional designation or qualification required for a statutory mental-health function.\nUse supervision and continuing education to improve the effect of practice, including cultural responsiveness and access.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nThe Office of the Professions addresses professional regulation; benefit decisions, agency services and mental-health detention have different complaint or review routes. Explain which body can address the person’s concern and desired remedy.\n\nSources:\nhttps://www.op.nysed.gov/professions/social-work/faqs/what-difference-between-lmsw-and-lcsw\nhttps://www.op.nysed.gov/professions/licensed-master-social-worker/laws-rules-regulations\n"
     },
     {
       "id": "care-support",
       "title": "Social Care and Support",
       "fileName": "united-states-new-york-care-support-prompt.txt",
-      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
-      "body": "Social Care and Support\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York government services: https://www.ny.gov/\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
+      "body": "Social Care and Support\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nMedicaid personal care and Consumer Directed Personal Assistance Services involve assessment, medical necessity and service authorisation. The New York Independent Assessor Program (NYIAP), local departments of social services and managed-care organisations have different responsibilities. An assessment does not itself authorise every requested hour of care.\n\nCurrent Department of Health guidance includes minimum-needs requirements introduced in 2025 and legacy-status arrangements. Check the person’s programme and circumstances before applying a new rule or assuming that an existing recipient follows the same route as a new applicant.\n\nLocal pathway:\nIdentify Medicaid eligibility, the service requested and the responsible assessment and authorisation bodies.\nObtain the applicable community assessment and practitioner information through the current NYIAP process.\nConfirm the plan of care, amount, duration, frequency and actual provider arrangements.\nRecord voluntary informal support, unmet needs and the notice, plan appeal or fair-hearing route for a disputed decision.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nManaged-care appeals and state fair hearings depend on the decision and programme. Read the notice for time limits, any required internal step and continued-benefit rules. A complaint to the provider is different from challenging the authorisation.\n\nSources:\nhttps://www.health.ny.gov/health_care/medicaid/redesign/nyiap/ldss-mmco.htm\nhttps://www.health.ny.gov/health_care/medicaid/redesign/nyiap/repository/index.htm\nhttps://www.health.ny.gov/health_care/managed_care/plans/min_needs.htm\n"
     },
     {
       "id": "mca",
       "title": "Decision-Making and Capacity",
       "fileName": "united-states-new-york-mca-prompt.txt",
-      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
-      "body": "Decision-Making and Capacity\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York legislation: https://www.nysenate.gov/legislation/laws\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
+      "body": "Decision-Making and Capacity\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nHealthcare proxies, the Family Health Care Decisions Act (FHCDA) and Mental Hygiene Law Article 81 guardianship are distinct. Check the healthcare setting and statutory scope before using the FHCDA surrogate list. A healthcare proxy or a valid patient decision may need consideration before a default surrogate route. FHCDA capacity concerns understanding and appreciating what the proposed care involves and its consequences, including risks, benefits and alternatives, and making an informed choice. Use the statutory assessment process; a social-work opinion alone does not replace a required practitioner determination.\n\nArticle 81 requires a necessity assessment and, where incapacity is alleged, clear and convincing evidence about inability to meet personal or property needs and insufficient understanding and appreciation of that inability, with likely harm. The court should tailor powers and consider available alternatives. A diagnosis alone does not establish the guardianship test.\n\nLocal pathway:\nSpecify the decision, support the person and identify the applicable healthcare or guardianship framework.\nCheck any proxy, prior decision or court order and the scope of authority.\nWhere FHCDA applies, use the statutory surrogate priority, eligibility and decision standards.\nFor an Article 81 issue, document functional evidence, likely harm and less restrictive available resources.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nThe FHCDA includes requirements for surrogate decisions, with additional safeguards for life-sustaining treatment. Article 81 has court procedures and tailored powers. Disagreement about a healthcare choice should not automatically become a request for broad guardianship.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/PBH/2994-D\nhttps://www.nysenate.gov/legislation/laws/MHY/81.02\nhttps://www.nysenate.gov/legislation/laws/PBH/A29-C\nhttps://www.nysenate.gov/legislation/laws/PBH/2994-A\n"
     },
     {
       "id": "dols",
       "title": "Restrictions and Liberty",
       "fileName": "united-states-new-york-dols-prompt.txt",
-      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
-      "body": "Restrictions and Liberty\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York legislation: https://www.nysenate.gov/legislation/laws\nNew York Mental Hygiene Law: https://www.nysenate.gov/legislation/laws\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
+      "body": "Restrictions and Liberty\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nMental Hygiene Law Article 9 admission, Article 81 guardianship and facility restraint rules concern different authorities. An Article 81 guardian receives only the powers granted by the court. The personal-needs provisions do not make guardianship a general permission for involuntary psychiatric admission.\n\nSeparate a placement decision, the actual restriction on departure and the authority for treatment. An institution should identify the legal basis for each measure and the required review. A family’s agreement or an administrative discharge concern does not establish detention authority.\n\nLocal pathway:\nDescribe the restriction, setting, person’s wishes and current legal status.\nRead the actual Article 9 documents or Article 81 order and identify its limits.\nCheck separate authority and safeguards for restraint or treatment.\nArrange Mental Hygiene Legal Service or other appropriate legal support and the relevant court or complaint process.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nA court challenge to detention, review of guardianship powers and a service complaint address different matters. Explain the route relevant to the actual restriction. The person should have accessible rights information and help to express and act on objections.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/MHY/81.22\nhttps://www.nysenate.gov/legislation/laws/MHY/9.39\nhttps://omh.ny.gov/omhweb/guidance/transport-civil-voluntary-involuntary-admissions-statutes.html\n"
     },
     {
       "id": "mha",
       "title": "Mental Health",
       "fileName": "united-states-new-york-mha-prompt.txt",
-      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
-      "body": "Mental Health\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York Mental Hygiene Law: https://www.nysenate.gov/legislation/laws\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
+      "body": "Mental Health\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nMental Hygiene Law Article 9 provides distinct voluntary, emergency and other involuntary-admission routes. Section 9.39 concerns immediate hospital observation, care and treatment where the mental-illness and likely-serious-harm conditions are met. Its current definition includes specified inability or refusal, because of mental illness, to meet essential needs causing substantial risk of physical harm.\n\nUnder this route, retention beyond 48 hours requires confirmation by another physician from the psychiatric staff; the emergency period is limited to 15 days. Further retention requires the applicable additional process. These are route-specific limits, not rules to apply indiscriminately to every Article 9 admission.\n\nLocal pathway:\nIdentify the exact Article 9 route and evidence for its current criteria.\nCheck the authorised practitioner, examinations, forms, notices and timing.\nUse the current OMH guidance, including the updated essential-needs wording, and consider voluntary alternatives.\nSeparate detention from treatment authority and coordinate accepted discharge and community-support arrangements.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nSection 9.39 requires rights notice and provides a court-hearing route, with Mental Hygiene Legal Service involvement. Different statuses have different review procedures. A treatment-over-objection issue needs its own analysis and should not be assumed resolved by admission.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/MHY/9.39\nhttps://omh.ny.gov/omhweb/guidance/transport-civil-voluntary-involuntary-admissions-statutes.html\nhttps://omh.ny.gov/omhweb/guidance/\n"
     },
     {
       "id": "safeguarding",
       "title": "Adult Safeguarding",
       "fileName": "united-states-new-york-safeguarding-prompt.txt",
-      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
-      "body": "Adult Safeguarding\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York OCFS adult services: https://ocfs.ny.gov/programs/adult-svcs/\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
+      "body": "Adult Safeguarding\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nSocial Services Law section 473 provides protective services for adults meeting its conditions, without regard to income. The framework concerns mental or physical impairments affecting ability to manage resources, daily living or protection from harm, together with the absence of someone available, willing and able to assist responsibly.\n\nLocal social-services districts provide adult-protective services and coordinate with health, mental-health, legal and other agencies. A general APS referral, a setting-specific mandated report and an application for guardianship are different matters. Do not invent a universal adult-reporting duty from the child-reporting rules.\n\nLocal pathway:\nIdentify the harm, functional difficulties and whether responsible assistance is actually available.\nRefer through the appropriate local adult-protective services route and address immediate danger.\nCheck any separate provider, facility, police or mandated-reporting requirement.\nUse the least restrictive appropriate response and distinguish voluntary services from court-authorised measures.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nThe adult’s agreement and participation remain important; an APS referral does not confer general authority to force services. Where a court measure is proposed, identify its own conditions and representation. Explain the local service complaint and relevant legal route.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/SOS/473\nhttps://ocfs.ny.gov/programs/adult-svcs/\n"
     },
     {
       "id": "children",
       "title": "Children, Families and Transitions",
       "fileName": "united-states-new-york-children-prompt.txt",
-      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
-      "body": "Children, Families and Transitions\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nOCFS child protection: https://ocfs.ny.gov/programs/cps/\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
+      "body": "Children, Families and Transitions\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nSocial Services Law sections 413 and 415 identify mandated reporters and reporting procedures. Covered social workers must act on reasonable cause to suspect abuse or maltreatment within the statutory circumstances. The Statewide Central Register route has defined scope, including the relationship of the alleged responsible person to the child.\n\nAn immediate report and the required written follow-up are distinct steps; section 415 generally requires the written report within 48 hours. Abuse by someone outside the child-protective reporting definition may still require police or another safety response. Do not treat an out-of-scope SCR decision as proof that no action is needed.\n\nLocal pathway:\nIdentify the reporter role, child’s age, alleged responsible person and facts supporting reasonable cause.\nUse the required SCR reporting process and immediate emergency response where necessary.\nComplete the applicable written follow-up and document receipt, facts and safety actions.\nConsider police, institutional or other reporting duties separately and coordinate family support.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain the child-protective process and access to support or legal advice. Reporting is not a court determination of abuse or authority for every intervention. Preserve the child’s account and the distinction between an allegation, investigation and finding.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/SOS/413\nhttps://www.nysenate.gov/legislation/laws/SOS/415\nhttps://ocfs.ny.gov/programs/cps/\n"
     },
     {
       "id": "rights",
       "title": "Rights, Culture and Recording",
       "fileName": "united-states-new-york-rights-prompt.txt",
-      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
-      "body": "Rights, Culture and Recording\nNew York practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNew York social-work practice guidance: https://www.op.nysed.gov/professions/social-work/introduction\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
+      "body": "Rights, Culture and Recording\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nFederal civil-rights and disability law, New York Human Rights Law and sector-specific patient rights apply according to the service and decision. Identify the responsible body and the actual access barrier or restriction rather than assuming every complaint uses the same route.\n\nHIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.\n\nLocal pathway:\nIdentify the organisation, record and state or federal privacy provisions involved.\nArrange accessible communication, interpretation and culturally responsive participation.\nCheck the legal basis, purpose and scope of disclosure, including any special rules for proceedings.\nExplain records access, correction, complaints and the applicable patient-rights or legal review route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nA privacy complaint, professional complaint and mental-hygiene rights challenge address different questions. A request from police, a lawyer or another service does not itself establish authority to release a whole record. Obtain the relevant advice and document the decision.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/MHY/33.13\nhttps://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html\nhttps://www.hhs.gov/hipaa/part-2/index.html\n"
     },
     {
       "id": "supervision",
@@ -1665,42 +1674,42 @@
     {
       "title": "Professional Foundations",
       "resource": "foundations",
-      "task": "Using a fictional New York case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+      "task": "Confirm the licence, current registration, scope and supervision required for the actual work. Work through the fictional case and explain: Treating LMSW and LCSW practice permissions as interchangeable."
     },
     {
       "title": "Social Care and Support",
       "resource": "care-support",
-      "task": "Using a fictional New York case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+      "task": "Identify Medicaid eligibility, the service requested and the responsible assessment and authorisation bodies. Work through the fictional case and explain: Confusing NYIAP assessment with final service authorisation or overlooking current minimum-needs and legacy rules."
     },
     {
       "title": "Decision-Making and Capacity",
       "resource": "mca",
-      "task": "Using a fictional New York case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+      "task": "Specify the decision, support the person and identify the applicable healthcare or guardianship framework. Work through the fictional case and explain: Treating family status as priority over every valid appointment or using diagnosis alone to establish Article 81 incapacity."
     },
     {
       "title": "Restrictions and Liberty",
       "resource": "dols",
-      "task": "Using a fictional New York case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+      "task": "Describe the restriction, setting, person’s wishes and current legal status. Work through the fictional case and explain: Treating a guardian’s placement power as a universal psychiatric detention power."
     },
     {
       "title": "Mental Health",
       "resource": "mha",
-      "task": "Using a fictional New York case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+      "task": "Identify the exact Article 9 route and evidence for its current criteria. Work through the fictional case and explain: Using an outdated threat-only account of serious harm or confusing the time limits of different admission routes."
     },
     {
       "title": "Adult Safeguarding",
       "resource": "safeguarding",
-      "task": "Using a fictional New York case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+      "task": "Identify the harm, functional difficulties and whether responsible assistance is actually available. Work through the fictional case and explain: Assuming that any listed relative rules out APS support or that a referral automatically authorises guardianship."
     },
     {
       "title": "Children, Families and Transitions",
       "resource": "children",
-      "task": "Using a fictional New York case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+      "task": "Identify the reporter role, child’s age, alleged responsible person and facts supporting reasonable cause. Work through the fictional case and explain: Confusing reasonable cause with proof, or assuming the SCR is the only possible route for every threat to a child."
     },
     {
       "title": "Rights, Culture and Recording",
       "resource": "rights",
-      "task": "Using a fictional New York case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+      "task": "Identify the organisation, record and state or federal privacy provisions involved. Work through the fictional case and explain: Checking HIPAA while overlooking state mental-hygiene or specially protected substance-use records."
     }
   ],
   "toolCount": 9,

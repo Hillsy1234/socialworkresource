@@ -1,7 +1,7 @@
 {
   "id": "canada-british-columbia",
   "label": "British Columbia practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in British Columbia: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
     "Use the British Columbia sources and the procedures for the actual service and setting.",
@@ -150,14 +150,15 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/foundations.md",
       "sourceCheckedAt": null,
-      "slug": "professional-foundations-british-columbia"
+      "slug": "professional-foundations-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -165,14 +166,15 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/care-support.md",
       "sourceCheckedAt": null,
-      "slug": "social-care-and-support-british-columbia-british-columbia"
+      "slug": "social-care-and-support-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -180,14 +182,15 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/mca.md",
       "sourceCheckedAt": null,
-      "slug": "decision-making-and-capacity-british-columbia-british-columbia"
+      "slug": "decision-making-and-capacity-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -195,14 +198,15 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/dols.md",
       "sourceCheckedAt": null,
-      "slug": "restrictions-and-liberty-british-columbia-british-columbia"
+      "slug": "restrictions-and-liberty-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -210,14 +214,15 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/mha.md",
       "sourceCheckedAt": null,
-      "slug": "mental-health-british-columbia-british-columbia"
+      "slug": "mental-health-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -225,14 +230,15 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/safeguarding.md",
       "sourceCheckedAt": null,
-      "slug": "safeguarding-and-family-violence-british-columbia-british-columbia"
+      "slug": "safeguarding-and-family-violence-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -240,14 +246,15 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Child participation, family support, child protection and transitions.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/children.md",
       "sourceCheckedAt": null,
-      "slug": "tamariki-rangatahi-and-wh-nau-british-columbia-british-columbia"
+      "slug": "tamariki-rangatahi-and-wh-nau-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -255,14 +262,15 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "canada-british-columbia",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/rights.md",
       "sourceCheckedAt": null,
-      "slug": "rights-culture-and-recording-british-columbia-british-columbia"
+      "slug": "rights-culture-and-recording-british-columbia-british-columbia",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -487,43 +495,43 @@
   "routeDetails": {
     "foundations": {
       "title": "Professional Foundations — British Columbia",
-      "action": "What is the purpose and limit of your role?",
-      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Confirm the practitioner’s role, regulatory position and any specific statutory designation.",
+      "record": "Explain the purpose of involvement, participation and confidentiality limits. Map the responsible health, community, child-service or Indigenous authority rather than treating all services as one system. Use supervision and continuing learning to test evidence, bias and the practical effect of decisions. Distinguish a BCCSW professional complaint from a health-authority, service, privacy or statutory decision review. Help the person identify which body can address the action or remedy in question."
     },
     "care-support": {
       "title": "Social Care and Support — British Columbia",
-      "action": "Which needs and outcomes belong to the person and to carers?",
-      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Contact the appropriate health-authority home and community care service for eligibility and needs assessment.",
+      "record": "Check general and service-specific criteria, including any relevant exception. Record assessed needs, family willingness, priority, costs and when support will actually begin. Obtain reasons and the applicable health-authority review or complaint process if access or service levels are disputed. Provincial guidance distinguishes complaints about care from appeals of home and community care service decisions. Use the current health-authority process and decision notice. A provider complaint will not necessarily review a funding or eligibility decision."
     },
     "mca": {
       "title": "Decision-Making and Capacity — British Columbia",
-      "action": "What is the precise decision and why is ability to decide questioned?",
-      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Support the adult’s own decision and apply the relevant statutory incapability test.",
+      "record": "Check any advance directive, representation agreement or committee order and its scope. Where the temporary substitute route applies, use the statutory priority and qualification requirements. Separate healthcare consent from admission and from personal or financial decisions under another framework. The Public Guardian and Trustee has relevant functions when a suitable substitute is unavailable or authority is disputed. Court or other statutory review may be needed depending on the issue. Explain the specific route and preserve the adult’s participation."
     },
     "dols": {
       "title": "Restrictions and Liberty — British Columbia",
-      "action": "What restrictions actually operate and how do they affect the person?",
-      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Describe the restriction, who enforces it and the adult’s wishes or objections.",
+      "record": "Identify the applicable facility, mental-health or designated-agency framework and the precise authority. Check any order, emergency condition, monitoring duty and limit on duration or scope. Explore alternatives and arrange the relevant independent support, complaint or legal review. Mental-health detention has review-panel and court routes; other disputed restrictions may require different legal advice or service-regulation responses. A healthcare substitute or a family member cannot be assumed to authorise every liberty restriction."
     },
     "mha": {
       "title": "Mental Health — British Columbia",
-      "action": "What is the purpose of each proposed intervention?",
-      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the route and evidence for each applicable criterion, including voluntary alternatives.",
+      "record": "Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — British Columbia",
-      "action": "How can the person be heard safely and privately?",
-      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the alleged harm and why the adult may be unable to seek assistance themselves.",
+      "record": "Refer to the designated agency appropriate to the person and setting. Arrange immediate safety and consider police or other statutory duties where needed. Separate voluntary support, investigation, emergency action and a court-backed support-and-assistance plan. Preserve the adult’s participation and use the Act’s principles concerning autonomy and effective, least intrusive support. A designated-agency investigation is not the same as appointing a substitute decision-maker. Obtain advice where an imposed plan or emergency power is proposed."
     },
     "children": {
       "title": "Children, Families and Transitions — British Columbia",
-      "action": "What does the child say or show about safety and daily life?",
-      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the concern and the child’s age, using the CFCSA reporting threshold.",
+      "record": "Make the report through the appropriate provincial or Indigenous-authority arrangements and address immediate danger. Record the child’s words, evidence, cultural relationships and actions taken. Coordinate support and participation while distinguishing a report, investigation, agreement and court measure. Explain who is responding and how the child and family can obtain advocacy, legal advice or a complaint review. Respect the applicable Indigenous jurisdiction and do not delay an urgent safety report while assuming that another organisation will act."
     },
     "rights": {
       "title": "Rights, Culture and Recording — British Columbia",
-      "action": "What makes participation accessible for this person?",
-      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the service decision, relevant right and responsible organisation.",
+      "record": "Consider accommodation, language, cultural safety and the person’s chosen supports. Check whether FIPPA, PIPA or another specific rule applies to the record and disclosure. Record the lawful purpose, necessary information, reasons and the access, correction or complaint route. The Office of the Information and Privacy Commissioner for BC addresses matters within FIPPA and PIPA; the Human Rights Tribunal addresses Code complaints. Professional and service complaints are separate. Help the person select the route that can address their concern."
     },
     "sources": {
       "title": "British Columbia Source Library",
@@ -537,24 +545,24 @@
       "title": "Professional Foundations — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking professional foundations in British Columbia?",
-          "answer": "Start with British Columbia College of Social Workers (BCCSW). Check the professional requirements for your role and the applicable law."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standards of Practice and the Social Workers Act provide the professional framework. Check the registration category, scope and any applicable statutory exemption or special role; a job title alone does not explain a practitioner’s regulatory position."
         },
         {
-          "prompt": "How does a formulation differ from a chronology?",
-          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships."
         },
         {
-          "prompt": "How can supervision test bias?",
-          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+          "prompt": "What are the key local actions?",
+          "answer": "Confirm the practitioner’s role, regulatory position and any specific statutory designation. Explain the purpose of involvement, participation and confidentiality limits. Map the responsible health, community, child-service or Indigenous authority rather than treating all services as one system. Use supervision and continuing learning to test evidence, bias and the practical effect of decisions."
         },
         {
-          "prompt": "What makes a professional record useful?",
-          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Distinguish a BCCSW professional complaint from a health-authority, service, privacy or statutory decision review. Help the person identify which body can address the action or remedy in question."
         },
         {
-          "prompt": "What makes reflective learning actionable?",
-          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming every social-work role has identical registration requirements or investigative powers."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Social Care and Support — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking social care and support in British Columbia?",
-          "answer": "Open BC government services from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "Publicly subsidised home and community care involves health-authority assessment, general eligibility and service-specific criteria. Provincial guidance addresses status, residence, age and health-related need, with exceptions to some general conditions. Do not convert a general criterion into an absolute exclusion without checking those exceptions."
         },
         {
-          "prompt": "Can family support be assumed?",
-          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Home support, long-term care, assisted living, CLBC supports and income assistance are different programmes. Needs assessment, access priority, client contribution and actual provision must be distinguished. The responsible office should explain which programme and policy support the decision."
         },
         {
-          "prompt": "Why distinguish assessment from funding?",
-          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+          "prompt": "What are the key local actions?",
+          "answer": "Contact the appropriate health-authority home and community care service for eligibility and needs assessment. Check general and service-specific criteria, including any relevant exception. Record assessed needs, family willingness, priority, costs and when support will actually begin. Obtain reasons and the applicable health-authority review or complaint process if access or service levels are disputed."
         },
         {
-          "prompt": "What belongs in a support plan?",
-          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Provincial guidance distinguishes complaints about care from appeals of home and community care service decisions. Use the current health-authority process and decision notice. A provider complaint will not necessarily review a funding or eligibility decision."
         },
         {
-          "prompt": "What if support is unavailable?",
-          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+          "prompt": "What common error should you avoid?",
+          "answer": "Applying general eligibility criteria without checking exceptions or treating an assessment as guaranteed service delivery."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "Decision-Making and Capacity — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking decision-making and capacity in British Columbia?",
-          "answer": "Open BC Laws from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "The Health Care (Consent) and Care Facility (Admission) Act has separate health-care and facility-admission provisions. The Representation Agreement Act and Patients Property Act provide other forms of authority. Identify the decision and the relevant document before deciding which route applies. For healthcare, the provider assesses whether the adult understands the relevant treatment information and its application to their own situation. Adapt communication to the adult’s abilities; a communication difference alone does not establish incapability."
         },
         {
-          "prompt": "Does a risky refusal alone establish inability to decide?",
-          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Where temporary substitute consent for healthcare is needed, the healthcare provider selects the first available qualified person in the statutory list. The person’s prior capable instructions or wishes and the Act’s decision standard matter. An available relative is not automatically entitled to displace an authorised representative or another person with priority."
         },
         {
-          "prompt": "What support can improve participation?",
-          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+          "prompt": "What are the key local actions?",
+          "answer": "Support the adult’s own decision and apply the relevant statutory incapability test. Check any advance directive, representation agreement or committee order and its scope. Where the temporary substitute route applies, use the statutory priority and qualification requirements. Separate healthcare consent from admission and from personal or financial decisions under another framework."
         },
         {
-          "prompt": "Does a family relationship establish decision-making authority?",
-          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Public Guardian and Trustee has relevant functions when a suitable substitute is unavailable or authority is disputed. Court or other statutory review may be needed depending on the issue. Explain the specific route and preserve the adult’s participation."
         },
         {
-          "prompt": "Why identify the exact decision?",
-          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using the temporary substitute list without checking an existing representative, or treating an agreement as unlimited authority."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Restrictions and Liberty — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking restrictions and liberty in British Columbia?",
-          "answer": "Open BC Laws and BC mental-health law from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "Care-facility admission consent, treatment consent and authority for restraint or detention are distinct. The Health Care (Consent) and Care Facility (Admission) Act, facility licensing rules and Mental Health Act may apply in different circumstances. Read the actual measure and legal setting rather than treating admission as permission for every restriction."
         },
         {
-          "prompt": "What should a restriction record describe?",
-          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Part 3 of the Adult Guardianship Act includes limited protective and emergency powers for designated agencies in defined circumstances. Those powers are not a general standing authority for a provider to confine an adult. The least intrusive response and the person’s wishes remain central to the assessment."
         },
         {
-          "prompt": "Does quiet behaviour demonstrate consent?",
-          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+          "prompt": "What are the key local actions?",
+          "answer": "Describe the restriction, who enforces it and the adult’s wishes or objections. Identify the applicable facility, mental-health or designated-agency framework and the precise authority. Check any order, emergency condition, monitoring duty and limit on duration or scope. Explore alternatives and arrange the relevant independent support, complaint or legal review."
         },
         {
-          "prompt": "Can provider policy alone establish legal authority?",
-          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Mental-health detention has review-panel and court routes; other disputed restrictions may require different legal advice or service-regulation responses. A healthcare substitute or a family member cannot be assumed to authorise every liberty restriction."
         },
         {
-          "prompt": "What should review consider?",
-          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating a protection referral or admission consent as authority for ongoing confinement."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Mental Health — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking mental health in British Columbia?",
-          "answer": "Open BC mental-health law from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "The Mental Health Act provides involuntary admission through medical certification and other defined routes. Section 22 addresses mental disorder requiring treatment, need for treatment in or through a designated facility, need for care, supervision and control to prevent substantial deterioration or protect the person or others, and inability to be suitably admitted voluntarily."
         },
         {
-          "prompt": "Why distinguish admission from treatment?",
-          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked."
         },
         {
-          "prompt": "What should happen alongside crisis assessment?",
-          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route."
         },
         {
-          "prompt": "Can a social worker use every mental-health power?",
-          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review."
         },
         {
-          "prompt": "What does a rights explanation cover?",
-          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+          "prompt": "What common error should you avoid?",
+          "answer": "Reducing certification to immediate dangerousness alone or importing another province’s consent rules."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Adult Safeguarding — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking adult safeguarding in British Columbia?",
-          "answer": "Open BC adult protection legislation from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "Part 3 of the Adult Guardianship Act concerns abuse, neglect or self-neglect where an adult cannot seek support and assistance because of the specified restraint, disability, illness, injury or decision-related conditions. Designated agencies must look into relevant reports. The statutory threshold and agency role should be stated explicitly."
         },
         {
-          "prompt": "Why offer a private conversation?",
-          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Designated agencies include regional health bodies and, within defined remits, CLBC and Providence Health Care. The Public Guardian and Trustee has different functions. An adult need not already be a service user for a relevant concern to be considered."
         },
         {
-          "prompt": "Is proof needed before checking reporting duties?",
-          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the alleged harm and why the adult may be unable to seek assistance themselves. Refer to the designated agency appropriate to the person and setting. Arrange immediate safety and consider police or other statutory duties where needed. Separate voluntary support, investigation, emergency action and a court-backed support-and-assistance plan."
         },
         {
-          "prompt": "What should a report contain?",
-          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Preserve the adult’s participation and use the Act’s principles concerning autonomy and effective, least intrusive support. A designated-agency investigation is not the same as appointing a substitute decision-maker. Obtain advice where an imposed plan or emergency power is proposed."
         },
         {
-          "prompt": "Does a referral complete the response?",
-          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating decisional incapability as the only reason an adult may qualify for assistance."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Children, Families and Transitions — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking children, families and transitions in British Columbia?",
-          "answer": "Open BC child protection from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "The Child, Family and Community Service Act (CFCSA) defines a child as a person under 19 and creates a duty to report where its protection conditions are engaged. Do not apply another province’s age boundary. A report should reach the appropriate child-protection authority; telling a supervisor alone is insufficient."
         },
         {
-          "prompt": "How should the child’s account be recorded?",
-          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Indigenous child and family service laws may apply, with provincial guidance explaining referral to an Indigenous authority where relevant. Establish the child’s legal and service context rather than assuming the provincial process is the only possible authority."
         },
         {
-          "prompt": "Can one child-protection model settle a legal threshold?",
-          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the concern and the child’s age, using the CFCSA reporting threshold. Make the report through the appropriate provincial or Indigenous-authority arrangements and address immediate danger. Record the child’s words, evidence, cultural relationships and actions taken. Coordinate support and participation while distinguishing a report, investigation, agreement and court measure."
         },
         {
-          "prompt": "What makes transition planning useful?",
-          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain who is responding and how the child and family can obtain advocacy, legal advice or a complaint review. Respect the applicable Indigenous jurisdiction and do not delay an urgent safety report while assuming that another organisation will act."
         },
         {
-          "prompt": "Why consider community and cultural relationships?",
-          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using another province’s reporting age or assuming that every Indigenous child’s case follows an identical provincial route."
         }
       ]
     },
@@ -719,24 +727,24 @@
       "title": "Rights, Culture and Recording — British Columbia",
       "cards": [
         {
-          "prompt": "Where should you begin checking rights, culture and recording in British Columbia?",
-          "answer": "Open BCCSW standards and resources from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in British Columbia practice guide?",
+          "answer": "The BC Human Rights Code applies to discrimination in its covered areas, while the Canadian Charter has a distinct scope. Indigenous rights and applicable Indigenous laws must be considered in the actual function, alongside professional cultural-safety responsibilities."
         },
         {
-          "prompt": "What is data minimisation?",
-          "answer": "Sharing only the information needed for the identified, lawful purpose."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Freedom of Information and Protection of Privacy Act (FIPPA) generally concerns public bodies, while the Personal Information Protection Act (PIPA) governs covered private organisations. Determine the organisation’s legal status and the information involved before applying collection, disclosure or access rules."
         },
         {
-          "prompt": "What is a culturally responsive first step?",
-          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the service decision, relevant right and responsible organisation. Consider accommodation, language, cultural safety and the person’s chosen supports. Check whether FIPPA, PIPA or another specific rule applies to the record and disclosure. Record the lawful purpose, necessary information, reasons and the access, correction or complaint route."
         },
         {
-          "prompt": "Why record disagreement?",
-          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Office of the Information and Privacy Commissioner for BC addresses matters within FIPPA and PIPA; the Human Rights Tribunal addresses Code complaints. Professional and service complaints are separate. Help the person select the route that can address their concern."
         },
         {
-          "prompt": "How do you compare alternatives?",
-          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming public-body and private-organisation privacy rules are interchangeable."
         }
       ]
     }
@@ -744,42 +752,42 @@
   "glossaryTerms": [
     {
       "term": "Professional Foundations",
-      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "definition": "The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standards of Practice and the Social Workers Act provide the professional framework. Check the registration category, scope and any applicable statutory exemption or special role; a job title alone does not explain a practitioner’s regulatory position.",
       "link": "foundations"
     },
     {
       "term": "Social Care and Support",
-      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "definition": "Publicly subsidised home and community care involves health-authority assessment, general eligibility and service-specific criteria. Provincial guidance addresses status, residence, age and health-related need, with exceptions to some general conditions. Do not convert a general criterion into an absolute exclusion without checking those exceptions.",
       "link": "care-support"
     },
     {
       "term": "Decision-Making and Capacity",
-      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "definition": "The Health Care (Consent) and Care Facility (Admission) Act has separate health-care and facility-admission provisions. The Representation Agreement Act and Patients Property Act provide other forms of authority. Identify the decision and the relevant document before deciding which route applies. For healthcare, the provider assesses whether the adult understands the relevant treatment information and its application to their own situation. Adapt communication to the adult’s abilities; a communication difference alone does not establish incapability.",
       "link": "mca"
     },
     {
       "term": "Restrictions and Liberty",
-      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "definition": "Care-facility admission consent, treatment consent and authority for restraint or detention are distinct. The Health Care (Consent) and Care Facility (Admission) Act, facility licensing rules and Mental Health Act may apply in different circumstances. Read the actual measure and legal setting rather than treating admission as permission for every restriction.",
       "link": "dols"
     },
     {
       "term": "Mental Health",
-      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "definition": "The Mental Health Act provides involuntary admission through medical certification and other defined routes. Section 22 addresses mental disorder requiring treatment, need for treatment in or through a designated facility, need for care, supervision and control to prevent substantial deterioration or protect the person or others, and inability to be suitably admitted voluntarily.",
       "link": "mha"
     },
     {
       "term": "Adult Safeguarding",
-      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "definition": "Part 3 of the Adult Guardianship Act concerns abuse, neglect or self-neglect where an adult cannot seek support and assistance because of the specified restraint, disability, illness, injury or decision-related conditions. Designated agencies must look into relevant reports. The statutory threshold and agency role should be stated explicitly.",
       "link": "safeguarding"
     },
     {
       "term": "Children, Families and Transitions",
-      "definition": "Child participation, family support, child protection and transitions.",
+      "definition": "The Child, Family and Community Service Act (CFCSA) defines a child as a person under 19 and creates a duty to report where its protection conditions are engaged. Do not apply another province’s age boundary. A report should reach the appropriate child-protection authority; telling a supervisor alone is insufficient.",
       "link": "children"
     },
     {
       "term": "Rights, Culture and Recording",
-      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "definition": "The BC Human Rights Code applies to discrimination in its covered areas, while the Canadian Charter has a distinct scope. Indigenous rights and applicable Indigenous laws must be considered in the actual function, alongside professional cultural-safety responsibilities.",
       "link": "rights"
     },
     {
@@ -1470,123 +1478,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and family support",
-      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "title": "Professional Foundations — British Columbia",
+      "summary": "A worker assumes that employment by a health authority automatically gives them the powers of a designated adult-protection investigator.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Check the organisation’s designation and the worker’s actual role, authority and procedure. Gather relevant social evidence within scope and arrange the appropriate designated-agency response. Employment and statutory investigative authority should not be conflated."
+    },
+    {
+      "title": "Social Care and Support — British Columbia",
+      "summary": "A recently arrived older adult is told that a general residence requirement means no assessment or alternative support can be considered.",
       "routes": [
         "care-support",
         "rights",
         "sources"
       ],
       "prompts": [
-        "Which needs and outcomes belong to the person and to carers?",
-        "Which service actually assesses and funds this support?",
-        "What happens if the proposed support is unavailable?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Check the published exceptions and the person’s actual health needs and circumstances. Identify any other relevant service while the eligibility question is resolved. Record reasons, interim support and the route for challenging the decision."
     },
     {
-      "title": "A decision and a refusal",
-      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "title": "Decision-Making and Capacity — British Columbia",
+      "summary": "A friend offers to consent to treatment because they visit most often, although a valid representation agreement may appoint somebody else.",
       "routes": [
         "mca",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the precise decision and why is ability to decide questioned?",
-        "What communication support would help?",
-        "Who has authority for this decision under the applicable law?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Assess the adult’s own ability and read the agreement. Determine the appropriate healthcare-consent route and priority before seeking consent. Frequent contact is useful evidence about wishes but does not by itself establish authority."
     },
     {
-      "title": "Restrictions and objections",
-      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "title": "Restrictions and Liberty — British Columbia",
+      "summary": "A care facility locks a resident’s door after an adult-protection referral and says the referral gives it authority to continue indefinitely.",
       "routes": [
         "dols",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What restrictions actually operate and how do they affect the person?",
-        "What authority is being relied upon?",
-        "How can the person challenge the arrangements?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Clarify whether any lawful emergency or court measure exists and its limits. Review the actual restriction and the adult’s wishes, arrange safer alternatives and obtain the appropriate legal or designated-agency advice. A referral itself confers no indefinite detention power."
     },
     {
-      "title": "Mental-health crisis",
-      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "title": "Mental Health — British Columbia",
+      "summary": "A person is detained and a worker assumes the treatment-consent process must be identical to the one used in a neighbouring province.",
       "routes": [
         "mha",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the purpose of each proposed intervention?",
-        "Who can assess or exercise the relevant power?",
-        "What voluntary or less restrictive support is available?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Read the BC provisions governing the person’s actual status and proposed treatment. Explain the specific review and second-opinion rights, and assess unrelated physical healthcare under its own framework. Avoid substituting a familiar out-of-province process."
     },
     {
-      "title": "Financial control",
-      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "title": "Adult Safeguarding — British Columbia",
+      "summary": "A person understands that a family member is taking money but is physically prevented from leaving home or contacting services.",
       "routes": [
         "safeguarding",
         "rights",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Consider the inability to seek assistance and the relevant designated-agency route rather than rejecting the concern because the person understands the abuse. Arrange safe communication, practical protection and any police response, with the adult’s wishes clearly recorded."
     },
     {
-      "title": "Moving into adult services",
-      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "title": "Children, Families and Transitions — British Columbia",
+      "summary": "A worker hears a serious concern about an 18-year-old and dismisses it because the worker previously practised where adult services began earlier.",
       "routes": [
         "children",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What does the child say or show about safety and daily life?",
-        "Which reporting duty and receiving agency apply?",
-        "How will education, health and family support coordinate?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Check the BC age definition and applicable protection conditions. Make the appropriate report and coordinate support with the young person’s participation. Identify any relevant Indigenous authority and transition arrangements rather than importing the former jurisdiction’s boundary."
     },
     {
-      "title": "Organisational concerns",
-      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "title": "Rights, Culture and Recording — British Columbia",
+      "summary": "A private community provider copies a public health authority’s privacy form and assumes that the same disclosure powers apply.",
       "routes": [
-        "safeguarding",
         "rights",
+        "foundations",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the British Columbia module and source library to identify the applicable framework."
-    },
-    {
-      "title": "Communication and agreement",
-      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
-      "routes": [
-        "rights",
-        "sources"
-      ],
-      "prompts": [
-        "What makes participation accessible for this person?",
-        "What legal basis permits disclosure of this information?",
-        "How will disagreement and reasons be recorded?"
-      ],
-      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the British Columbia module and source library to identify the applicable framework."
+      "reveal": "Determine the provider’s actual legal obligations and purpose of sharing. Revise the consent and information process to fit the applicable law, and record what the person was told. Similar work does not establish identical statutory powers."
     }
   ],
   "printableTemplates": [
@@ -1594,57 +1603,57 @@
       "id": "foundations",
       "title": "Professional Foundations",
       "fileName": "canada-british-columbia-foundations-prompt.txt",
-      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
-      "body": "Professional Foundations\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBritish Columbia College of Social Workers (BCCSW): https://bccsw.ca/\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
+      "body": "Professional Foundations\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe British Columbia College of Social Workers (BCCSW) Code of Ethics and Standards of Practice and the Social Workers Act provide the professional framework. Check the registration category, scope and any applicable statutory exemption or special role; a job title alone does not explain a practitioner’s regulatory position.\n\nHealth authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.\n\nLocal pathway:\nConfirm the practitioner’s role, regulatory position and any specific statutory designation.\nExplain the purpose of involvement, participation and confidentiality limits.\nMap the responsible health, community, child-service or Indigenous authority rather than treating all services as one system.\nUse supervision and continuing learning to test evidence, bias and the practical effect of decisions.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nDistinguish a BCCSW professional complaint from a health-authority, service, privacy or statutory decision review. Help the person identify which body can address the action or remedy in question.\n\nSources:\nhttps://bccsw.ca/for-registrants/standards-scope-of-practice/\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01\n"
     },
     {
       "id": "care-support",
       "title": "Social Care and Support",
       "fileName": "canada-british-columbia-care-support-prompt.txt",
-      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
-      "body": "Social Care and Support\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC government services: https://www2.gov.bc.ca/\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
+      "body": "Social Care and Support\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nPublicly subsidised home and community care involves health-authority assessment, general eligibility and service-specific criteria. Provincial guidance addresses status, residence, age and health-related need, with exceptions to some general conditions. Do not convert a general criterion into an absolute exclusion without checking those exceptions.\n\nHome support, long-term care, assisted living, CLBC supports and income assistance are different programmes. Needs assessment, access priority, client contribution and actual provision must be distinguished. The responsible office should explain which programme and policy support the decision.\n\nLocal pathway:\nContact the appropriate health-authority home and community care service for eligibility and needs assessment.\nCheck general and service-specific criteria, including any relevant exception.\nRecord assessed needs, family willingness, priority, costs and when support will actually begin.\nObtain reasons and the applicable health-authority review or complaint process if access or service levels are disputed.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nProvincial guidance distinguishes complaints about care from appeals of home and community care service decisions. Use the current health-authority process and decision notice. A provider complaint will not necessarily review a funding or eligibility decision.\n\nSources:\nhttps://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/are-you-eligible\nhttps://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/how-to-arrange-for-care\nhttps://www2.gov.bc.ca/gov/content/health/accessing-health-care/home-community-care/concerns-and-complaints\n"
     },
     {
       "id": "mca",
       "title": "Decision-Making and Capacity",
       "fileName": "canada-british-columbia-mca-prompt.txt",
-      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
-      "body": "Decision-Making and Capacity\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC Laws: https://www.bclaws.gov.bc.ca/\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
+      "body": "Decision-Making and Capacity\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Health Care (Consent) and Care Facility (Admission) Act has separate health-care and facility-admission provisions. The Representation Agreement Act and Patients Property Act provide other forms of authority. Identify the decision and the relevant document before deciding which route applies. For healthcare, the provider assesses whether the adult understands the relevant treatment information and its application to their own situation. Adapt communication to the adult’s abilities; a communication difference alone does not establish incapability.\n\nWhere temporary substitute consent for healthcare is needed, the healthcare provider selects the first available qualified person in the statutory list. The person’s prior capable instructions or wishes and the Act’s decision standard matter. An available relative is not automatically entitled to displace an authorised representative or another person with priority.\n\nLocal pathway:\nSupport the adult’s own decision and apply the relevant statutory incapability test.\nCheck any advance directive, representation agreement or committee order and its scope.\nWhere the temporary substitute route applies, use the statutory priority and qualification requirements.\nSeparate healthcare consent from admission and from personal or financial decisions under another framework.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nThe Public Guardian and Trustee has relevant functions when a suitable substitute is unavailable or authority is disputed. Court or other statutory review may be needed depending on the issue. Explain the specific route and preserve the adult’s participation.\n\nSources:\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96181_01\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96405_01\n"
     },
     {
       "id": "dols",
       "title": "Restrictions and Liberty",
       "fileName": "canada-british-columbia-dols-prompt.txt",
-      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
-      "body": "Restrictions and Liberty\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC Laws: https://www.bclaws.gov.bc.ca/\nBC mental-health law: https://www.bclaws.gov.bc.ca/\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
+      "body": "Restrictions and Liberty\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nCare-facility admission consent, treatment consent and authority for restraint or detention are distinct. The Health Care (Consent) and Care Facility (Admission) Act, facility licensing rules and Mental Health Act may apply in different circumstances. Read the actual measure and legal setting rather than treating admission as permission for every restriction.\n\nPart 3 of the Adult Guardianship Act includes limited protective and emergency powers for designated agencies in defined circumstances. Those powers are not a general standing authority for a provider to confine an adult. The least intrusive response and the person’s wishes remain central to the assessment.\n\nLocal pathway:\nDescribe the restriction, who enforces it and the adult’s wishes or objections.\nIdentify the applicable facility, mental-health or designated-agency framework and the precise authority.\nCheck any order, emergency condition, monitoring duty and limit on duration or scope.\nExplore alternatives and arrange the relevant independent support, complaint or legal review.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nMental-health detention has review-panel and court routes; other disputed restrictions may require different legal advice or service-regulation responses. A healthcare substitute or a family member cannot be assumed to authorise every liberty restriction.\n\nSources:\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96006_01\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96181_01\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01\n"
     },
     {
       "id": "mha",
       "title": "Mental Health",
       "fileName": "canada-british-columbia-mha-prompt.txt",
-      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
-      "body": "Mental Health\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC mental-health law: https://www.bclaws.gov.bc.ca/\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
+      "body": "Mental Health\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Health Act provides involuntary admission through medical certification and other defined routes. Section 22 addresses mental disorder requiring treatment, need for treatment in or through a designated facility, need for care, supervision and control to prevent substantial deterioration or protect the person or others, and inability to be suitably admitted voluntarily.\n\nThe statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.\n\nLocal pathway:\nIdentify the route and evidence for each applicable criterion, including voluntary alternatives.\nCheck certificates, dates, notices and renewal or review requirements.\nIdentify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.\nArrange rights advice, access to a review panel or court process and the applicable second-opinion route.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review.\n\nSources:\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01\n"
     },
     {
       "id": "safeguarding",
       "title": "Adult Safeguarding",
       "fileName": "canada-british-columbia-safeguarding-prompt.txt",
-      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
-      "body": "Adult Safeguarding\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC adult protection legislation: https://www.bclaws.gov.bc.ca/\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
+      "body": "Adult Safeguarding\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nPart 3 of the Adult Guardianship Act concerns abuse, neglect or self-neglect where an adult cannot seek support and assistance because of the specified restraint, disability, illness, injury or decision-related conditions. Designated agencies must look into relevant reports. The statutory threshold and agency role should be stated explicitly.\n\nDesignated agencies include regional health bodies and, within defined remits, CLBC and Providence Health Care. The Public Guardian and Trustee has different functions. An adult need not already be a service user for a relevant concern to be considered.\n\nLocal pathway:\nIdentify the alleged harm and why the adult may be unable to seek assistance themselves.\nRefer to the designated agency appropriate to the person and setting.\nArrange immediate safety and consider police or other statutory duties where needed.\nSeparate voluntary support, investigation, emergency action and a court-backed support-and-assistance plan.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nPreserve the adult’s participation and use the Act’s principles concerning autonomy and effective, least intrusive support. A designated-agency investigation is not the same as appointing a substitute decision-maker. Obtain advice where an imposed plan or emergency power is proposed.\n\nSources:\nhttps://www.trustee.bc.ca/adults/protecting-vulnerable-adult-abuse-neglect-or-self-neglect\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96006_01\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11_19_2002\n"
     },
     {
       "id": "children",
       "title": "Children, Families and Transitions",
       "fileName": "canada-british-columbia-children-prompt.txt",
-      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
-      "body": "Children, Families and Transitions\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBC child protection: https://www2.gov.bc.ca/gov/content/safety/public-safety/protecting-children\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
+      "body": "Children, Families and Transitions\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Child, Family and Community Service Act (CFCSA) defines a child as a person under 19 and creates a duty to report where its protection conditions are engaged. Do not apply another province’s age boundary. A report should reach the appropriate child-protection authority; telling a supervisor alone is insufficient.\n\nIndigenous child and family service laws may apply, with provincial guidance explaining referral to an Indigenous authority where relevant. Establish the child’s legal and service context rather than assuming the provincial process is the only possible authority.\n\nLocal pathway:\nIdentify the concern and the child’s age, using the CFCSA reporting threshold.\nMake the report through the appropriate provincial or Indigenous-authority arrangements and address immediate danger.\nRecord the child’s words, evidence, cultural relationships and actions taken.\nCoordinate support and participation while distinguishing a report, investigation, agreement and court measure.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain who is responding and how the child and family can obtain advocacy, legal advice or a complaint review. Respect the applicable Indigenous jurisdiction and do not delay an urgent safety report while assuming that another organisation will act.\n\nSources:\nhttps://www2.gov.bc.ca/gov/content/safety/public-safety/protecting-children/reporting-child-abuse\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96046_01\n"
     },
     {
       "id": "rights",
       "title": "Rights, Culture and Recording",
       "fileName": "canada-british-columbia-rights-prompt.txt",
-      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
-      "body": "Rights, Culture and Recording\nBritish Columbia practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nBCCSW standards and resources: https://bccsw.ca/\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
+      "body": "Rights, Culture and Recording\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe BC Human Rights Code applies to discrimination in its covered areas, while the Canadian Charter has a distinct scope. Indigenous rights and applicable Indigenous laws must be considered in the actual function, alongside professional cultural-safety responsibilities.\n\nThe Freedom of Information and Protection of Privacy Act (FIPPA) generally concerns public bodies, while the Personal Information Protection Act (PIPA) governs covered private organisations. Determine the organisation’s legal status and the information involved before applying collection, disclosure or access rules.\n\nLocal pathway:\nIdentify the service decision, relevant right and responsible organisation.\nConsider accommodation, language, cultural safety and the person’s chosen supports.\nCheck whether FIPPA, PIPA or another specific rule applies to the record and disclosure.\nRecord the lawful purpose, necessary information, reasons and the access, correction or complaint route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nThe Office of the Information and Privacy Commissioner for BC addresses matters within FIPPA and PIPA; the Human Rights Tribunal addresses Code complaints. Professional and service complaints are separate. Help the person select the route that can address their concern.\n\nSources:\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96210_01\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00\n"
     },
     {
       "id": "supervision",
@@ -1665,42 +1674,42 @@
     {
       "title": "Professional Foundations",
       "resource": "foundations",
-      "task": "Using a fictional British Columbia case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+      "task": "Confirm the practitioner’s role, regulatory position and any specific statutory designation. Work through the fictional case and explain: Assuming every social-work role has identical registration requirements or investigative powers."
     },
     {
       "title": "Social Care and Support",
       "resource": "care-support",
-      "task": "Using a fictional British Columbia case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+      "task": "Contact the appropriate health-authority home and community care service for eligibility and needs assessment. Work through the fictional case and explain: Applying general eligibility criteria without checking exceptions or treating an assessment as guaranteed service delivery."
     },
     {
       "title": "Decision-Making and Capacity",
       "resource": "mca",
-      "task": "Using a fictional British Columbia case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+      "task": "Support the adult’s own decision and apply the relevant statutory incapability test. Work through the fictional case and explain: Using the temporary substitute list without checking an existing representative, or treating an agreement as unlimited authority."
     },
     {
       "title": "Restrictions and Liberty",
       "resource": "dols",
-      "task": "Using a fictional British Columbia case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+      "task": "Describe the restriction, who enforces it and the adult’s wishes or objections. Work through the fictional case and explain: Treating a protection referral or admission consent as authority for ongoing confinement."
     },
     {
       "title": "Mental Health",
       "resource": "mha",
-      "task": "Using a fictional British Columbia case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+      "task": "Identify the route and evidence for each applicable criterion, including voluntary alternatives. Work through the fictional case and explain: Reducing certification to immediate dangerousness alone or importing another province’s consent rules."
     },
     {
       "title": "Adult Safeguarding",
       "resource": "safeguarding",
-      "task": "Using a fictional British Columbia case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+      "task": "Identify the alleged harm and why the adult may be unable to seek assistance themselves. Work through the fictional case and explain: Treating decisional incapability as the only reason an adult may qualify for assistance."
     },
     {
       "title": "Children, Families and Transitions",
       "resource": "children",
-      "task": "Using a fictional British Columbia case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+      "task": "Identify the concern and the child’s age, using the CFCSA reporting threshold. Work through the fictional case and explain: Using another province’s reporting age or assuming that every Indigenous child’s case follows an identical provincial route."
     },
     {
       "title": "Rights, Culture and Recording",
       "resource": "rights",
-      "task": "Using a fictional British Columbia case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+      "task": "Identify the service decision, relevant right and responsible organisation. Work through the fictional case and explain: Assuming public-body and private-organisation privacy rules are interchangeable."
     }
   ],
   "toolCount": 9,

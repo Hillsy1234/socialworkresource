@@ -1,48 +1,72 @@
-# Source Library — Ontario
+# Source Library — Ontario practice guide
+
 
 ## Professional starting point
 
-- [Ontario College of Social Workers and Social Service Workers (OCSWSSW)](https://www.ocswssw.org/sop/)
 
-## Sources by topic
+Ontario College of Social Workers and Social Service Workers (OCSWSSW)
 
-### Professional Foundations
 
-- [Ontario College of Social Workers and Social Service Workers (OCSWSSW)](https://www.ocswssw.org/sop/)
+## Official sources by topic
 
-### Social Care and Support
 
-- [Ontario service information](https://www.ontario.ca/)
+### Professional Foundations — Ontario
 
-### Decision-Making and Capacity
+- [OCSWSSW Code and Standards](https://www.ocswssw.org/sop/)
+- [Social Work and Social Service Work Act 1998](https://www.ontario.ca/laws/statute/98s31)
 
-- [Ontario mental capacity](https://www.ontario.ca/page/mental-capacity)
 
-### Restrictions and Liberty
+### Social Care and Support — Ontario
 
-- [Ontario mental capacity](https://www.ontario.ca/page/mental-capacity)
-- [Ontario e-Laws](https://www.ontario.ca/laws)
+- [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
 
-### Mental Health
 
-- [Ontario e-Laws](https://www.ontario.ca/laws)
+### Decision-Making and Capacity — Ontario
 
-### Adult Safeguarding
+- [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
+- [Substitute Decisions Act 1992](https://www.ontario.ca/laws/statute/92s30)
 
-- [Ontario professional standards](https://www.ocswssw.org/sop/)
 
-### Children, Families and Transitions
+### Restrictions and Liberty — Ontario
 
-- [Ontario child protection](https://www.ontario.ca/page/report-child-abuse-and-neglect)
+- [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
+- [Fixing Long-Term Care Act 2021](https://www.ontario.ca/laws/statute/21f39)
+- [Mental Health Act](https://www.ontario.ca/laws/statute/90m07)
 
-### Rights, Culture and Recording
 
-- [Ontario standards: confidentiality](https://www.ocswssw.org/sop/)
+### Mental Health — Ontario
+
+- [Ontario Mental Health Act](https://www.ontario.ca/laws/statute/90m07)
+- [Ontario information for voluntary patients](https://www.ontario.ca/files/2024-05/moh-information-guide-voluntary-patients-en-2024-05-21.pdf)
+- [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
+
+
+### Adult Safeguarding — Ontario
+
+- [Ontario elder-abuse information](https://www.ontario.ca/page/information-about-elder-abuse)
+- [Retirement Homes Act 2010](https://www.ontario.ca/laws/statute/10r11)
+- [Fixing Long-Term Care Act 2021](https://www.ontario.ca/laws/statute/21f39)
+
+
+### Children, Families and Transitions — Ontario
+
+- [CYFSA reporting guidance](https://files.ontario.ca/pdf-3/mccss-report-child-abuse-and-neglect-en-2022-03-31.pdf)
+- [Child, Youth and Family Services Act 2017](https://www.ontario.ca/laws/statute/17c14)
+
+
+### Rights, Culture and Recording — Ontario
+
+- [Personal Health Information Protection Act 2004](https://www.ontario.ca/laws/statute/04p03)
+- [Ontario Human Rights Code](https://www.ontario.ca/laws/statute/90h19)
+- [OCSWSSW legislation and confidentiality guidance](https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/)
+
 
 ## How to verify a rule
 
-Open the official source, check its publisher, current version, territorial scope and commencement, then identify the relevant provision and local service procedure. Record the exact link and date accessed. A portal link is a starting point, not evidence that every provision has been checked.
+Identify territorial scope, current consolidated text, amendments and commencement, then the applicable statutory guidance and service procedure. An enactment announcement or portal is not proof that every provision is in force.
+
 
 ## Editorial status
 
-Final learning-guide release, 8 September 2026. Professional-body references were checked during the editorial review. Independent practitioner review has not been recorded. Software checks verify rendering and references, not the correctness of every legal interpretation.
+Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.

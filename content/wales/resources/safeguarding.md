@@ -35,3 +35,39 @@ Fictional example: Rhys needs help with meals and finances. A relative has moved
 ## Recording check
 
 Use the safeguarding prompt to document the three statutory elements, evidence and gaps, the adult's wishes, communication/advocacy needs, reporting duty considered, information shared, interim safety action and the responsible contact. Keep allegations and findings distinct. Revisit the plan when new facts or wishes emerge.
+
+<!-- curriculum-expansion -->
+
+## Further local practice detail
+
+Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different.
+
+A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
+
+### Decision pathway
+
+- Record evidence against the adult-at-risk elements and address immediate safety.
+- Identify your reporting responsibility and the authority responsible for enquiries.
+- Use the Wales Safeguarding Procedures and the applicable statutory guidance.
+- Record participation, lawful sharing, accepted responsibilities and review of outcomes.
+
+### Challenge and review in this pathway
+
+Explain the local-authority and provider complaint processes and relevant advocacy or legal support. A safeguarding referral does not automatically authorise removal, treatment or management of finances. Check the law for the particular proposed action.
+
+### Additional worked case
+
+Fictional case: An adult understands a relative’s financial demands but relies on that person for meals and fears losing contact if they report.
+
+Consider the protection criteria, dependency and safe ways to hear the adult. Arrange immediate practical help and the appropriate report or enquiries. Understanding the financial transaction does not by itself show that the adult can protect themselves.
+
+Common error to avoid: Using capacity as the only safeguarding threshold or treating reporting and enquiries as the same duty.
+
+### Sources for the expanded lesson
+
+- [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
+- [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
+- [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
+
+Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.

@@ -1,28 +1,68 @@
 # Adult Safeguarding — British Columbia
 
-## British Columbia context
+## Learning outcomes
 
-Locate Part 3 of the Adult Guardianship Act and identify the designated-agency pathway for the circumstances. Distinguish reporting a concern from authority to investigate, offer support or intervene.
+Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.
 
-## Practice enquiry
+## Local legislation, policy and professional framework
 
-Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Start with the person’s account and distinguish information received from observations and interpretation.
+Part 3 of the Adult Guardianship Act concerns abuse, neglect or self-neglect where an adult cannot seek support and assistance because of the specified restraint, disability, illness, injury or decision-related conditions. Designated agencies must look into relevant reports. The statutory threshold and agency role should be stated explicitly.
 
-- How can the person be heard safely and privately?
-- Which reporting pathway applies to this person and setting?
-- What immediate action and follow-up are required?
+Designated agencies include regional health bodies and, within defined remits, CLBC and Providence Health Care. The Public Guardian and Trustee has different functions. An adult need not already be a service user for a relevant concern to be considered.
 
-## Recording and review
+## Enquire safely and proportionately
 
-1. Concern and source of information.
-2. Person’s account and desired outcomes.
-3. Immediate safety and safe contact.
-4. Applicable reporting route.
-5. Consent or other information-sharing basis.
-6. Action owner, escalation and review.
+Start with immediate danger and the safest way to communicate. A private conversation may reveal concerns that cannot be expressed in front of a relative, carer or staff member. Check whether telephone calls, letters or messages could expose the person to retaliation. Use independent communication support where a proposed interpreter may have a conflict of interest.
 
-Explain the reasons for the proposed action, record disagreement and identify who will review the outcome. Check the local legal criteria before treating any learning prompt as a duty or power.
+Record the nature of the concern, its source, the person's own words and any observed injuries, living conditions or financial issues. Distinguish a disclosure, a suspicion and a confirmed finding. Do not wait to conduct your own investigation before acting on a reporting duty. Equally, avoid leading questions or repeated interviewing that may distress the person or compromise another agency's investigation.
 
-## Official starting points
+## Combine protection with participation
 
-- [BC adult protection legislation](https://www.bclaws.gov.bc.ca/)
+Ask what the person wants to change and what they fear might happen after a report. Assess coercion, dependency and practical barriers alongside decision-making ability. A person may understand a risk yet be unable to obtain food, leave safely or resist somebody controlling their money. Support, reporting and authority to impose an intervention are separate questions.
+
+Agree what information needs sharing, with whom and on what legal basis. Where sharing is required or justified without consent, record the reason and explain it to the person when safe and appropriate. Make a plan for immediate needs, follow-up contact and responsibility between agencies. A referral does not establish that somebody has accepted the concern. Confirm receipt, escalate unresolved danger and review whether the action has improved safety in the person's own terms.
+
+## Apply the local pathway
+
+- Identify the alleged harm and why the adult may be unable to seek assistance themselves.
+- Refer to the designated agency appropriate to the person and setting.
+- Arrange immediate safety and consider police or other statutory duties where needed.
+- Separate voluntary support, investigation, emergency action and a court-backed support-and-assistance plan.
+
+## Rights, challenge and review
+
+Preserve the adult’s participation and use the Act’s principles concerning autonomy and effective, least intrusive support. A designated-agency investigation is not the same as appointing a substitute decision-maker. Obtain advice where an imposed plan or emergency power is proposed.
+
+## Worked learning example
+
+Fictional case: A person understands that a family member is taking money but is physically prevented from leaving home or contacting services.
+
+Before reading the discussion, identify the relevant decision, the missing evidence and the person who can lawfully act.
+
+### Discussion and reasoning
+
+Consider the inability to seek assistance and the relevant designated-agency route rather than rejecting the concern because the person understands the abuse. Arrange safe communication, practical protection and any police response, with the adult’s wishes clearly recorded.
+
+### Common error to avoid
+
+Treating decisional incapability as the only reason an adult may qualify for assistance.
+
+## Recording and supervision exercise
+
+Use the matching printable prompt to make a short record for this case. Include:
+
+- Concern, source, chronology and the adult’s own account
+- Immediate safety and a safe communication method
+- The local reporting threshold, recipient and timing
+- Consent, coercion and information-sharing basis
+- Accepted responsibilities, outcomes and follow-up
+
+Ask a supervisor to identify a missing fact that could change your conclusion. Revise the plan to show who will obtain that fact and what happens while it remains uncertain.
+
+## Official sources and currency
+
+- [PGT: protecting an adult from abuse or neglect](https://www.trustee.bc.ca/adults/protecting-vulnerable-adult-abuse-neglect-or-self-neglect)
+- [Adult Guardianship Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96006_01)
+- [Designated Agencies Regulation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11_19_2002)
+
+Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.

@@ -131,3 +131,38 @@ Take a case you know well and write a 10-line analysis:
 
 - [Social Care Wales Code](https://socialcare.wales/codes-of-practice-and-guidance/code-of-professional-practice-for-social-care-workers)
 - [Practice guidance](https://socialcare.wales/codes-of-practice-and-guidance/practice-guidance-for-the-code-of-professional-practice)
+
+<!-- curriculum-expansion -->
+
+## Further local practice detail
+
+Social Care Wales’s new Codes of Professional Practice took effect in July 2026. Use the current worker Code and distinguish it from the employer Code, local-authority procedures and statutory appointments. The professional framework applies across different settings, but the legal power for an intervention depends on the actual function.
+
+A person’s preferred language and ability to participate belong in the first conversation, formulation and plan. Record how supervision, feedback and professional learning change practice rather than only listing completed training.
+
+### Decision pathway
+
+- Check the current Social Care Wales Code and the requirements of the actual role.
+- Explain the legal or voluntary purpose of involvement and confidentiality limits.
+- Make language, accessibility, power and service barriers visible in assessment.
+- Distinguish a professional concern, service complaint and statutory decision challenge.
+
+### Challenge and review in this pathway
+
+Social Care Wales addresses professional regulation; the local authority, provider and relevant statutory review bodies address different service decisions. Explain the route that can provide the remedy the person seeks.
+
+### Additional worked case
+
+Fictional case: A worker uses an old professional-code handout and an English-only assessment despite a request for Welsh-language support.
+
+Use the current Code, arrange appropriate communication and revisit any assessment conclusions affected by the barrier. Link the change to supervision and feedback from the person.
+
+Common error to avoid: Treating an old induction handout as the current professional standard.
+
+### Sources for the expanded lesson
+
+- [New professional Codes, July 2026](https://socialcare.wales/news-stories/new-codes-of-professional-practice)
+- [Social Care Wales worker Code](https://socialcare.wales/codes-of-practice-and-guidance/code-of-professional-practice-for-social-care-workers)
+- [Practice guidance](https://socialcare.wales/codes-of-practice-and-guidance/practice-guidance-for-the-code-of-professional-practice)
+
+Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.

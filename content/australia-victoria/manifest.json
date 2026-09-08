@@ -1,7 +1,7 @@
 {
   "id": "australia-victoria",
   "label": "Victoria practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in Victoria: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
     "Use the Victoria sources and the procedures for the actual service and setting.",
@@ -150,14 +150,15 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/foundations.md",
       "sourceCheckedAt": null,
-      "slug": "professional-foundations-victoria"
+      "slug": "professional-foundations-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -165,14 +166,15 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/care-support.md",
       "sourceCheckedAt": null,
-      "slug": "social-care-and-support-victoria-victoria"
+      "slug": "social-care-and-support-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -180,14 +182,15 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Decision support, consent and the authority for someone else to decide.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/mca.md",
       "sourceCheckedAt": null,
-      "slug": "decision-making-and-capacity-victoria-victoria"
+      "slug": "decision-making-and-capacity-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -195,14 +198,15 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Restrictions, legal authority, less restrictive options and review.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/dols.md",
       "sourceCheckedAt": null,
-      "slug": "restrictions-and-liberty-victoria-victoria"
+      "slug": "restrictions-and-liberty-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -210,14 +214,15 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Mental-health support, crisis response, treatment and rights.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/mha.md",
       "sourceCheckedAt": null,
-      "slug": "mental-health-victoria-victoria"
+      "slug": "mental-health-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -225,14 +230,15 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/safeguarding.md",
       "sourceCheckedAt": null,
-      "slug": "safeguarding-and-family-violence-victoria-victoria"
+      "slug": "safeguarding-and-family-violence-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -240,14 +246,15 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Child participation, family support, child protection and transitions.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/children.md",
       "sourceCheckedAt": null,
-      "slug": "tamariki-rangatahi-and-wh-nau-victoria-victoria"
+      "slug": "tamariki-rangatahi-and-wh-nau-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -255,14 +262,15 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, privacy, cultural safety and clear recording.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "australia-victoria",
       "status": "learning-guide",
       "practiceReviewedAt": null,
       "path": "content/australia-victoria/resources/rights.md",
       "sourceCheckedAt": null,
-      "slug": "rights-culture-and-recording-victoria-victoria"
+      "slug": "rights-culture-and-recording-victoria-victoria",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -487,43 +495,43 @@
   "routeDetails": {
     "foundations": {
       "title": "Professional Foundations — Victoria",
-      "action": "What is the purpose and limit of your role?",
-      "record": "Professional role, ethics, competence, supervision and accountable decisions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the employer, state, service setting and any appointment required for the task.",
+      "record": "Explain the professional role, consent and confidentiality limits before assessment. Consider power, racism, disability and material barriers alongside individual and family strengths. Use supervision and learning to test the effect of practice on the person, with the current AASW standards as a professional reference. Distinguish an employer complaint, a professional-association concern and a statutory regulator or tribunal route. The relevant health, disability, aged-care or child-protection body depends on the issue. A professional membership complaint is not an appeal against a state or Commonwealth funding decision."
     },
     "care-support": {
       "title": "Social Care and Support — Victoria",
-      "action": "Which needs and outcomes belong to the person and to carers?",
-      "record": "Needs, strengths, access to support, family responsibilities and service planning. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the scheme responsible for each need and the evidence required for its assessment.",
+      "record": "Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision. For an NDIA decision, identify whether an internal review and subsequent Administrative Review Tribunal route are available and check the decision notice’s time limits. A provider complaint to the NDIS Commission is different from a funding review. Aged-care complaints and assessment reviews use their own routes."
     },
     "mca": {
       "title": "Decision-Making and Capacity — Victoria",
-      "action": "What is the precise decision and why is ability to decide questioned?",
-      "record": "Decision support, consent and the authority for someone else to decide. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Support the person to make the specific decision and assess the relevant decision-making ability.",
+      "record": "Check for a valid, applicable instructional directive and distinguish it from a values statement. Identify the medical treatment decision maker under the applicable appointment or hierarchy. For a separate personal or financial issue, verify the scope of the relevant guardian, administrator or other arrangement. The Office of the Public Advocate (OPA) explains healthcare decision-making and routes where no appropriate decision maker is available. VCAT has relevant guardianship and other statutory functions. Disputed authority or treatment requires the route applicable to that decision, not a general family vote."
     },
     "dols": {
       "title": "Restrictions and Liberty — Victoria",
-      "action": "What restrictions actually operate and how do they affect the person?",
-      "record": "Restrictions, legal authority, less restrictive options and review. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the actual restriction, setting and whether the disability, mental-health or aged-care framework applies.",
+      "record": "For the disability route, check the Authorised Program Officer and Senior Practitioner requirements and current prohibitions. Check NDIS plan, authorisation and incident-reporting requirements separately where they apply. Record participation, alternatives, conditions, review and the strategy for reducing the restriction. OPA, advocacy services and the relevant regulator can assist with concerns within their remits. The person needs a usable way to object and seek the applicable legal or administrative review. A guardian’s agreement does not remove the statutory restrictions on restraint."
     },
     "mha": {
       "title": "Mental Health — Victoria",
-      "action": "What is the purpose of each proposed intervention?",
-      "record": "Mental-health support, crisis response, treatment and rights. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the stage, authorised practitioner and exact statutory criteria.",
+      "record": "Record the person’s preferences, available voluntary alternatives and why the proposed order is necessary. Check advance statements of preferences, nominated support persons and supported decision-making requirements. Separate treatment consent, any statutory treatment authority and additional safeguards for particular interventions. Explain the statement of rights, non-legal advocacy, second psychiatric opinion and Mental Health Tribunal routes. Current handbook guidance describes their application. A nominated support person assists participation; their role should not be treated as a general substitute-consent appointment."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — Victoria",
-      "action": "How can the person be heard safely and privately?",
-      "record": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Hear the adult safely and identify immediate danger, coercion and practical dependence.",
+      "record": "Identify whether the concern involves family violence, a disability or aged-care provider, another service or crime. Use the relevant specialist, police and regulatory routes, checking any mandatory reporting duty. Plan safe contact, practical support and follow-up without assuming that a referral authorises coercive action. Explain the appropriate complaint, advocacy or court route for the issue. OPA can provide information about decision-making and rights within its remit. Keep the adult’s wishes and the legal authority for any intervention visible, including where agencies disagree."
     },
     "children": {
       "title": "Children, Families and Transitions — Victoria",
-      "action": "What does the child say or show about safety and daily life?",
-      "record": "Child participation, family support, child protection and transitions. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Check the actual professional or employment category and the applicable reporting duty.",
+      "record": "Report to Child Protection as soon as practicable where the duty is engaged, including new grounds arising later. Consider a support referral to The Orange Door where appropriate, without substituting it for a required protection report. Check separate police and organisational duties, and plan child participation, cultural support and continuity. Explain the Child Protection process and the child’s and family’s access to support or legal advice. DFFH guidance distinguishes reporting routes from family-support referrals. Advice within an organisation should not delay an applicable personal reporting obligation."
     },
     "rights": {
       "title": "Rights, Culture and Recording — Victoria",
-      "action": "What makes participation accessible for this person?",
-      "record": "Participation, privacy, cultural safety and clear recording. Record the source, evidence, alternatives, responsible person and review."
+      "action": "Identify the relevant Charter rights and whether the decision-maker is a covered public authority.",
+      "record": "Consider the actual impact, alternatives and any lawful basis for limiting a right. Arrange accessible and culturally safe participation and address applicable equality obligations. Check the relevant privacy regime and explain access, correction, complaints and review. The Victorian Equal Opportunity and Human Rights Commission explains Charter duties and discrimination. Privacy and health complaints use their respective bodies and statutory routes. Obtain advice about the remedy for an alleged Charter breach rather than promising that every concern has a standalone Charter claim."
     },
     "sources": {
       "title": "Victoria Source Library",
@@ -537,24 +545,24 @@
       "title": "Professional Foundations — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking professional foundations in Victoria?",
-          "answer": "Start with Australian Association of Social Workers (AASW). Check the professional requirements for your role and the applicable law."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "The Australian Association of Social Workers (AASW) Code of Ethics and Practice Standards provide a professional framework. AASW membership or accreditation, an employer requirement and statutory authority are different matters. Check the requirements for the actual role and state rather than presenting the professional association as the source of every legal power."
         },
         {
-          "prompt": "How does a formulation differ from a chronology?",
-          "answer": "It connects evidence, the person’s perspective and possible explanations to a reasoned plan."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Practice should attend to Aboriginal and Torres Strait Islander peoples’ self-determination, cultural safety and the effects of colonisation. Ask which community-controlled organisations or cultural supports the person wants involved. Professional values need to be connected to the state law governing the particular intervention."
         },
         {
-          "prompt": "How can supervision test bias?",
-          "answer": "Ask what evidence challenges your preferred explanation and whose perspective is missing."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the employer, state, service setting and any appointment required for the task. Explain the professional role, consent and confidentiality limits before assessment. Consider power, racism, disability and material barriers alongside individual and family strengths. Use supervision and learning to test the effect of practice on the person, with the current AASW standards as a professional reference."
         },
         {
-          "prompt": "What makes a professional record useful?",
-          "answer": "It distinguishes observations, reported information, analysis, actions and review responsibilities."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Distinguish an employer complaint, a professional-association concern and a statutory regulator or tribunal route. The relevant health, disability, aged-care or child-protection body depends on the issue. A professional membership complaint is not an appeal against a state or Commonwealth funding decision."
         },
         {
-          "prompt": "What makes reflective learning actionable?",
-          "answer": "A specific change to practice, a way to seek feedback and a date to revisit its impact."
+          "prompt": "What common error should you avoid?",
+          "answer": "Equating association membership, clinical experience or a job title with every statutory appointment."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Social Care and Support — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking social care and support in Victoria?",
-          "answer": "Open NDIS and service access from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "Disability support through the NDIS, state health and housing services, and Commonwealth aged care have separate entry and funding rules. NDIS access involves age, residence and disability or early-intervention requirements; a diagnosis alone does not establish entitlement to a particular funded support. Check current NDIA rules for the actual application or plan."
         },
         {
-          "prompt": "Can family support be assumed?",
-          "answer": "No. Explore willingness, ability and sustainability with each person involved."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates."
         },
         {
-          "prompt": "Why distinguish assessment from funding?",
-          "answer": "A description of need does not itself determine eligibility, availability or costs under a particular programme."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision."
         },
         {
-          "prompt": "What belongs in a support plan?",
-          "answer": "Desired outcomes, agreed actions, responsible people, contingency and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "For an NDIA decision, identify whether an internal review and subsequent Administrative Review Tribunal route are available and check the decision notice’s time limits. A provider complaint to the NDIS Commission is different from a funding review. Aged-care complaints and assessment reviews use their own routes."
         },
         {
-          "prompt": "What if support is unavailable?",
-          "answer": "Record the unmet need, interim arrangements and escalation; do not record an unavailable service as an agreed solution."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating NDIS eligibility as approval for every requested service, or using obsolete aged-care programme rules."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "Decision-Making and Capacity — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking decision-making and capacity in Victoria?",
-          "answer": "Open Office of the Public Advocate: healthcare from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "The Medical Treatment Planning and Decisions Act 2016 governs important medical-consent and advance-care-directive questions. The Guardianship and Administration Act 2019 provides a separate framework for guardianship, administration and supported appointments. Specify whether the decision concerns treatment, personal matters or finances. Medical decision-making capacity concerns understanding the relevant information and effects, retaining it for the decision, considering it when choosing, and conveying the choice and related views or needs by any workable means. Provide practical support first; an apparently unwise choice does not establish incapacity."
         },
         {
-          "prompt": "Does a risky refusal alone establish inability to decide?",
-          "answer": "No. Explore the decision-making process, supports and applicable legal criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An advance care directive can include an instructional directive and a values directive, with different effects. Where the person cannot make the treatment decision, identify the lawful medical treatment decision maker. Their task concerns the decision the person would have made, informed by relevant preferences and values, rather than simply the representative’s preferred outcome."
         },
         {
-          "prompt": "What support can improve participation?",
-          "answer": "Accessible information, suitable timing, interpretation and communication aids chosen for the person."
+          "prompt": "What are the key local actions?",
+          "answer": "Support the person to make the specific decision and assess the relevant decision-making ability. Check for a valid, applicable instructional directive and distinguish it from a values statement. Identify the medical treatment decision maker under the applicable appointment or hierarchy. For a separate personal or financial issue, verify the scope of the relevant guardian, administrator or other arrangement."
         },
         {
-          "prompt": "Does a family relationship establish decision-making authority?",
-          "answer": "Do not assume it does. Verify the applicable law and any appointment or authorisation."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Office of the Public Advocate (OPA) explains healthcare decision-making and routes where no appropriate decision maker is available. VCAT has relevant guardianship and other statutory functions. Disputed authority or treatment requires the route applicable to that decision, not a general family vote."
         },
         {
-          "prompt": "Why identify the exact decision?",
-          "answer": "Different decisions can involve different abilities, legal tests and representatives. Avoid a global label."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating an instructional directive as merely optional, or assuming financial administration includes medical consent."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Restrictions and Liberty — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking restrictions and liberty in Victoria?",
-          "answer": "Open Office of the Public Advocate: healthcare and Mental Health and Wellbeing Act 2022 from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "The Disability Act 2006 and Victorian Senior Practitioner arrangements operate alongside the NDIS restrictive-practices framework where applicable. Authorised Program Officers, the Senior Practitioner, behaviour support practitioners and implementing providers have different responsibilities. A plan is not proof that every necessary authorisation or approval exists."
         },
         {
-          "prompt": "What should a restriction record describe?",
-          "answer": "Actual arrangements, duration, intensity, effects, ability to leave and the person’s account."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Senior Practitioner publishes directions and prohibitions, including a permanent-prohibition notice dated September 2025. Check the current rules for the particular practice and cohort before considering an application. A prohibited practice is not made permissible by including it in a behaviour support plan."
         },
         {
-          "prompt": "Does quiet behaviour demonstrate consent?",
-          "answer": "Do not assume consent from silence. Explore wishes, understanding, pressure and communication."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the actual restriction, setting and whether the disability, mental-health or aged-care framework applies. For the disability route, check the Authorised Program Officer and Senior Practitioner requirements and current prohibitions. Check NDIS plan, authorisation and incident-reporting requirements separately where they apply. Record participation, alternatives, conditions, review and the strategy for reducing the restriction."
         },
         {
-          "prompt": "Can provider policy alone establish legal authority?",
-          "answer": "A policy must operate within applicable law. Identify the legal basis and scope of the proposed restriction."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "OPA, advocacy services and the relevant regulator can assist with concerns within their remits. The person needs a usable way to object and seek the applicable legal or administrative review. A guardian’s agreement does not remove the statutory restrictions on restraint."
         },
         {
-          "prompt": "What should review consider?",
-          "answer": "Whether the restriction remains justified, less restrictive alternatives, objections and routes to challenge."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating historical approval or a lodged plan as permanent permission, including for a prohibited practice."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Mental Health — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking mental health in Victoria?",
-          "answer": "Open Mental Health and Wellbeing Act 2022 from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "The Mental Health and Wellbeing Act 2022 replaced the 2014 Act. It prefers voluntary assessment and treatment and provides separate assessment orders, temporary treatment orders and Mental Health Tribunal treatment orders. Each stage has its own authorised decision-maker and requirements."
         },
         {
-          "prompt": "Why distinguish admission from treatment?",
-          "answer": "The legal basis for admission may differ from the authority to provide a particular treatment."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Compulsory treatment criteria include mental illness; immediate treatment needed to prevent serious deterioration in health or serious harm; that treatment being provided if the order is made; and no reasonably available less restrictive means. Evidence that a service is actually available matters. Assessment-order criteria should not be replaced with the treatment-order test."
         },
         {
-          "prompt": "What should happen alongside crisis assessment?",
-          "answer": "Attend to immediate health needs, communication, the person’s account and available support."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the stage, authorised practitioner and exact statutory criteria. Record the person’s preferences, available voluntary alternatives and why the proposed order is necessary. Check advance statements of preferences, nominated support persons and supported decision-making requirements. Separate treatment consent, any statutory treatment authority and additional safeguards for particular interventions."
         },
         {
-          "prompt": "Can a social worker use every mental-health power?",
-          "answer": "No. Establish the qualifications, appointment and authority required for the particular role."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the statement of rights, non-legal advocacy, second psychiatric opinion and Mental Health Tribunal routes. Current handbook guidance describes their application. A nominated support person assists participation; their role should not be treated as a general substitute-consent appointment."
         },
         {
-          "prompt": "What does a rights explanation cover?",
-          "answer": "The proposed action, reasons, available advocacy, review and ways to raise concerns."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using the assessment and treatment criteria interchangeably or treating a support person as the treatment decision-maker."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Adult Safeguarding — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking adult safeguarding in Victoria?",
-          "answer": "Open Victorian Office of the Public Advocate from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "Adult concerns may require family-violence services, police, OPA, disability safeguards, aged-care oversight or a provider complaint. Identify the relationship and service setting before selecting a route. The Family Violence Protection Act 2008 is relevant to violence and abuse within its defined relationships; not every adult concern is governed by that framework."
         },
         {
-          "prompt": "Why offer a private conversation?",
-          "answer": "It may help identify coercion or harm that a person cannot safely describe in front of others."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Orange Door provides access to family-violence and family-support services. NDIS and aged-care providers have their own incident and regulatory obligations. A referral for support, a reportable incident and an application for a protective order are different actions."
         },
         {
-          "prompt": "Is proof needed before checking reporting duties?",
-          "answer": "Do not wait to prove abuse. Consider the applicable reporting threshold and act promptly when it is met."
+          "prompt": "What are the key local actions?",
+          "answer": "Hear the adult safely and identify immediate danger, coercion and practical dependence. Identify whether the concern involves family violence, a disability or aged-care provider, another service or crime. Use the relevant specialist, police and regulatory routes, checking any mandatory reporting duty. Plan safe contact, practical support and follow-up without assuming that a referral authorises coercive action."
         },
         {
-          "prompt": "What should a report contain?",
-          "answer": "Relevant facts, the concern, immediate safety needs, the person’s account and actions already taken."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the appropriate complaint, advocacy or court route for the issue. OPA can provide information about decision-making and rights within its remit. Keep the adult’s wishes and the legal authority for any intervention visible, including where agencies disagree."
         },
         {
-          "prompt": "Does a referral complete the response?",
-          "answer": "No. Confirm receipt, identify responsibility, review safety and escalate unresolved concerns as needed."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating all adult safeguarding as one statutory process or assuming a guardianship referral resolves family violence."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Children, Families and Transitions — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking children, families and transitions in Victoria?",
-          "answer": "Open Victorian mandatory reporting from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "The Children, Youth and Families Act 2005 distinguishes protection grounds and mandatory reporting. The mandatory-reporter categories depend on the role: do not assume every person called a social worker is included solely by title. A social worker may fall within a listed role, such as school counselling or out-of-home care work."
         },
         {
-          "prompt": "How should the child’s account be recorded?",
-          "answer": "Use their own words where possible and distinguish what they said from adult interpretation."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "DFFH guidance requires listed reporters who form the relevant reasonable belief in their work to report protection concerns involving physical injury or sexual abuse. Other forms of significant harm may also be reported. The child’s harm and parental protection must be considered; the statutory reporting duty is not identical to every possible wellbeing concern."
         },
         {
-          "prompt": "Can one child-protection model settle a legal threshold?",
-          "answer": "No. A practice model helps enquiry; reporting and intervention require the applicable legal analysis."
+          "prompt": "What are the key local actions?",
+          "answer": "Check the actual professional or employment category and the applicable reporting duty. Report to Child Protection as soon as practicable where the duty is engaged, including new grounds arising later. Consider a support referral to The Orange Door where appropriate, without substituting it for a required protection report. Check separate police and organisational duties, and plan child participation, cultural support and continuity."
         },
         {
-          "prompt": "What makes transition planning useful?",
-          "answer": "Named responsibilities and dates across services, guided by the young person’s goals and continuity of support."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the Child Protection process and the child’s and family’s access to support or legal advice. DFFH guidance distinguishes reporting routes from family-support referrals. Advice within an organisation should not delay an applicable personal reporting obligation."
         },
         {
-          "prompt": "Why consider community and cultural relationships?",
-          "answer": "They may support identity, participation and safety. Ask the family rather than making assumptions."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming all social-work job titles create the same reporting duty, or confusing voluntary support with a mandatory report."
         }
       ]
     },
@@ -719,24 +727,24 @@
       "title": "Rights, Culture and Recording — Victoria",
       "cards": [
         {
-          "prompt": "Where should you begin checking rights, culture and recording in Victoria?",
-          "answer": "Open Victorian legislation from the module. Confirm scope, version and local procedures."
+          "prompt": "Which local framework anchors this topic in Victoria practice guide?",
+          "answer": "The Charter of Human Rights and Responsibilities Act 2006 requires covered public authorities to act compatibly with Charter rights and give proper consideration to relevant rights, subject to statutory exceptions. Identify whether the provider is a public authority for the function involved. A Charter statement should explain the affected rights and reasoning, not simply declare compliance."
         },
         {
-          "prompt": "What is data minimisation?",
-          "answer": "Sharing only the information needed for the identified, lawful purpose."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "The Equal Opportunity Act 2010, Health Records Act 2001 and Privacy and Data Protection Act 2014 have different scopes. Commonwealth law may also apply. Determine the organisation and information involved before selecting a privacy or discrimination pathway."
         },
         {
-          "prompt": "What is a culturally responsive first step?",
-          "answer": "Ask the person how they want to communicate and which cultural or community supports they want involved."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the relevant Charter rights and whether the decision-maker is a covered public authority. Consider the actual impact, alternatives and any lawful basis for limiting a right. Arrange accessible and culturally safe participation and address applicable equality obligations. Check the relevant privacy regime and explain access, correction, complaints and review."
         },
         {
-          "prompt": "Why record disagreement?",
-          "answer": "It preserves the person’s perspective and makes professional reasoning and review more accountable."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Victorian Equal Opportunity and Human Rights Commission explains Charter duties and discrimination. Privacy and health complaints use their respective bodies and statutory routes. Obtain advice about the remedy for an alleged Charter breach rather than promising that every concern has a standalone Charter claim."
         },
         {
-          "prompt": "How do you compare alternatives?",
-          "answer": "Consider likely benefit, burdens, rights, the person’s preferences and whether a less intrusive option could work."
+          "prompt": "What common error should you avoid?",
+          "answer": "Assuming every private provider has identical Charter duties or that naming rights establishes proper consideration."
         }
       ]
     }
@@ -744,42 +752,42 @@
   "glossaryTerms": [
     {
       "term": "Professional Foundations",
-      "definition": "Professional role, ethics, competence, supervision and accountable decisions.",
+      "definition": "The Australian Association of Social Workers (AASW) Code of Ethics and Practice Standards provide a professional framework. AASW membership or accreditation, an employer requirement and statutory authority are different matters. Check the requirements for the actual role and state rather than presenting the professional association as the source of every legal power.",
       "link": "foundations"
     },
     {
       "term": "Social Care and Support",
-      "definition": "Needs, strengths, access to support, family responsibilities and service planning.",
+      "definition": "Disability support through the NDIS, state health and housing services, and Commonwealth aged care have separate entry and funding rules. NDIS access involves age, residence and disability or early-intervention requirements; a diagnosis alone does not establish entitlement to a particular funded support. Check current NDIA rules for the actual application or plan.",
       "link": "care-support"
     },
     {
       "term": "Decision-Making and Capacity",
-      "definition": "Decision support, consent and the authority for someone else to decide.",
+      "definition": "The Medical Treatment Planning and Decisions Act 2016 governs important medical-consent and advance-care-directive questions. The Guardianship and Administration Act 2019 provides a separate framework for guardianship, administration and supported appointments. Specify whether the decision concerns treatment, personal matters or finances. Medical decision-making capacity concerns understanding the relevant information and effects, retaining it for the decision, considering it when choosing, and conveying the choice and related views or needs by any workable means. Provide practical support first; an apparently unwise choice does not establish incapacity.",
       "link": "mca"
     },
     {
       "term": "Restrictions and Liberty",
-      "definition": "Restrictions, legal authority, less restrictive options and review.",
+      "definition": "The Disability Act 2006 and Victorian Senior Practitioner arrangements operate alongside the NDIS restrictive-practices framework where applicable. Authorised Program Officers, the Senior Practitioner, behaviour support practitioners and implementing providers have different responsibilities. A plan is not proof that every necessary authorisation or approval exists.",
       "link": "dols"
     },
     {
       "term": "Mental Health",
-      "definition": "Mental-health support, crisis response, treatment and rights.",
+      "definition": "The Mental Health and Wellbeing Act 2022 replaced the 2014 Act. It prefers voluntary assessment and treatment and provides separate assessment orders, temporary treatment orders and Mental Health Tribunal treatment orders. Each stage has its own authorised decision-maker and requirements.",
       "link": "mha"
     },
     {
       "term": "Adult Safeguarding",
-      "definition": "Abuse, neglect, coercion, safe enquiry and the appropriate protective response.",
+      "definition": "Adult concerns may require family-violence services, police, OPA, disability safeguards, aged-care oversight or a provider complaint. Identify the relationship and service setting before selecting a route. The Family Violence Protection Act 2008 is relevant to violence and abuse within its defined relationships; not every adult concern is governed by that framework.",
       "link": "safeguarding"
     },
     {
       "term": "Children, Families and Transitions",
-      "definition": "Child participation, family support, child protection and transitions.",
+      "definition": "The Children, Youth and Families Act 2005 distinguishes protection grounds and mandatory reporting. The mandatory-reporter categories depend on the role: do not assume every person called a social worker is included solely by title. A social worker may fall within a listed role, such as school counselling or out-of-home care work.",
       "link": "children"
     },
     {
       "term": "Rights, Culture and Recording",
-      "definition": "Participation, privacy, cultural safety and clear recording.",
+      "definition": "The Charter of Human Rights and Responsibilities Act 2006 requires covered public authorities to act compatibly with Charter rights and give proper consideration to relevant rights, subject to statutory exceptions. Identify whether the provider is a public authority for the function involved. A Charter statement should explain the affected rights and reasoning, not simply declare compliance.",
       "link": "rights"
     },
     {
@@ -1470,123 +1478,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and family support",
-      "summary": "An older adult wants to remain at home after two falls. Their daughter works nights and cannot sustain daily visits.",
+      "title": "Professional Foundations — Victoria",
+      "summary": "A practitioner is asked to sign a statutory assessment because they hold an AASW credential, without checking the specific appointment requirements.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Read the law and service procedure governing that assessment. Confirm qualifications, appointment and scope before signing. Bring any gap to the responsible manager and arrange an authorised practitioner while continuing work that is within your role."
+    },
+    {
+      "title": "Social Care and Support — Victoria",
+      "summary": "A person is told that their NDIS plan should pay for every need after a hospital admission, including treatment and unsuitable housing.",
       "routes": [
         "care-support",
         "rights",
         "sources"
       ],
       "prompts": [
-        "Which needs and outcomes belong to the person and to carers?",
-        "Which service actually assesses and funds this support?",
-        "What happens if the proposed support is unavailable?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Separate the person’s needs from the daughter’s circumstances. Explore available services and practical changes, agree interim safety measures and name who will check whether the plan works. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Map the actual support sought and the responsibility of each system. Obtain the relevant decisions and coordinate health, housing and disability support. Record unmet needs and interim arrangements rather than presenting an unfunded referral as a completed plan."
     },
     {
-      "title": "A decision and a refusal",
-      "summary": "After a tiring hospital stay, a person refuses a move. Staff interpret the refusal as inability to decide; the person requests an interpreter.",
+      "title": "Decision-Making and Capacity — Victoria",
+      "summary": "A person’s advance directive refuses a particular treatment, but a relative asks the team to ignore it because they believe treatment would help.",
       "routes": [
         "mca",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the precise decision and why is ability to decide questioned?",
-        "What communication support would help?",
-        "Who has authority for this decision under the applicable law?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange language support and suitable timing. Identify the decision and applicable legal criteria. Record the person’s reasoning, check any representative’s authority and distinguish a capacity question from disagreement. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Check validity, applicability and whether the statement is an instructional or values directive. Involve the responsible clinician and obtain advice where the position is disputed. Do not substitute the relative’s preference for the legal effect of the document or the person’s own decision."
     },
     {
-      "title": "Restrictions and objections",
-      "summary": "A resident lives behind locked doors and is accompanied on outings. The record says they are settled, although they sometimes ask to leave.",
+      "title": "Restrictions and Liberty — Victoria",
+      "summary": "A provider proposes a restraint copied from an old plan and assumes approval can be renewed without checking current directions.",
       "routes": [
         "dols",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What restrictions actually operate and how do they affect the person?",
-        "What authority is being relied upon?",
-        "How can the person challenge the arrangements?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe the actual restrictions and hear the person’s account. Examine consent, authority and alternatives through the relevant local legal route. Record objections, independent support and review. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Check whether the practice is now prohibited and whether the previous approval is relevant to the present circumstances. Assess alternatives and consult the responsible practitioner. Do not apply an obsolete approval to a new plan or bypass the Senior Practitioner’s requirements."
     },
     {
-      "title": "Mental-health crisis",
-      "summary": "A distressed person in an emergency department wants to leave. Compulsory assessment and physical treatment are both proposed.",
+      "title": "Mental Health — Victoria",
+      "summary": "A person is considered for a treatment order, but the proposed immediate treatment has not been arranged and a community alternative has not been explored.",
       "routes": [
         "mha",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What is the purpose of each proposed intervention?",
-        "Who can assess or exercise the relevant power?",
-        "What voluntary or less restrictive support is available?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Clarify immediate needs and the purpose of each intervention. Involve authorised professionals through the local pathway, explain rights and identify separate legal bases where needed. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Check all criteria, including that treatment will be provided and whether a less restrictive means is reasonably available. Obtain the person’s preferences and supports. The existence of illness and concern about deterioration alone does not explain the whole order decision."
     },
     {
-      "title": "Financial control",
-      "summary": "A relative holds a person’s bank card and answers every question. The person says everything is fine while the relative is present.",
+      "title": "Adult Safeguarding — Victoria",
+      "summary": "An adult with disability reports financial control by a partner and an unrelated failure by a support provider to deliver personal care.",
       "routes": [
         "safeguarding",
         "rights",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Offer safe private communication. Explore coercion, the person’s wishes and immediate safety. Identify reporting requirements and proportionate protective options without assuming a relative has financial authority. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Assess the family-violence concern and provider failure separately while coordinating safety. Consider the specialist family-violence route and the appropriate provider or NDIS response. Arrange continuity of care and safe contact rather than assuming one agency will handle both matters."
     },
     {
-      "title": "Moving into adult services",
-      "summary": "A 17-year-old with education and daily-living support wants to attend college away from home. Several services expect another team to coordinate the move.",
+      "title": "Children, Families and Transitions — Victoria",
+      "summary": "A school counsellor receives a disclosure of physical harm, while a colleague says the family should first be referred for voluntary parenting support.",
       "routes": [
         "children",
         "rights",
         "sources"
       ],
       "prompts": [
-        "What does the child say or show about safety and daily life?",
-        "Which reporting duty and receiving agency apply?",
-        "How will education, health and family support coordinate?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Ask the young person about goals and support preferences. Map the local education and adult-service processes, confirm age-specific requirements, assign responsibilities and plan continuity rather than relying on a birthday handover. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Check the reasonable-belief and protection conditions and make the required report if met. Assess immediate safety and follow any separate police duty. Parenting support can run alongside the protection response; it does not replace it."
     },
     {
-      "title": "Organisational concerns",
-      "summary": "Several residents have unexplained injuries. Staff describe rushed care, and earlier concerns have not received a response.",
+      "title": "Rights, Culture and Recording — Victoria",
+      "summary": "A public service restricts all family visits for administrative convenience without considering a resident’s cultural and family relationships.",
       "routes": [
-        "safeguarding",
         "rights",
+        "foundations",
         "sources"
       ],
       "prompts": [
-        "How can the person be heard safely and privately?",
-        "Which reporting pathway applies to this person and setting?",
-        "What immediate action and follow-up are required?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Address immediate safety, preserve relevant evidence and identify the correct safeguarding, regulatory and employer routes. Confirm who will respond and escalate unresolved concerns while protecting residents’ participation. Use the Victoria module and source library to identify the applicable framework."
-    },
-    {
-      "title": "Communication and agreement",
-      "summary": "A carer reports that meetings are inaccessible and that they felt pressured to agree to a plan. The record states that everyone agreed.",
-      "routes": [
-        "rights",
-        "sources"
-      ],
-      "prompts": [
-        "What makes participation accessible for this person?",
-        "What legal basis permits disclosure of this information?",
-        "How will disagreement and reasons be recorded?"
-      ],
-      "reveal": "Arrange accessible communication and revisit the person’s account. Correct the record through the proper process, explain choices and complaints routes, and review whether the plan is voluntary and workable. Use the Victoria module and source library to identify the applicable framework."
+      "reveal": "Identify the rights affected, the purpose of the restriction and realistic alternatives. Hear the resident and supporters they choose, consider the applicable legal duties and record the reasoning. Review the blanket policy’s effect on the individual rather than relying only on its general wording."
     }
   ],
   "printableTemplates": [
@@ -1594,57 +1603,57 @@
       "id": "foundations",
       "title": "Professional Foundations",
       "fileName": "australia-victoria-foundations-prompt.txt",
-      "summary": "Role and service purpose; Person’s goals and consent; Professional standard and evidence",
-      "body": "Professional Foundations\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nAustralian Association of Social Workers (AASW): https://www.aasw.asn.au/about-aasw/ethics-standards/code-of-ethics/\n\n1. Role and service purpose\nNotes: \n\n2. Person’s goals and consent\nNotes: \n\n3. Professional standard and evidence\nNotes: \n\n4. Alternative explanations and bias\nNotes: \n\n5. Supervision, action and review\nNotes: "
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
+      "body": "Professional Foundations\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Australian Association of Social Workers (AASW) Code of Ethics and Practice Standards provide a professional framework. AASW membership or accreditation, an employer requirement and statutory authority are different matters. Check the requirements for the actual role and state rather than presenting the professional association as the source of every legal power.\n\nPractice should attend to Aboriginal and Torres Strait Islander peoples’ self-determination, cultural safety and the effects of colonisation. Ask which community-controlled organisations or cultural supports the person wants involved. Professional values need to be connected to the state law governing the particular intervention.\n\nLocal pathway:\nIdentify the employer, state, service setting and any appointment required for the task.\nExplain the professional role, consent and confidentiality limits before assessment.\nConsider power, racism, disability and material barriers alongside individual and family strengths.\nUse supervision and learning to test the effect of practice on the person, with the current AASW standards as a professional reference.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nDistinguish an employer complaint, a professional-association concern and a statutory regulator or tribunal route. The relevant health, disability, aged-care or child-protection body depends on the issue. A professional membership complaint is not an appeal against a state or Commonwealth funding decision.\n\nSources:\nhttps://www.aasw.asn.au/about-aasw/ethics-standards/code-of-ethics/\n"
     },
     {
       "id": "care-support",
       "title": "Social Care and Support",
       "fileName": "australia-victoria-care-support-prompt.txt",
-      "summary": "Person’s goals and daily living; Strengths and environmental barriers; Family willingness and sustainability",
-      "body": "Social Care and Support\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nNDIS and service access: https://www.ndis.gov.au/\n\n1. Person’s goals and daily living\nNotes: \n\n2. Strengths and environmental barriers\nNotes: \n\n3. Family willingness and sustainability\nNotes: \n\n4. Eligibility and service access\nNotes: \n\n5. Costs considered separately\nNotes: \n\n6. Plan, contingency and review\nNotes: "
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
+      "body": "Social Care and Support\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nDisability support through the NDIS, state health and housing services, and Commonwealth aged care have separate entry and funding rules. NDIS access involves age, residence and disability or early-intervention requirements; a diagnosis alone does not establish entitlement to a particular funded support. Check current NDIA rules for the actual application or plan.\n\nThe Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.\n\nLocal pathway:\nIdentify the scheme responsible for each need and the evidence required for its assessment.\nKeep access eligibility, plan funding, provider availability and any client contribution separate.\nConsider state health, housing and community support where a need is outside a particular funded scheme.\nRecord the person’s goals, family willingness, actual start dates and the review route for each decision.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nFor an NDIA decision, identify whether an internal review and subsequent Administrative Review Tribunal route are available and check the decision notice’s time limits. A provider complaint to the NDIS Commission is different from a funding review. Aged-care complaints and assessment reviews use their own routes.\n\nSources:\nhttps://ndis.gov.au/applying/application-process/what-access-request-form\nhttps://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes\nhttps://www.health.gov.au/our-work/aged-care-act/resources/providers\nhttps://www.health.gov.au/our-work/chsp/reforms\n"
     },
     {
       "id": "mca",
       "title": "Decision-Making and Capacity",
       "fileName": "australia-victoria-mca-prompt.txt",
-      "summary": "Decision and timing; Communication and participation support; Person’s account and reasons",
-      "body": "Decision-Making and Capacity\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nOffice of the Public Advocate: healthcare: https://www.publicadvocate.vic.gov.au/your-rights/your-healthcare\n\n1. Decision and timing\nNotes: \n\n2. Communication and participation support\nNotes: \n\n3. Person’s account and reasons\nNotes: \n\n4. Applicable legal test and evidence\nNotes: \n\n5. Scope of any representative’s authority\nNotes: \n\n6. Disagreement, challenge and review\nNotes: "
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
+      "body": "Decision-Making and Capacity\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Medical Treatment Planning and Decisions Act 2016 governs important medical-consent and advance-care-directive questions. The Guardianship and Administration Act 2019 provides a separate framework for guardianship, administration and supported appointments. Specify whether the decision concerns treatment, personal matters or finances. Medical decision-making capacity concerns understanding the relevant information and effects, retaining it for the decision, considering it when choosing, and conveying the choice and related views or needs by any workable means. Provide practical support first; an apparently unwise choice does not establish incapacity.\n\nAn advance care directive can include an instructional directive and a values directive, with different effects. Where the person cannot make the treatment decision, identify the lawful medical treatment decision maker. Their task concerns the decision the person would have made, informed by relevant preferences and values, rather than simply the representative’s preferred outcome.\n\nLocal pathway:\nSupport the person to make the specific decision and assess the relevant decision-making ability.\nCheck for a valid, applicable instructional directive and distinguish it from a values statement.\nIdentify the medical treatment decision maker under the applicable appointment or hierarchy.\nFor a separate personal or financial issue, verify the scope of the relevant guardian, administrator or other arrangement.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nThe Office of the Public Advocate (OPA) explains healthcare decision-making and routes where no appropriate decision maker is available. VCAT has relevant guardianship and other statutory functions. Disputed authority or treatment requires the route applicable to that decision, not a general family vote.\n\nSources:\nhttps://www.publicadvocate.vic.gov.au/your-rights/your-healthcare\nhttps://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/interpreting-an-instructional-directive\nhttps://www.legislation.vic.gov.au/in-force/acts/medical-treatment-planning-and-decisions-act-2016\nhttps://www.legislation.vic.gov.au/in-force/acts/guardianship-and-administration-act-2019\nhttps://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/patient-capacity-to-consent\n"
     },
     {
       "id": "dols",
       "title": "Restrictions and Liberty",
       "fileName": "australia-victoria-dols-prompt.txt",
-      "summary": "Actual restriction and setting; Purpose, duration and effects; Wishes, consent and objections",
-      "body": "Restrictions and Liberty\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nOffice of the Public Advocate: healthcare: https://www.publicadvocate.vic.gov.au/your-rights/your-healthcare\nMental Health and Wellbeing Act 2022: https://www.health.vic.gov.au/mental-health-and-wellbeing-act\n\n1. Actual restriction and setting\nNotes: \n\n2. Purpose, duration and effects\nNotes: \n\n3. Wishes, consent and objections\nNotes: \n\n4. Authority and its limits\nNotes: \n\n5. Less restrictive alternatives\nNotes: \n\n6. Independent support and review\nNotes: "
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
+      "body": "Restrictions and Liberty\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Disability Act 2006 and Victorian Senior Practitioner arrangements operate alongside the NDIS restrictive-practices framework where applicable. Authorised Program Officers, the Senior Practitioner, behaviour support practitioners and implementing providers have different responsibilities. A plan is not proof that every necessary authorisation or approval exists.\n\nThe Senior Practitioner publishes directions and prohibitions, including a permanent-prohibition notice dated September 2025. Check the current rules for the particular practice and cohort before considering an application. A prohibited practice is not made permissible by including it in a behaviour support plan.\n\nLocal pathway:\nIdentify the actual restriction, setting and whether the disability, mental-health or aged-care framework applies.\nFor the disability route, check the Authorised Program Officer and Senior Practitioner requirements and current prohibitions.\nCheck NDIS plan, authorisation and incident-reporting requirements separately where they apply.\nRecord participation, alternatives, conditions, review and the strategy for reducing the restriction.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nOPA, advocacy services and the relevant regulator can assist with concerns within their remits. The person needs a usable way to object and seek the applicable legal or administrative review. A guardian’s agreement does not remove the statutory restrictions on restraint.\n\nSources:\nhttps://www.dffh.vic.gov.au/about-victorian-senior-practitioner\nhttps://www.dffh.vic.gov.au/victorian-senior-practitioners-directions-and-prohibitions\nhttps://www.legislation.vic.gov.au/in-force/acts/disability-act-2006\nhttps://www.ndiscommission.gov.au/rules-and-standards/behaviour-support-and-restrictive-practices/rules-implementing-providers\n"
     },
     {
       "id": "mha",
       "title": "Mental Health",
       "fileName": "australia-victoria-mha-prompt.txt",
-      "summary": "Immediate health and safety needs; Communication and cultural support; Purpose of each intervention",
-      "body": "Mental Health\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nMental Health and Wellbeing Act 2022: https://www.health.vic.gov.au/mental-health-and-wellbeing-act\n\n1. Immediate health and safety needs\nNotes: \n\n2. Communication and cultural support\nNotes: \n\n3. Purpose of each intervention\nNotes: \n\n4. Legal basis and authorised professional\nNotes: \n\n5. Rights information and advocacy\nNotes: \n\n6. Follow-up and review\nNotes: "
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
+      "body": "Mental Health\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Health and Wellbeing Act 2022 replaced the 2014 Act. It prefers voluntary assessment and treatment and provides separate assessment orders, temporary treatment orders and Mental Health Tribunal treatment orders. Each stage has its own authorised decision-maker and requirements.\n\nCompulsory treatment criteria include mental illness; immediate treatment needed to prevent serious deterioration in health or serious harm; that treatment being provided if the order is made; and no reasonably available less restrictive means. Evidence that a service is actually available matters. Assessment-order criteria should not be replaced with the treatment-order test.\n\nLocal pathway:\nIdentify the stage, authorised practitioner and exact statutory criteria.\nRecord the person’s preferences, available voluntary alternatives and why the proposed order is necessary.\nCheck advance statements of preferences, nominated support persons and supported decision-making requirements.\nSeparate treatment consent, any statutory treatment authority and additional safeguards for particular interventions.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nExplain the statement of rights, non-legal advocacy, second psychiatric opinion and Mental Health Tribunal routes. Current handbook guidance describes their application. A nominated support person assists participation; their role should not be treated as a general substitute-consent appointment.\n\nSources:\nhttps://www.legislation.vic.gov.au/in-force/acts/mental-health-and-wellbeing-act-2022\nhttps://www.health.vic.gov.au/mental-health-and-wellbeing-act-handbook/compulsory-assessment-and-treament\nhttps://www.health.vic.gov.au/mental-health-and-wellbeing-act-handbook/treatments-and-interventions/treatment-orders\n"
     },
     {
       "id": "safeguarding",
       "title": "Adult Safeguarding",
       "fileName": "australia-victoria-safeguarding-prompt.txt",
-      "summary": "Concern and source of information; Person’s account and desired outcomes; Immediate safety and safe contact",
-      "body": "Adult Safeguarding\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nVictorian Office of the Public Advocate: https://www.publicadvocate.vic.gov.au/\n\n1. Concern and source of information\nNotes: \n\n2. Person’s account and desired outcomes\nNotes: \n\n3. Immediate safety and safe contact\nNotes: \n\n4. Applicable reporting route\nNotes: \n\n5. Consent or other information-sharing basis\nNotes: \n\n6. Action owner, escalation and review\nNotes: "
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
+      "body": "Adult Safeguarding\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nAdult concerns may require family-violence services, police, OPA, disability safeguards, aged-care oversight or a provider complaint. Identify the relationship and service setting before selecting a route. The Family Violence Protection Act 2008 is relevant to violence and abuse within its defined relationships; not every adult concern is governed by that framework.\n\nThe Orange Door provides access to family-violence and family-support services. NDIS and aged-care providers have their own incident and regulatory obligations. A referral for support, a reportable incident and an application for a protective order are different actions.\n\nLocal pathway:\nHear the adult safely and identify immediate danger, coercion and practical dependence.\nIdentify whether the concern involves family violence, a disability or aged-care provider, another service or crime.\nUse the relevant specialist, police and regulatory routes, checking any mandatory reporting duty.\nPlan safe contact, practical support and follow-up without assuming that a referral authorises coercive action.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nExplain the appropriate complaint, advocacy or court route for the issue. OPA can provide information about decision-making and rights within its remit. Keep the adult’s wishes and the legal authority for any intervention visible, including where agencies disagree.\n\nSources:\nhttps://www.legislation.vic.gov.au/in-force/acts/family-violence-protection-act-2008\nhttps://www.orangedoor.vic.gov.au/\nhttps://www.publicadvocate.vic.gov.au/\n"
     },
     {
       "id": "children",
       "title": "Children, Families and Transitions",
       "fileName": "australia-victoria-children-prompt.txt",
-      "summary": "Child’s voice and communication; Observed harm, needs and strengths; Family, community and cultural relationships",
-      "body": "Children, Families and Transitions\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nVictorian mandatory reporting: https://providers.dffh.vic.gov.au/mandatory-reporting\n\n1. Child’s voice and communication\nNotes: \n\n2. Observed harm, needs and strengths\nNotes: \n\n3. Family, community and cultural relationships\nNotes: \n\n4. Local reporting requirements and response\nNotes: \n\n5. Education, health and support plan\nNotes: \n\n6. Transition, responsibility and review\nNotes: "
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
+      "body": "Children, Families and Transitions\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children, Youth and Families Act 2005 distinguishes protection grounds and mandatory reporting. The mandatory-reporter categories depend on the role: do not assume every person called a social worker is included solely by title. A social worker may fall within a listed role, such as school counselling or out-of-home care work.\n\nDFFH guidance requires listed reporters who form the relevant reasonable belief in their work to report protection concerns involving physical injury or sexual abuse. Other forms of significant harm may also be reported. The child’s harm and parental protection must be considered; the statutory reporting duty is not identical to every possible wellbeing concern.\n\nLocal pathway:\nCheck the actual professional or employment category and the applicable reporting duty.\nReport to Child Protection as soon as practicable where the duty is engaged, including new grounds arising later.\nConsider a support referral to The Orange Door where appropriate, without substituting it for a required protection report.\nCheck separate police and organisational duties, and plan child participation, cultural support and continuity.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain the Child Protection process and the child’s and family’s access to support or legal advice. DFFH guidance distinguishes reporting routes from family-support referrals. Advice within an organisation should not delay an applicable personal reporting obligation.\n\nSources:\nhttps://providers.dffh.vic.gov.au/mandatory-reporting\nhttps://www.legislation.vic.gov.au/in-force/acts/children-youth-and-families-act-2005\n"
     },
     {
       "id": "rights",
       "title": "Rights, Culture and Recording",
       "fileName": "australia-victoria-rights-prompt.txt",
-      "summary": "Language and communication preferences; Cultural support requested; Consent and confidentiality limits",
-      "body": "Rights, Culture and Recording\nVictoria practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\nSources:\nVictorian legislation: https://www.legislation.vic.gov.au/\n\n1. Language and communication preferences\nNotes: \n\n2. Cultural support requested\nNotes: \n\n3. Consent and confidentiality limits\nNotes: \n\n4. Evidence separated from interpretation\nNotes: \n\n5. Alternatives and proportionality\nNotes: \n\n6. Person’s disagreement and review\nNotes: "
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
+      "body": "Rights, Culture and Recording\nVictoria practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Charter of Human Rights and Responsibilities Act 2006 requires covered public authorities to act compatibly with Charter rights and give proper consideration to relevant rights, subject to statutory exceptions. Identify whether the provider is a public authority for the function involved. A Charter statement should explain the affected rights and reasoning, not simply declare compliance.\n\nThe Equal Opportunity Act 2010, Health Records Act 2001 and Privacy and Data Protection Act 2014 have different scopes. Commonwealth law may also apply. Determine the organisation and information involved before selecting a privacy or discrimination pathway.\n\nLocal pathway:\nIdentify the relevant Charter rights and whether the decision-maker is a covered public authority.\nConsider the actual impact, alternatives and any lawful basis for limiting a right.\nArrange accessible and culturally safe participation and address applicable equality obligations.\nCheck the relevant privacy regime and explain access, correction, complaints and review.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nThe Victorian Equal Opportunity and Human Rights Commission explains Charter duties and discrimination. Privacy and health complaints use their respective bodies and statutory routes. Obtain advice about the remedy for an alleged Charter breach rather than promising that every concern has a standalone Charter claim.\n\nSources:\nhttps://www.humanrights.vic.gov.au/for-public-sector/charter-responsibilities/charter-and-the-government/\nhttps://www.legislation.vic.gov.au/in-force/acts/charter-human-rights-and-responsibilities-act-2006\nhttps://www.legislation.vic.gov.au/in-force/acts/health-records-act-2001\n"
     },
     {
       "id": "supervision",
@@ -1665,42 +1674,42 @@
     {
       "title": "Professional Foundations",
       "resource": "foundations",
-      "task": "Using a fictional Victoria case: What is the purpose and limit of your role? Which professional standard informs the next action? How will supervision test your reasoning?"
+      "task": "Identify the employer, state, service setting and any appointment required for the task. Work through the fictional case and explain: Equating association membership, clinical experience or a job title with every statutory appointment."
     },
     {
       "title": "Social Care and Support",
       "resource": "care-support",
-      "task": "Using a fictional Victoria case: Which needs and outcomes belong to the person and to carers? Which service actually assesses and funds this support? What happens if the proposed support is unavailable?"
+      "task": "Identify the scheme responsible for each need and the evidence required for its assessment. Work through the fictional case and explain: Treating NDIS eligibility as approval for every requested service, or using obsolete aged-care programme rules."
     },
     {
       "title": "Decision-Making and Capacity",
       "resource": "mca",
-      "task": "Using a fictional Victoria case: What is the precise decision and why is ability to decide questioned? What communication support would help? Who has authority for this decision under the applicable law?"
+      "task": "Support the person to make the specific decision and assess the relevant decision-making ability. Work through the fictional case and explain: Treating an instructional directive as merely optional, or assuming financial administration includes medical consent."
     },
     {
       "title": "Restrictions and Liberty",
       "resource": "dols",
-      "task": "Using a fictional Victoria case: What restrictions actually operate and how do they affect the person? What authority is being relied upon? How can the person challenge the arrangements?"
+      "task": "Identify the actual restriction, setting and whether the disability, mental-health or aged-care framework applies. Work through the fictional case and explain: Treating historical approval or a lodged plan as permanent permission, including for a prohibited practice."
     },
     {
       "title": "Mental Health",
       "resource": "mha",
-      "task": "Using a fictional Victoria case: What is the purpose of each proposed intervention? Who can assess or exercise the relevant power? What voluntary or less restrictive support is available?"
+      "task": "Identify the stage, authorised practitioner and exact statutory criteria. Work through the fictional case and explain: Using the assessment and treatment criteria interchangeably or treating a support person as the treatment decision-maker."
     },
     {
       "title": "Adult Safeguarding",
       "resource": "safeguarding",
-      "task": "Using a fictional Victoria case: How can the person be heard safely and privately? Which reporting pathway applies to this person and setting? What immediate action and follow-up are required?"
+      "task": "Hear the adult safely and identify immediate danger, coercion and practical dependence. Work through the fictional case and explain: Treating all adult safeguarding as one statutory process or assuming a guardianship referral resolves family violence."
     },
     {
       "title": "Children, Families and Transitions",
       "resource": "children",
-      "task": "Using a fictional Victoria case: What does the child say or show about safety and daily life? Which reporting duty and receiving agency apply? How will education, health and family support coordinate?"
+      "task": "Check the actual professional or employment category and the applicable reporting duty. Work through the fictional case and explain: Assuming all social-work job titles create the same reporting duty, or confusing voluntary support with a mandatory report."
     },
     {
       "title": "Rights, Culture and Recording",
       "resource": "rights",
-      "task": "Using a fictional Victoria case: What makes participation accessible for this person? What legal basis permits disclosure of this information? How will disagreement and reasons be recorded?"
+      "task": "Identify the relevant Charter rights and whether the decision-maker is a covered public authority. Work through the fictional case and explain: Assuming every private provider has identical Charter duties or that naming rights establishes proper consideration."
     }
   ],
   "toolCount": 9,

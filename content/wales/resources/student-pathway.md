@@ -1,15 +1,68 @@
-# Student and newly qualified pathway — Wales
+# Student Learning Pathway — Wales practice guide
 
-## Plan your learning
 
-Agree learning goals with your practice educator or manager. Use the eight steps below to build evidence of understanding and reflection; completing this website is not a qualification or a regulator assessment.
+Work through each topic using its official sources, then complete the case and recording exercise.
 
-## Consolidation and professional development
 
-Check Social Care Wales’s consolidation requirements against your qualification date, registration and employment circumstances. Its guidance describes requirements for those qualifying in Wales from April 2016 who continue practising in Wales during their first three years. Use the Welsh programme requirements for your circumstances. Agree support and deadlines with your employer and the programme provider.
+## Professional Foundations
 
-## Supervision routine
+Check the current Social Care Wales Code and the requirements of the actual role.
 
-Bring the person’s perspective, your reasoning, sources checked, uncertainty and an action you will review. Seek feedback about the quality of your analysis, not only the quantity of work completed. Keep any portfolio evidence anonymised and follow employer policy.
 
-[Social Care Wales consolidation questions](https://socialcare.wales/qualifications-funding/social-work-qualifications/consolidation-programme-questions)
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## Care and Support in Wales
+
+Identify the correct assessment duty and explain the person’s outcomes and evidence of need.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## Mental Capacity Act 2005
+
+Specify the decision and record support and evidence against the relevant abilities.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## DoLS and Deprivation of Liberty
+
+Record the actual setting, restrictions, duration and response to a wish to leave.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## Mental Health in Wales
+
+Identify the exact assessment, detention, treatment or Measure duty involved.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## Safeguarding Adults in Wales
+
+Record evidence against the adult-at-risk elements and address immediate safety.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## Children, Families and Transitions
+
+Identify the child’s support and protection needs and the relevant Welsh statutory route.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.
+
+
+## Rights, Language and Recording
+
+Ask and record language and communication needs and make the Active Offer practical.
+
+
+Read the module, explain the common error, then complete its case and printable prompt.

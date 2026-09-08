@@ -37,7 +37,9 @@ for (const pack of packs) {
     assert(pack.resources.every(x=>x.practiceReviewedAt===null));
     if (pack.id !== 'wales') {
       const tools = JSON.stringify(Object.fromEntries(Object.entries(pack).filter(([k])=>!['resources','hero','alerts','slug'].includes(k))));
-      assert(!/Social Services and Well-being \(|Social Care (?!and Support|Council)|Care Inspectorate (?!Scotland)|section 126|section 128|\bALN\b|\bIDP\b|Cheshire West|Measure 2010|gov\.(Victoria|Ontario|California)/i.test(tools), `${pack.id}: copied Welsh rule or fabricated body`);
+      // Match imported/fabricated bodies, not valid phrases such as the Scottish
+      // Social Care (Self-directed Support) Act or an NI Health and Social Care Trust.
+      assert(!/Social Services and Well-being \(|Social Care (?:Wales|Victoria|Ontario|California|British Columbia|New York)|Care Inspectorate (?:Wales|Victoria|Ontario|California|British Columbia|New York)|section 126|section 128|\bALN\b|\bIDP\b|Cheshire West|Measure 2010|gov\.(Victoria|Ontario|California)/i.test(tools), `${pack.id}: copied Welsh rule or fabricated body`);
       assert(!/Mental Capacity Act 2005|\bIMCA\b|\bAMHP\b|Article 5 consent/.test(tools), `${pack.id}: imported England/Wales tool content`);
       assert.equal(pack.glossaryTerms.length,28);
       assert(pack.professionalBody && read(pack.resources.find(r=>r.id==='sources').path).includes(pack.professionalBody));

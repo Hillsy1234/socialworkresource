@@ -184,3 +184,39 @@ Fictional case: an adult asks for Welsh-language meetings but the invitation and
 - [More than just words update](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
 - [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
 - [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
+
+<!-- curriculum-expansion -->
+
+## Further local practice detail
+
+The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and Welsh-language duties engage different parts of a decision. More than just words promotes the Active Offer of Welsh-language care, recognising language as part of safe and effective support.
+
+Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
+
+### Decision pathway
+
+- Ask and record language and communication needs and make the Active Offer practical.
+- Identify the actual equality, human-rights and Welsh-language duties of the service.
+- Check the purpose and lawful basis for information sharing, with appropriate limits.
+- Explain access, correction, complaints and the relevant rights or language challenge route.
+
+### Challenge and review in this pathway
+
+A Welsh-language standards concern, a privacy complaint and a challenge to the care decision may require different bodies. Explain the organisation’s procedure and relevant external route. Address immediate access barriers while a complaint is considered.
+
+### Additional worked case
+
+Fictional case: A Welsh-speaking adult appears confused during an English assessment but communicates clearly when suitable Welsh-language support is arranged.
+
+Revisit the evidence and any capacity or eligibility conclusions affected by the communication barrier. Record the support required for future contacts and the person’s account, rather than retaining an unsupported label of confusion.
+
+Common error to avoid: Treating language access as cosmetic or using a communication barrier as evidence of incapacity.
+
+### Sources for the expanded lesson
+
+- [More than just words and the Active Offer](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
+- [Welsh Language (Wales) Measure 2011](https://www.legislation.gov.uk/mwa/2011/1/contents)
+- [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
+- [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
+
+Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.

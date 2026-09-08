@@ -24,7 +24,7 @@ An AMHP brings independent social analysis to the statutory process. Explore soc
 
 The Mental Health (Wales) Measure 2010 includes primary mental-health support, coordination and planning for secondary mental-health service users, assessment routes for eligible former users, and advocacy provisions. Care and Treatment Plans are part of the Welsh framework; they are not detention authorisations. [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/).
 
-For someone leaving services, clarify the named contact, relapse indicators, support arrangements and how to request help again. Welsh Government describes an assessment route for eligible former secondary-service users under Part 3. Check eligibility, residence and the applicable period rather than assuming every former patient qualifies. [Part 3 information](https://www.gov.wales/sites/default/files/publications/2021-08/atisn15305doc6.pdf).
+For someone leaving services, clarify the named contact, relapse indicators, support arrangements and how to request help again. Welsh Government describes an assessment route for eligible former secondary-service users under Part 3. Check eligibility, residence and the applicable period rather than assuming every former patient qualifies. [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3).
 
 ## Capacity, liberty and treatment
 
@@ -39,3 +39,42 @@ The Mental Health Act 2025 received Royal Assent in December 2025. Royal Assent 
 Fictional example: Owain is distressed in hospital and wants to leave. Describe immediate concerns without deciding the legal route from distress alone. Clarify the purpose of any proposed restriction, clinical and social information, communication support, alternatives, current legal status and the appropriate professional to assess. Record who is responsible for the next decision and review; “awaiting assessment” should not conceal an unexplained restriction.
 
 Use the mental-health interface prompt to prepare a supervision discussion, including advocacy, consultation and aftercare questions.
+
+<!-- curriculum-expansion -->
+
+## Further local practice detail
+
+Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.
+
+Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+
+### Decision pathway
+
+- Identify the exact assessment, detention, treatment or Measure duty involved.
+- Use the Welsh Code and current statutory forms and commencement information.
+- For care planning, record outcomes, named services, responsibilities and review.
+- Explain reassessment and advocacy rights appropriate to the person’s eligibility and status.
+
+### Challenge and review in this pathway
+
+The Mental Health Review Tribunal for Wales and other statutory review routes address particular detention questions. Measure care planning and reassessment are separate rights. Explain which process addresses the person’s concern and how to obtain support or legal advice.
+
+### Additional worked case
+
+Fictional case: An eligible former secondary-service user reports deterioration and is told that only a new GP referral can lead to assessment.
+
+Check the Part 3 conditions and explain the direct reassessment route where applicable. Arrange an appropriate response to urgent need and record responsibility and follow-up. Do not confuse reassessment rights with a guarantee of a particular service.
+
+Common error to avoid: Treating every mental-health right as a detention issue or overlooking Measure reassessment duties.
+
+### Sources for the expanded lesson
+
+- [Welsh Mental Health Act Code](https://www.gov.wales/mental-health-act-1983-code-practice)
+- [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
+- [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
+- [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
+- [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
+- [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
+
+Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.

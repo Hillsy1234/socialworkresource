@@ -192,3 +192,38 @@ Fictional case: Sian speaks Welsh, is tired after hospital treatment and decline
 
 - [MCA Code, applying to England and Wales](https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+
+<!-- curriculum-expansion -->
+
+## Further local practice detail
+
+The Mental Capacity Act 2005 applies to the specific decision and time. The person must be unable to decide because of an impairment or disturbance of mind or brain; inability concerns understanding, retaining, using or weighing relevant information, or communicating the decision. Support must be tried and an unwise choice is not itself incapacity.
+
+An attorney, deputy, advance decision and a professional acting under the Act have different roles and limits. A best-interests decision should preserve participation and consider wishes, feelings, beliefs, values and less restrictive options. It does not itself answer every deprivation-of-liberty or mental-health authority question.
+
+### Decision pathway
+
+- Specify the decision and record support and evidence against the relevant abilities.
+- Explain the causal connection to impairment if concluding that capacity is lacking.
+- Check any attorney, deputy or advance decision and the scope of its authority.
+- Record best-interests reasoning, consultation, disagreement and the appropriate challenge route.
+
+### Challenge and review in this pathway
+
+The Court of Protection deals with relevant disputes and decisions. Consider statutory advocacy requirements and specialist advice where serious disagreement or liberty issues arise. A relative’s agreement should not substitute for the required legal analysis.
+
+### Additional worked case
+
+Fictional case: An adult refuses a proposed care arrangement after explaining its benefits and drawbacks, while relatives consider the choice too risky.
+
+Explore the reasoning and support needs without treating disagreement as incapacity. If capacity is lacking, identify the exact authority and best-interests process. Keep the person’s wishes and any liberty issue separately recorded.
+
+Common error to avoid: Treating professional disagreement, a diagnosis or a risk score as the capacity test.
+
+### Sources for the expanded lesson
+
+- [Mental Capacity Act 2005](https://www.legislation.gov.uk/ukpga/2005/9/contents)
+- [MCA Code of Practice](https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice)
+- [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+
+Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.

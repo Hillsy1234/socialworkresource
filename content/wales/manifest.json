@@ -1,7 +1,7 @@
 {
   "id": "wales",
   "label": "Wales practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-09-08-curriculum-2",
   "hero": "Explore social work in Wales: care and support, safeguarding, mental capacity, mental health, Welsh-language practice and professional reflection.",
   "alerts": [
     "Use Welsh care and support codes, Wales Safeguarding Procedures and ALN/IDP guidance.",
@@ -141,13 +141,14 @@
       "group": "Modules",
       "code": "01",
       "accent": "#4f8a66",
-      "summary": "Values, professional standards, language and reflective practice in Wales.",
+      "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
       "topicId": "foundations",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/foundations.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "care-support",
@@ -155,13 +156,14 @@
       "group": "Modules",
       "code": "02",
       "accent": "#cf7258",
-      "summary": "Assessment, carers, advocacy, planning and the Welsh statutory framework.",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
       "topicId": "care-support",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/care-support.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mca",
@@ -169,13 +171,14 @@
       "group": "Modules",
       "code": "03",
       "accent": "#287c8f",
-      "summary": "Shared statutory context with Welsh practice and communication considerations.",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority.",
       "topicId": "mca",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/mca.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "dols",
@@ -183,13 +186,14 @@
       "group": "Modules",
       "code": "04",
       "accent": "#c5902d",
-      "summary": "Welsh sources for liberty safeguards and restrictive care arrangements.",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical.",
       "topicId": "dols",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/dols.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "mha",
@@ -197,13 +201,14 @@
       "group": "Modules",
       "code": "05",
       "accent": "#5f7896",
-      "summary": "Welsh Code of Practice, care pathways and mental health sources.",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
       "topicId": "mha",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/mha.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "safeguarding",
@@ -211,13 +216,14 @@
       "group": "Modules",
       "code": "06",
       "accent": "#c85f5b",
-      "summary": "Adult-at-risk concerns, Welsh procedures and enquiry sources.",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support.",
       "topicId": "safeguarding",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/safeguarding.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "children",
@@ -225,13 +231,14 @@
       "group": "Modules",
       "code": "07",
       "accent": "#5d9a68",
-      "summary": "Welsh safeguarding, care and support, ALN and transition sources.",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
       "topicId": "children",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/children.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "rights",
@@ -239,13 +246,14 @@
       "group": "Modules",
       "code": "08",
       "accent": "#8a638f",
-      "summary": "Participation, communication and evidence-led recording in Welsh practice.",
+      "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
       "topicId": "rights",
       "jurisdiction": "wales",
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/rights.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialExpandedAt": "2026-09-08"
     },
     {
       "id": "quick-reference",
@@ -461,43 +469,43 @@
   "routeDetails": {
     "care-support": {
       "title": "Care and Support in Wales",
-      "action": "Explore the Welsh assessment, support and advocacy sources.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Identify the correct assessment duty and explain the person’s outcomes and evidence of need.",
+      "record": "Apply the relevant Welsh eligibility regulations rather than a test imported from another system. Check participation barriers and the independent professional advocacy requirements. Record the support plan, separate charging decision, unmet needs and review or complaint route. Ask for written reasons and the relevant local-authority review or complaints process. Consider independent advocacy where required to make participation effective. A disagreement over charges should not erase the needs assessment or interim support plan."
     },
     "mca": {
       "title": "Mental Capacity Act 2005",
-      "action": "Identify the decision and the support needed to participate.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Specify the decision and record support and evidence against the relevant abilities.",
+      "record": "Explain the causal connection to impairment if concluding that capacity is lacking. Check any attorney, deputy or advance decision and the scope of its authority. Record best-interests reasoning, consultation, disagreement and the appropriate challenge route. The Court of Protection deals with relevant disputes and decisions. Consider statutory advocacy requirements and specialist advice where serious disagreement or liberty issues arise. A relative’s agreement should not substitute for the required legal analysis."
     },
     "dols": {
       "title": "DoLS and Deprivation of Liberty",
-      "action": "Describe the arrangements and seek current legal and local guidance.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Record the actual setting, restrictions, duration and response to a wish to leave.",
+      "record": "Use current judgment and Welsh guidance with specialist advice on the applicable legal test. Check the correct authorisation route, representation, conditions and review. Explore less restrictive alternatives and act on objections or changed circumstances. Explain the representative, advocacy and court challenge arrangements that apply. An existing authorisation should be reviewed through the responsible process; do not simply remove safeguards on the basis of a changed summary or training slide."
     },
     "mha": {
       "title": "Mental Health in Wales",
-      "action": "Check the Welsh Code and local professional advice routes.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Identify the exact assessment, detention, treatment or Measure duty involved.",
+      "record": "Use the Welsh Code and current statutory forms and commencement information. For care planning, record outcomes, named services, responsibilities and review. Explain reassessment and advocacy rights appropriate to the person’s eligibility and status. The Mental Health Review Tribunal for Wales and other statutory review routes address particular detention questions. Measure care planning and reassessment are separate rights. Explain which process addresses the person’s concern and how to obtain support or legal advice."
     },
     "safeguarding": {
       "title": "Safeguarding Adults in Wales",
-      "action": "Explore the adult-at-risk framework and Welsh procedures.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Record evidence against the adult-at-risk elements and address immediate safety.",
+      "record": "Identify your reporting responsibility and the authority responsible for enquiries. Use the Wales Safeguarding Procedures and the applicable statutory guidance. Record participation, lawful sharing, accepted responsibilities and review of outcomes. Explain the local-authority and provider complaint processes and relevant advocacy or legal support. A safeguarding referral does not automatically authorise removal, treatment or management of finances. Check the law for the particular proposed action."
     },
     "children": {
       "title": "Children, Families and Transitions",
-      "action": "Check Welsh safeguarding, care/support and ALN sources.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Identify the child’s support and protection needs and the relevant Welsh statutory route.",
+      "record": "Hear the child and family with suitable language and communication support. Check who prepares and maintains the IDP and how education, health and social care contributions connect. Plan transition with named responsibilities and confirm actual acceptance by the next service. Disagreement about an ALN decision can involve the applicable reconsideration, disagreement-resolution and Education Tribunal for Wales routes. A social-care complaint follows a different process. Help the family identify the decision and remedy without allowing one dispute to halt other necessary support."
     },
     "rights": {
       "title": "Rights, Language and Recording",
-      "action": "Explore communication needs and the person’s participation.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Ask and record language and communication needs and make the Active Offer practical.",
+      "record": "Identify the actual equality, human-rights and Welsh-language duties of the service. Check the purpose and lawful basis for information sharing, with appropriate limits. Explain access, correction, complaints and the relevant rights or language challenge route. A Welsh-language standards concern, a privacy complaint and a challenge to the care decision may require different bodies. Explain the organisation’s procedure and relevant external route. Address immediate access barriers while a complaint is considered."
     },
     "foundations": {
       "title": "Professional Foundations",
-      "action": "Connect your reflection to the current Social Care Wales guidance.",
-      "record": "Note the person’s account, evidence, unanswered questions, sources checked and advice to seek. This is a learning prompt."
+      "action": "Check the current Social Care Wales Code and the requirements of the actual role.",
+      "record": "Explain the legal or voluntary purpose of involvement and confidentiality limits. Make language, accessibility, power and service barriers visible in assessment. Distinguish a professional concern, service complaint and statutory decision challenge. Social Care Wales addresses professional regulation; the local authority, provider and relevant statutory review bodies address different service decisions. Explain the route that can provide the remedy the person seeks."
     },
     "sources": {
       "title": "Wales Source Library",
@@ -511,24 +519,24 @@
       "title": "Professional Foundations",
       "cards": [
         {
-          "prompt": "Which professional guidance applies in Wales?",
-          "answer": "The current Social Care Wales Code and social-worker practice guidance. Check the version and effective date."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "Social Care Wales’s new Codes of Professional Practice took effect in July 2026. Use the current worker Code and distinguish it from the employer Code, local-authority procedures and statutory appointments. The professional framework applies across different settings, but the legal power for an intervention depends on the actual function."
         },
         {
-          "prompt": "What makes a formulation more than a list of events?",
-          "answer": "It separates evidence, the person’s perspective, possible explanations and a reasoned plan with a review point."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "A person’s preferred language and ability to participate belong in the first conversation, formulation and plan. Record how supervision, feedback and professional learning change practice rather than only listing completed training."
         },
         {
-          "prompt": "How do you test a strengths-based plan?",
-          "answer": "Ask whether the proposed support is available, wanted and sustainable; do not presume family or community support."
+          "prompt": "What are the key local actions?",
+          "answer": "Check the current Social Care Wales Code and the requirements of the actual role. Explain the legal or voluntary purpose of involvement and confidentiality limits. Make language, accessibility, power and service barriers visible in assessment. Distinguish a professional concern, service complaint and statutory decision challenge."
         },
         {
-          "prompt": "What does professional curiosity add?",
-          "answer": "Questions about discrepancies and alternative explanations, tested respectfully against evidence and the person’s account."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Social Care Wales addresses professional regulation; the local authority, provider and relevant statutory review bodies address different service decisions. Explain the route that can provide the remedy the person seeks."
         },
         {
-          "prompt": "What should a reflection lead to?",
-          "answer": "A specific change, feedback or further enquiry and a way to review its impact in supervision."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating an old induction handout as the current professional standard."
         }
       ]
     },
@@ -537,24 +545,24 @@
       "title": "Care and Support in Wales",
       "cards": [
         {
-          "prompt": "What is the main Welsh care and support framework?",
-          "answer": "The Social Services and Well-being (Wales) Act 2014, with the relevant regulations and Welsh codes."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "The Social Services and Well-being (Wales) Act 2014 separates adult, child and carer assessments in sections 19, 21 and 24. Part 4 and the eligibility regulations govern the next stage; the Part 5 charging decision is separate. Use the current Welsh assessment, meeting-needs, charging and advocacy Codes."
         },
         {
-          "prompt": "Which assessment sections distinguish adults, children and carers?",
-          "answer": "Sections 19, 21 and 24 respectively. Read the applicable criteria and Part 3 Code for the actual duty."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Eligibility requires the applicable needs-and-outcomes analysis and consideration of whether the person can meet those needs alone, with willing others or through accessible community services, or requires the authority’s involvement. A service that exists on a directory but cannot be accessed is not an established solution."
         },
         {
-          "prompt": "Does a needs assessment establish what someone will pay?",
-          "answer": "No. Assessment, eligibility, meeting needs and charging are distinct stages with their own rules."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the correct assessment duty and explain the person’s outcomes and evidence of need. Apply the relevant Welsh eligibility regulations rather than a test imported from another system. Check participation barriers and the independent professional advocacy requirements. Record the support plan, separate charging decision, unmet needs and review or complaint route."
         },
         {
-          "prompt": "Can willingness to care be assumed from a family relationship?",
-          "answer": "No. Explore the carer’s own outcomes, ability and willingness, and the sustainability of proposed care."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Ask for written reasons and the relevant local-authority review or complaints process. Consider independent advocacy where required to make participation effective. A disagreement over charges should not erase the needs assessment or interim support plan."
         },
         {
-          "prompt": "What does advocacy planning require?",
-          "answer": "Identify barriers to participation, available support and whether independent professional advocacy is required under the Welsh framework."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using a theoretically available service or an unwilling relative to conclude that a need is already met."
         }
       ]
     },
@@ -563,24 +571,24 @@
       "title": "Mental Capacity Act 2005",
       "cards": [
         {
-          "prompt": "What decision does a capacity assessment address?",
-          "answer": "A specific decision at a particular time, after all practicable support; not global capacity."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "The Mental Capacity Act 2005 applies to the specific decision and time. The person must be unable to decide because of an impairment or disturbance of mind or brain; inability concerns understanding, retaining, using or weighing relevant information, or communicating the decision. Support must be tried and an unwise choice is not itself incapacity."
         },
         {
-          "prompt": "Does a risky refusal establish incapacity?",
-          "answer": "No. Examine the decision-making process and statutory test, rather than whether professionals approve the outcome."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An attorney, deputy, advance decision and a professional acting under the Act have different roles and limits. A best-interests decision should preserve participation and consider wishes, feelings, beliefs, values and less restrictive options. It does not itself answer every deprivation-of-liberty or mental-health authority question."
         },
         {
-          "prompt": "What are the functional abilities?",
-          "answer": "Understanding, retaining, using or weighing relevant information, and communicating a decision by any means."
+          "prompt": "What are the key local actions?",
+          "answer": "Specify the decision and record support and evidence against the relevant abilities. Explain the causal connection to impairment if concluding that capacity is lacking. Check any attorney, deputy or advance decision and the scope of its authority. Record best-interests reasoning, consultation, disagreement and the appropriate challenge route."
         },
         {
-          "prompt": "What causal connection matters?",
-          "answer": "An inability to make the decision must result from an impairment of, or disturbance in, the functioning of mind or brain."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Court of Protection deals with relevant disputes and decisions. Consider statutory advocacy requirements and specialist advice where serious disagreement or liberty issues arise. A relative’s agreement should not substitute for the required legal analysis."
         },
         {
-          "prompt": "Does a best interests decision itself authorise deprivation of liberty?",
-          "answer": "No. Identify the appropriate separate authority where the arrangements amount to deprivation of liberty."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating professional disagreement, a diagnosis or a risk score as the capacity test."
         }
       ]
     },
@@ -589,24 +597,24 @@
       "title": "DoLS and Deprivation of Liberty",
       "cards": [
         {
-          "prompt": "What changed in June 2026?",
-          "answer": "The Supreme Court departed from Cheshire West. Use the current judgment and Welsh guidance rather than the former acid test alone."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "The Supreme Court’s June 2026 judgment requires the liberty analysis to distinguish the Article 5 consent question from domestic decision-making capacity. The old two-part checklist should not be used as the sole answer. Mere acquiescence does not establish valid consent."
         },
         {
-          "prompt": "Is silence the same as valid consent?",
-          "answer": "No. Explore the person’s wishes and actual situation; mere acquiescence is insufficient."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record."
         },
         {
-          "prompt": "Is Article 5 consent simply the same question as domestic MCA capacity?",
-          "answer": "No. The June 2026 judgment distinguishes these questions. Seek appropriate advice when applying it."
+          "prompt": "What are the key local actions?",
+          "answer": "Record the actual setting, restrictions, duration and response to a wish to leave. Use current judgment and Welsh guidance with specialist advice on the applicable legal test. Check the correct authorisation route, representation, conditions and review. Explore less restrictive alternatives and act on objections or changed circumstances."
         },
         {
-          "prompt": "What must a restriction review describe?",
-          "answer": "The actual arrangements, setting, duration, intensity, effects, freedom to leave and the person’s account and objection."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the representative, advocacy and court challenge arrangements that apply. An existing authorisation should be reviewed through the responsible process; do not simply remove safeguards on the basis of a changed summary or training slide."
         },
         {
-          "prompt": "Which settings are central to the DoLS administrative route?",
-          "answer": "Hospitals and care homes for adults aged 18 or over, subject to the statutory requirements. Other settings or ages need the appropriate legal route."
+          "prompt": "What common error should you avoid?",
+          "answer": "Equating silence with consent or treating lack of capacity as the complete liberty analysis."
         }
       ]
     },
@@ -615,24 +623,24 @@
       "title": "Mental Health in Wales",
       "cards": [
         {
-          "prompt": "Which MHA Code applies to Wales?",
-          "answer": "The Welsh Code, read with the current Act, amendments and commencement information."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route."
         },
         {
-          "prompt": "What distinguishes section 2 from section 3 in learning terms?",
-          "answer": "Section 2 concerns admission for assessment, potentially followed by treatment; section 3 concerns admission for treatment. Check all current statutory criteria."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures."
         },
         {
-          "prompt": "Why separate the purpose of proposed interventions?",
-          "answer": "Mental health compulsion, physical treatment, care and accommodation may require different legal analyses and authorities."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the exact assessment, detention, treatment or Measure duty involved. Use the Welsh Code and current statutory forms and commencement information. For care planning, record outcomes, named services, responsibilities and review. Explain reassessment and advocacy rights appropriate to the person’s eligibility and status."
         },
         {
-          "prompt": "What Welsh framework supports care coordination in secondary mental health services?",
-          "answer": "Part 2 of the Mental Health (Wales) Measure 2010 provides the relevant care coordination and care/treatment planning framework."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "The Mental Health Review Tribunal for Wales and other statutory review routes address particular detention questions. Measure care planning and reassessment are separate rights. Explain which process addresses the person’s concern and how to obtain support or legal advice."
         },
         {
-          "prompt": "Does enactment of reform mean every provision is in force?",
-          "answer": "No. Check commencement and territorial application for the specific provision and date of the decision."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating every mental-health right as a detention issue or overlooking Measure reassessment duties."
         }
       ]
     },
@@ -641,24 +649,24 @@
       "title": "Safeguarding Adults in Wales",
       "cards": [
         {
-          "prompt": "What are the three adult-at-risk elements in section 126?",
-          "answer": "Abuse or neglect, or risk of it; care and support needs; and inability to protect oneself as a result of those needs."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different."
         },
         {
-          "prompt": "Where is the Welsh local authority adult enquiry duty?",
-          "answer": "Section 126(2), where the authority has reasonable cause to suspect an adult in its area is an adult at risk."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished."
         },
         {
-          "prompt": "What does section 128 concern?",
-          "answer": "Relevant partners’ duty to inform the local authority where the statutory adult-at-risk reporting conditions apply."
+          "prompt": "What are the key local actions?",
+          "answer": "Record evidence against the adult-at-risk elements and address immediate safety. Identify your reporting responsibility and the authority responsible for enquiries. Use the Wales Safeguarding Procedures and the applicable statutory guidance. Record participation, lawful sharing, accepted responsibilities and review of outcomes."
         },
         {
-          "prompt": "Must abuse be proved before reporting?",
-          "answer": "No. Follow the reporting threshold and Welsh procedures; do not delay a concern to conduct your own proof-gathering exercise."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Explain the local-authority and provider complaint processes and relevant advocacy or legal support. A safeguarding referral does not automatically authorise removal, treatment or management of finances. Check the law for the particular proposed action."
         },
         {
-          "prompt": "How should apparent refusal under coercion be approached?",
-          "answer": "Arrange safe communication, explore the person’s account, capacity and coercion, and consider advocacy and lawful protective action."
+          "prompt": "What common error should you avoid?",
+          "answer": "Using capacity as the only safeguarding threshold or treating reporting and enquiries as the same duty."
         }
       ]
     },
@@ -667,24 +675,24 @@
       "title": "Children, Families and Transitions",
       "cards": [
         {
-          "prompt": "Which safeguarding procedure collection applies?",
-          "answer": "Wales Safeguarding Procedures and Welsh statutory guidance, alongside the applicable legislation."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "Welsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018."
         },
         {
-          "prompt": "What education plan terminology is used in Wales?",
-          "answer": "Additional learning needs (ALN) and individual development plans (IDPs). Check duties for the individual learner."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties."
         },
         {
-          "prompt": "What should transition planning connect?",
-          "answer": "The young person’s wishes, education, health, care and support, housing, relationships, family support and continuity of services."
+          "prompt": "What are the key local actions?",
+          "answer": "Identify the child’s support and protection needs and the relevant Welsh statutory route. Hear the child and family with suitable language and communication support. Check who prepares and maintains the IDP and how education, health and social care contributions connect. Plan transition with named responsibilities and confirm actual acceptance by the next service."
         },
         {
-          "prompt": "Does an IDP decide all social care responsibilities?",
-          "answer": "No. Education planning and care/support duties need coordinated but distinct consideration."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "Disagreement about an ALN decision can involve the applicable reconsideration, disagreement-resolution and Education Tribunal for Wales routes. A social-care complaint follows a different process. Help the family identify the decision and remedy without allowing one dispute to halt other necessary support."
         },
         {
-          "prompt": "What makes a child-centred record?",
-          "answer": "The child’s own account and daily lived experience, supported communication, evidence, analysis and a plan they can understand."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating an education plan as a substitute for care assessment or a completed transition handover."
         }
       ]
     },
@@ -693,24 +701,24 @@
       "title": "Rights, Language and Recording",
       "cards": [
         {
-          "prompt": "What is an active offer of Welsh-language support?",
-          "answer": "Proactively making Welsh-language support available and arranging how the preference will be met, rather than waiting for repeated requests."
+          "prompt": "Which local framework anchors this topic in Wales practice guide?",
+          "answer": "The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and Welsh-language duties engage different parts of a decision. More than just words promotes the Active Offer of Welsh-language care, recognising language as part of safe and effective support."
         },
         {
-          "prompt": "What should a reasonable adjustment record show?",
-          "answer": "The barrier, adjustment offered, whether it worked and what further action or review is needed."
+          "prompt": "Which distinction must be kept clear?",
+          "answer": "Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively."
         },
         {
-          "prompt": "Is consent always necessary for safeguarding information sharing?",
-          "answer": "No. Establish the lawful basis and justification, share relevant information proportionately and record the reasons."
+          "prompt": "What are the key local actions?",
+          "answer": "Ask and record language and communication needs and make the Active Offer practical. Identify the actual equality, human-rights and Welsh-language duties of the service. Check the purpose and lawful basis for information sharing, with appropriate limits. Explain access, correction, complaints and the relevant rights or language challenge route."
         },
         {
-          "prompt": "How should disagreement appear in a record?",
-          "answer": "Identify who disagrees and why, separate views from evidence and analysis, and record response, escalation and review."
+          "prompt": "How can the person participate or challenge the decision?",
+          "answer": "A Welsh-language standards concern, a privacy complaint and a challenge to the care decision may require different bodies. Explain the organisation’s procedure and relevant external route. Address immediate access barriers while a complaint is considered."
         },
         {
-          "prompt": "What makes a rights analysis practical?",
-          "answer": "Identify the right engaged, proposed interference, legal basis, alternatives and proportionality, then record the decision and review."
+          "prompt": "What common error should you avoid?",
+          "answer": "Treating language access as cosmetic or using a communication barrier as evidence of incapacity."
         }
       ]
     }
@@ -1444,121 +1452,124 @@
   ],
   "scenarioWorkouts": [
     {
-      "title": "Care and carer support",
-      "summary": "Elin, 79, has fallen twice. Her daughter, who works nights, says she cannot continue daily visits. Elin wants to remain at home.",
+      "title": "Professional Foundations",
+      "summary": "A worker uses an old professional-code handout and an English-only assessment despite a request for Welsh-language support.",
+      "routes": [
+        "foundations",
+        "rights",
+        "sources"
+      ],
+      "prompts": [
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
+      ],
+      "reveal": "Use the current Code, arrange appropriate communication and revisit any assessment conclusions affected by the barrier. Link the change to supervision and feedback from the person."
+    },
+    {
+      "title": "Care and Support in Wales",
+      "summary": "An authority says community support meets a need, but the only advertised group has no accessible transport or available places.",
       "routes": [
         "care-support",
-        "templates"
+        "rights",
+        "sources"
       ],
       "prompts": [
-        "Whose assessment is needed and what matters to each person?",
-        "What support is available without assuming the daughter will provide it?",
-        "How will you distinguish assessment, eligibility and charging?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Explore Elin’s outcomes, daily living, strengths and barriers, and assess the daughter’s own support needs. Discuss willingness and sustainability separately from affection. Compare home support, adaptations and other options with Elin; identify immediate support, responsible people and a review date. Financial circumstances do not replace the needs assessment."
+      "reveal": "Check actual availability and accessibility in the eligibility reasoning. Revisit whether authority involvement is required, record the unmet need and agree interim action. A directory listing alone does not demonstrate that the outcome can be achieved."
     },
     {
-      "title": "Capacity and an unwise decision",
-      "summary": "Sian declines a proposed move after a tiring hospital stay. Staff say the risk means she lacks capacity. She has asked to speak Welsh.",
+      "title": "Mental Capacity Act 2005",
+      "summary": "An adult refuses a proposed care arrangement after explaining its benefits and drawbacks, while relatives consider the choice too risky.",
       "routes": [
         "mca",
-        "rights"
+        "rights",
+        "sources"
       ],
       "prompts": [
-        "What is the exact decision and why is capacity in doubt?",
-        "What practical support must come first?",
-        "What evidence would distinguish disagreement from inability to decide?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Arrange suitable timing, language and accessible information. Record Sian’s reasoning and how she uses or weighs the relevant options. Risk alone does not establish incapacity. If the statutory test is met, identify the decision-maker and a separate best interests process; assess any liberty issue separately."
+      "reveal": "Explore the reasoning and support needs without treating disagreement as incapacity. If capacity is lacking, identify the exact authority and best-interests process. Keep the person’s wishes and any liberty issue separately recorded."
     },
     {
-      "title": "Liberty and the person’s wishes",
-      "summary": "Carys lives in a care home with locked doors and staff accompanying trips. Sometimes she asks to leave; the record says she is settled.",
+      "title": "DoLS and Deprivation of Liberty",
+      "summary": "A resident is quiet during meetings but repeatedly packs a bag and asks staff to take them home.",
       "routes": [
         "dols",
-        "mca"
+        "rights",
+        "sources"
       ],
       "prompts": [
-        "What restrictions actually operate?",
-        "How will you explore wishes, objection and consent?",
-        "Which current Welsh advice and authorisation route needs checking?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Describe duration, intensity, freedom to leave, support and the person’s account. Apply current law following the June 2026 judgment, not the former acid test alone. Do not equate quiet behaviour with valid consent or incapacity with lack of consent for every purpose. Seek the appropriate DoLS or legal advice and record review and challenge arrangements."
+      "reveal": "Use appropriate communication to understand the request and record how staff respond. Review actual restrictions and consent evidence with the responsible specialist. Calm presentation does not settle the legal question or remove the need to support a challenge."
     },
     {
-      "title": "Mental health crisis",
-      "summary": "Owain is distressed in an emergency department and wants to leave. The team is considering compulsory assessment. Physical treatment is also proposed.",
+      "title": "Mental Health in Wales",
+      "summary": "An eligible former secondary-service user reports deterioration and is told that only a new GP referral can lead to assessment.",
       "routes": [
         "mha",
-        "mca",
-        "rights"
+        "rights",
+        "sources"
       ],
       "prompts": [
-        "What is the immediate risk and purpose of each proposed intervention?",
-        "Who must assess the mental health legal route?",
-        "How will you address physical treatment and communication separately?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Involve the clinical team and AMHP through the local pathway. Identify the lawful authority for each intervention and available less restrictive options. Use the Welsh MHA Code and check the current provision and commencement position. A capacity assessment is not a general power to detain; physical treatment may involve a different legal analysis."
+      "reveal": "Check the Part 3 conditions and explain the direct reassessment route where applicable. Arrange an appropriate response to urgent need and record responsibility and follow-up. Do not confuse reassessment rights with a guarantee of a particular service."
     },
     {
-      "title": "Adult at risk and financial control",
-      "summary": "Rhys has care and support needs. His relative controls his bank card and answers all questions. Rhys says there is no problem while the relative is beside him.",
+      "title": "Safeguarding Adults in Wales",
+      "summary": "An adult understands a relative’s financial demands but relies on that person for meals and fears losing contact if they report.",
       "routes": [
         "safeguarding",
-        "mca",
-        "rights"
+        "rights",
+        "sources"
       ],
       "prompts": [
-        "Do the facts give reasonable cause to suspect an adult at risk under section 126?",
-        "How can Rhys be heard safely and privately?",
-        "Which immediate reporting and protection steps are needed?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Consider abuse or neglect risk, care and support needs and ability to protect himself because of those needs. Follow Welsh reporting procedures, relevant section 128 duties and the local authority enquiry route. Explore coercion, advocacy and desired outcomes. Do not delay reporting while seeking proof, or treat apparent agreement as resolving the concern."
+      "reveal": "Consider the protection criteria, dependency and safe ways to hear the adult. Arrange immediate practical help and the appropriate report or enquiries. Understanding the financial transaction does not by itself show that the adult can protect themselves."
     },
     {
-      "title": "Transition and an IDP",
-      "summary": "Seren is 17, has an individual development plan and wants to attend college away from home. Her parent provides substantial daily support.",
+      "title": "Children, Families and Transitions",
+      "summary": "A young person has an IDP but no agreed adult support when leaving school, and each service assumes the plan guarantees the other’s provision.",
       "routes": [
         "children",
-        "care-support",
-        "mca"
+        "rights",
+        "sources"
       ],
       "prompts": [
-        "What does Seren want and how will she participate?",
-        "Who is coordinating education, health, care and family support?",
-        "Which decisions and services need planning before adulthood?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Bring together Welsh care and support assessment, ALN/IDP planning, health and carer support. Name owners and dates for actions and clarify which decisions use the MCA from age 16. An IDP does not settle all social care duties. Plan continuity and disagreement routes instead of relying on an age-bound handover."
+      "reveal": "Separate education duties from adult care assessment and service eligibility. Identify the young person’s goals, obtain named decisions and arrange a coordinated transition. The existence of an IDP does not establish that adult social-care support has been agreed."
     },
     {
-      "title": "Organisational safeguarding",
-      "summary": "Several care-home residents have unexplained injuries and staff describe routine restrictions as policy. Records are inconsistent.",
-      "routes": [
-        "safeguarding",
-        "dols",
-        "mca"
-      ],
-      "prompts": [
-        "Which immediate individual protection steps are required?",
-        "What pattern needs a coordinated safeguarding response?",
-        "Which information and agencies must be involved?"
-      ],
-      "reveal": "Attend to each adult’s safety, wishes and needs while following Welsh safeguarding procedures. Preserve factual records, report concerns and consider police, commissioners and Care Inspectorate Wales as appropriate. Check individual capacity and liberty arrangements rather than treating a provider policy as legal authority."
-    },
-    {
-      "title": "Language and professional disagreement",
-      "summary": "A Welsh-speaking carer says meetings are inaccessible. A draft plan records agreement, but the carer reports feeling pressured.",
+      "title": "Rights, Language and Recording",
+      "summary": "A Welsh-speaking adult appears confused during an English assessment but communicates clearly when suitable Welsh-language support is arranged.",
       "routes": [
         "rights",
         "foundations",
-        "care-support"
+        "sources"
       ],
       "prompts": [
-        "Whose account appears in the plan?",
-        "What changes would make the meeting accessible?",
-        "How will disagreement and the next review be recorded?"
+        "Which local framework and decision-maker apply?",
+        "What evidence and support could change the next step?",
+        "How will the person participate, challenge and obtain review?"
       ],
-      "reveal": "Speak directly with the carer using appropriate language support. Correct the record so that agreement, disagreement and professional analysis are distinct. Explore support needs and advocacy. Escalate unresolved access barriers and record who will act and how the carer can challenge the plan."
+      "reveal": "Revisit the evidence and any capacity or eligibility conclusions affected by the communication barrier. Record the support required for future contacts and the person’s account, rather than retaining an unsupported label of confusion."
     }
   ],
   "printableTemplates": [
@@ -1566,57 +1577,57 @@
       "id": "care-support",
       "title": "Care and support assessment",
       "fileName": "wales-care-support-prompt.txt",
-      "body": "Care and support assessment\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/social-services-codes-practice\n\n1. Person’s account, language and communication\nNotes: \n\n2. What matters: outcomes and changes sought\nNotes: \n\n3. Strengths, relationships, environment and barriers\nNotes: \n\n4. Care and support needs and evidence\nNotes: \n\n5. Support for participation and advocacy\nNotes: \n\n6. Carer position, willingness and separate assessment\nNotes: \n\n7. Immediate needs and protective action\nNotes: \n\n8. Eligibility analysis under Welsh regulations and Code\nNotes: \n\n9. Options, agreed plan, responsibilities and contingency\nNotes: \n\n10. Charging or financial assessment addressed separately\nNotes: \n\n11. Disagreements, reasons, review date and challenge route\nNotes: ",
-      "summary": "Person’s account, language and communication; What matters: outcomes and changes sought; Strengths, relationships, environment and barriers."
+      "body": "Care and support assessment\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Social Services and Well-being (Wales) Act 2014 separates adult, child and carer assessments in sections 19, 21 and 24. Part 4 and the eligibility regulations govern the next stage; the Part 5 charging decision is separate. Use the current Welsh assessment, meeting-needs, charging and advocacy Codes.\n\nEligibility requires the applicable needs-and-outcomes analysis and consideration of whether the person can meet those needs alone, with willing others or through accessible community services, or requires the authority’s involvement. A service that exists on a directory but cannot be accessed is not an established solution.\n\nLocal pathway:\nIdentify the correct assessment duty and explain the person’s outcomes and evidence of need.\nApply the relevant Welsh eligibility regulations rather than a test imported from another system.\nCheck participation barriers and the independent professional advocacy requirements.\nRecord the support plan, separate charging decision, unmet needs and review or complaint route.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nAsk for written reasons and the relevant local-authority review or complaints process. Consider independent advocacy where required to make participation effective. A disagreement over charges should not erase the needs assessment or interim support plan.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2014/4/contents\nhttps://www.legislation.gov.uk/wsi/2015/1578/contents\nhttps://www.gov.wales/assessing-care-and-support-needs-individuals-code-practice\nhttps://www.gov.wales/advocacy-services-code-practice\nhttps://www.gov.wales/social-services-codes-practice\n",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision."
     },
     {
       "id": "carer",
       "title": "Carer support assessment",
       "fileName": "wales-carer-prompt.txt",
-      "body": "Carer support assessment\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/social-services-codes-practice\n\n1. Carer’s own account and desired outcomes\nNotes: \n\n2. Nature and impact of caring, including work, study and wellbeing\nNotes: \n\n3. Willingness and ability to continue: do not presume\nNotes: \n\n4. Current support and unmet support needs\nNotes: \n\n5. Language, participation and advocacy\nNotes: \n\n6. Assessment and eligibility analysis\nNotes: \n\n7. Support options, contingency and emergency contacts\nNotes: \n\n8. Agreed actions, responsible people and review\nNotes: ",
-      "summary": "Carer’s own account and desired outcomes; Nature and impact of caring, including work, study and wellbeing; Willingness and ability to continue: do not presume."
+      "body": "Carer support assessment\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Social Services and Well-being (Wales) Act 2014 separates adult, child and carer assessments in sections 19, 21 and 24. Part 4 and the eligibility regulations govern the next stage; the Part 5 charging decision is separate. Use the current Welsh assessment, meeting-needs, charging and advocacy Codes.\n\nEligibility requires the applicable needs-and-outcomes analysis and consideration of whether the person can meet those needs alone, with willing others or through accessible community services, or requires the authority’s involvement. A service that exists on a directory but cannot be accessed is not an established solution.\n\nLocal pathway:\nIdentify the correct assessment duty and explain the person’s outcomes and evidence of need.\nApply the relevant Welsh eligibility regulations rather than a test imported from another system.\nCheck participation barriers and the independent professional advocacy requirements.\nRecord the support plan, separate charging decision, unmet needs and review or complaint route.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nAsk for written reasons and the relevant local-authority review or complaints process. Consider independent advocacy where required to make participation effective. A disagreement over charges should not erase the needs assessment or interim support plan.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2014/4/contents\nhttps://www.legislation.gov.uk/wsi/2015/1578/contents\nhttps://www.gov.wales/assessing-care-and-support-needs-individuals-code-practice\nhttps://www.gov.wales/advocacy-services-code-practice\nhttps://www.gov.wales/social-services-codes-practice\n",
+      "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision."
     },
     {
       "id": "capacity",
       "title": "Decision-specific capacity",
       "fileName": "wales-capacity-prompt.txt",
-      "body": "Decision-specific capacity\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice\n\n1. Exact decision and time\nNotes: \n\n2. Reason to assess and relevant impairment or disturbance\nNotes: \n\n3. All practicable communication and decision support\nNotes: \n\n4. Relevant information and realistic options\nNotes: \n\n5. Person’s responses: understand, retain, use or weigh, communicate\nNotes: \n\n6. How any inability results from impairment or disturbance\nNotes: \n\n7. Evidence for conclusion and uncertainties\nNotes: \n\n8. Can the decision wait? Review trigger and date\nNotes: \n\n9. Next action and separate best interests process if required\nNotes: ",
-      "summary": "Exact decision and time; Reason to assess and relevant impairment or disturbance; All practicable communication and decision support."
+      "body": "Decision-specific capacity\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Capacity Act 2005 applies to the specific decision and time. The person must be unable to decide because of an impairment or disturbance of mind or brain; inability concerns understanding, retaining, using or weighing relevant information, or communicating the decision. Support must be tried and an unwise choice is not itself incapacity.\n\nAn attorney, deputy, advance decision and a professional acting under the Act have different roles and limits. A best-interests decision should preserve participation and consider wishes, feelings, beliefs, values and less restrictive options. It does not itself answer every deprivation-of-liberty or mental-health authority question.\n\nLocal pathway:\nSpecify the decision and record support and evidence against the relevant abilities.\nExplain the causal connection to impairment if concluding that capacity is lacking.\nCheck any attorney, deputy or advance decision and the scope of its authority.\nRecord best-interests reasoning, consultation, disagreement and the appropriate challenge route.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nThe Court of Protection deals with relevant disputes and decisions. Consider statutory advocacy requirements and specialist advice where serious disagreement or liberty issues arise. A relative’s agreement should not substitute for the required legal analysis.\n\nSources:\nhttps://www.legislation.gov.uk/ukpga/2005/9/contents\nhttps://www.gov.uk/government/publications/mental-capacity-act-code-of-practice\nhttps://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms\n",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority."
     },
     {
       "id": "best-interests",
       "title": "Best interests decision",
       "fileName": "wales-best-interests-prompt.txt",
-      "body": "Best interests decision\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice\n\n1. Decision, capacity finding and decision-maker\nNotes: \n\n2. Attorney/deputy/advance decision: validity and scope\nNotes: \n\n3. Person’s participation, wishes, feelings, beliefs and values\nNotes: \n\n4. Relevant circumstances and prospect of regaining capacity\nNotes: \n\n5. People consulted and their views\nNotes: \n\n6. Options, benefits, burdens and less restrictive alternatives\nNotes: \n\n7. Decision, rationale and unresolved disagreement\nNotes: \n\n8. Separate authority for restraint or deprivation of liberty where relevant\nNotes: \n\n9. Implementation, challenge route and review\nNotes: ",
-      "summary": "Decision, capacity finding and decision-maker; Attorney/deputy/advance decision: validity and scope; Person’s participation, wishes, feelings, beliefs and values."
+      "body": "Best interests decision\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Capacity Act 2005 applies to the specific decision and time. The person must be unable to decide because of an impairment or disturbance of mind or brain; inability concerns understanding, retaining, using or weighing relevant information, or communicating the decision. Support must be tried and an unwise choice is not itself incapacity.\n\nAn attorney, deputy, advance decision and a professional acting under the Act have different roles and limits. A best-interests decision should preserve participation and consider wishes, feelings, beliefs, values and less restrictive options. It does not itself answer every deprivation-of-liberty or mental-health authority question.\n\nLocal pathway:\nSpecify the decision and record support and evidence against the relevant abilities.\nExplain the causal connection to impairment if concluding that capacity is lacking.\nCheck any attorney, deputy or advance decision and the scope of its authority.\nRecord best-interests reasoning, consultation, disagreement and the appropriate challenge route.\n\nRecording prompts:\n1. Decision, options and time at which it is needed\nNotes:\n\n2. Communication support and observed responses\nNotes:\n\n3. Applicable legal test and evidence for each element\nNotes:\n\n4. Representative’s document, scope and decision standard\nNotes:\n\n5. Wishes, disagreement, review and any urgent action\nNotes:\n\nChallenge and review:\nThe Court of Protection deals with relevant disputes and decisions. Consider statutory advocacy requirements and specialist advice where serious disagreement or liberty issues arise. A relative’s agreement should not substitute for the required legal analysis.\n\nSources:\nhttps://www.legislation.gov.uk/ukpga/2005/9/contents\nhttps://www.gov.uk/government/publications/mental-capacity-act-code-of-practice\nhttps://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms\n",
+      "summary": "Identify the precise decision, provide practical decision support, apply the local capacity or consent framework and verify a representative’s authority."
     },
     {
       "id": "adult-safeguarding",
       "title": "Adult safeguarding: Wales",
       "fileName": "wales-adult-safeguarding-prompt.txt",
-      "body": "Adult safeguarding: Wales\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://safeguarding.wales/\n\n1. Immediate safety or emergency response\nNotes: \n\n2. Factual concern, source, timing and evidence preserved\nNotes: \n\n3. Section 126 adult-at-risk criteria: analysis not just a tick\nNotes: \n\n4. Adult’s account, desired outcomes, communication and advocacy\nNotes: \n\n5. Safe contact, coercion and capacity questions\nNotes: \n\n6. Reporting under Welsh procedures and relevant section 128 duty\nNotes: \n\n7. Local authority enquiries and multi-agency responsibilities\nNotes: \n\n8. Information-sharing purpose, lawful justification and recipients\nNotes: \n\n9. Protection plan, person responsible, timescale and review\nNotes: \n\n10. Reasons for decisions and escalation of unresolved concerns\nNotes: ",
-      "summary": "Immediate safety or emergency response; Factual concern, source, timing and evidence preserved; Section 126 adult-at-risk criteria: analysis not just a tick."
+      "body": "Adult safeguarding: Wales\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nSection 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different.\n\nA capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.\n\nLocal pathway:\nRecord evidence against the adult-at-risk elements and address immediate safety.\nIdentify your reporting responsibility and the authority responsible for enquiries.\nUse the Wales Safeguarding Procedures and the applicable statutory guidance.\nRecord participation, lawful sharing, accepted responsibilities and review of outcomes.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nExplain the local-authority and provider complaint processes and relevant advocacy or legal support. A safeguarding referral does not automatically authorise removal, treatment or management of finances. Check the law for the particular proposed action.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2014/4/section/126\nhttps://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/\nhttps://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf\nhttps://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/\n",
+      "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support."
     },
     {
       "id": "liberty",
       "title": "Liberty and restriction review",
       "fileName": "wales-liberty-prompt.txt",
-      "body": "Liberty and restriction review\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty\n\n1. Setting, age and actual care arrangements\nNotes: \n\n2. Restrictions: type, intensity, duration and effects\nNotes: \n\n3. Person’s wishes, feelings, objection and support to express them\nNotes: \n\n4. Consent analysis under current law distinct from domestic capacity\nNotes: \n\n5. Current June 2026 judgment and Welsh guidance checked\nNotes: \n\n6. Less restrictive options considered\nNotes: \n\n7. DoLS, court or other legal route: advice and reasons\nNotes: \n\n8. Existing authorisation scope and conditions\nNotes: \n\n9. Representation, rights to challenge and urgent actions\nNotes: \n\n10. Review date and changes requiring earlier review\nNotes: ",
-      "summary": "Setting, age and actual care arrangements; Restrictions: type, intensity, duration and effects; Person’s wishes, feelings, objection and support to express them."
+      "body": "Liberty and restriction review\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Supreme Court’s June 2026 judgment requires the liberty analysis to distinguish the Article 5 consent question from domestic decision-making capacity. The old two-part checklist should not be used as the sole answer. Mere acquiescence does not establish valid consent.\n\nWhere required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.\n\nLocal pathway:\nRecord the actual setting, restrictions, duration and response to a wish to leave.\nUse current judgment and Welsh guidance with specialist advice on the applicable legal test.\nCheck the correct authorisation route, representation, conditions and review.\nExplore less restrictive alternatives and act on objections or changed circumstances.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nExplain the representative, advocacy and court challenge arrangements that apply. An existing authorisation should be reviewed through the responsible process; do not simply remove safeguards on the basis of a changed summary or training slide.\n\nSources:\nhttps://supremecourt.uk/cases/press-summary/uksc-2025-0042\nhttps://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty\nhttps://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms\n",
+      "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical."
     },
     {
       "id": "mental-health",
       "title": "Mental health interface discussion",
       "fileName": "wales-mental-health-prompt.txt",
-      "body": "Mental health interface discussion\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/mental-health-act-1983-code-practice\n\n1. Immediate safety, person’s account and communication needs\nNotes: \n\n2. Purpose of proposed intervention\nNotes: \n\n3. Clinical team and AMHP involvement\nNotes: \n\n4. Less restrictive support and alternatives\nNotes: \n\n5. Welsh Code and current statutory provision checked\nNotes: \n\n6. MHA/MCA/DoLS interface and reasons for proposed route\nNotes: \n\n7. Physical treatment considered separately\nNotes: \n\n8. Advocacy, rights information, family or carer involvement\nNotes: \n\n9. Care coordination, discharge and aftercare questions\nNotes: \n\n10. Responsibilities, escalation and review\nNotes: ",
-      "summary": "Immediate safety, person’s account and communication needs; Purpose of proposed intervention; Clinical team and AMHP involvement."
+      "body": "Mental health interface discussion\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nUse the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.\n\nPart 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.\n\nLocal pathway:\nIdentify the exact assessment, detention, treatment or Measure duty involved.\nUse the Welsh Code and current statutory forms and commencement information.\nFor care planning, record outcomes, named services, responsibilities and review.\nExplain reassessment and advocacy rights appropriate to the person’s eligibility and status.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Mental Health Review Tribunal for Wales and other statutory review routes address particular detention questions. Measure care planning and reassessment are separate rights. Explain which process addresses the person’s concern and how to obtain support or legal advice.\n\nSources:\nhttps://www.gov.wales/mental-health-act-1983-code-practice\nhttps://www.legislation.gov.uk/mwa/2010/7/contents\nhttps://www.gov.wales/mental-health-wales-measure-2010-june-2026-html\nhttps://www.legislation.gov.uk/uksi/2026/385/contents\nhttps://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/\nhttps://www.legislation.gov.uk/mwa/2010/7/part/3\nhttps://www.gov.uk/government/collections/mental-health-bill-2025\n",
+      "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights."
     },
     {
       "id": "children-transition",
       "title": "Child, family and transition planning",
       "fileName": "wales-children-transition-prompt.txt",
-      "body": "Child, family and transition planning\nWales practice guide | Source check: 8 September 2026\nLearning prompt, not an official statutory form. Use anonymised information.\nSource: https://www.gov.wales/additional-learning-needs-code\n\n1. Child or young person’s own words and aspirations\nNotes: \n\n2. Language, communication and participation\nNotes: \n\n3. Immediate safeguarding concerns and Welsh procedure\nNotes: \n\n4. Family strengths, support needs and young carer considerations\nNotes: \n\n5. ALN/IDP, education, health and care planning links\nNotes: \n\n6. Decisions and capacity framework where applicable\nNotes: \n\n7. Named coordinator, services and cross-border questions\nNotes: \n\n8. Actions before transition and continuity arrangements\nNotes: \n\n9. Carer support, disagreements and advocacy\nNotes: \n\n10. Review with the young person: dates and accountable people\nNotes: ",
-      "summary": "Child or young person’s own words and aspirations; Language, communication and participation; Immediate safeguarding concerns and Welsh procedure."
+      "body": "Child, family and transition planning\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nWelsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018.\n\nAn Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.\n\nLocal pathway:\nIdentify the child’s support and protection needs and the relevant Welsh statutory route.\nHear the child and family with suitable language and communication support.\nCheck who prepares and maintains the IDP and how education, health and social care contributions connect.\nPlan transition with named responsibilities and confirm actual acceptance by the next service.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nDisagreement about an ALN decision can involve the applicable reconsideration, disagreement-resolution and Education Tribunal for Wales routes. A social-care complaint follows a different process. Help the family identify the decision and remedy without allowing one dispute to halt other necessary support.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2018/2/contents\nhttps://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html\nhttps://www.gov.wales/individual-development-plan-idp-example-standard-form\nhttps://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance\nhttps://safeguarding.wales/\nhttps://www.gov.wales/additional-learning-needs-code\n",
+      "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning."
     },
     {
       "id": "supervision",
@@ -1637,44 +1648,45 @@
     {
       "title": "Professional foundations",
       "resource": "foundations",
-      "task": "Write a case formulation distinguishing facts, the person’s account and your analysis."
+      "task": "Check the current Social Care Wales Code and the requirements of the actual role. Work through the fictional case and explain: Treating an old induction handout as the current professional standard."
     },
     {
       "title": "Care and carer support",
       "resource": "care-support",
-      "task": "Assess a fictional adult and carer separately; distinguish needs, eligibility and financial assessment."
+      "task": "Identify the correct assessment duty and explain the person’s outcomes and evidence of need. Work through the fictional case and explain: Using a theoretically available service or an unwilling relative to conclude that a need is already met."
     },
     {
       "title": "Capacity and decisions",
       "resource": "mca",
-      "task": "Define one decision, provide support and explain the evidence for your conclusion."
+      "task": "Specify the decision and record support and evidence against the relevant abilities. Work through the fictional case and explain: Treating professional disagreement, a diagnosis or a risk score as the capacity test."
     },
     {
       "title": "Liberty and rights",
       "resource": "dols",
-      "task": "Describe restrictions and wishes; identify the current source and authorisation question."
+      "task": "Record the actual setting, restrictions, duration and response to a wish to leave. Work through the fictional case and explain: Equating silence with consent or treating lack of capacity as the complete liberty analysis."
     },
     {
       "title": "Mental health routes",
       "resource": "mha",
-      "task": "Compare the purpose and legal basis of mental health and physical healthcare interventions."
+      "task": "Identify the exact assessment, detention, treatment or Measure duty involved. Work through the fictional case and explain: Treating every mental-health right as a detention issue or overlooking Measure reassessment duties."
     },
     {
       "title": "Adult safeguarding",
       "resource": "safeguarding",
-      "task": "Apply the section 126 framework to the Rhys scenario and plan safe reporting."
+      "task": "Record evidence against the adult-at-risk elements and address immediate safety. Work through the fictional case and explain: Using capacity as the only safeguarding threshold or treating reporting and enquiries as the same duty."
     },
     {
       "title": "Children and transition",
       "resource": "children",
-      "task": "Map an IDP and care/support transition plan around the young person’s voice."
+      "task": "Identify the child’s support and protection needs and the relevant Welsh statutory route. Work through the fictional case and explain: Treating an education plan as a substitute for care assessment or a completed transition handover."
     },
     {
       "title": "Rights and reflection",
       "resource": "rights",
-      "task": "Record language support, disagreement, proportionate action and a review date."
+      "task": "Ask and record language and communication needs and make the Active Offer practical. Work through the fictional case and explain: Treating language access as cosmetic or using a communication barrier as evidence of incapacity."
     }
   ],
   "toolCount": 9,
-  "releaseStatus": "final"
+  "releaseStatus": "final",
+  "professionalBody": "Social Care Wales"
 }

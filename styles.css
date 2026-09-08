@@ -1533,7 +1533,7 @@ mark {
 
 .flashcard-inner {
   position: relative;
-  display: block;
+  display: grid;
   min-height: 270px;
   border-radius: var(--radius);
   box-shadow: 0 14px 32px rgba(33, 49, 52, 0.07);
@@ -1557,8 +1557,10 @@ mark {
 }
 
 .flashcard-face {
-  position: absolute;
-  inset: 0;
+  /* Both faces size the shared grid cell, so longer local answers stay visible. */
+  position: relative;
+  grid-area: 1 / 1;
+  min-width: 0;
   display: grid;
   grid-template-rows: auto 1fr auto;
   align-content: start;
