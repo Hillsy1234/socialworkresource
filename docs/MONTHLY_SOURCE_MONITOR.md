@@ -45,11 +45,15 @@ The local runner writes private state to `.monitor-data/policy-<version>/` and r
 
 `netlify.toml` builds the existing static learning pages and copies public assets into `dist`. The allowlist excludes functions, source registry, snapshots, reports, dependencies, local environment files and developer tools. Use `netlify dev` for platform emulation; production monitoring remains disabled locally by design. Unit tests exercise the core and authorization gates without connecting to the production store.
 
-## Production activation — pending
+## Production activation — active
 
-The existing Netlify project is `social-work-resource`, project ID `69611b33-49e7-4afa-809d-140e1df70f7e`, linked to this checkout. At implementation time its live homepage had neither the jurisdiction selector nor the new flag chooser. Publishing this checkout also publishes that earlier country-guide and design work, so a preview is prepared before production activation.
+The Netlify project is `social-work-resource`, project ID `69611b33-49e7-4afa-809d-140e1df70f7e`, linked to this checkout. The full country-guide update is published. Monitoring was enabled on 8 September 2026 after the production environment variables were verified and deployment `6aa077de90fe8e510b53f066` went live.
 
-After the full site update is accepted for publication:
+The first production run was triggered through **Run now** at approximately 22:03 UK time. All 12 batches completed and persisted 151 observations: 122 successful baselines and 29 failed source checks, retained for follow-up. A completed batch does not mean all sources were successfully read or professionally reviewed. The next scheduled run is **1 October 2026 at 06:00 UTC / 07:00 UK time**.
+
+Open <https://social-work-resource.netlify.app/monitoring/> and use the monitoring access key to view the September report. The key and downloaded reports are excluded from Git.
+
+Configuration and recovery procedure:
 
 1. Set `MONITOR_TOKEN` to a cryptographically random value of at least 32 characters in Netlify's environment variables, scoped to **Functions** and **production**, marked secret. Keep the value in the owner's password manager for access to the report page. Do not commit or print it in deployment logs.
 2. Set `MONITOR_ENABLED=true`, scoped to **Functions** and **production**. No AI/API key or external database is required.
