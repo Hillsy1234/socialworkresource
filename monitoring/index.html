@@ -22,8 +22,16 @@
       <div id="stats" class="stats"></div>
       <div class="filters"><label>Practice location<select id="location"><option value="all">All locations</option></select></label><label>Show<select id="status"><option value="attention">Needs attention</option><option value="all">All observations</option><option value="changed">Changes detected</option><option value="failed">Failed checks</option><option value="baseline">New baselines</option><option value="unchanged">No change detected</option></select></label></div>
       <div id="batches" class="batches"></div><div id="results"></div>
+      <section class="discovery" aria-labelledby="discoveryTitle">
+        <h2 id="discoveryTitle">Web-search discovery</h2>
+        <p id="discoveryStatus" role="status"></p>
+        <p>Search findings are leads to investigate, not confirmed changes. Check the original publication, practice location and effective date before preparing an update. Older findings remain in their monthly reports.</p>
+        <div id="discoveryBatches" class="batches"></div>
+        <details><summary>Search coverage and queries</summary><div id="discoveryQueries"></div></details>
+        <div id="discoveryResults"></div>
+      </section>
     </section>
-    <footer><strong>A successful source check is not a professional review.</strong> Checks cover the registered pages and feeds. They do not certify that guidance is current, determine when a law takes effect or check every linked document. Changes and failed checks need editorial attention. Learning content is never edited by this monitor.</footer>
+    <footer><strong>A successful source check is not a professional review.</strong> Source checks cover the registered pages and feeds; web-search discovery adds selected queries when enabled. Searches use one provider, primarily English-language results, and bounded result pages, so material can still be missed. They do not certify that guidance is current, determine when a law takes effect or check every linked document. Changes and failed checks need editorial attention. Learning content is never edited by this monitor.</footer>
   </main>
 </body>
 </html>

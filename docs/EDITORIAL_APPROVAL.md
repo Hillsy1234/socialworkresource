@@ -1,5 +1,7 @@
 # Review, approval and publication
 
+Web-search discovery is also implemented as an optional, separately configured extension. See [WEB_SEARCH_DISCOVERY.md](WEB_SEARCH_DISCOVERY.md) for coverage, activation and the review process.
+
 The review page is `/monitoring/review.html`, linked from the source-monitoring dashboard. It uses the existing monitoring access key. Anyone with this key can approve or reject proposals after the separate publishing connection is enabled; it is an owner/admin credential, not a general report-sharing password.
 
 ## Owner workflow

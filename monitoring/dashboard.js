@@ -12,12 +12,65 @@
     report = data; $('report').hidden = false;
     $('reportTitle').textContent = `${data.environment === 'local' ? 'Local check' : 'Monthly report'} · ${data.runId.slice(0, 7)}`;
     $('scope').textContent = data.scope;
-    $('message').textContent = `Report loaded · ${date(data.generatedAt)}. ${data.environment === 'local' ? 'The production schedule is not activated by this local check.' : ''}`;
+    $('message').textContent = `Report loaded · ${date(data.generatedAt)}. ${data.demo ? 'FICTIONAL DEMONSTRATION: these are example findings, not real legislation updates.' : data.environment === 'local' ? 'The production schedule is not activated by this local check.' : ''}`;
     $('location').replaceChildren(new Option('All locations', 'all'), ...data.reports.map(r => new Option(name(r.jurisdiction), r.jurisdiction)));
     render();
   }
+  function renderDiscovery() {
+    const discovery = report.discovery;
+    for (const id of ['discoveryBatches', 'discoveryQueries', 'discoveryResults']) $(id).replaceChildren();
+    if (!discovery) { $('discoveryStatus').textContent = 'This report does not include web searches. Registered source observations are shown above.'; return; }
+    const batches = (discovery.reports || []).filter(r => $('location').value === 'all' || r.jurisdiction === $('location').value);
+    const candidates = batches.flatMap(r => r.candidates || []);
+    const staleDispatch = discovery.dispatch && Date.now() - Date.parse(discovery.dispatch.at) > 16 * 60 * 1000 && batches.some(r => r.status === 'not-run' || r.status === 'interrupted');
+    $('discoveryStatus').textContent = `${discovery.message || ''} ${candidates.length} of ${batches.reduce((sum, batch) => sum + (batch.candidateCount ?? batch.candidates?.length ?? 0), 0)} findings loaded in this selection.${discovery.dispatch?.status === 'failed' ? ' Search dispatch failed.' : staleDispatch ? ' Some searches did not finish; inspect coverage and rerun the monthly function.' : ''}${discovery.run?.message ? ` ${discovery.run.message}` : ''}`;
+    $('discoveryBatches').replaceChildren(...batches.map(r => node('span', `${name(r.jurisdiction)} · ${r.status} · ${(r.queries || []).filter(q => q.status === 'complete').length}/8 searches`, 'batch')));
+    for (const batch of batches) for (const query of batch.queries || []) {
+      const item = node('article', '', 'source'); item.append(node('strong', `${name(batch.jurisdiction)} · ${query.category} · ${query.status}`), node('p', query.query), node('p', `${query.freshness ? `Date window: ${query.freshness}` : 'No date filter: includes older and undated pages.'} · ${query.pages} result pages checked.`, 'metadata'));
+      if (query.error) item.append(node('p', query.error));
+      if (query.limited) item.append(node('p', 'The 20-result limit was reached. Additional results may exist; review this query manually.'));
+      if (query.omitted) item.append(node('p', `${query.omitted} unsupported or unsafe result links were omitted.`));
+      const search = new URL('https://www.google.com/search'); search.searchParams.set('q', query.query); item.append(link('Open query in Google for manual follow-up (results and filters differ)', search.href));
+      $('discoveryQueries').append(item);
+    }
+    for (const batch of batches) if (batch.candidateCount > (batch.candidates || []).length) {
+      const button = node('button', `Load all ${batch.candidateCount} ${name(batch.jurisdiction)} findings`, 'secondary');
+      button.type = 'button';
+      button.addEventListener('click', async () => {
+        button.disabled = true;
+        const currentReport = report;
+        try {
+          const response = await fetch(`/.netlify/functions/source-monitor-report?month=${encodeURIComponent(report.runId)}&discoveryLocation=${encodeURIComponent(batch.jurisdiction)}`, { headers: { Authorization: `Bearer ${$('token').value}` }, cache: 'no-store', redirect: 'error' });
+          if (!response.ok) throw new Error(`Unable to load findings (HTTP ${response.status}). Enter your monitoring access key above.`);
+          const data = await response.json();
+          if (report !== currentReport) return;
+          if (data.runId !== report.runId || data.jurisdiction !== batch.jurisdiction || !Array.isArray(data.candidates)) throw new Error('Unexpected discovery report.');
+          batch.candidates = data.candidates;
+          batch.candidateCount = data.candidates.length;
+          renderDiscovery();
+        } catch (error) { button.disabled = false; $('discoveryStatus').textContent = error.message; }
+      });
+      $('discoveryResults').append(button);
+    }
+    // Separate from source-change filters: a search match is not a verified source change.
+    for (const finding of candidates) {
+      const card = node('article', '', 'source');
+      card.append(node('span', finding.registeredSourceIds?.length ? 'Registered source · review search finding' : 'Source to investigate', 'badge changed'));
+      const heading = node('h3', ''); heading.append(link(finding.title, finding.url)); card.append(heading);
+      card.append(node('p', `${name(finding.jurisdiction)} · ${(finding.categories || []).join(', ')}`, 'metadata'));
+      if (finding.snippet) card.append(node('p', finding.snippet));
+      card.append(node('p', `${finding.publisherKnown ? 'Host appears in this location’s source register.' : 'Publisher and relevance need verification.'} Search ranking does not confirm legal authority.`, 'metadata'));
+      card.append(node('p', `First found: ${date(finding.firstSeenAt)} · Last found: ${date(finding.lastSeenAt)}${finding.providerDate ? ` · Search-provider date: ${finding.providerDate} (not an effective date)` : ''}`, 'metadata'));
+      const details = node('details', ''); details.append(node('summary', 'How to use this finding'), node('p', 'Review the original source and its local application. Add a relevant new source to the register, then prepare a proposed content update for owner approval. A search finding alone cannot publish changes.'));
+      card.append(details);
+      const review = node('a', 'Open prepared updates →'); review.href = finding.registeredSourceIds?.length ? `./review.html?source=${encodeURIComponent(finding.registeredSourceIds[0])}` : './review.html'; card.append(review);
+      $('discoveryResults').append(card);
+    }
+    if (!candidates.length) $('discoveryResults').append(node('p', 'No search findings recorded for this selection. Check search coverage above; this does not mean that no changes exist.', 'empty'));
+  }
   function render() {
     if (!report) return;
+    renderDiscovery();
     const batches = report.reports.filter(r => $('location').value === 'all' || r.jurisdiction === $('location').value);
     const results = batches.flatMap(r => r.results.map(result => ({ ...result, location: r.jurisdiction })));
     $('stats').replaceChildren(...[['Observations', results.length], ['Changes detected', results.filter(x => x.status === 'changed').length], ['Failed checks', results.filter(x => x.status === 'failed').length], ['New baselines', results.filter(x => x.status === 'baseline').length]].map(([title, count]) => { const el = node('div', '', 'stat'); el.append(node('strong', count), node('span', title)); return el; }));
@@ -56,5 +109,5 @@
   });
   $('reportFile').addEventListener('change', async () => { try { const file = $('reportFile').files[0]; if (!file) return; if (file.size > 10 * 1024 * 1024) throw new Error('Report exceeds 10 MiB.'); display(JSON.parse(await file.text())); } catch (error) { $('message').textContent = error.message; } });
   $('download').addEventListener('click', () => { const url = URL.createObjectURL(new Blob([JSON.stringify(report, null, 2)], { type: 'application/json' })); const a = node('a', ''); a.href = url; a.download = `source-monitor-${report.runId}.json`; a.click(); setTimeout(() => URL.revokeObjectURL(url), 1000); });
-  if (['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname)) fetch('/output/monitoring/latest.json', { cache: 'no-store' }).then(r => { if (r.ok) return r.json(); }).then(data => { if (data) display(data); }).catch(() => {});
+  if (['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname)) fetch(new URLSearchParams(location.search).get('demo') === 'discovery' ? '/output/monitoring/discovery-demo.json' : '/output/monitoring/latest.json', { cache: 'no-store' }).then(r => { if (r.ok) return r.json(); }).then(data => { if (data) display(data); }).catch(() => {});
 })();

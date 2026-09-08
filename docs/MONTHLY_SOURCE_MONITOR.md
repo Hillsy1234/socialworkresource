@@ -1,5 +1,7 @@
 # Monthly source monitoring — Stage 1
 
+Web-search discovery is also implemented as an optional, separately configured extension. See [WEB_SEARCH_DISCOVERY.md](WEB_SEARCH_DISCOVERY.md) for coverage, activation and the review process.
+
 A separate approval screen is now implemented at `/monitoring/review.html`. See [Editorial approval setup](EDITORIAL_APPROVAL.md). The monitor itself remains read-only: editors prepare proposals and the owner explicitly approves publication. The publishing connection needs its own repository-scoped GitHub token.
 
 ## What is implemented
