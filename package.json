@@ -18,7 +18,7 @@
     "node": ">=22"
   },
   "scripts": {
-    "build": "node tools/check-jurisdictions.mjs && node tools/check-curriculum.mjs && node tools/build-seo-pages.mjs && node tools/build-site.mjs",
+    "build": "node tools/check-jurisdictions.mjs && node tools/check-curriculum.mjs && node tools/build-seo-pages.mjs && node tools/build-triage-catalog.mjs && node tools/build-site.mjs",
     "test:monitor": "node --test monitoring/tests/*.test.mjs",
     "monitor:check": "node tools/check-monitor-registry.mjs",
     "monitor:run": "node tools/run-source-monitor.mjs",

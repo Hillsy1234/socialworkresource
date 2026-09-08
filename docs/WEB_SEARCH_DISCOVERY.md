@@ -33,6 +33,16 @@ The implementation is disabled until configured. Existing `MONITOR_TOKEN` and `M
 
 ## Reviewing findings
 
+The **Findings to review** section prioritises saved search results when the authenticated report is loaded. This uses a deterministic set of rules and existing source observations; it makes no extra web-search or AI calls and does not alter stored findings.
+
+- **Review first:** an exact registered source has a recorded or unresolved change, or a recognised government/regulator/professional-body domain has relevant change language in its title or excerpt. A high priority is not confirmation of a legislative change.
+- **Check relevance:** leads needing further investigation, including publishers whose authority is not established.
+- **Background:** likely recruitment adverts, general directories, possible jurisdiction mismatches, irrelevant results and unchanged registered pages without change language. These remain accessible through the priority filter.
+
+Each assessment explains its reasons, cautions and next step. Suggested learning sections come from exact source references or topic matching against the current location's resource manifest; they are starting points for review, not a full assessment of affected content. Explicit provider publication dates can lower the priority of older results; Act years and first-found dates are never treated as publication dates. Known shared UK/Australian domains are allowed across their locations, but applicability still needs checking.
+
+Use **Download review brief** to save the source, search evidence, suggested sections and editorial checks as Markdown. This is a working brief, not a prepared publication proposal. The rules do not read a newly discovered page in full, compare all teaching content, establish commencement or interpret the law. Exact-source change evidence comes from the selected month's direct monitoring report. Earlier downloaded reports without assessments remain readable.
+
 Open the existing monitoring dashboard and choose the month and location. Source observations and web-search findings are separate sections. Review query failures and result limits as well as candidate links. “No findings” is not a statement that nothing changed. A batch marked complete means all planned bounded queries finished, not that the web was exhaustively checked.
 
 For each lead, read the original source, check the publisher, jurisdiction, status, commencement and relevance, and assess all affected learning resources. If it is new and relevant, add it to `monitoring/sources.json` using the existing register schema and approved publisher checks. Prepare a content-update branch and metadata as described in [EDITORIAL_APPROVAL.md](EDITORIAL_APPROVAL.md). The existing approval screen publishes only a prepared, validated proposal after the owner approves it.
@@ -46,5 +56,7 @@ The initial authenticated report includes at most 50 search findings per locatio
 `npm run test:monitor` includes discovery coverage, sanitization, retry/checkpoint and authentication tests. `npm run typecheck` validates the function integration. `npm run build` preserves the private/public boundary.
 
 A fictional local demonstration can be generated with `node tools/create-discovery-demo.mjs`, then viewed at `http://127.0.0.1:8765/monitoring/?demo=discovery`. The ignored fixture is excluded from production. Demo mode is restricted to loopback hosts and does not call a search provider or modify real reports.
+
+The same command also creates `output/monitoring/triage-demo.json`, which can be opened with the dashboard's report-file picker to inspect priority reasons, filters and review briefs. Browser checks are in `tools/browser-checks/discovery.js` and `tools/browser-checks/triage.js`. For a private offline review of real results, a locally prepared `output/monitoring/triage-preview.json` can be opened with `?preview=triage` on loopback hosts only; this file is excluded from Git and the public build.
 
 Provider reference: [Tavily Search API](https://docs.tavily.com/documentation/api-reference/endpoint/search).

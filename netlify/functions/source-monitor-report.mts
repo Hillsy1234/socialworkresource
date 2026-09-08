@@ -1,3 +1,5 @@
+import { prioritiseFindings, triageCounts } from '../../monitoring/lib/triage.mjs';
+import catalog from '../../monitoring/triage-catalog.json' with { type: 'json' };
 import { discoveryConfiguration } from './_shared/discovery-runtime.mts';
 import type { Context, Config } from '@netlify/functions';
 import { authorized, configReady, json, registry, storage } from './_shared/runtime.mts';
@@ -12,7 +14,9 @@ export default async (request: Request, context: Context) => {
   if (discoveryLocation !== null) {
     if (!registry.jurisdictions.includes(discoveryLocation)) return json({ error: 'Invalid discovery location.' }, 400);
     const item = await store.get(`discovery/reports/${runId}/${discoveryLocation}`);
-    return json({ runId, jurisdiction: discoveryLocation, candidates: item?.candidates || [] });
+    const sourceReport = await store.get(`reports/${runId}/${discoveryLocation}`);
+    const candidates = prioritiseFindings(item?.candidates || [], { registry, catalog, observations: sourceReport?.results || [], asOf: item?.updatedAt || new Date().toISOString() });
+    return json({ runId, jurisdiction: discoveryLocation, candidates, triageCounts: triageCounts(candidates) });
   }
   const reports = await Promise.all(registry.jurisdictions.map(async jurisdiction => {
     const [report, dispatch, error] = await Promise.all([store.get(`reports/${runId}/${jurisdiction}`), store.get(`dispatch/${runId}/${jurisdiction}`), store.get(`errors/${runId}/${jurisdiction}`)]);
@@ -25,7 +29,8 @@ export default async (request: Request, context: Context) => {
     Promise.all(registry.jurisdictions.map(async jurisdiction => {
       const item = await store.get(`discovery/reports/${runId}/${jurisdiction}`);
       if (!item) return { jurisdiction, status: 'not-run', queries: [], candidates: [] };
-      return { ...item, candidateCount: item.candidates.length, candidates: item.candidates.slice(0, 50), status: item.status === 'running' && Date.now() - Date.parse(item.updatedAt) > 16 * 60 * 1000 ? 'interrupted' : item.status };
+      const candidates = prioritiseFindings(item.candidates, { registry, catalog, observations: reports.find(r=>r.jurisdiction===jurisdiction)?.results || [], asOf: item.updatedAt });
+      return { ...item, triageCounts: triageCounts(candidates), candidateCount: candidates.length, candidates: candidates.slice(0, 50), status: item.status === 'running' && Date.now() - Date.parse(item.updatedAt) > 16 * 60 * 1000 ? 'interrupted' : item.status };
     })),
     store.get(`discovery/dispatch/${runId}`), store.get(`discovery/run/${runId}`)
   ]);

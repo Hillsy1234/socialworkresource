@@ -23,9 +23,12 @@
       <div class="filters"><label>Practice location<select id="location"><option value="all">All locations</option></select></label><label>Show<select id="status"><option value="attention">Needs attention</option><option value="all">All observations</option><option value="changed">Changes detected</option><option value="failed">Failed checks</option><option value="baseline">New baselines</option><option value="unchanged">No change detected</option></select></label></div>
       <div id="batches" class="batches"></div><div id="results"></div>
       <section class="discovery" aria-labelledby="discoveryTitle">
-        <h2 id="discoveryTitle">Web-search discovery</h2>
+        <h2 id="discoveryTitle">Findings to review</h2>
         <p id="discoveryStatus" role="status"></p>
         <p>Search findings are leads to investigate, not confirmed changes. Check the original publication, practice location and effective date before preparing an update. Older findings remain in their monthly reports.</p>
+        <div id="triageStats" class="stats" aria-label="Finding priorities"></div>
+        <div class="filters"><label>Review priority<select id="discoveryPriority"><option value="shortlist">Review shortlist</option><option value="review-first">Review first</option><option value="verify">Check relevance</option><option value="background">Background / lower priority</option><option value="all">All findings</option></select></label></div>
+        <p id="triageNote" class="metadata">Priority is a rule-based suggestion using search excerpts and available source checks. It is not a legal assessment. All findings remain available.</p>
         <div id="discoveryBatches" class="batches"></div>
         <details><summary>Search coverage and queries</summary><div id="discoveryQueries"></div></details>
         <div id="discoveryResults"></div>

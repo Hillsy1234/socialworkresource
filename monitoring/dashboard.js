@@ -18,10 +18,18 @@
   }
   function renderDiscovery() {
     const discovery = report.discovery;
-    for (const id of ['discoveryBatches', 'discoveryQueries', 'discoveryResults']) $(id).replaceChildren();
-    if (!discovery) { $('discoveryStatus').textContent = 'This report does not include web searches. Registered source observations are shown above.'; return; }
+    for (const id of ['discoveryBatches', 'discoveryQueries', 'discoveryResults', 'triageStats']) $(id).replaceChildren();
+    if (!discovery) { $('triageNote').textContent = ''; $('discoveryStatus').textContent = 'This report does not include web searches. Registered source observations are shown above.'; return; }
     const batches = (discovery.reports || []).filter(r => $('location').value === 'all' || r.jurisdiction === $('location').value);
     const candidates = batches.flatMap(r => r.candidates || []);
+    const priority = $('discoveryPriority').value;
+    const shown = candidates.filter(f => priority === 'all' || (priority === 'shortlist' ? f.triage?.priority !== 'background' : f.triage?.priority === priority));
+    const rank = {'review-first':0,verify:1,background:2};
+    shown.sort((a,b)=>(rank[a.triage?.priority] ?? 1)-(rank[b.triage?.priority] ?? 1) || (b.triage?.score ?? 0)-(a.triage?.score ?? 0));
+    const totals = {'review-first':0,verify:0,background:0};
+    for (const batch of batches) for (const category of Object.keys(totals)) totals[category] += batch.triageCounts?.[category] ?? (batch.candidates || []).filter(f=>f.triage?.priority===category).length;
+    $('triageStats').replaceChildren(...[['Review first',totals['review-first']],['Check relevance',totals.verify],['Background',totals.background]].map(([label,count])=>{const item=node('div','','stat');item.append(node('strong',count),node('span',label));return item;}));
+    $('triageNote').textContent = `${shown.length} loaded findings shown. ${totals.background} background findings remain available in the priority filter. Priority uses search excerpts and available source checks; it is not a legal assessment.${candidates.some(f=>!f.triage) ? ' Some older findings have no priority assessment.' : ''}`;
     const staleDispatch = discovery.dispatch && Date.now() - Date.parse(discovery.dispatch.at) > 16 * 60 * 1000 && batches.some(r => r.status === 'not-run' || r.status === 'interrupted');
     $('discoveryStatus').textContent = `${discovery.message || ''} ${candidates.length} of ${batches.reduce((sum, batch) => sum + (batch.candidateCount ?? batch.candidates?.length ?? 0), 0)} findings loaded in this selection.${discovery.dispatch?.status === 'failed' ? ' Search dispatch failed.' : staleDispatch ? ' Some searches did not finish; inspect coverage and rerun the monthly function.' : ''}${discovery.run?.message ? ` ${discovery.run.message}` : ''}`;
     $('discoveryBatches').replaceChildren(...batches.map(r => node('span', `${name(r.jurisdiction)} · ${r.status} · ${(r.queries || []).filter(q => q.status === 'complete').length}/8 searches`, 'batch')));
@@ -47,26 +55,49 @@
           if (data.runId !== report.runId || data.jurisdiction !== batch.jurisdiction || !Array.isArray(data.candidates)) throw new Error('Unexpected discovery report.');
           batch.candidates = data.candidates;
           batch.candidateCount = data.candidates.length;
+          batch.triageCounts = data.triageCounts;
           renderDiscovery();
         } catch (error) { button.disabled = false; $('discoveryStatus').textContent = error.message; }
       });
       $('discoveryResults').append(button);
     }
     // Separate from source-change filters: a search match is not a verified source change.
-    for (const finding of candidates) {
+    for (const finding of shown) {
       const card = node('article', '', 'source');
-      card.append(node('span', finding.registeredSourceIds?.length ? 'Registered source · review search finding' : 'Source to investigate', 'badge changed'));
+      card.append(node('span', finding.triage?.label || 'Not yet prioritised', `badge ${finding.triage?.priority === 'review-first' ? 'changed' : ''}`));
       const heading = node('h3', ''); heading.append(link(finding.title, finding.url)); card.append(heading);
       card.append(node('p', `${name(finding.jurisdiction)} · ${(finding.categories || []).join(', ')}`, 'metadata'));
       if (finding.snippet) card.append(node('p', finding.snippet));
       card.append(node('p', `${finding.publisherKnown ? 'Host appears in this location’s source register.' : 'Publisher and relevance need verification.'} Search ranking does not confirm legal authority.`, 'metadata'));
       card.append(node('p', `First found: ${date(finding.firstSeenAt)} · Last found: ${date(finding.lastSeenAt)}${finding.providerDate ? ` · Search-provider date: ${finding.providerDate} (not an effective date)` : ''}`, 'metadata'));
+      if (finding.triage) {
+        const assessment = node('details', ''); assessment.open = finding.triage.priority === 'review-first'; assessment.append(node('summary', 'Why this priority?'));
+        const reasons = node('ul', ''); for (const reason of finding.triage.reasons) reasons.append(node('li', reason)); assessment.append(reasons);
+        for (const caution of finding.triage.cautions) assessment.append(node('p', caution, 'triage-caution'));
+        for (const evidence of finding.triage.evidence || []) {
+          if (evidence.change?.beforeExcerpt) assessment.append(node('p', `Previously: ${evidence.change.beforeExcerpt}`));
+          if (evidence.change?.afterExcerpt) assessment.append(node('p', `Now: ${evidence.change.afterExcerpt}`));
+        }
+        card.append(assessment, node('p', finding.triage.nextStep));
+        if (finding.triage.suggestedResources.length) {
+          const resources = node('details', ''); resources.append(node('summary', 'Learning sections to check'));
+          const list = node('ul', ''); for (const resource of finding.triage.suggestedResources) {
+            const item = node('li', ''); const anchor=node('a', resource.title); anchor.href=`/?jurisdiction=${encodeURIComponent(finding.jurisdiction)}&resource=${encodeURIComponent(resource.id)}#learningWorkspace`; item.append(anchor,node('span', ` — ${resource.basis}`));list.append(item);
+          } resources.append(list); card.append(resources);
+        }
+        const brief=node('button','Download review brief','secondary'); brief.type='button';
+        brief.addEventListener('click',()=>{
+          const triage=finding.triage;
+          const content=[`# Review brief: ${finding.title}`,`Location: ${name(finding.jurisdiction)}`,`Source: ${finding.url}`,`Priority: ${triage.label}`,'','## Evidence to verify',finding.snippet || '(No search excerpt)',...triage.reasons.map(r=>`- ${r}`),'',...triage.cautions.map(r=>`- ${r}`),'','## Learning sections to compare',...triage.suggestedResources.map(r=>`- ${r.title} (${r.basis}): ${location.origin}/?jurisdiction=${encodeURIComponent(finding.jurisdiction)}&resource=${encodeURIComponent(r.id)}`),'','## Next step',triage.nextStep,'','## Editor checks','- Confirm jurisdiction and publisher authority.','- Read the original publication and verify its status and commencement.','- Compare the full source against current teaching content.','- Record exact proposed wording and supporting source evidence.','- Submit a prepared proposal through the existing owner approval process.','','This is an automatically assembled review brief, not a verified interpretation or a publishing proposal.'].join('\n');
+          const url=URL.createObjectURL(new Blob([content],{type:'text/markdown'})); const anchor=node('a','');anchor.href=url;anchor.download=`review-brief-${finding.jurisdiction}-${finding.id}.md`;anchor.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+        });card.append(brief);
+      }
       const details = node('details', ''); details.append(node('summary', 'How to use this finding'), node('p', 'Review the original source and its local application. Add a relevant new source to the register, then prepare a proposed content update for owner approval. A search finding alone cannot publish changes.'));
       card.append(details);
       const review = node('a', 'Open prepared updates →'); review.href = finding.registeredSourceIds?.length ? `./review.html?source=${encodeURIComponent(finding.registeredSourceIds[0])}` : './review.html'; card.append(review);
       $('discoveryResults').append(card);
     }
-    if (!candidates.length) $('discoveryResults').append(node('p', 'No search findings recorded for this selection. Check search coverage above; this does not mean that no changes exist.', 'empty'));
+    if (!shown.length) $('discoveryResults').append(node('p', candidates.length ? 'No loaded findings match this priority. Use All findings or load the remaining findings above.' : 'No search findings recorded for this selection. Check search coverage above; this does not mean that no changes exist.', 'empty'));
   }
   function render() {
     if (!report) return;
@@ -99,6 +130,7 @@
     }));
     if (!shown.length) $('results').append(node('p', results.length ? 'No observations match this filter. New baselines are available under “All observations”.' : 'No source checks recorded for this selection. Check the batch status above.', 'empty'));
   }
+  $('discoveryPriority').addEventListener('change', () => { if(report) renderDiscovery(); });
   $('location').addEventListener('change', render); $('status').addEventListener('change', render);
   $('reportForm').addEventListener('submit', async event => {
     event.preventDefault(); const button = event.submitter; button.disabled = true; $('message').textContent = 'Loading report…';
@@ -109,5 +141,9 @@
   });
   $('reportFile').addEventListener('change', async () => { try { const file = $('reportFile').files[0]; if (!file) return; if (file.size > 10 * 1024 * 1024) throw new Error('Report exceeds 10 MiB.'); display(JSON.parse(await file.text())); } catch (error) { $('message').textContent = error.message; } });
   $('download').addEventListener('click', () => { const url = URL.createObjectURL(new Blob([JSON.stringify(report, null, 2)], { type: 'application/json' })); const a = node('a', ''); a.href = url; a.download = `source-monitor-${report.runId}.json`; a.click(); setTimeout(() => URL.revokeObjectURL(url), 1000); });
-  if (['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname)) fetch(new URLSearchParams(location.search).get('demo') === 'discovery' ? '/output/monitoring/discovery-demo.json' : '/output/monitoring/latest.json', { cache: 'no-store' }).then(r => { if (r.ok) return r.json(); }).then(data => { if (data) display(data); }).catch(() => {});
+  if (['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname)) {
+    const params=new URLSearchParams(location.search);
+    const preview=params.get('preview')==='triage' ? '/output/monitoring/triage-preview.json' : params.get('demo')==='discovery' ? '/output/monitoring/discovery-demo.json' : '/output/monitoring/latest.json';
+    fetch(preview, { cache: 'no-store' }).then(r => { if (r.ok) return r.json(); }).then(data => { if (data) display(data); }).catch(() => {});
+  }
 })();
