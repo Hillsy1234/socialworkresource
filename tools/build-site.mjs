@@ -1,6 +1,7 @@
-import { cp, mkdir, readdir, rm } from 'node:fs/promises';
+import { cp, mkdir, readdir, rm, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
+import { execFileSync } from 'node:child_process';
 const root = fileURLToPath(new URL('../', import.meta.url));
 const dest = join(root, 'dist');
 await rm(dest, { recursive: true, force: true });
@@ -16,5 +17,12 @@ for (const directory of ['assets', 'content', 'learning', 'modules', 'practice-t
   await cp(join(root, directory), join(dest, directory), { recursive: true, filter: path => !path.endsWith('.DS_Store') });
 }
 await mkdir(join(dest, 'monitoring'));
-for (const name of ['index.html', 'dashboard.js', 'dashboard.css']) await cp(join(root, 'monitoring', name), join(dest, 'monitoring', name));
+for (const name of ['index.html', 'dashboard.js', 'dashboard.css', 'review.html', 'review.js', 'review.css']) await cp(join(root, 'monitoring', name), join(dest, 'monitoring', name));
 console.log('Public site built in dist; monitoring data stays private.');
+
+let commit = process.env.COMMIT_REF;
+if (!commit) { try {
+  const dirty = execFileSync('git', ['status', '--porcelain'], {cwd:root,encoding:'utf8'}).trim();
+  if (!dirty) commit = execFileSync('git', ['rev-parse', 'HEAD'], {cwd:root,encoding:'utf8'}).trim();
+} catch {} }
+await writeFile(join(dest, 'release.json'), JSON.stringify({commit:/^[a-f0-9]{40}$/.test(commit ?? '') ? commit : null,builtAt:new Date().toISOString()})+'\n');

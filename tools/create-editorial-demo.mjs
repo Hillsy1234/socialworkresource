@@ -1,0 +1,7 @@
+import {mkdir,writeFile,readFile} from 'node:fs/promises';
+const registry=JSON.parse(await readFile('monitoring/sources.json','utf8'));
+const source=registry.sources.find(s=>s.jurisdictions.includes('wales'));
+const proposal={number:101,title:'Example: clarify a source-checking exercise',url:'https://github.com/Hillsy1234/socialworkresource',state:'open',draft:false,mergedAt:null,sourceIds:[source.id]};
+const detail={...proposal,merged:false,head:'a'.repeat(40),base:'b'.repeat(40),reviewDigest:'c'.repeat(64),validation:'success',blockers:[],sources:[source],record:{summary:'Fictional example: clarify the instruction in a learning exercise and its matching flashcard.',reason:'This demonstrates the approval screen. It is not a claim that legislation or guidance has changed.',commencement:'No legal change. This sample is for reviewing the workflow only.'},changes:[{path:'content/wales/resources/foundations.md',status:'modified',additions:1,deletions:1,patch:'@@ -1 +1 @@\n-Check the source.\n+Record the source title, date and territorial scope.'},{path:'content/wales/manifest.json',status:'modified',additions:1,deletions:1,patch:'@@ -1 +1 @@\n-"answer": "Check the source."\n+"answer": "Record the source title, date and territorial scope."'}],deployment:null};
+await mkdir('output/editorial',{recursive:true});await writeFile('output/editorial/demo.json',JSON.stringify({proposal,detail},null,2)+'\n');
+console.log('Local example ready: http://127.0.0.1:8765/monitoring/review.html?demo=1\nFictional edits only. No network writes or live publication.');

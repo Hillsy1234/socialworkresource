@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow"><title>Review updates | Ultimate Social Worker Resource</title>
+  <link rel="icon" href="/assets/social-worker-resource-logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./dashboard.css"><link rel="stylesheet" href="./review.css"><script src="./review.js" defer></script>
+</head>
+<body><main>
+  <a class="back" href="./">← Source monitoring</a>
+  <header><p class="eyebrow">ULTIMATE SOCIAL WORKER RESOURCE · EDITORIAL REVIEW</p><h1>Review the changes.<br><span>You decide what goes live.</span></h1><p>Read the proposed edits, check the sources and approve when you are ready. Approved updates are published through the site’s existing GitHub and Netlify connection.</p><div class="tag">Review → Approve → Publish</div></header>
+  <p id="demoNotice" class="notice" hidden>Local demonstration with fictional edits. Decisions here do not change GitHub or the live site.</p>
+  <section class="controls" aria-label="Access proposed updates"><form id="accessForm"><label class="key">Monitoring access key<input id="accessKey" type="password" autocomplete="off" required></label><button type="submit">Load proposed updates</button><button id="signOut" class="secondary" type="button" hidden>Clear access</button></form><p class="metadata">Your key stays in this page’s memory. Proposals are prepared by an editor after reviewing the source changes.</p></section>
+  <p id="reviewMessage" role="status" aria-live="polite">Enter your monitoring key to load updates waiting for review.</p>
+  <section id="proposalList" aria-label="Proposed updates" hidden><div class="report-top"><h2>Proposed updates</h2><button id="reloadList" class="secondary">Refresh list</button></div><p id="sourceFilter" hidden></p><div id="proposals"></div><button id="more" class="secondary" hidden>Load more</button></section>
+  <section id="proposalDetail" aria-labelledby="proposalTitle" hidden tabindex="-1">
+    <div class="report-top"><h2 id="proposalTitle"></h2><button id="reloadDetail" class="secondary">Refresh status</button></div>
+    <p id="proposalState" class="notice"></p><p id="proposalVersion" class="metadata"></p>
+    <div id="proposalExplanation"></div><h3>Sources behind this update</h3><ul id="proposalSources"></ul>
+    <div id="reviewBlockers" class="notice" hidden></div>
+    <h3>Exact edits</h3><p class="metadata">Each comparison shows removed lines with “−” and added lines with “+”. Open each file to review the changes, including linked learning tools.</p><div id="proposalChanges"></div>
+    <form id="decisionForm"><label class="confirm"><input id="confirmed" type="checkbox"> <span>I have reviewed the edits, supporting sources and when the changes apply.</span></label><div class="decision-actions"><button id="approve" type="submit" name="action" value="approve" disabled>Approve and publish</button><button id="reject" type="submit" name="action" value="reject" class="secondary" disabled>Reject this proposal</button></div><p class="metadata">Approval merges this reviewed version into the site repository. The status becomes “Live” only when publication is confirmed. Rejection closes the proposal without publishing its edits.</p></form>
+  </section>
+  <footer><strong>Monitoring and approval serve different purposes.</strong> The monthly monitor detects source changes. An editor prepares the proposed lesson and tool updates; you approve the final edits here. A passing build checks the site’s consistency, not the legal interpretation.</footer>
+</main></body></html>

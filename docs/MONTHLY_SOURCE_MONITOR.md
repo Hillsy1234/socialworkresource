@@ -1,5 +1,7 @@
 # Monthly source monitoring — Stage 1
 
+A separate approval screen is now implemented at `/monitoring/review.html`. See [Editorial approval setup](EDITORIAL_APPROVAL.md). The monitor itself remains read-only: editors prepare proposals and the owner explicitly approves publication. The publishing connection needs its own repository-scoped GitHub token.
+
 ## What is implemented
 
 The working register now contains 318 URLs across 12 practice locations, giving 333 location/source observations in a full run. This expanded register takes effect after deployment; the original September production baseline covered 145 URLs and 151 observations. `monitoring/sources.json` contains publisher, category, location coverage, source purpose, coverage limitations and the learning resources that directly link to each source. The register was assembled from the existing resource references, restricted to selected government, regulatory, professional-body and established practice-learning publishers, with additional official news and CPD pages. Inclusion does not imply that a URL is reachable or that every linked document is monitored.

@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import review from '../../netlify/functions/editorial-review.mts';
+const values=new Map([['MONITOR_TOKEN','test-only-'.repeat(5)],['MONITOR_ENABLED','true'],['EDITORIAL_ENABLED','true'],['EDITORIAL_GITHUB_TOKEN','synthetic-test-token']]);
+globalThis.Netlify={env:{get:key=>values.get(key)}};
+const context={deploy:{context:'production',published:true},site:{url:'https://site.example'}};
+const request=(method='GET',extra={})=>new Request('https://site.example/.netlify/functions/editorial-review',{method,headers:{Authorization:`Bearer ${values.get('MONITOR_TOKEN')}`,...extra}});
+test('unauthenticated approvals fail before storage and network access',async()=>{assert.equal((await review(new Request('https://site.example/review',{method:'POST'}),context)).status,401)});
+test('preview and disabled production cannot approve',async()=>{assert.equal((await review(request(),{...context,deploy:{context:'deploy-preview',published:false}})).status,503);values.set('EDITORIAL_ENABLED','false');assert.equal((await review(request(),context)).status,503);values.set('EDITORIAL_ENABLED','true');});
+test('cross-origin and non-JSON decisions fail closed',async()=>{assert.equal((await review(request('POST',{Origin:'https://other.example','Content-Type':'application/json'}),context)).status,403);assert.equal((await review(request('POST',{Origin:context.site.url,'Content-Type':'text/plain'}),context)).status,415);});
+test('oversized decisions and unsupported methods are rejected',async()=>{assert.equal((await review(request('POST',{Origin:context.site.url,'Content-Type':'application/json','Content-Length':'5000'}),context)).status,413);assert.equal((await review(request('DELETE'),context)).status,405);});

@@ -18,3 +18,16 @@ for = "/monitoring/*"
 [headers.values]
 X-Robots-Tag = "noindex, nofollow"
 Cache-Control = "no-store"
+X-Frame-Options = "DENY"
+Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'"
+
+[[headers]]
+for = "/release.json"
+[headers.values]
+Cache-Control = "no-store"
+X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+for = "/content/*"
+[headers.values]
+Cache-Control = "public, max-age=0, must-revalidate"

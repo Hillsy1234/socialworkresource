@@ -41,6 +41,7 @@
       const refs = (r.references || []).filter(ref => ref.jurisdiction === r.location);
       article.append(node('p', r.coverageNote, 'metadata'));
       if (refs.length) { const details = node('details', ''); details.append(node('summary', `${refs.length} directly linked learning resources`)); const ul = node('ul', ''); refs.forEach(ref => ul.append(node('li', ref.title))); details.append(ul); article.append(details); }
+      const reviewLink=node('a','Review proposed updates for this source →');reviewLink.href=`./review.html?source=${encodeURIComponent(r.id)}`;article.append(reviewLink);
       return article;
     }));
     if (!shown.length) $('results').append(node('p', results.length ? 'No observations match this filter. New baselines are available under “All observations”.' : 'No source checks recorded for this selection. Check the batch status above.', 'empty'));

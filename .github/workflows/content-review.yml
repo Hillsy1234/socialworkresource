@@ -1,0 +1,30 @@
+name: Content review validation
+on:
+  push:
+    branches:
+      - main
+      - 'codex/content-update-*'
+permissions:
+  contents: read
+concurrency:
+  group: content-review-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    name: Validate content update
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run test:monitor && npm run test:editorial && npm run typecheck
+      - run: python3 tools/curriculum/apply.py
+      - run: npm run monitor:check && npm run build
+      - name: Check that authored notes and published resources agree
+        run: git diff --exit-code -- content learning monitoring/sources.json docs/COUNTRY_CURRICULUM_COVERAGE.json answer-engine-index.json llms.txt llms-full.txt
