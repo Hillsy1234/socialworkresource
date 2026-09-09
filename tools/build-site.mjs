@@ -18,6 +18,8 @@ for (const directory of ['assets', 'content', 'learning', 'modules', 'practice-t
 }
 await mkdir(join(dest, 'monitoring'));
 for (const name of ['index.html', 'dashboard.js', 'dashboard.css', 'review.html', 'review.js', 'review.css']) await cp(join(root, 'monitoring', name), join(dest, 'monitoring', name));
+await mkdir(join(dest, 'community'));
+for (const name of ['index.html','community.js','community.css','moderate.html','moderate.js']) await cp(join(root,'community',name),join(dest,'community',name));
 console.log('Public site built in dist; monitoring data stays private.');
 
 let commit = process.env.COMMIT_REF;

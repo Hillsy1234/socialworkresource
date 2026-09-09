@@ -21,6 +21,7 @@ function locationFlagMarkup(location) {
 function renderLocationIdentity(pack) {
   const location = practiceLocations.find(item => item.id === pack.id);
   if (!location) return;
+  document.querySelectorAll('[data-community-link]').forEach(link => { link.href = `/community/?jurisdiction=${encodeURIComponent(pack.id)}`; });
   document.querySelector('#locationTriggerFlag').innerHTML = locationFlagMarkup(location);
   document.querySelector('#locationTriggerName').textContent = location.name;
   document.querySelector('#locationTriggerCountry').textContent = location.country === location.name ? 'Country practice guide' : location.country;
