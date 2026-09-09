@@ -213,6 +213,13 @@ async function initializeJurisdictions() {
   });
   window.addEventListener("popstate", async () => {
     const requested = requestedLocation();
+    // Native anchor history already restores the viewport. Rebuilding here
+    // would reset tools and fight the browser's scroll restoration.
+    if (requested.jurisdiction === activeJurisdiction && requested.resource === state.activeId &&
+        document.querySelector("#learningWorkspace").getAttribute("aria-busy") !== "true") {
+      activePackUrl = location.href;
+      return;
+    }
     if (!await switchJurisdiction(requested.jurisdiction, requested.resource, "replace") && activePackUrl) history.replaceState(null, "", activePackUrl);
   });
   const requested = requestedLocation();

@@ -35,7 +35,7 @@
     }
     if(!$('locationOptions').children.length)$('locationOptions').append(el('p','No locations found. Try a country, state or province.'));
   }
-  $('chooseLocation').addEventListener('click',()=>{$('locationSearch').value='';renderPlaces();$('locationDialog').showModal();$('locationSearch').focus();});
+  $('chooseLocation').addEventListener('click',()=>{$('locationSearch').value='';renderPlaces();$('locationDialog').showModal();$('locationSearch').focus({preventScroll:true});});
   $('locationSearch').addEventListener('input',renderPlaces);
   const uniqueFlags=new Set();for(const p of practiceLocations)if(!uniqueFlags.has(p.flag)){uniqueFlags.add(p.flag);$('heroFlags').append(flag(p.id));}
   for(const [id,name] of Object.entries(categoryNames)){

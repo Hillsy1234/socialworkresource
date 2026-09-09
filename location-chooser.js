@@ -63,13 +63,13 @@ function initializeLocationChooser() {
     dialog.showModal();
     document.body.classList.add('location-dialog-open');
     trigger.setAttribute('aria-expanded','true');
-    search.focus();
+    search.focus({ preventScroll: true });
   });
   document.querySelector('#closeLocationDialog').addEventListener('click', () => dialog.close());
   dialog.addEventListener('close', () => {
     document.body.classList.remove('location-dialog-open');
     trigger.setAttribute('aria-expanded','false');
-    trigger.focus();
+    trigger.focus({ preventScroll: true });
   });
   dialog.addEventListener('click', event => {
     const rect = dialog.getBoundingClientRect();
@@ -92,6 +92,8 @@ function initializeLocationChooser() {
     if (!option) return;
     dialog.close();
     if (option.dataset.location !== activeJurisdiction || !packCache.has(activeJurisdiction)) await switchJurisdiction(option.dataset.location);
-    trigger.focus();
+    // The trigger was disabled while loading; restore it only if focus has
+    // not already moved to another control.
+    if (document.activeElement === document.body) trigger.focus({ preventScroll: true });
   });
 }

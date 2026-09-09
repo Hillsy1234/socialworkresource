@@ -31,7 +31,7 @@
   }
   async function loadDetail(number,focus=true){
     if(busy)return;const ticket=++generation;selected=null;clearTimeout(poll);$('confirmed').checked=false;buttons();message('Loading the current proposal and validation results…');
-    try{const data=await api(`?proposal=${number}`);if(ticket!==generation)return;selected=data;render(data);message(demo?'Local demonstration: decisions do not publish.':'Review the edits and the source evidence before deciding.');if(focus)$('proposalDetail').focus();
+    try{const data=await api(`?proposal=${number}`);if(ticket!==generation)return;selected=data;render(data);message(demo?'Local demonstration: decisions do not publish.':'Review the edits and the source evidence before deciding.');if(focus){$('proposalDetail').focus({preventScroll:true});$('proposalDetail').scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});}
       if(data.merged&&!['live','included'].includes(data.deployment?.state)&&polls++<20)poll=setTimeout(()=>loadDetail(number,false),15000);
     }catch(e){if(ticket===generation){$('proposalDetail').hidden=true;message(e.message)}}
   }

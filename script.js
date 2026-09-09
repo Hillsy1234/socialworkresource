@@ -342,6 +342,11 @@ async function loadDocuments(packResources = resources) {
 }
 
 function renderNav() {
+  const scrollLeft = navList.scrollLeft;
+  const scrollTop = navList.scrollTop;
+  const sidebar = navList.closest(".sidebar");
+  const sidebarTop = sidebar?.scrollTop || 0;
+  const focusedId = navList.contains(document.activeElement) ? document.activeElement.dataset.open : null;
   const grouped = resources.reduce((acc, resource) => {
     if (!acc.has(resource.group)) {
       acc.set(resource.group, []);
@@ -368,6 +373,10 @@ function renderNav() {
       navList.appendChild(button);
     });
   });
+  if (focusedId) [...navList.querySelectorAll("[data-open]")].find(button => button.dataset.open === focusedId)?.focus({ preventScroll: true });
+  navList.scrollLeft = scrollLeft;
+  navList.scrollTop = scrollTop;
+  if (sidebar) sidebar.scrollTop = sidebarTop;
 }
 
 function renderActiveResource(documentData) {
@@ -1574,11 +1583,14 @@ function scrollToElementWithOffset(element) {
     : null;
   const offset = headerHeight + (stickyHeader ? stickyHeader.getBoundingClientRect().height : 0) + 18;
   const top = element.getBoundingClientRect().top + window.scrollY - offset;
-  window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
+  window.scrollTo({ top: Math.max(0, top), behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth" });
 }
 
 function scrollToReaderSection() {
-  scrollToElementWithOffset(document.querySelector("#readerSection"));
+  const reader = document.querySelector("#readerSection");
+  reader.setAttribute("tabindex", "-1");
+  reader.focus({ preventScroll: true });
+  scrollToElementWithOffset(reader);
 }
 
 function scrollToContentSection(sectionId) {
@@ -1592,6 +1604,27 @@ function scrollToContentSection(sectionId) {
   scrollToElementWithOffset(target);
 }
 
+let readerNavigationSequence = 0;
+function holdReaderHeight() {
+  const reader = document.querySelector("#readerSection");
+  const sequence = ++readerNavigationSequence;
+  // A shorter replacement otherwise clamps scrollY before animation starts.
+  reader.style.minHeight = `${reader.getBoundingClientRect().height}px`;
+  return () => {
+    const started = performance.now();
+    let lastY = window.scrollY, stableFrames = 0;
+    const releaseWhenSettled = () => {
+      if (sequence !== readerNavigationSequence) return;
+      stableFrames = Math.abs(window.scrollY - lastY) < 1 ? stableFrames + 1 : 0;
+      lastY = window.scrollY;
+      if ((stableFrames >= 4 && performance.now() - started > 120) || performance.now() - started > 2000) {
+        reader.style.minHeight = "";
+      } else requestAnimationFrame(releaseWhenSettled);
+    };
+    requestAnimationFrame(releaseWhenSettled);
+  };
+}
+
 function openResource(id, shouldScroll = true, targetSection = "") {
   if (!stashCpdDraft()) return;
   const documentData = state.documents.get(id);
@@ -1599,6 +1632,18 @@ function openResource(id, shouldScroll = true, targetSection = "") {
     return;
   }
 
+  // Selecting the open guide should not discard tool state or restart reading.
+  if (shouldScroll && state.activeId === id && contentView.childElementCount) {
+    if (targetSection) {
+      updateResourceUrl(id, targetSection);
+      scrollToContentSection(targetSection);
+    } else if (document.querySelector("#readerSection").getBoundingClientRect().top > innerHeight) {
+      scrollToReaderSection();
+    }
+    return;
+  }
+
+  const releaseReaderHeight = shouldScroll ? holdReaderHeight() : null;
   state.activeId = id;
   state.query = "";
   searchInput.value = "";
@@ -1618,6 +1663,7 @@ function openResource(id, shouldScroll = true, targetSection = "") {
     } else {
       scrollToReaderSection();
     }
+    releaseReaderHeight();
   }
 }
 
@@ -1852,8 +1898,24 @@ document.addEventListener("click", (event) => {
 
   const opener = event.target.closest("[data-open]");
   if (opener) {
-    openResource(opener.dataset.open, true, opener.dataset.section || "");
+    event.preventDefault();
     setMobileNavigation(false);
+    openResource(opener.dataset.open, true, opener.dataset.section || "");
+    return;
+  }
+
+  const anchor = event.target.closest('a[href^="#"]');
+  if (anchor && !event.defaultPrevented && event.button === 0 &&
+      !event.ctrlKey && !event.metaKey && !event.shiftKey && !event.altKey &&
+      !anchor.hasAttribute("download") && (!anchor.target || anchor.target === "_self")) {
+    let id;
+    try { id = decodeURIComponent(anchor.hash.slice(1)); } catch { return; }
+    if (!document.getElementById(id)) return;
+    event.preventDefault();
+    setMobileNavigation(false);
+    if (location.hash !== anchor.hash) history.pushState(null, "", anchor.hash);
+    activePackUrl = location.href;
+    scrollToContentSection(id);
   }
 });
 

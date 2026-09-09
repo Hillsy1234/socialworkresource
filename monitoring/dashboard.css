@@ -3,3 +3,7 @@
 .discovery{border-top:2px solid #b9c9bf;margin-top:38px;padding-top:20px}.discovery>details{margin:20px 0}.discovery summary{cursor:pointer;font-weight:700}.discovery .source h3,.discovery .source strong{overflow-wrap:anywhere}#discoveryStatus{padding:16px;background:#e6ece4;border-radius:10px}
 
 #triageStats{grid-template-columns:repeat(3,minmax(0,1fr))}.triage-caution{border-left:3px solid #be8b32;padding-left:10px}.discovery .source>button{margin:14px 0;display:block}@media(max-width:600px){#triageStats{grid-template-columns:1fr}.discovery .source>button{width:100%}}
+
+html { scroll-behavior: smooth; scrollbar-gutter: stable; }
+[id] { scroll-margin-top: 24px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }

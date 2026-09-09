@@ -2509,3 +2509,10 @@ body.location-dialog-open { overflow: hidden; }
 }
 @media (prefers-reduced-motion: reduce) { .location-trigger { transition: none; } }
 @media print { .location-trigger, .location-dialog, .location-intro { display: none !important; } }
+
+/* Keep navigation comfortable without overriding reduced-motion preferences. */
+html { scrollbar-gutter: stable; }
+.location-dialog { overscroll-behavior: contain; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
