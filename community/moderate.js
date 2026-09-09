@@ -24,10 +24,21 @@
     const actions=item.kind==='report'?(item.status==='open'?['resolve']:[]):item.status==='pending'?['approve','reject']:item.status==='approved'?['remove',...(item.kind==='topic'?[item.locked?'unlock':'lock']:[])]:[];
     if(!actions.length)return article;
     const label=el('label','Moderator decision note');const note=el('textarea');note.rows=2;note.minLength=5;note.maxLength=500;note.required=true;label.append(note);article.append(label);
+    if(item.status==='pending' && item.kind!=='report'){
+      const nameLabel=el('label','Display name — add any training label before approval');const name=el('input');name.className='pending-display-name';name.value=item.author;name.minLength=2;name.maxLength=50;name.required=true;nameLabel.append(name);article.append(nameLabel);
+      const saveName=el('button','Save display name','secondary');saveName.type='button';
+      article.append(el('p','Saving a name keeps this contribution pending. Identify fictional contributors clearly; do not attribute examples to real members.','small'));
+      saveName.addEventListener('click',async()=>{
+        if(!name.reportValidity() || !note.reportValidity())return;
+        const seq=generation;article.querySelectorAll('button').forEach(button=>button.disabled=true);
+        try{await request({}, {kind:item.kind,id:item.id,parentId:item.parentId||'',etag:item.etag,action:'edit-name',author:name.value,note:note.value});if(seq!==generation)return;await load();message('Display name saved. Contribution is still awaiting approval.');}
+        catch(error){if(seq===generation)message(error.message,true);article.querySelectorAll('button').forEach(button=>button.disabled=false);}
+      });article.append(saveName);
+    }
     const check=el('input');check.type='checkbox';const ack=el('label','','check');ack.append(check,el('span','I checked this contribution for identifiable information, suitability and any resource links.'));if(actions.includes('approve'))article.append(ack);
     const buttons=el('div','','moderator-actions');const labels={approve:'Approve & publish',reject:'Reject & erase text',remove:'Remove & erase text',lock:'Close replies',unlock:'Reopen replies',resolve:'Resolve report'};
     for(const action of actions){const button=el('button',labels[action],`secondary ${['remove','reject'].includes(action)?'danger':''}`);button.type='button';button.addEventListener('click',async()=>{
-      if(!note.reportValidity())return;if(action==='approve'&&!check.checked){message('Confirm the publication checks before approving.',true);check.focus();return;}
+      if(!note.reportValidity())return;if(action==='approve'&&article.querySelector('.pending-display-name')?.value!==item.author){message('Save the display name before approving this contribution.',true);return;}if(action==='approve'&&!check.checked){message('Confirm the publication checks before approving.',true);check.focus();return;}
       const seq=generation;buttons.querySelectorAll('button').forEach(b=>b.disabled=true);
       try{await request({}, {kind:item.kind,id:item.id,parentId:item.parentId||'',etag:item.etag,action,note:note.value,checked:check.checked});if(seq!==generation)return;message(`Decision saved: ${labels[action]}.`);await load();}
       catch(error){if(seq===generation)message(error.message,true);buttons.querySelectorAll('button').forEach(b=>b.disabled=false);}

@@ -30,6 +30,22 @@ test('all 12 location filters include shared topics and exclude other local topi
   for(const location of locations.slice(1)){const result=await publicTopics(store,{month,location});assert.equal(result.items.length,2);assert.ok(result.items.every(t=>t.location===location||t.location==='all'));}
   assert.equal((await publicTopics(store,{month,location:'all'})).items.length,13);
 });
+test('moderator name edits stay pending, validate names and invalidate stale approvals',async()=>{
+  const store=memory(),parentId=await published(store);
+  const result=await submit(store,topic('wales',{kind:'reply',parentId,author:'Sarah'}),{now});
+  const original=(await moderationQueue(store,{month})).items[0];
+  for(const author of ['', 'x'.repeat(51)])await assert.rejects(moderate(store,{...original,action:'edit-name',author,note:'Label a fictional example.'},now),/Display name/);
+  const saved=await moderate(store,{...original,action:'edit-name',author:'Sarah — Training example',note:'Label a fictional example.'},now);
+  assert.equal(saved.status,'pending');assert.equal((await publicThread(store,parentId)).items.length,0);
+  const edited=(await moderationQueue(store,{month})).items[0];
+  assert.equal(edited.author,'Sarah — Training example');assert.equal(edited.body,original.body);
+  assert.equal(edited.history.at(-1).action,'edit-name');
+  await assert.rejects(moderate(store,{...original,action:'approve',checked:true,note:'Stale approval must fail.'},now),e=>e.status===409);
+  await approve(store,'reply',result.id,parentId);
+  const publicReply=(await publicThread(store,parentId)).items[0];assert.equal(publicReply.author,edited.author);assert.equal(publicReply.history,undefined);
+  const approved=await store.get(keyFor('reply',result.id,parentId));
+  await assert.rejects(moderate(store,{...approved.data,etag:approved.etag,action:'edit-name',author:'Different name',note:'Cannot rename published contributors.'},now),/Only pending/);
+});
 test('replies require an approved open parent and local replies inherit its jurisdiction',async()=>{
   const store=memory(),id=await published(store);const input=topic('wales',{kind:'reply',parentId:id});
   const result=await submit(store,input,{now});assert.equal((await publicThread(store,id)).items.length,0);

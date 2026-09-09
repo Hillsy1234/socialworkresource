@@ -115,7 +115,10 @@ export async function moderate(store,input,now=new Date().toISOString()){
   if(typeof input.etag!=='string' || input.etag!==record.etag)fail('This item changed. Refresh the queue before deciding.',409);
   const item={...record.data},action=input.action;
   const reason=text(input.note||'','Moderator note',5,500);
-  if(action==='approve'){
+  if(action==='edit-name'){
+    if(item.status!=='pending' || item.kind==='report')fail('Only pending contribution names can be edited.',409);
+    item.author=text(input.author,'Display name',2,50);
+  } else if(action==='approve'){
     if(item.status!=='pending' || item.kind==='report')fail('Only pending contributions can be approved.',409);
     if(item.kind==='reply'){
       const parent=publicItem((await store.get(keyFor('topic',item.parentId)))?.data);

@@ -8,6 +8,7 @@ The community is a moderated, public learning board covering all 12 practice loc
 - Topics, moderated replies, HTTPS resource suggestions, keyword search within the selected month, category filters and month archives. Location views include their own topics and All locations topics. Replies to local topics use that location; shared discussions can have replies from different locations.
 - One monthly fictional scenario, shared across all locations. The authored bank has 12 prompts and repeats annually; each selection requires approval. The schedule runs at 06:15 UTC on the first day of each month. Manual preparation is available in the moderator screen and is idempotent.
 - Private reporting; moderators can inspect the reported item, approve, reject, remove, close/reopen replies and resolve reports. All publication checks are enforced server-side. An open report does not automatically remove a post.
+- Pending topics and replies have a display-name editor for adding attribution labels before approval. Save the name with a moderator note; this keeps the contribution pending and invalidates any stale approval. Published names cannot be changed through this control. Clearly identify fictional example contributors before publishing them.
 
 ## Activation on Netlify
 
