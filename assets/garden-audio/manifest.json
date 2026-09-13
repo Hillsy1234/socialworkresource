@@ -83,5 +83,21 @@
     "file": "water-lap.mp3",
     "original": "quiet-garden-wave_01_cc0-11505__transitking__wavesound.flac",
     "sha256": "5604b1ba2c21f5bf61ce9973d1fabefa73611f1fc0ca6a9ed9085c00b180e64e"
+  },
+  {
+    "file": "woodland-birds.mp3",
+    "original": "park_ambience_birds.wav",
+    "sha256": "9dab7064a270d12214e06f1d67fb3452209ed887092a892ae65552a981cb862d",
+    "author": "Thimras",
+    "license": "CC0-1.0",
+    "source": "https://opengameart.org/content/park-ambiences"
+  },
+  {
+    "file": "meadow-wind.mp3",
+    "original": "park_ambience_wind.wav",
+    "sha256": "446f0a47d44598cfb4e9617f05266682be65fb4055d36743e9a3a66e06d6dfbf",
+    "author": "Thimras",
+    "license": "CC0-1.0",
+    "source": "https://opengameart.org/content/park-ambiences"
   }
 ]

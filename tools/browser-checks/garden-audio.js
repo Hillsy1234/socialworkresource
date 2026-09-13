@@ -11,7 +11,8 @@ async browserPage => {
   const p=await context.newPage();p.on('pageerror',e=>errors.push(e.message));await p.goto('http://127.0.0.1:8766/garden/');await p.waitForSelector('body[data-garden-ready=true]');
   assert(await p.evaluate(()=>audioChecks.requests.length)===0,'No sound files load before explicit opt-in');
   await p.locator('#enterButton').click();await p.locator('#soundButton').click();await p.waitForFunction(()=>!document.getElementById('soundButton').disabled);
-  assert(await p.evaluate(()=>audioChecks.decoded.length)===17,'All 17 local recordings decode successfully');
+  assert(await p.evaluate(()=>audioChecks.decoded.length)===19,'All 19 local recordings decode successfully');
+  assert(await p.evaluate(()=>audioChecks.starts.some(s=>s.name==='woodland-birds.mp3')&&audioChecks.starts.some(s=>s.name==='meadow-wind.mp3')),'Recorded nature layers begin after opt-in');
   let start=await p.evaluate(()=>audioChecks.starts.length);await p.waitForTimeout(700);assert(await p.evaluate(i=>audioChecks.starts.slice(i).every(s=>!s.name.startsWith('gravel')),start),'Standing still produces no footsteps');
   await p.locator('#guideButton').click();await p.waitForTimeout(2200);await p.locator('#pauseButton').click();
   const gravel=await p.evaluate(()=>audioChecks.starts.filter(s=>s.name.startsWith('gravel')));assert(gravel.length>=2,'Guided walking plays recorded gravel steps');assert(gravel.every((s,i)=>!i||s.name!==gravel[i-1].name),'Consecutive steps use different recordings');
@@ -21,7 +22,7 @@ async browserPage => {
   await p.locator('#mapButton').click();await p.locator('[data-place="1"]').click();await p.locator('#interactButton').click();assert(await p.evaluate(()=>audioChecks.starts.some(s=>s.name.startsWith('grass'))),'Flower interaction adds a soft recorded rustle');
   await p.locator('#motionButton').click();start=await p.evaluate(()=>audioChecks.starts.length);await p.keyboard.down('w');await p.waitForTimeout(600);await p.keyboard.up('w');assert(await p.evaluate(i=>audioChecks.starts.slice(i).every(s=>!/^(gravel|wood|grass)-/.test(s.name)),start),'Still mode produces no movement effects');
   await p.locator('#soundButton').click();assert(await p.evaluate(()=>audioChecks.contexts.every(c=>c.state==='suspended')),'Mute suspends the audio engine');start=await p.evaluate(()=>audioChecks.starts.length);await p.locator('#interactButton').click();assert(await p.evaluate(()=>audioChecks.starts.length)===start,'Muted interactions create no sounds');
-  await p.locator('#soundButton').click();await p.waitForFunction(()=>!document.getElementById('soundButton').disabled);assert(await p.evaluate(()=>audioChecks.requests.length)===17,'Unmuting reuses decoded recordings');assert(await p.evaluate(i=>audioChecks.starts.slice(i).every(s=>!/^(gravel|wood|grass|splash)-/.test(s.name)),start),'Unmuting does not replay stale effects');
+  await p.locator('#soundButton').click();await p.waitForFunction(()=>!document.getElementById('soundButton').disabled);assert(await p.evaluate(()=>audioChecks.requests.length)===19,'Unmuting reuses decoded recordings');assert(await p.evaluate(i=>audioChecks.starts.slice(i).every(s=>!/^(gravel|wood|grass|splash)-/.test(s.name)),start),'Unmuting does not replay stale effects');
   await p.evaluate(()=>window.dispatchEvent(new Event('blur')));await p.waitForFunction(()=>audioChecks.contexts.every(c=>c.state==='suspended'));assert(true,'Leaving the window pauses audio');
   assert(errors.length===0,`No runtime errors: ${errors.join('; ')}`);
   return {passed:checks.length,checks,clips:await p.evaluate(()=>audioChecks.decoded)};
