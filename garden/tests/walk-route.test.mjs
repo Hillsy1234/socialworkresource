@@ -1,0 +1,6 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {route,groundHeight,canWalk,cleanWalkSave,places,ROUTE_LENGTH} from '../walk-route.mjs';
+test('The complete guided loop is walkable, closed and has smooth bridge approaches',()=>{assert.ok(ROUTE_LENGTH>150);assert.ok(route.getPointAt(0).distanceTo(route.getPointAt(1))<.001);let previous;for(let i=0;i<=2000;i++){const p=route.getPointAt(i/2000);assert.equal(canWalk(p.x,p.z),true,`blocked route at ${i}`);const h=groundHeight(p.x,p.z);assert.ok(Number.isFinite(h));if(previous!==undefined)assert.ok(Math.abs(h-previous)<.075,`abrupt step at ${i}`);previous=h;}for(const p of places){const v=route.getPointAt(p.t);assert.equal(canWalk(v.x,v.z),true);}});
+test('Free walking respects water, trunks and outer garden boundaries',()=>{assert.equal(canWalk(5,5),false);assert.equal(canWalk(5,-4),true);assert.equal(canWalk(0,30,[{x:0,z:30,r:.4}]),false);assert.equal(canWalk(40,0),false);assert.equal(canWalk(NaN,1),false);});
+test('Walking preferences validate untrusted browser storage and retain the miniature save separately',()=>{assert.deepEqual(cleanWalkSave({theme:'invalid',pace:99,still:'yes',opened:[1,1,-1,6,3,'4']}),{weather:'clear',weatherAuto:false,theme:'sunset',pace:1.3,still:false,opened:[1,3]});assert.equal(cleanWalkSave(null).theme,'sunset');});

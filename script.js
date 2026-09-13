@@ -2019,4 +2019,4 @@ readerMarkReadButton.addEventListener("click", () => {
   showReaderSaveStatus(`${activeTitle.textContent} marked as read.`, true);
 });
 
-initializeJurisdictions();
+initializeJurisdictions().then(() => { if (typeof restoreGardenPosition === "function") restoreGardenPosition(); });

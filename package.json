@@ -4,7 +4,8 @@
   "dependencies": {
     "@netlify/blobs": "^11.0.3",
     "cheerio": "^1.2.0",
-    "fast-xml-parser": "^5.11.1"
+    "fast-xml-parser": "^5.11.1",
+    "three": "^0.186.0"
   },
   "devDependencies": {
     "@netlify/functions": "^6.0.0",
@@ -18,7 +19,7 @@
     "node": ">=22"
   },
   "scripts": {
-    "build": "npm run test:community && node tools/check-jurisdictions.mjs && node tools/check-curriculum.mjs && node tools/build-seo-pages.mjs && node tools/build-triage-catalog.mjs && node tools/build-site.mjs",
+    "build": "npm run test:community && npm run test:garden && node tools/check-jurisdictions.mjs && node tools/check-curriculum.mjs && node tools/build-seo-pages.mjs && node tools/build-triage-catalog.mjs && node tools/build-site.mjs",
     "test:community": "node --test community/tests/*.test.mjs",
     "community:dev": "node tools/community-dev.mjs",
     "test:monitor": "node --test monitoring/tests/*.test.mjs",
@@ -28,6 +29,7 @@
     "check:curriculum": "node tools/check-curriculum.mjs",
     "test:editorial": "node --test editorial/tests/*.test.mjs",
     "editorial:prepare": "node tools/prepare-editorial-update.mjs",
-    "editorial:demo": "node tools/create-editorial-demo.mjs"
+    "editorial:demo": "node tools/create-editorial-demo.mjs",
+    "test:garden": "node --test garden/tests/*.test.mjs"
   }
 }

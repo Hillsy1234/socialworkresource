@@ -1,0 +1,87 @@
+[
+  {
+    "file": "gravel-1.mp3",
+    "original": "Corsica_S-Walking_on_snow_covered_gravel_01.flac",
+    "sha256": "53e01608992ea99584b3ba2d267557ede84cdf9946e26a8ddcc728894371eea4"
+  },
+  {
+    "file": "gravel-2.mp3",
+    "original": "Corsica_S-Walking_on_snow_covered_gravel_02.flac",
+    "sha256": "8b5e11a54f436b101758c5e6ba577547643bc83b2532f97c0fd054eab96677b4"
+  },
+  {
+    "file": "gravel-3.mp3",
+    "original": "Corsica_S-Walking_on_snow_covered_gravel_03.flac",
+    "sha256": "f0e60c958f19aef10d4f9280d7a69b7bb228dda2d7a2eac5637235ed3068c4a3"
+  },
+  {
+    "file": "gravel-4.mp3",
+    "original": "Corsica_S-Walking_on_snow_covered_gravel_04.flac",
+    "sha256": "430af8506e03c067fb83135bc11773047b537a18f7f0ff6a377399a688831fad"
+  },
+  {
+    "file": "gravel-5.mp3",
+    "original": "Corsica_S-Walking_on_snow_covered_gravel_05.flac",
+    "sha256": "36cb275bd71094dc01cd5cdd93d7eeb1df80d70eec7ee5261e43e06986bbe7aa"
+  },
+  {
+    "file": "wood-1.mp3",
+    "original": "footstep_wood_000.ogg",
+    "sha256": "01d9e2dff5a6e20d673b8d88a27faccf5efa9c9a4639078dfae925571b61ad15"
+  },
+  {
+    "file": "wood-2.mp3",
+    "original": "footstep_wood_001.ogg",
+    "sha256": "31ccd91c415012c4c7f0242094cd4124b8fa4f4d2065910ac78e6a6a96fd3ed7"
+  },
+  {
+    "file": "wood-3.mp3",
+    "original": "footstep_wood_002.ogg",
+    "sha256": "e340a24b245fecf94f269624943fda927ef312ece2e3aa06a1170aa67600461a"
+  },
+  {
+    "file": "wood-4.mp3",
+    "original": "footstep_wood_003.ogg",
+    "sha256": "d10e96d45a26eb6e4e6fb616b7a69b14627491115c053d90fcbceced4c37509c"
+  },
+  {
+    "file": "grass-1.mp3",
+    "original": "footstep_grass_000.ogg",
+    "sha256": "7bbf9f88be6e1b91476820856a6577c8876a93f25a98111323d2f614703a1865"
+  },
+  {
+    "file": "grass-2.mp3",
+    "original": "footstep_grass_001.ogg",
+    "sha256": "a57cc4ada07693952fd15c7ce78729cc493a449a271761d117d79ee22c242d3e"
+  },
+  {
+    "file": "grass-3.mp3",
+    "original": "footstep_grass_002.ogg",
+    "sha256": "64ebff5e229559a3a8d68e673ba3ee229e6dd2673eba4985e62da5e4c18ec665"
+  },
+  {
+    "file": "grass-4.mp3",
+    "original": "footstep_grass_003.ogg",
+    "sha256": "26b5e417827650c9220bd390f0345b7f256146f46b73458849d50bee20f01158"
+  },
+  {
+    "file": "splash-1.mp3",
+    "original": "water_splash-01.flac",
+    "sha256": "9de95ad518a906ecdd6c3e34739ff244ba298dd90cfea1521e33933aa110d6b4"
+  },
+  {
+    "file": "splash-2.mp3",
+    "original": "water_splash-02.flac",
+    "sha256": "664ad4b41229683a5bae4cf4faba5c9ab04580a069c841622139f8c0e8f6727b"
+  },
+  {
+    "file": "splash-3.mp3",
+    "original": "water_splash-03.flac",
+    "sha256": "49163eda557531ad0fbbc925ab378a354693d65a68dae6b0762364aa23674c12"
+  },
+  {
+    "file": "water-lap.mp3",
+    "original": "quiet-garden-wave_01_cc0-11505__transitking__wavesound.flac",
+    "sha256": "5604b1ba2c21f5bf61ce9973d1fabefa73611f1fc0ca6a9ed9085c00b180e64e"
+  }
+]

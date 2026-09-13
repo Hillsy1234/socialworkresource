@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {weatherController,WEATHER_INTERVAL} from '../weather-state.mjs';
+import {cleanWalkSave} from '../walk-route.mjs';
+test('Old saves retain their lighting and acquire safe weather defaults',()=>{const old=cleanWalkSave({theme:'night',weather:'storm',weatherAuto:'true'});assert.equal(old.theme,'night');assert.equal(old.weather,'clear');assert.equal(old.weatherAuto,false);assert.equal(cleanWalkSave({weather:'rain',weatherAuto:true}).weather,'rain');});
+test('Weather transitions remain continuous when a different selection interrupts them',()=>{const w=weatherController();w.choose('rain');const mid=w.tick(4);assert.ok(mid.rain>.4&&mid.rain<.6);w.choose('mist');assert.equal(w.snapshot().rain,mid.rain);const end=w.tick(8);assert.equal(end.rain,0);assert.equal(end.mist,1);assert.equal(end.transitioning,false);});
+test('Still mode freezes a transition and automatic clock; manual instant selection remains possible',()=>{const w=weatherController('clear',true);w.choose('rain');w.tick(3);const frozen=w.snapshot();w.tick(300,{still:true});assert.deepEqual(w.snapshot(),frozen);w.choose('mist',true);assert.equal(w.snapshot().mist,1);assert.equal(w.snapshot().transitioning,false);});
+test('Automatic weather advances through a gentle sequence using active time only',()=>{const w=weatherController('clear',true);w.tick(WEATHER_INTERVAL*3,{active:false});assert.equal(w.snapshot().selected,'clear');for(const expected of['cloud','rain','cloud','mist','clear']){const result=w.tick(WEATHER_INTERVAL);assert.equal(result.selected,expected);assert.equal(result.changed,true);}w.setAutomatic(false);w.tick(1000);assert.equal(w.snapshot().selected,'clear');});
