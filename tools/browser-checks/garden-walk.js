@@ -10,7 +10,7 @@ async browserPage => {
   await page.waitForFunction(()=>document.querySelector('.cpd-form')&&document.getElementById('learningWorkspace').getAttribute('aria-busy')==='false');
   assert(!await page.locator('script[src*="garden/app"]').count(),'Learning page keeps the 3D bundle separate');
   await page.locator('.cpd-form [name=title]').fill('Fictional walking navigation check');
-  await page.locator('.garden-invitation[data-garden-link]').click();await ready(page);
+  await page.locator('.header-garden-link[data-garden-link]').click();await ready(page);
   const returnData=await page.evaluate(()=>JSON.parse(sessionStorage.getItem('quietGarden.return')));
   assert(returnData.url.includes('canada-ontario')&&returnData.url.includes('cpd-log'),'Walking view retains the learning location and resource');
   assert(await page.locator('#soundButton').getAttribute('aria-pressed')==='false','Sound starts off');

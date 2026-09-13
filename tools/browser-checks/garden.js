@@ -10,7 +10,7 @@ async browserPage => {
     await page.waitForFunction(()=>document.querySelector('.cpd-form')&&document.getElementById('learningWorkspace').getAttribute('aria-busy')==='false');
     assert(!requests.some(url=>url.includes('/garden/app.js')),'Learning page does not load the 3D bundle');
     await page.locator('.cpd-form [name=title]').fill('Fictional garden navigation check');
-    await page.locator('.garden-invitation[data-garden-link]').click();await ready();await page.locator('.intro .miniature').click();await ready();
+    await page.locator('.header-garden-link[data-garden-link]').click();await ready();await page.locator('.intro .miniature').click();await ready();
     const returnData=await page.evaluate(()=>JSON.parse(sessionStorage.getItem('quietGarden.return')));
     assert(returnData.url.includes('canada-ontario')&&returnData.url.includes('cpd-log'),'Garden remembers location and resource');
     assert(await page.locator('#soundButton').getAttribute('aria-pressed')==='false','Audio starts off');
