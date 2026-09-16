@@ -113,12 +113,22 @@ Drag the scene to look around; tap elsewhere or use **Show controls** to restore
 the interface. Escape restores controls and pauses. A restoring background tap
 is consumed so it cannot accidentally interact with the pond.
 
-## Woodland lookout — local tower review
+## Woodland lookout
 
-The woodland lookout is a tenth destination on a plank spur from the far woodland path. The original looping route stays at ground level. A braced timber structure has four switchback stair flights, landings, guardrails and an eight-metre viewing deck with a partial roof. This stage contains the tower only; the zip line awaits design review.
+The woodland lookout is a tenth destination on a plank spur from the far woodland path. The original looping route stays at ground level. A braced timber structure has four switchback stair flights, landings, guardrails and an eight-metre viewing deck with a partial roof. The top deck now includes the optional garden zip line.
 
 Choose **Woodland lookout** or its Map destination. Use the normal walking controls on the stairs or **Climb the stairs** for a guided ascent. **Pause**, Escape, manual movement and opening a dialog stop it; Climb the stairs resumes from the current landing or flight. **Go back down** follows the stairs in reverse. **View from the top** offers an instant visit. In Still mode both the top visit and return to the entrance are instant. Sitting is unavailable on the tower. **Just enjoy the garden** also leaves a guided stair journey running.
 
 Navigation follows a smooth height surface over the visible treads, so the camera does not bounce at each step. Height-aware support keeps overlapping flights separate and constrains walking inside the rails and around the upper stair opening. `garden/tests/lookout.test.mjs` checks continuous ascent/descent, floor selection, edges and the approach grade. Geometry is merged into a few meshes and uses existing local timber textures.
 
-Browser checks: `tools/browser-checks/garden-lookout.js` exercises the built scene, manual/guided stairs, pause, platform boundaries, clear-screen mode and Still navigation. `garden-lookout-mobile.js` verifies controls at narrow portrait and landscape sizes. The initial deck is among the treetops; its height and placement are review choices before any zip-line design.
+Browser checks: `tools/browser-checks/garden-lookout.js` exercises the built scene, manual/guided stairs, pause, platform boundaries, clear-screen mode and Still navigation. `garden-lookout-mobile.js` verifies controls at narrow portrait and landscape sizes. The deck sits among the treetops.
+
+## The garden glide
+
+At the tower deck, choose **Zip line**, then **Start the glide**. A roughly 78-metre cable runs from the open side of the tower to a low timber landing near the garden gate. A launch gantry, opening gate, trolley, cable sleeve and landing frame show the route. Trees leave clearance for the ride; no hand or character model covers the first-person view.
+
+The virtual trolley follows the same sagging curve that is rendered, using a fixed 120 Hz simulation with gravity along the slope, rolling resistance and drag. A 6 m/s governor and a distance-based end brake produce an approximately 16-second glide, ending at zero speed. This is a recreational simulation, not a specification for a real structure.
+
+Drag to look around. **Pause ride**, Escape, opening panels, switching tabs and window blur freeze the ride; it resumes only on request. **Land now** and **Return to tower** provide instant exits. **Clear view** preserves the glide and hides the walking pad, with tap-to-restore and Escape-to-pause. Walking input cannot detach a rider. Still mode prevents animated launch/resume and allows an instant landing visit. Existing sound stays opt-in; airborne travel does not trigger footsteps.
+
+`garden/tests/zipline.test.mjs` checks cable endpoints, sag, ground clearance, speed/braking, frame-rate independence and the landing surface. `tools/browser-checks/garden-zipline.js` exercises launch, pause, looking, landing, exits, clear view and Still mode in the built scene. `garden-zipline-mobile.js` checks portrait and landscape ride layouts and touch restoration.

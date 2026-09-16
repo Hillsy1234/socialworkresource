@@ -77,3 +77,9 @@ body{height:100dvh}
 .quiet-walk .direction-pad button:hover,.quiet-walk .direction-pad button:active,.quiet-walk .direction-pad button:focus-visible{background:#274a39dc;border-color:#f2ddb5}
 .quiet-walk>span{display:block;font-size:9px;margin-top:8px;color:#e5e7d8;text-shadow:0 1px 4px #14221b}
 @media(max-width:760px){.quiet-view .show-controls{left:auto;right:12px;transform:none;max-width:calc(100% - 178px);padding:10px 12px;line-height:1.5}.quiet-walk>span{font-size:8px}}
+
+.zip-ride-panel{position:fixed;top:100px;left:38px;z-index:8;width:285px;padding:20px;border:1px solid #dfe8cc55;border-radius:12px;background:#173127e8;backdrop-filter:blur(12px)}
+.zip-ride-panel h2{font:25px/1.2 Georgia;margin:12px 0}.zip-ride-panel p{font-size:11px;line-height:1.6;color:#d8e1cf}.zip-ride-actions{display:flex;flex-wrap:wrap;gap:8px}.zip-ride-actions button{border:1px solid #ddd6ae66;border-radius:6px;min-height:44px;padding:10px;font-size:11px;color:#f0ddb5}
+.zip-riding #walkHud{display:none}.quiet-view .zip-ride-panel{visibility:hidden;pointer-events:none}
+@media(max-width:760px){.zip-ride-panel{top:82px;left:18px;width:calc(100% - 36px);padding:16px}.zip-ride-panel h2{font-size:23px}.zip-ride-actions{gap:6px}.zip-ride-actions button{font-size:10px}}
+@media(max-height:620px){.zip-ride-panel{top:72px;width:280px;max-height:calc(100dvh - 210px);overflow:auto}.zip-ride-panel .eyebrow{display:none}.zip-ride-panel h2{font-size:20px;margin:0 0 8px}}

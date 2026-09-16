@@ -27,7 +27,7 @@ export function createLookout(scene,wood,metal){
  }
  // A continuous left deck and rear deck surround the stairwell at the top.
  floor(-3,.5,-2.6,3.95,8);floor(.5,3,2.85,3.95,8);
- fence([-3,8,-3.95],[-3,8,3.95]);fence([3,8,-3.95],[3,8,3.95]);fence([-3,8,3.95],[3,8,3.95]);
+ fence([-3,8,-3.95],[-3,8,3.95]);fence([3,8,-2.15],[3,8,3.95]);fence([-3,8,3.95],[3,8,3.95]);
  fence([.5,8,-2.6],[.5,8,2.85]);fence([.5,8,2.85],[3,8,2.85]);
  // Roof over the rear half of the lookout, leaving its viewing edge open.
  for(const x of[-3.05,.35])for(const z of[.8,3.95])box(timber,.16,2.6,.16,x,9.3,z);
@@ -46,5 +46,7 @@ export function createLookout(scene,wood,metal){
  const spur=new T.Mesh(mergeGeometries(planks),pale);spur.name='Lookout approach';spur.receiveShadow=true;root.add(spur);
  const signCanvas=document.createElement('canvas');signCanvas.width=512;signCanvas.height=192;const c=signCanvas.getContext('2d');c.fillStyle='#284537';c.fillRect(0,0,512,192);c.strokeStyle='#c3b28a';c.lineWidth=4;c.strokeRect(12,12,488,168);c.fillStyle='#f0e1be';c.textAlign='center';c.font='32px Georgia';c.fillText('The woodland lookout',256,82);c.font='20px sans-serif';c.fillText('Take the stairs. Enjoy the view.',256,126);const texture=new T.CanvasTexture(signCanvas);texture.colorSpace=T.SRGBColorSpace;
  const sign=new T.Mesh(new T.PlaneGeometry(2,.75),new T.MeshStandardMaterial({map:texture,roughness:1,side:T.DoubleSide}));sign.position.set(LOOKOUT_ENTRY.x-2,terrainHeight(LOOKOUT_ENTRY.x-2,LOOKOUT_ENTRY.z-4)+1.35,LOOKOUT_ENTRY.z-4);const signPost=new T.Mesh(new T.BoxGeometry(.12,1.65,.12),rail);signPost.position.set(sign.position.x,sign.position.y-.52,sign.position.z);signPost.castShadow=true;root.add(signPost);sign.rotation.y=Math.atan2(LOOKOUT_JOIN.x-sign.position.x,LOOKOUT_JOIN.z-sign.position.z);signPost.position.x-=Math.sin(sign.rotation.y)*.16;signPost.position.z-=Math.cos(sign.rotation.y)*.16;root.add(sign);
- return {root,setLight(value){lights.forEach(m=>m.material.emissiveIntensity=.25+value*.65);}};
+ const gate=new T.Group();gate.name='Zip-line launch gate';gate.position.set(LOOKOUT.x+3,LOOKOUT.base+8,LOOKOUT.z-3.95);root.add(gate);
+ for(const y of[.55,1.08]){const m=new T.Mesh(new T.BoxGeometry(.09,.09,1.8),rail);m.position.set(0,y,.9);gate.add(m);}for(let z=.15;z<1.8;z+=.35){const m=new T.Mesh(new T.BoxGeometry(.06,1,.06),rail);m.position.set(0,.5,z);gate.add(m);}
+ return {root,setGate(open){gate.rotation.y=open?Math.PI/2:0;},setLight(value){lights.forEach(m=>m.material.emissiveIntensity=.25+value*.65);}};
 }

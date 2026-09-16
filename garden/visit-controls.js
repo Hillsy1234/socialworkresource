@@ -10,12 +10,13 @@ export function visitControls({saved, save, announce, stopWalking, getView, rest
     if (!quiet) return false;
     quiet = false; gestures.clear(); document.body.classList.remove('quiet-view'); $('showControls').hidden = true;
     surfaces.forEach(node => { node.inert = false; node.removeAttribute('aria-hidden'); });
-    $('quietButton').focus({preventScroll: true});
+    const focusTarget=!$('zipRidePanel').hidden?($('pauseZip').disabled?$('finishZip'):$('pauseZip')):$('quietButton');
+    focusTarget.focus({preventScroll: true});
     return true;
   }
   $('quietButton').onclick = () => {
     prepareQuiet(); quiet = true;
-    announce(canMove() ? `${isGuided() ? 'Your walk continues. ' : ''}Hold the arrows or use W A S D to walk. Drag to look. Tap elsewhere for controls; Esc also pauses.` : 'Controls hidden. Tap or press Esc to show them again.');
+    announce(canMove() ? `${isGuided() ? 'Your walk continues. ' : ''}Hold the arrows or use W A S D to walk. Drag to look. Tap elsewhere for controls; Esc also pauses.` : isGuided() ? 'Your glide continues. Drag to look. Tap for controls; Esc also pauses.' : 'Controls hidden. Tap or press Esc to show them again.');
     for (const id of ['mapPanel', 'weatherPanel']) $(id).hidden = true;
     $('mapButton').setAttribute('aria-expanded', 'false'); $('weatherButton').setAttribute('aria-expanded', 'false');
     document.body.classList.add('quiet-view'); $('showControls').hidden = false; $('showControls').focus({preventScroll: true});
