@@ -925,6 +925,7 @@ function cpdLogMarkup() {
           <span>Record CPD in your Social Work England online account by the annual deadline.</span>
         </div>
       </div>
+      <p>Readiness counts activities dated within ${escapeHtml(registrationYear)}. All saved drafts remain available below.</p>
       <div id="cpdRequirementStatus" class="cpd-requirement-status" aria-live="polite"></div>
       <form class="cpd-form">
         <div class="form-grid">
@@ -1023,6 +1024,17 @@ function currentRegistrationYearLabel(date = new Date()) {
   return `1 December ${startYear} to 30 November ${startYear + 1}`;
 }
 
+function currentYearCpdEntries(entries, date = new Date()) {
+  const year = date.getFullYear();
+  const startYear = date.getMonth() === 11 ? year : year - 1;
+  const start = `${startYear}-12-01`;
+  const end = `${startYear + 1}-11-30`;
+  // Use the activity date: the editable year label can still contain its default
+  // when someone records an older activity. Undated drafts remain in the log.
+  return entries.filter(entry => /^\d{4}-\d{2}-\d{2}$/.test(entry.activityDate || "") &&
+    entry.activityDate >= start && entry.activityDate <= end);
+}
+
 function countWords(value) {
   return String(value || "").trim().split(/\s+/).filter(Boolean).length;
 }
@@ -1085,7 +1097,7 @@ function renderCpdRequirementStatus() {
     return;
   }
 
-  const entries = getCpdEntries();
+  const entries = currentYearCpdEntries(getCpdEntries());
   const peerCount = entries.filter(cpdEntryIncludesPeer).length;
   const hasMinimumPieces = entries.length >= 2;
   const hasPeerReflection = peerCount >= 1;
@@ -1684,11 +1696,11 @@ function renderProgress() {
 }
 
 function persistRead() {
-  writeStoredJson(jurisdictionStorageKey("socialWorkerResourceRead"), [...state.read]);
+  return writeStoredJson(jurisdictionStorageKey("socialWorkerResourceRead"), [...state.read]);
 }
 
 function persistConfidence() {
-  writeStoredJson(jurisdictionStorageKey("socialWorkerResourceConfidence"), state.confidence);
+  return writeStoredJson(jurisdictionStorageKey("socialWorkerResourceConfidence"), state.confidence);
 }
 
 function getSearchMatches(query) {
@@ -1994,29 +2006,35 @@ document.addEventListener("submit", (event) => {
 
 if (confidenceSelect) {
   confidenceSelect.addEventListener("change", (event) => {
+    const previous = state.confidence[state.activeId];
     state.confidence[state.activeId] = event.target.value;
-    persistConfidence();
+    if (!persistConfidence()) {
+      if (previous === undefined) delete state.confidence[state.activeId];
+      else state.confidence[state.activeId] = previous;
+      renderProgress();
+      showReaderSaveStatus("Unable to save confidence in this browser. Your previous selection is unchanged. Please try again.");
+      return;
+    }
     renderProgress();
     showReaderSaveStatus(`Confidence saved: ${confidenceLabel(event.target.value)}.`, true);
   });
 }
 
-markReadButton.addEventListener("click", () => {
+function markCurrentSectionRead() {
+  const wasRead = state.read.has(state.activeId);
   state.read.add(state.activeId);
-  persistRead();
+  if (!persistRead()) {
+    if (!wasRead) state.read.delete(state.activeId);
+    showReaderSaveStatus("Unable to save reading progress in this browser. Your progress is unchanged. Please try again.");
+    return;
+  }
   renderNav();
   renderModuleCards();
   renderProgress();
   showReaderSaveStatus(`${activeTitle.textContent} marked as read.`, true);
-});
+}
 
-readerMarkReadButton.addEventListener("click", () => {
-  state.read.add(state.activeId);
-  persistRead();
-  renderNav();
-  renderModuleCards();
-  renderProgress();
-  showReaderSaveStatus(`${activeTitle.textContent} marked as read.`, true);
-});
+markReadButton.addEventListener("click", markCurrentSectionRead);
+readerMarkReadButton.addEventListener("click", markCurrentSectionRead);
 
 initializeJurisdictions().then(() => { if (typeof restoreGardenPosition === "function") restoreGardenPosition(); });
