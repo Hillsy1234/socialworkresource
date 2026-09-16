@@ -125,6 +125,8 @@ Browser checks: `tools/browser-checks/garden-lookout.js` exercises the built sce
 
 ## The garden glide
 
+The cable uses weathered silver steel shading, spiral grooves and a smooth, slender profile. A reusable patch of six helical strands follows the viewer near the cable; the distant span uses a texture to keep geometry costs bounded. Swaged end sleeves, eye fittings, pins and bolted saddles connect the cable to the supports. These visual details follow the existing ride curve and do not change the ride physics.
+
 At the tower deck, choose **Zip line**, then **Start the glide**. A roughly 78-metre cable runs from the open side of the tower to a low timber landing near the garden gate. A launch gantry, opening gate, trolley, cable sleeve and landing frame show the route. Trees leave clearance for the ride; no hand or character model covers the first-person view.
 
 The virtual trolley follows the same sagging curve that is rendered, using a fixed 120 Hz simulation with gravity along the slope, rolling resistance and drag. A 6 m/s governor and a distance-based end brake produce an approximately 16-second glide, ending at zero speed. This is a recreational simulation, not a specification for a real structure.
