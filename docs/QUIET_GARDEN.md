@@ -8,7 +8,7 @@ A roughly 281-metre looping path passes nine places: the garden gate, wildflower
 
 - W A S D / arrow keys move at eye level. Drag to look; Q / E turn using a keyboard. Touch devices show hold-to-walk directional buttons. The camera has no artificial head bob.
 - Follow the path guides the camera at the selected pace (0.8, 1.3 or 1.8 metres per second). It stops after one loop. Pause, Escape, manual movement, instructions, the map, tab hiding and window blur stop guided movement. A paused walk does not resume by itself.
-- The map and Next quiet spot move instantly to one of nine locations. Sit a while uses a nearby bench when available, otherwise a lower seated viewpoint; standing restores the previous safe position.
+- The map and Next quiet spot move instantly to one of ten locations. Sit a while uses a nearby bench when available, otherwise a lower seated viewpoint; standing restores the previous safe position.
 - Free movement respects the pond, bridge width, trunks, boulders, benches and garden perimeter. The bridge has smooth approaches along the guided route.
 - Flower and pond interactions support direct canvas touches and a labelled button. Lanterns can be illuminated at the evening border. No points, countdowns or leaderboards.
 - Morning, golden hour and evening settings. Recorded gravel, grass and timber footsteps follow actual distance travelled, with subtle variations and alternating stereo position. Grass recordings also provide filtered foliage rustles. Recorded water laps fade with pond proximity; a splash accompanies the ripple interaction. They sit beneath the synthesised wind and occasional birdsong. All sound starts only after pressing Sound, pauses in the background and never autoplays after reload. Stopping or hitting an obstacle does not produce new footsteps.
@@ -52,7 +52,7 @@ Still mode freezes the rendered rain, ripples, mist and ongoing transitions, and
 
 The garden now builds on the existing walk, weather and seasonal systems:
 
-- **Just enjoy the garden** hides the HUD, toolbar and header while guided walks continue. A small Show controls button remains. A tap restores the interface; Escape also pauses walking. Mouse movement leaves it hidden. Hidden controls are inert and cannot receive focus. Seated and Still visits remain stationary, and sound stays opt-in.
+- **Just enjoy the garden** hides the HUD, toolbar and header while guided walks continue. A small Show controls button remains. A faint arrow pad remains available: hold to walk and release to stop. Keyboard walking and turning also keep the panels hidden. Dragging looks around; a tap outside the pad restores the interface, and Escape also pauses walking. Mouse movement leaves it hidden. Hidden controls are inert and cannot receive focus. Seated and Still visits remain stationary, and sound stays opt-in.
 - **Your visit** saves one favourite location, whether seated, its season, weather, exact daylight level and all sound levels. The welcome screen offers a direct return. Restoring a favourite disables automatic weather/daylight so the saved atmosphere stays in place. Sound still requires opt-in. Clearing the favourite is available in the same dialog; failed writes are reported without falsely confirming a save.
 - **Sound balance** retains the nature and footsteps master levels and adds independent birdsong, wind, rain and water controls. Visible resting birds emit short HRTF-positioned calls. A spatial stream layer and roof patter use the same listener position and orientation. The original recorded woodland ambience remains quiet underneath. All layers respect mute, background pause and zero-volume preferences.
 - **The reading shelter** excludes falling rain beneath its actual roof footprint. Roof patter rises and wind softens as the visitor moves under cover; ambient rain stays audible outside. A small clearing makes the seated view readable. The reading nook has four optional original poems/observations, with no external content or personal notes.
@@ -106,7 +106,19 @@ for desktop, touch, sound, pebble appearance and Still-mode checks.
 **Just enjoy the garden** preserves guided walking and the two-minute break.
 Manual movement keys are released when entering clear view; seated and Still
 visits remain stationary. A visible hint before entry and a brief announcement
-explain that the walk continues. Tap anywhere or use **Show controls** to restore
-the interface while continuing the walk. Escape restores controls and pauses.
-Mouse movement leaves the view clear. The restoring tap/key is consumed so it
-cannot accidentally interact with the pond or trigger a walking control.
+explain the available controls. Hold the faint arrow pad or use keyboard arrows,
+W A S D and Q / E to move and turn while the screen stays clear. Manual movement
+takes over from a guided walk. The pad is hidden for seated and Still visits.
+Drag the scene to look around; tap elsewhere or use **Show controls** to restore
+the interface. Escape restores controls and pauses. A restoring background tap
+is consumed so it cannot accidentally interact with the pond.
+
+## Woodland lookout — local tower review
+
+The woodland lookout is a tenth destination on a plank spur from the far woodland path. The original looping route stays at ground level. A braced timber structure has four switchback stair flights, landings, guardrails and an eight-metre viewing deck with a partial roof. This stage contains the tower only; the zip line awaits design review.
+
+Choose **Woodland lookout** or its Map destination. Use the normal walking controls on the stairs or **Climb the stairs** for a guided ascent. **Pause**, Escape, manual movement and opening a dialog stop it; Climb the stairs resumes from the current landing or flight. **Go back down** follows the stairs in reverse. **View from the top** offers an instant visit. In Still mode both the top visit and return to the entrance are instant. Sitting is unavailable on the tower. **Just enjoy the garden** also leaves a guided stair journey running.
+
+Navigation follows a smooth height surface over the visible treads, so the camera does not bounce at each step. Height-aware support keeps overlapping flights separate and constrains walking inside the rails and around the upper stair opening. `garden/tests/lookout.test.mjs` checks continuous ascent/descent, floor selection, edges and the approach grade. Geometry is merged into a few meshes and uses existing local timber textures.
+
+Browser checks: `tools/browser-checks/garden-lookout.js` exercises the built scene, manual/guided stairs, pause, platform boundaries, clear-screen mode and Still navigation. `garden-lookout-mobile.js` verifies controls at narrow portrait and landscape sizes. The initial deck is among the treetops; its height and placement are review choices before any zip-line design.

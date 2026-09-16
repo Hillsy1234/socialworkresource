@@ -14,10 +14,11 @@ export const places=[
  {name:'The evening border',description:'Lanterns beside the path. A quiet way home.',t:.88,action:'Light the lanterns',note:'A little warmth along the way.',kind:'light'},
  {name:'The woodland trail',description:'A winding earth path under a canopy of trees.',t:0,action:'Listen to the woodland',note:'Leaves overhead. Birdsong between the branches.',kind:'trees'},
  {name:'The wildflower meadow',description:'Open sky, swaying grasses and butterflies.',t:0,action:'Pause in the meadow',note:'Let your gaze wander across the flowers.',kind:'flower'},
- {name:'The reading nook',description:'A timber shelter tucked into the woodland.',t:0,action:'Rest in the reading nook',note:'A quiet corner. Bring a thought, or simply sit.',kind:'bench'}
+ {name:'The reading nook',description:'A timber shelter tucked into the woodland.',t:0,action:'Rest in the reading nook',note:'A quiet corner. Bring a thought, or simply sit.',kind:'bench'},
+ {name:'The woodland lookout',description:'A timber tower among the trees. Take the stairs or visit the viewing deck.',t:0,action:'Visit the lookout',note:'A different view of the garden. Take your time.',kind:'lookout'}
 ];
 // Preserve the original stops by world position when the loop grows.
-const stopPositions=[[0,30],[-13.887,5.773],[4.748,-3.998],[7.354,-27.81],[-48,-42],[-18.888,18.604],[-54,-26],[-45,18],[-34,-41]];
+const stopPositions=[[0,30],[-13.887,5.773],[4.748,-3.998],[7.354,-27.81],[-48,-42],[-18.888,18.604],[-54,-26],[-45,18],[-34,-41],[-44.7,-35.4]];
 places.forEach((place,i)=>{place.t=nearestRoute(...stopPositions[i]).t;});
 export const SEASONS=['spring','summer','autumn','winter'];
 export function breakJourney(pace=1.3){const end=places[4].t;const speed=[.8,1.3,1.8].includes(pace)?pace:1.3;return {start:(end-speed*120/ROUTE_LENGTH+1)%1,end,speed,duration:120};}

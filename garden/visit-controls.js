@@ -1,28 +1,47 @@
 import {SOUND_LAYERS, NOOK_READINGS} from './immersion-state.mjs';
 import {places} from './walk-route.mjs';
 
-export function visitControls({saved, save, announce, stopWalking, getView, restore, onQuality, prepareQuiet, isGuided}) {
+export function visitControls({saved, save, announce, stopWalking, getView, restore, onQuality, prepareQuiet, isGuided, canMove}) {
   const $ = id => document.getElementById(id);
   let quiet = false, reading = 0;
+  const gestures = new Map();
   const surfaces = [document.querySelector('header'), $('walkHud'), $('bottomDock')];
   function showControls() {
     if (!quiet) return false;
-    quiet = false; document.body.classList.remove('quiet-view'); $('showControls').hidden = true;
+    quiet = false; gestures.clear(); document.body.classList.remove('quiet-view'); $('showControls').hidden = true;
     surfaces.forEach(node => { node.inert = false; node.removeAttribute('aria-hidden'); });
     $('quietButton').focus({preventScroll: true});
     return true;
   }
   $('quietButton').onclick = () => {
     prepareQuiet(); quiet = true;
-    announce(isGuided() ? 'Your walk continues. Tap to show controls. Esc shows controls and pauses.' : 'Controls hidden. Tap or press Esc to show them again.');
+    announce(canMove() ? `${isGuided() ? 'Your walk continues. ' : ''}Hold the arrows or use W A S D to walk. Drag to look. Tap elsewhere for controls; Esc also pauses.` : 'Controls hidden. Tap or press Esc to show them again.');
     for (const id of ['mapPanel', 'weatherPanel']) $(id).hidden = true;
     $('mapButton').setAttribute('aria-expanded', 'false'); $('weatherButton').setAttribute('aria-expanded', 'false');
     document.body.classList.add('quiet-view'); $('showControls').hidden = false; $('showControls').focus({preventScroll: true});
     surfaces.forEach(node => { node.inert = true; node.setAttribute('aria-hidden', 'true'); });
   };
   $('showControls').onclick = showControls;
-  document.addEventListener('pointerdown', event => { if (quiet) { showControls(); event.preventDefault(); event.stopImmediatePropagation(); } }, true);
-  document.addEventListener('keydown', event => { if (quiet) { showControls(); if(event.code==='Escape')stopWalking(); event.preventDefault(); event.stopImmediatePropagation(); } }, true);
+  // Movement buttons keep working. A background tap restores the panels;
+  // dragging the scene continues to use the normal look controls.
+  document.addEventListener('pointerdown', event => {
+    if (quiet && event.button === 0 && !event.target.closest('#quietWalk, #showControls'))
+      gestures.set(event.pointerId, {x: event.clientX, y: event.clientY, distance: 0});
+  }, true);
+  document.addEventListener('pointermove', event => {
+    const g = gestures.get(event.pointerId);
+    if (g) { g.distance += Math.abs(event.clientX-g.x)+Math.abs(event.clientY-g.y); g.x=event.clientX; g.y=event.clientY; }
+  }, true);
+  document.addEventListener('pointerup', event => {
+    const g = gestures.get(event.pointerId); gestures.delete(event.pointerId);
+    if (quiet && g && g.distance + Math.abs(event.clientX-g.x)+Math.abs(event.clientY-g.y) < 6) {
+      showControls(); event.preventDefault(); event.stopImmediatePropagation();
+    }
+  }, true);
+  document.addEventListener('pointercancel', event => gestures.delete(event.pointerId), true);
+  document.addEventListener('keydown', event => {
+    if (quiet && event.code === 'Escape') { showControls(); stopWalking(); event.preventDefault(); event.stopImmediatePropagation(); }
+  }, true);
   window.addEventListener('blur', showControls);
 
   function summary() {

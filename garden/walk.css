@@ -35,7 +35,7 @@ body{height:100dvh}
 .show-controls{position:fixed;bottom:max(20px,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);z-index:20;background:#193528c9;border:1px solid #e2e9d344;border-radius:24px;padding:12px 20px;min-height:44px;font-size:11px;color:#f0e6ce}
 .quiet-view header,.quiet-view #walkHud,.quiet-view #bottomDock,.quiet-view #reticle,.quiet-view .shade{opacity:0;visibility:hidden;pointer-events:none}
 .visit-actions{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}.secondary{border:1px solid #d9d4ae66;border-radius:6px;padding:12px 15px;min-height:44px;font-size:12px}.visit-field{display:grid;gap:10px;font-size:13px;margin-top:25px}.visit-field select{background:#294537;border:1px solid #d9d4ae66;border-radius:6px;padding:12px;max-width:100%}.reading-text{white-space:pre-line;font:21px/1.9 Georgia,serif!important}.reading-credit{font-size:10px!important;color:#b8c9b1!important}#readingDialog{background:#1a352df2}#daylightNote{font-size:9px}.walk-hud{max-height:calc(100dvh - 320px);overflow:auto;scrollbar-width:thin;overscroll-behavior:contain}
-@media(max-width:760px){.walk-hud{max-height:calc(100dvh - 380px)}.intro{max-height:calc(100dvh - 340px);overflow:auto;padding-bottom:10px}.intro #favouriteEntry{margin:4px 0}.show-controls{font-size:10px;bottom:18px}}
+@media(max-width:760px){.walk-hud{max-height:calc(100dvh - 400px)}.intro{max-height:calc(100dvh - 340px);overflow:auto;padding-bottom:10px}.intro #favouriteEntry{margin:4px 0}.show-controls{font-size:10px;bottom:18px}}
 @media(max-height:620px){.walk-hud{max-height:calc(100dvh - 220px)}.intro{max-height:calc(100dvh - 220px)}.intro #favouriteEntry{display:block;margin-left:0}.reading-text{font-size:18px!important}}
 
 .intro{overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}
@@ -66,3 +66,14 @@ body{height:100dvh}
 .garden-faq summary::marker{color:#d7c79d}.garden-faq summary:focus-visible{outline:2px solid #ffe3a7;outline-offset:2px;border-radius:4px}
 .garden-faq p{margin:0 4px 15px}.garden-faq strong{color:#f0e7cd}
 @media(max-width:480px){#helpDialog{padding:24px}#helpDialog h2{font-size:28px}.garden-faq summary{font-size:12px}}
+
+.at-lookout #lookoutButton{display:none}
+
+/* The small walking pad sits outside the hidden, inert settings dock. */
+.quiet-walk{display:none;position:fixed;left:max(18px,env(safe-area-inset-left));bottom:max(20px,env(safe-area-inset-bottom));z-index:20;user-select:none;touch-action:none}
+.quiet-view .quiet-walk{display:block}
+.quiet-walk .direction-pad{grid-template-columns:44px 44px 44px;grid-template-rows:44px 44px}
+.quiet-walk .direction-pad button{background:#19352966;border-color:#e2e9d344;color:#fff4d9}
+.quiet-walk .direction-pad button:hover,.quiet-walk .direction-pad button:active,.quiet-walk .direction-pad button:focus-visible{background:#274a39dc;border-color:#f2ddb5}
+.quiet-walk>span{display:block;font-size:9px;margin-top:8px;color:#e5e7d8;text-shadow:0 1px 4px #14221b}
+@media(max-width:760px){.quiet-view .show-controls{left:auto;right:12px;transform:none;max-width:calc(100% - 178px);padding:10px 12px;line-height:1.5}.quiet-walk>span{font-size:8px}}
