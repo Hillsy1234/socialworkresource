@@ -30,3 +30,39 @@ body{height:100dvh}
 @media(max-height:620px){.intro{top:76px}.intro h1{font-size:42px;margin:10px 0}.intro p{margin-bottom:8px}.entry-notes{display:none}.garden-experiences button{font-size:9px;padding:5px}.garden-experiences{margin-top:4px;padding-top:4px}.intro .woodland-entry{display:inline-block;margin-left:12px}.walk-hud{padding:12px 16px}}
 
 @media(max-height:620px){.walk-hud{max-height:calc(100dvh - 220px);overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}.walk-hud .garden-experiences{padding-bottom:8px}}
+
+/* Quiet viewing and the optional visit controls. */
+.show-controls{position:fixed;bottom:max(20px,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);z-index:20;background:#193528c9;border:1px solid #e2e9d344;border-radius:24px;padding:12px 20px;min-height:44px;font-size:11px;color:#f0e6ce}
+.quiet-view header,.quiet-view #walkHud,.quiet-view #bottomDock,.quiet-view #reticle,.quiet-view .shade{opacity:0;visibility:hidden;pointer-events:none}
+.visit-actions{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}.secondary{border:1px solid #d9d4ae66;border-radius:6px;padding:12px 15px;min-height:44px;font-size:12px}.visit-field{display:grid;gap:10px;font-size:13px;margin-top:25px}.visit-field select{background:#294537;border:1px solid #d9d4ae66;border-radius:6px;padding:12px;max-width:100%}.reading-text{white-space:pre-line;font:21px/1.9 Georgia,serif!important}.reading-credit{font-size:10px!important;color:#b8c9b1!important}#readingDialog{background:#1a352df2}#daylightNote{font-size:9px}.walk-hud{max-height:calc(100dvh - 320px);overflow:auto;scrollbar-width:thin;overscroll-behavior:contain}
+@media(max-width:760px){.walk-hud{max-height:calc(100dvh - 380px)}.intro{max-height:calc(100dvh - 340px);overflow:auto;padding-bottom:10px}.intro #favouriteEntry{margin:4px 0}.show-controls{font-size:10px;bottom:18px}}
+@media(max-height:620px){.walk-hud{max-height:calc(100dvh - 220px)}.intro{max-height:calc(100dvh - 220px)}.intro #favouriteEntry{display:block;margin-left:0}.reading-text{font-size:18px!important}}
+
+.intro{overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}
+#visitStatus{color:#f1d8a7;min-height:1.5em}
+
+/* Pebble controls stay in the existing dock and wrap on narrow screens. */
+#pebbleButton{margin:6px 0 0 6px;border-color:#e8d5ac99}
+#pebbleAim{padding:10px 0 0}#pebbleHint{font-size:11px;line-height:1.5;max-width:340px;margin:0 auto 8px;padding:6px 10px;border-radius:6px;background:#142b25e8}
+#pebbleAim button{font-size:11px;margin:3px;padding:10px 15px}#pebbleCancel{color:#d0dac4}
+.interaction:has(#pebbleAim:not([hidden]))>#interactButton,.interaction:has(#pebbleAim:not([hidden]))>#interactionDescription{display:none}
+@media(max-width:760px){#pebbleHint{font-size:9px}#pebbleButton{margin-left:0}#pebbleAim button{font-size:10px;padding:8px 10px}}
+
+.pebble-aiming #walkHud{visibility:hidden;pointer-events:none}
+.pebble-aiming .bottom-dock .touch-controls{display:none!important}
+.pebble-aiming .bottom-dock .bottom-actions{justify-content:center}
+.pebble-aiming .bottom-dock .interaction{max-width:min(440px,100%)}
+@media(max-width:760px){.pebble-aiming .toast{top:75px;bottom:auto}.pebble-aiming #pebbleHint{font-size:10px}.pebble-aiming #pebbleAim button{display:inline-block}}
+.pebble-aiming .bottom-dock .bottom-actions .interaction{max-width:min(440px,100%);width:100%}
+
+.walk-hud .quiet-hint{font-size:10px;line-height:1.6;color:#d8dfcb;max-width:none!important;margin:10px 0 0}
+@media(max-width:760px){.walk-hud .quiet-hint{font-size:9px}}
+@media(max-height:620px){.walk-hud .quiet-hint{display:block!important}}
+
+#helpDialog{max-width:560px}
+.garden-faq{margin:20px 0 24px}.garden-faq details{border-top:1px solid #d6dfbc44;padding:0 0 2px}
+.garden-faq details:last-child{border-bottom:1px solid #d6dfbc44}
+.garden-faq summary{cursor:pointer;font-size:13px;font-weight:600;line-height:1.6;padding:15px 4px;min-height:48px;color:#f0ddb5}
+.garden-faq summary::marker{color:#d7c79d}.garden-faq summary:focus-visible{outline:2px solid #ffe3a7;outline-offset:2px;border-radius:4px}
+.garden-faq p{margin:0 4px 15px}.garden-faq strong{color:#f0e7cd}
+@media(max-width:480px){#helpDialog{padding:24px}#helpDialog h2{font-size:28px}.garden-faq summary{font-size:12px}}

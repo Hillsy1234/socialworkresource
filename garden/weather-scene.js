@@ -1,11 +1,11 @@
 import * as T from 'three';
 // A small camera-centred rain volume, pond droplets and low translucent mist.
-export function weatherScene(scene,mobile){
+export function weatherScene(scene,mobile,shelter){
  const count=mobile?450:850,seeds=[],tips=[];
  let seed=58;const random=()=>{seed=seed*16807%2147483647;return(seed-1)/2147483646;};
  for(let i=0;i<count;i++){const x=(random()-.5)*38,y=random()*18,z=(random()-.5)*38;for(const tip of[0,1]){seeds.push(x,y,z);tips.push(tip);}}
  const rainGeo=new T.BufferGeometry();rainGeo.setAttribute('position',new T.Float32BufferAttribute(seeds,3));rainGeo.setAttribute('tip',new T.Float32BufferAttribute(tips,1));
- const rainMat=new T.ShaderMaterial({transparent:true,depthWrite:false,uniforms:{time:{value:0},amount:{value:0},tint:{value:new T.Color('#b9cdd0')}},vertexShader:`attribute float tip;uniform float time;varying float depth;void main(){vec3 p=position;p.y=mod(position.y-time*7.8,18.)+.28*tip;p.x+=.045*tip;vec4 mv=modelViewMatrix*vec4(p,1.);depth=-mv.z;gl_Position=projectionMatrix*mv;}`,fragmentShader:`uniform float amount;uniform vec3 tint;varying float depth;void main(){gl_FragColor=vec4(tint,amount*.34*(1.-smoothstep(8.,25.,depth)));}`});
+ const rainMat=new T.ShaderMaterial({transparent:true,depthWrite:false,uniforms:{roof:{value:new T.Vector4(shelter.x,shelter.z,shelter.halfX,shelter.halfZ)},roofY:{value:shelter.roofY},time:{value:0},amount:{value:0},tint:{value:new T.Color('#b9cdd0')}},vertexShader:`attribute float tip;uniform float time;varying float depth;varying vec3 world;void main(){vec3 p=position;p.y=mod(position.y-time*7.8,18.)+.28*tip;p.x+=.045*tip;world=(modelMatrix*vec4(p,1.)).xyz;vec4 mv=modelViewMatrix*vec4(p,1.);depth=-mv.z;gl_Position=projectionMatrix*mv;}`,fragmentShader:`uniform float amount;uniform vec3 tint;uniform vec4 roof;uniform float roofY;varying float depth;varying vec3 world;void main(){if(abs(world.x-roof.x)<roof.z && abs(world.z-roof.y)<roof.w && world.y<roofY+.22)discard;gl_FragColor=vec4(tint,amount*.34*(1.-smoothstep(8.,25.,depth)));}`});
  const rain=new T.LineSegments(rainGeo,rainMat);rain.frustumCulled=false;scene.add(rain);
  const ringGeo=new T.RingGeometry(.8,1,24);ringGeo.rotateX(-Math.PI/2);
  const ringMat=new T.ShaderMaterial({transparent:true,depthWrite:false,side:T.DoubleSide,uniforms:{time:{value:0},amount:{value:0}},vertexShader:`uniform float time;varying float age;void main(){age=fract(time*.9+instanceMatrix[3].x*.33+instanceMatrix[3].z*.47);vec3 p=position*(.015+age*.19);gl_Position=projectionMatrix*modelViewMatrix*instanceMatrix*vec4(p,1.);}`,fragmentShader:`uniform float amount;varying float age;void main(){gl_FragColor=vec4(.78,.86,.83,amount*.27*(1.-age));}`});
