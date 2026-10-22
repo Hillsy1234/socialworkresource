@@ -83,3 +83,8 @@ HIPAA applies to covered entities and business associates; Mental Hygiene Law se
 }
 
 DATA['mca']['sources'].append(S('FHCDA definitions', 'https://www.nysenate.gov/legislation/laws/PBH/2994-A'))
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['rights']['legal'] += '\n\nEnd-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.'
+DATA['rights']['editorialUpdatedAt'] = '2026-10-22'
+DATA['rights']['sources'].extend([{'title': 'NYSED: Medical Aid in Dying and professional guidance', 'url': 'https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State', 'category': 'policy'}])

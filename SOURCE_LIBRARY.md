@@ -1,6 +1,6 @@
 # Source Library
 
-Last checked: 24 July 2026.
+Baseline source check: 24 July 2026. Targeted additions: 22 October 2026. This date does not certify that all listed sources or every provision have been rechecked.
 
 Use this page to go back to primary or authoritative sources. For live cases, check current local policy and legal advice.
 
@@ -140,3 +140,19 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
 
 - BASW: Practice, policy, and professional resources  
   https://basw.co.uk/
+
+## Targeted legal update — 22 October 2026
+
+- [DfE: information sharing duty, operative from 30 September 2026](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people)
+- [MHA 2025: section 56, including February commencement](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS: supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
+- [MHA 1983: section 136 and excluded premises](https://www.legislation.gov.uk/ukpga/1983/20/section/136)
+- [TDB v Haringey](https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184) [2026] EWCA Civ 1184, 15 September — capacity and Care Act assessment.
+- [Re Direct Payments](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42) [2026] EWCOP 42 (T2), 10 September — specific deputy authority.
+- [Re BM](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48) [2026] EWCOP 48 (T2), 2 October — wishes, restrictions and liberty analysis.
+- [Re PK & MK](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52) [2026] EWCOP 52 (T2), 8 October — continuing safeguards.
+
+Tier 2 judgments are fact-specific learning illustrations, not binding appellate authority. Editorial updating is not independent practitioner review. Commencement, guidance updates and judgment dates are different events.
+
+
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026) — supervision exemption removed; apply the other statutory criteria.

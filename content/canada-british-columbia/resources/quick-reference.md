@@ -10,6 +10,8 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
 
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
+
 
 - Confirm the practitioner’s role, regulatory position and any specific statutory designation.
 - Explain the purpose of involvement, participation and confidentiality limits.
@@ -22,6 +24,7 @@ Distinguish a BCCSW professional complaint from a health-authority, service, pri
 
 - [BCCSW Standards and Scope of Practice](https://bccsw.ca/for-registrants/standards-scope-of-practice/)
 - [Social Workers Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01)
+- [BCCSW CPD requirements, 2025–2026 cycle](https://bccsw.ca/for-registrants/continuing-professional-development/)
 
 
 ## Social Care and Support — British Columbia
@@ -92,17 +95,22 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
 
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+
 
 - Identify the route and evidence for each applicable criterion, including voluntary alternatives.
 - Check certificates, dates, notices and renewal or review requirements.
 - Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.
 - Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+- Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 
 The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review.
 
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
+- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
 
 
 ## Adult Safeguarding — British Columbia

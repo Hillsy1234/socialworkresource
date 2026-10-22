@@ -42,12 +42,12 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Which distinction must be kept clear?
 
-The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 
 ### What are the key local actions?
 
-Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision. Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 
 ### How can the person participate or challenge the decision?

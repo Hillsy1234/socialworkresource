@@ -51,6 +51,7 @@ Northern Ireland Social Care Council (NISCC)
 
 - [Children (Northern Ireland) Order 1995](https://www.legislation.gov.uk/nisi/1995/755/contents)
 - [Co-operating to safeguard children and young people](https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland)
+- [Department of Health: disclosure and barring, September 2026 change](https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service)
 
 
 ### Rights, Culture and Recording — Northern Ireland
@@ -68,3 +69,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

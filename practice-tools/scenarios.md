@@ -131,3 +131,23 @@ Learning points:
 - Blanket restrictions require legal and ethical scrutiny.
 - Safeguarding, commissioning, CQC, provider action, police, MCA, and DoLS may all be relevant.
 
+## Additional case-law exercises — 22 October 2026
+
+### Capacity concerns during a Care Act assessment
+
+Fictional case: A person describes their preferred care plan fluently, but staff report difficulty understanding its consequences. The assessor proposes to rely on participation support without investigating capacity.
+
+- Which decision is capacity in doubt about?
+- What support and evidence are needed?
+- What does TDB require, and what does it not require?
+
+Discussion: Identify the decision relevant to needs, provide support and investigate the capacity doubt. TDB v Haringey [2026] EWCA Civ 1184 rejects using the presumption or section 67 support to avoid a necessary assessment. It does not mandate formal capacity assessment for everyone.
+
+### A deputy offers to manage direct payments
+
+Fictional case: A financial deputy offers to arrange care using direct payments and shows a standard property-and-affairs order.
+
+- Does the actual order cover these decisions?
+- Which payment scheme and alternative lawful arrangements apply?
+
+Discussion: Check specific authority rather than the deputy’s title. Re Direct Payments [2026] EWCOP 42 (T2) identifies welfare decisions within management of direct payments. Obtain advice on authority and the scheme; it does not mean everyone managing payments must become a deputy.

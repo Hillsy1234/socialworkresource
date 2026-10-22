@@ -14,7 +14,7 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 ### Which distinction must be kept clear?
 
-Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
 
 
 ### What are the key local actions?
@@ -126,12 +126,12 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 ### Which distinction must be kept clear?
 
-The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
 
 
 ### What are the key local actions?
 
-Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 
 ### How can the person participate or challenge the decision?

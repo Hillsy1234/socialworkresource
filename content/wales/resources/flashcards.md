@@ -98,7 +98,7 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 ### Which distinction must be kept clear?
 
-Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
 
 
 ### What are the key local actions?
@@ -126,7 +126,7 @@ Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced ame
 
 ### Which distinction must be kept clear?
 
-Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
 
 
 ### What are the key local actions?
@@ -154,7 +154,7 @@ Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an a
 
 ### Which distinction must be kept clear?
 
-A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
 
 
 ### What are the key local actions?
@@ -182,7 +182,7 @@ Welsh care and support, child protection and education duties need to be mapped 
 
 ### Which distinction must be kept clear?
 
-An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
 
 
 ### What are the key local actions?

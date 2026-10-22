@@ -182,12 +182,12 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 ### Which distinction must be kept clear?
 
-A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
 
 
 ### What are the key local actions?
 
-Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities. For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 
 ### How can the person participate or challenge the decision?

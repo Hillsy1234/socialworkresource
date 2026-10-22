@@ -81,3 +81,13 @@ The Freedom of Information and Protection of Privacy Act (FIPPA) generally conce
 'Assuming public-body and private-organisation privacy rules are interchangeable.',
 [S('BC Human Rights Code', 'https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96210_01'), S('Personal Information Protection Act', 'https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03063_01'), S('FIPPA', 'https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00')]),
 }
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['mha']['legal'] += '\n\nUrgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.'
+DATA['mha']['editorialUpdatedAt'] = '2026-10-22'
+DATA['mha']['sources'].extend([{'title': 'Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding', 'url': 'https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/', 'category': 'policy'}, {'title': '2026 BCSC 1416 judgment — access and current effect require verification', 'url': 'https://canlii.ca/t/kmcps', 'category': 'policy'}])
+DATA['mha']['steps'].append('Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.')
+
+DATA['foundations']['legal'] += '\n\nFor the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.'
+DATA['foundations']['sources'].append(S('BCCSW CPD requirements, 2025–2026 cycle', 'https://bccsw.ca/for-registrants/continuing-professional-development/', 'professional-standards'))
+DATA['foundations']['editorialUpdatedAt'] = '2026-10-22'

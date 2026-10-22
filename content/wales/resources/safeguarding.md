@@ -44,6 +44,8 @@ Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an a
 
 A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
 
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
 ### Decision pathway
 
 - Record evidence against the adult-at-risk elements and address immediate safety.
@@ -68,6 +70,9 @@ Common error to avoid: Using capacity as the only safeguarding threshold or trea
 - [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
 - [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
 - [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
 - [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

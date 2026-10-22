@@ -1,7 +1,7 @@
 {
   "id": "united-states-new-york",
   "label": "New York practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in New York: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
     "Current emergency-admission guidance includes essential-needs grounds. Apply the exact admission route and safeguards.",
@@ -52,7 +52,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/case-route-finder.md",
       "sourceCheckedAt": null,
-      "slug": "case-route-finder-new-york"
+      "slug": "case-route-finder-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -67,7 +68,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/flashcards.md",
       "sourceCheckedAt": null,
-      "slug": "learning-flashcards-new-york"
+      "slug": "learning-flashcards-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -82,7 +84,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/student-pathway.md",
       "sourceCheckedAt": null,
-      "slug": "student-and-newly-qualified-pathway-new-york-new-york"
+      "slug": "student-and-newly-qualified-pathway-new-york-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -97,7 +100,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/glossary.md",
       "sourceCheckedAt": null,
-      "slug": "practice-glossary-new-york"
+      "slug": "practice-glossary-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -270,7 +274,8 @@
       "path": "content/united-states-new-york/resources/rights.md",
       "sourceCheckedAt": null,
       "slug": "rights-culture-and-recording-new-york-new-york",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "quick-reference",
@@ -285,7 +290,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/quick-reference.md",
       "sourceCheckedAt": null,
-      "slug": "quick-reference-new-york"
+      "slug": "quick-reference-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -315,7 +321,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/printable-tools.md",
       "sourceCheckedAt": null,
-      "slug": "printable-tools-new-york"
+      "slug": "printable-tools-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -330,7 +337,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/scenarios.md",
       "sourceCheckedAt": null,
-      "slug": "practice-scenarios-new-york"
+      "slug": "practice-scenarios-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -345,7 +353,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-new-york/resources/sources.md",
       "sourceCheckedAt": null,
-      "slug": "source-library-new-york"
+      "slug": "source-library-new-york",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -732,7 +741,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing."
+          "answer": "End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers."
         },
         {
           "prompt": "What are the key local actions?",
@@ -1653,7 +1662,7 @@
       "title": "Rights, Culture and Recording",
       "fileName": "united-states-new-york-rights-prompt.txt",
       "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
-      "body": "Rights, Culture and Recording\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nFederal civil-rights and disability law, New York Human Rights Law and sector-specific patient rights apply according to the service and decision. Identify the responsible body and the actual access barrier or restriction rather than assuming every complaint uses the same route.\n\nHIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.\n\nLocal pathway:\nIdentify the organisation, record and state or federal privacy provisions involved.\nArrange accessible communication, interpretation and culturally responsive participation.\nCheck the legal basis, purpose and scope of disclosure, including any special rules for proceedings.\nExplain records access, correction, complaints and the applicable patient-rights or legal review route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nA privacy complaint, professional complaint and mental-hygiene rights challenge address different questions. A request from police, a lawyer or another service does not itself establish authority to release a whole record. Obtain the relevant advice and document the decision.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/MHY/33.13\nhttps://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html\nhttps://www.hhs.gov/hipaa/part-2/index.html\n"
+      "body": "Rights, Culture and Recording\nNew York practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nFederal civil-rights and disability law, New York Human Rights Law and sector-specific patient rights apply according to the service and decision. Identify the responsible body and the actual access barrier or restriction rather than assuming every complaint uses the same route.\n\nHIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.\n\nEnd-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.\n\nLocal pathway:\nIdentify the organisation, record and state or federal privacy provisions involved.\nArrange accessible communication, interpretation and culturally responsive participation.\nCheck the legal basis, purpose and scope of disclosure, including any special rules for proceedings.\nExplain records access, correction, complaints and the applicable patient-rights or legal review route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nA privacy complaint, professional complaint and mental-hygiene rights challenge address different questions. A request from police, a lawyer or another service does not itself establish authority to release a whole record. Obtain the relevant advice and document the decision.\n\nSources:\nhttps://www.nysenate.gov/legislation/laws/MHY/33.13\nhttps://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html\nhttps://www.hhs.gov/hipaa/part-2/index.html\nhttps://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State\n"
     },
     {
       "id": "supervision",

@@ -4,7 +4,7 @@
 
 The Mental Health Act 1983, as amended, provides powers for compulsory assessment, detention, treatment, guardianship, community treatment, and forensic mental health pathways in England and Wales.
 
-The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act. Implementation is phased: the first commencement order brought sections 51 and 52 into force on 6 April 2026, while most reforms are not yet in force. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
+The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act. Implementation is phased. Section 56(1) commenced sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 on 18 February 2026. Sections 51 and 52 followed on 6 April 2026; sections 53–57 commenced at Royal Assent. This does not mean the wider reforms are all operational. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
 
 ## Core Principles in Practice
 
@@ -65,7 +65,7 @@ These are not community powers and do not authorise treatment in themselves.
 Police powers connected to places of safety:
 
 - Section 135 requires a warrant to enter premises.
-- Section 136 applies where a person appears to have mental disorder and immediate care or control is needed in a public place.
+- Section 136 is not limited to public places. Subject to its other criteria, it applies outside the private residential premises excluded by section 136(1A), including the specified associated premises. Check the exact statutory exclusions rather than assuming all privately owned places are excluded. [Section 136](https://www.legislation.gov.uk/ukpga/1983/20/section/136).
 
 Always consider trauma, proportionality, health-based places of safety, and least restrictive conveyance.
 
@@ -95,7 +95,13 @@ Key AMHP tasks:
 
 ## Mental Health Act 2025 Reform Watch
 
-As at 24 July 2026, do not apply the wider 2025 reforms unless the relevant provision has been commenced and reflected in current guidance, local policy, and forms.
+Targeted commencement update: 22 October 2026. Establish whether each provision is legally in force, then check applicable guidance, forms and local implementation. Local policy does not determine when legislation commences.
+
+### Commenced supervised-discharge provisions
+
+The February changes include a route for relevant restricted patients to be conditionally discharged with deprivation-of-liberty conditions where the statutory criteria are satisfied. HMPPS guidance explains applications through the Secretary of State for Justice. This is a distinct MHA route; do not treat every community restriction as a DoLS or Court of Protection case. Obtain specialist advice on eligibility, conditions and safeguards.
+
+Sources: [Section 56 commencement](https://www.legislation.gov.uk/ukpga/2025/33/section/56); [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance).
 
 The 2025 Act aims to:
 
@@ -132,7 +138,9 @@ Use MCA for decision-specific capacity and best interests matters outside MHA tr
 - care planning
 - advance decisions outside overridden MHA treatment provisions
 
-The MCA cannot authorise detention for treatment of mental disorder.
+Ordinary MCA care and treatment powers do not themselves authorise deprivation of liberty. Where the person lacks capacity, a separate DoLS or Court of Protection authorisation may be available, subject to section 4A and Schedule 1A eligibility. This can include psychiatric care for a non-objecting person when the statutory criteria are met; non-objection alone does not establish eligibility. Section 28 limits MCA authority for treatment regulated by Part IV of the MHA. DoLS authorises deprivation of liberty, not treatment itself. Consider an MHA assessment where appropriate and obtain specialist advice on the actual admission, treatment, objections and legal status.
+
+Sources: [MCA sections 4A and 28 and Schedules A1/1A](https://www.legislation.gov.uk/ukpga/2005/9/contents). Check commencement annotations: prospective amendments are not necessarily operative.
 
 ## MHA and DoLS Interface
 
@@ -199,3 +207,5 @@ Aftercare or follow-up:
 - Not recording why less restrictive options were insufficient.
 - Using MCA/DoLS to avoid MHA where the person is objecting to mental health treatment.
 - Ignoring racial disparity, cultural context, and mistrust of services.
+
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.

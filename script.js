@@ -1,6 +1,6 @@
 // Country content and tool data are loaded from the same manifests used by static pages.
 const resources = [];
-const contentVersion = "37";
+const contentVersion = "40";
 let featuredIds = [], routeQuestions = [], routeDetails = {}, flashcardDecks = [], glossaryTerms = [];
 let theoryLenses = [], hypothesisSignals = [], childPracticeModels = [], childModelSignals = [];
 let scenarioWorkouts = [], printableTemplates = [], studentPathwaySteps = [];
@@ -394,6 +394,7 @@ function renderActiveResource(documentData) {
 }
 
 function sourceStatusFor(documentData) {
+  if (documentData.editorialUpdatedAt === "2026-10-22") return { label: "Targeted legal update", text: "Selected corrections and case-law additions: 22 October 2026. See the lesson and Source Library for scope, sources and outstanding verification. This is not a full independent practitioner review." };
   const names = { wales: "Wales", scotland: "Scotland", "northern-ireland": "Northern Ireland", ireland: "Ireland", "new-zealand": "Aotearoa New Zealand", "australia-nsw": "New South Wales", "australia-victoria": "Victoria", "canada-ontario": "Ontario", "canada-british-columbia": "British Columbia", "united-states-california": "California", "united-states-new-york": "New York" };
   if (activeJurisdiction !== "england" && names[activeJurisdiction]) return { label: `${names[activeJurisdiction]} practice guide`, text: "Final learning guide · See the Source Library for references and review information. Check the applicable official guidance for live work." };
   if (documentData.group === "Website") {

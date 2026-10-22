@@ -126,7 +126,7 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 ### Which distinction must be kept clear?
 
-Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
 
 
 ### What are the key local actions?

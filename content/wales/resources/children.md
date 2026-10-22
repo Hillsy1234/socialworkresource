@@ -46,6 +46,10 @@ Welsh care and support, child protection and education duties need to be mapped 
 
 An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
 
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
+
 ### Decision pathway
 
 - Identify the child’s support and protection needs and the relevant Welsh statutory route.
@@ -70,8 +74,12 @@ Common error to avoid: Treating an education plan as a substitute for care asses
 - [ALN and Education Tribunal (Wales) Act 2018](https://www.legislation.gov.uk/anaw/2018/2/contents)
 - [ALN decision-making and communication guidance](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html)
 - [Example IDP standard form, June 2026](https://www.gov.wales/individual-development-plan-idp-example-standard-form)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026)
 - [Welsh statutory guidance](https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance)
 - [Wales Safeguarding Procedures](https://safeguarding.wales/)
 - [ALN Code and official IDP examples](https://www.gov.wales/additional-learning-needs-code)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

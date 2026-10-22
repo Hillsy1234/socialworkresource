@@ -53,6 +53,7 @@ Scottish Social Services Council (SSSC)
 - [GIRFEC framework](https://www.gov.scot/policies/girfec/)
 - [Children (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/36/contents)
 - [Children’s Hearings (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/1/contents)
+- [Scottish children’s reform: first commencement schedule](https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf)
 
 
 ### Rights, Culture and Recording — Scotland
@@ -70,3 +71,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

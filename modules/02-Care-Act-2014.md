@@ -182,6 +182,12 @@ The MCA tells you whether the person can make a specific decision, and what to d
 
 Do not use a Care Act assessment to shortcut a capacity assessment. Do not use a capacity assessment to avoid Care Act duties.
 
+## Case-law update: capacity and direct payments
+
+In [TDB v Haringey](https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184) [2026] EWCA Civ 1184 (15 September 2026, paragraphs 103–107), the Court of Appeal found that capacity needed assessment before completion of the particular Care Act assessment. Where decision-specific capacity relevant to needs is in doubt, the presumption of capacity and section 67 participation support are not reasons to avoid assessing it. This is not a requirement for a formal capacity assessment before every needs assessment.
+
+[Re Direct Payments](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42) [2026] EWCOP 42 (T2) (10 September 2026) distinguishes managing direct payments from general property-and-affairs administration: welfare decisions are involved. Check specific deputy authority and the scheme; do not infer it from a standard financial deputyship order. A person may have another lawful route to managing payments outside deputyship. This Tier 2 decision is a practice illustration, not binding appellate authority.
+
 ## Practice Prompts
 
 - What matters to the person, not just what is the matter with them?
@@ -201,3 +207,5 @@ Do not use a Care Act assessment to shortcut a capacity assessment. Do not use a
 - Treating information and advice as a substitute for meeting eligible needs.
 - Failing to record how wellbeing is affected.
 - Not considering advocacy early enough.
+
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.

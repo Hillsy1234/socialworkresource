@@ -182,7 +182,7 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 ### Which distinction must be kept clear?
 
-Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
 
 ### What are the key local actions?

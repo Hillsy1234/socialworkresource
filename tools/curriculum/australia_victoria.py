@@ -66,3 +66,9 @@ The Equal Opportunity Act 2010, Health Records Act 2001 and Privacy and Data Pro
 })
 
 DATA['mca']['sources'].append(S('Patient capacity to consent', 'https://www.publicadvocate.vic.gov.au/medical-treatment/patient-consent/patient-capacity-to-consent'))
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['care-support']['legal'] += '\n\nFrom 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.'
+DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'
+DATA['care-support']['sources'].extend([{'title': 'My Aged Care: costs and Support at Home personal care', 'url': 'https://www.myagedcare.gov.au/how-do-aged-care-costs-work', 'category': 'policy'}])
+DATA['care-support']['steps'].append('Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.')

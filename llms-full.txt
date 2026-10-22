@@ -5,12 +5,12 @@ Keep country-specific material separate. Check current official sources for live
 # Start Here — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/start-here.html
 
 # Ultimate Social Worker Resource
 
-England-focused adult social work learning pack, last checked on 24 July 2026.
+England-focused adult social work learning pack. Baseline content check: 24 July 2026. Targeted legal corrections and case-law additions: 22 October 2026; this is not a complete re-review of every topic or source.
 
 This folder is a structured learning resource for social workers, students, ASYEs, AMHP-adjacent practitioners, best interests assessors, safeguarding practitioners, care coordinators, and managers who need a clear working map of the major law and practice frameworks.
 
@@ -53,10 +53,12 @@ The following points need special attention because they are recent or easily mi
 - The Care and Support Statutory Guidance was updated on 22 July 2025 and is under review because some parts are out of date following Health and Care Act 2022 changes.
 - On 2 June 2026, the UK Supreme Court changed the legal approach to identifying deprivation of liberty. DHSC published an update on 15 June 2026. The old Cheshire West "acid test" is no longer the single test; practitioners must use a multifactorial assessment.
 - DoLS still applies in hospitals and care homes when there is reason to believe Article 5 may be engaged. Court authorisation still applies for community settings and children where needed.
-- The Mental Health Act 2025 received Royal Assent on 18 December 2025. Sections 51 and 52 came into force on 6 April 2026, but most reforms remain uncommenced. Practitioners must check which provisions are in force and follow the current Code of Practice and local policy.
+- The Mental Health Act 2025 has phased commencement: section 56(1) provisions took effect on 18 February 2026, including supervised-discharge changes; sections 51 and 52 followed on 6 April. Check each provision, not just commencement orders.
 - Working Together to Safeguard Children was updated on 18 March 2026. Use it alongside the Children’s Social Care National Framework 2026, particularly for Family Help, information sharing, anti-discriminatory practice, and whole-family work.
 - The Children’s Wellbeing and Schools Act 2026 is being implemented in stages. Check commencement and local guidance before treating its reform-related duties as operational.
-- Keeping Children Safe in Education 2025 remains in force until 31 August 2026; the 2026 version comes into force on 1 September 2026.
+- Keeping Children Safe in Education 2026 has been in force since 1 September 2026.
+- The English children’s information-sharing duty under section 16LA took effect on 30 September 2026. Use the final DfE statutory guidance.
+- September/October case notes cover TDB v Haringey, Re Direct Payments, Re BM and Re PK & MK. Read each with its jurisdiction, court level and limits in the relevant module.
 
 ## Core Practice Formula
 
@@ -84,7 +86,7 @@ Then review the generated `learning/` pages, `llms.txt`, `llms-full.txt`, `answe
 # Learning Map — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/learning-map.html
 
 # Learning Map
@@ -244,7 +246,7 @@ Use this when stuck:
 # Case Route Finder — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/case-route-finder.html
 
 # Case Route Finder
@@ -271,6 +273,17 @@ The route finder is designed to help practitioners, students, ASYEs, supervisors
 - Is compulsion for mental health assessment or treatment being considered?
 - What is the least restrictive lawful plan?
 
+## Targeted legal checks — 22 October 2026
+
+- Care Act/MCA: investigate relevant decision-specific capacity doubts; participation support does not replace a necessary assessment (TDB). Do not require formal capacity assessment in every case.
+- Direct payments: inspect the deputy’s specific authority and applicable scheme (Re Direct Payments, Tier 2).
+- Liberty: assess objective restrictions, then the separate Article 5 consent question. Record continuing Article 8/MCA/care-planning safeguards if Article 5 is not engaged. Contentment is not automatically valid consent (Re BM; Re PK & MK, both Tier 2).
+- MHA: check the February 2026 section 56(1) commencement as well as April sections 51/52; relevant restricted patients may use the supervised-discharge route under its statutory criteria.
+- Section 136: not confined to public places; check the excluded private residential premises in section 136(1A).
+- MCA/MHA interface: ordinary MCA powers are not liberty authorisation. Check sections 4A/28 and Schedule 1A eligibility; DoLS does not authorise treatment.
+- England children: KCSIE 2026 applies from 1 September; section 16LA information-sharing duty from 30 September. Check the duty’s scope and safeguards.
+
+See the relevant modules and Source Library for primary sources, jurisdiction, court level and limits. These are targeted updates, not a complete re-review.
 
 
 ## Route questions
@@ -328,7 +341,7 @@ Use professional curiosity, supervision, evidence, strengths, anti-oppressive pr
 # Learning Flashcards — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/learning-flashcards.html
 
 # Learning Flashcards
@@ -346,6 +359,10 @@ The cards are grouped by module. Choose a module, read the prompt, then flip the
 - Use the cards as prompts for case discussion, not as legal advice.
 
 These flashcards summarise learning points from the resource. For live cases, always check current law, statutory guidance, local policy, legal advice, and supervision.
+
+## Targeted revision — 22 October 2026
+
+The interactive decks now include the September safeguarding changes, MHA commencement, capacity concerns in TDB, direct-payment deputy authority and the October liberty cases. Read the linked modules and Source Library for judgment status and limits.
 
 
 ## Revision cards
@@ -386,13 +403,13 @@ Needs arise from or relate to impairment or illness, the adult cannot achieve sp
 
 When the person would have substantial difficulty being involved and there is no appropriate person to support their involvement.
 
-### Care Act 2014: What should a Care Act plan make clear?
+### Care Act 2014: What do TDB and Re Direct Payments add to care planning?
 
-Eligible needs, outcomes, support, personal budget where relevant, contingency, risk management, review arrangements, and how wellbeing is promoted.
+Investigate decision-specific capacity doubts relevant to needs (TDB v Haringey [2026] EWCA Civ 1184); participation support does not replace that assessment. Verify specific deputy authority for managing direct payments (Re Direct Payments [2026] EWCOP 42 (T2)); a standard financial order is insufficient. The latter is a Tier 2 illustration, not binding appellate authority.
 
 ### Mental Capacity Act 2005: What is the starting presumption under the MCA?
 
-A person is presumed to have capacity unless it is established that they lack capacity for the specific decision at the specific time.
+A person is presumed to have capacity unless it is established that they lack capacity for the specific decision at the specific time. TDB v Haringey confirms that the presumption is not a reason to avoid assessment where relevant capacity is in doubt; it does not require formal assessment in every case.
 
 ### Mental Capacity Act 2005: What must be done before concluding a person lacks capacity?
 
@@ -426,9 +443,9 @@ Because Article 5 protects liberty. Restrictions, consent, capacity, objection, 
 
 For community deprivation of liberty, serious disputes, complex best interests decisions, or situations outside ordinary DoLS authorisation.
 
-### DoLS and Deprivation of Liberty: Why should practitioners check current deprivation of liberty law?
+### DoLS and Deprivation of Liberty: What do the October 2026 liberty cases illustrate?
 
-Because the legal approach changed in 2026. Practitioners must follow current law, statutory updates, local policy, and legal advice.
+Re BM [2026] EWCOP 48 (T2) distinguishes contentment with life from a meaningful view of restrictions. Re PK & MK [2026] EWCOP 52 (T2) considers continuing safeguards when Article 5 is not engaged. Both are fact-specific Tier 2 illustrations, not universal rules.
 
 ### Mental Health Act: What is the broad purpose of the Mental Health Act?
 
@@ -438,17 +455,17 @@ To provide a legal framework for compulsory assessment or treatment of mental di
 
 Independent social perspective, least restrictive analysis, rights focus, family and community context, risk analysis, and scrutiny of alternatives.
 
-### Mental Health Act: Why is the MHA and MCA interface important?
+### Mental Health Act: How should the MCA/MHA interface be checked?
 
-Because practitioners must choose the correct legal route for mental disorder treatment, care, capacity, objection, deprivation of liberty, and safeguards.
+Ordinary MCA powers do not authorise deprivation of liberty. Check separate DoLS or court authority, section 4A, Schedule 1A eligibility and section 28 treatment limits. Non-objection alone does not establish eligibility, and DoLS does not authorise treatment.
 
 ### Mental Health Act: What is Section 117 aftercare?
 
 A joint duty to provide aftercare for eligible people detained under qualifying MHA sections, linked to needs arising from mental disorder.
 
-### Mental Health Act: Why must practitioners check MHA reform updates?
+### Mental Health Act: Which MHA 2025 commencement dates must not be missed?
 
-Because the Mental Health Act 2025 is implemented in phases, so practitioners must check what is currently in force.
+Section 56(1) provisions commenced on 18 February 2026, including supervised-discharge changes for relevant restricted patients. Sections 51 and 52 followed on 6 April. Check each provision; these dates do not make every reform operative.
 
 ### Safeguarding Adults: What are the three Section 42 enquiry trigger questions?
 
@@ -486,17 +503,17 @@ The caring role, impact on wellbeing and education, hidden responsibilities, fam
 
 The young person falling between services because eligibility, responsibility, timing, or information-sharing is unclear.
 
-### Children, Families, and Transitions: Why does safeguarding children knowledge matter in adult practice?
+### Children, Families, and Transitions: Which September 2026 safeguarding changes are now operative in England?
 
-Adult needs, mental health, domestic abuse, substance use, disability, or care pressures may affect children and family safety.
+KCSIE 2026 replaced the previous edition on 1 September. The section 16LA children’s information-sharing duty took effect on 30 September: use the final DfE guidance and check its scope, conditions and data-protection safeguards.
 
 ### Equality, Human Rights, and Recording: What is the purpose of reasonable adjustments?
 
 To remove or reduce disadvantage for disabled people so they can access assessment, communication, services, decisions, and participation fairly.
 
-### Equality, Human Rights, and Recording: Why should human rights analysis be explicit?
+### Equality, Human Rights, and Recording: Do safeguards end when Article 5 is not engaged?
 
-Because decisions may affect liberty, private and family life, dignity, discrimination, safety, and fair process.
+No. Article 8, MCA and Care Act duties can still require participation, lawful best-interests decisions, proportionate restrictions, advocacy where eligible, review and safeguarding. Re PK & MK is a fact-specific illustration, not a universal requirement for ongoing court supervision.
 
 ### Equality, Human Rights, and Recording: What does proportionate recording mean?
 
@@ -515,7 +532,7 @@ It helps identify barriers, discrimination, communication needs, cultural contex
 # Student and ASYE Pathway — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/student-and-asye-pathway.html
 
 # Student and ASYE Pathway
@@ -533,6 +550,9 @@ Work through one step at a time. After each section, write a short reflection:
 - What would I ask in supervision?
 - What would I check before using this in a live case?
 
+## October 2026 case-law exercise
+
+Compare TDB v Haringey with the two new scenarios. Explain when a capacity assessment is needed, why section 67 participation support is different, and why a deputy’s actual order matters. Then use Re BM and Re PK & MK to explain why contentment and absence of Article 5 do not end the safeguards analysis. Read the full case notes and their court-level limitations.
 
 
 ## Pathway activities
@@ -547,7 +567,7 @@ Map needs, outcomes, eligibility, advocacy, carer position, and review in one mo
 
 ### Practise Decision-Specific Capacity
 
-Write one capacity assessment and identify what support was provided first.
+Write one capacity assessment and identify what support was provided first. Apply the TDB example and explain why not every needs assessment requires a formal capacity assessment.
 
 ### Understand Liberty and Restriction
 
@@ -574,7 +594,7 @@ Record equality, human rights, proportionality, rationale, and review.
 # Practice Glossary — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/practice-glossary.html
 
 # Practice Glossary
@@ -750,7 +770,7 @@ A broad Care Act concept covering dignity, physical and mental health, protectio
 # Theory Into Practice — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/theory-into-practice.html
 
 # Theory Into Practice
@@ -1040,7 +1060,7 @@ Hypothesis: The person may benefit from breaking an overwhelming issue into conc
 # Children and Family Practice Models — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/children-and-family-practice-models.html
 
 # Children and Family Practice Models
@@ -1335,7 +1355,7 @@ Repair, accountability, family meetings, school relationships, conflict, shame, 
 # CPD and Reflection Log — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/cpd-and-reflection-log.html
 
 # CPD and Reflection Log
@@ -1382,7 +1402,7 @@ Useful prompts:
 # Professional Foundations — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/professional-foundations.html
 
 # 01 - Professional Foundations
@@ -1521,7 +1541,7 @@ Take a case you know well and write a 10-line analysis:
 # Care Act 2014 — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/care-act-2014.html
 
 # 02 - Care Act 2014
@@ -1708,6 +1728,12 @@ The MCA tells you whether the person can make a specific decision, and what to d
 
 Do not use a Care Act assessment to shortcut a capacity assessment. Do not use a capacity assessment to avoid Care Act duties.
 
+## Case-law update: capacity and direct payments
+
+In [TDB v Haringey](https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184) [2026] EWCA Civ 1184 (15 September 2026, paragraphs 103–107), the Court of Appeal found that capacity needed assessment before completion of the particular Care Act assessment. Where decision-specific capacity relevant to needs is in doubt, the presumption of capacity and section 67 participation support are not reasons to avoid assessing it. This is not a requirement for a formal capacity assessment before every needs assessment.
+
+[Re Direct Payments](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42) [2026] EWCOP 42 (T2) (10 September 2026) distinguishes managing direct payments from general property-and-affairs administration: welfare decisions are involved. Check specific deputy authority and the scheme; do not infer it from a standard financial deputyship order. A person may have another lawful route to managing payments outside deputyship. This Tier 2 decision is a practice illustration, not binding appellate authority.
+
 ## Practice Prompts
 
 - What matters to the person, not just what is the matter with them?
@@ -1728,13 +1754,15 @@ Do not use a Care Act assessment to shortcut a capacity assessment. Do not use a
 - Failing to record how wellbeing is affected.
 - Not considering advocacy early enough.
 
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
+
 
 ---
 
 # Mental Capacity Act 2005 — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/mental-capacity-act-2005.html
 
 # 03 - Mental Capacity Act 2005
@@ -1907,9 +1935,17 @@ If restrictions may amount to deprivation of liberty, consider DoLS or Court aut
 
 ## MCA and Mental Health Act
 
-The MCA cannot be used to detain a person for treatment of mental disorder. If detention for mental health assessment or treatment may be required, consider Mental Health Act assessment.
+Ordinary MCA care and treatment powers do not themselves authorise deprivation of liberty. Where the person lacks capacity, a separate DoLS or Court of Protection authorisation may be available, subject to section 4A and Schedule 1A eligibility. This can include psychiatric care for a non-objecting person when the statutory criteria are met; non-objection alone does not establish eligibility. Section 28 limits MCA authority for treatment regulated by Part IV of the MHA. DoLS authorises deprivation of liberty, not treatment itself. Consider an MHA assessment where appropriate and obtain specialist advice on the actual admission, treatment, objections and legal status.
+
+Sources: [MCA sections 4A and 28 and Schedules A1/1A](https://www.legislation.gov.uk/ukpga/2005/9/contents). Check commencement annotations: prospective amendments are not necessarily operative.
 
 For a person detained under the Mental Health Act, MCA may still apply to decisions outside treatment for mental disorder, such as physical healthcare, accommodation after discharge, finances, or contact.
+
+## Recent case-law learning
+
+[TDB v Haringey](https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184) [2026] EWCA Civ 1184 requires attention to decision-specific capacity where relevant doubts arise during care assessment. Participation support does not settle capacity. See the Care Act module for the case and [Re Direct Payments](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42) [2026] EWCOP 42 (T2) on the need to check specific deputy authority when managing direct payments.
+
+Learning example: a person can describe a preferred care plan, but staff report difficulties understanding its consequences. Provide support, identify the precise decision and investigate the evidence; do not treat fluent conversation or the presumption of capacity as the completed assessment.
 
 ## Common Pitfalls
 
@@ -1922,6 +1958,7 @@ For a person detained under the Mental Health Act, MCA may still apply to decisi
 - Writing best interests without options analysis.
 - Forgetting less restrictive alternatives.
 
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
 
 
 ---
@@ -1929,7 +1966,7 @@ For a person detained under the Mental Health Act, MCA may still apply to decisi
 # DoLS and Deprivation of Liberty — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/dols-and-deprivation-of-liberty.html
 
 # 04 - DoLS and Deprivation of Liberty
@@ -1938,7 +1975,7 @@ Source: https://social-work-resource.netlify.app/learning/dols-and-deprivation-o
 
 This module explains Deprivation of Liberty Safeguards, Court of Protection authorisation, and the changed legal position following the UK Supreme Court judgment on 2 June 2026.
 
-## Current Position: July 2026
+## Current Position: targeted update 22 October 2026
 
 On 2 June 2026, the UK Supreme Court handed down judgment in `[2026] UKSC 16`, changing the approach to what counts as deprivation of liberty. DHSC published an update on 15 June 2026.
 
@@ -1962,7 +1999,7 @@ continuous supervision and control + not free to leave = deprivation of liberty
 
 That is no longer enough on its own.
 
-The current approach looks at the person's specific situation and considers multiple factors, including:
+First assess the objective restrictions in the person's specific situation. Then consider the distinct question of valid consent for Article 5 purposes; domestic MCA decision-making capacity does not alone settle that question. The multifactorial assessment includes:
 
 - type of restrictions
 - duration of restrictions
@@ -1973,7 +2010,8 @@ The current approach looks at the person's specific situation and considers mult
 - relative normality of arrangements in the setting
 - purpose of the restrictions, such as care and protection rather than punishment or coercion
 - the person's wishes and feelings
-- whether the person can validly consent through expression of wishes and feelings
+
+After that evaluation, separately record whether the person can validly consent for Article 5 purposes through their wishes and feelings. Mere compliance is not enough.
 
 No single factor decides the answer.
 
@@ -2087,6 +2125,14 @@ Consider the Mental Health Act where:
 
 This interface is complex. Use AMHP advice, legal advice, and local policy.
 
+## Later guidance and case illustrations
+
+DHSC updated its [liberty guidance](https://www.gov.uk/government/publications/changes-to-the-definition-of-deprivation-of-liberty) on 22 September 2026 to add e-learning links. The change log does not announce another legal test.
+
+[Re BM](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48) [2026] EWCOP 48 (T2) (2 October 2026) distinguishes contentment with everyday life from evidence of understanding or expressing a meaningful view about restrictions. [Re PK & MK](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52) [2026] EWCOP 52 (T2) (8 October 2026) considers continuing Article 8, MCA and care-planning safeguards when Article 5 is not engaged. Both are fact-specific Tier 2 illustrations, not binding appellate rules. Do not infer consent from happiness or end all safeguards because DoLS is unnecessary.
+
+For relevant restricted patients, also check the separate [MHA supervised-discharge route](https://www.gov.uk/government/publications/supervised-discharge-guidance), following changes effective from 18 February 2026. Community restrictions do not all use the same authorisation route.
+
 ## Screening Note Template
 
 ```text
@@ -2115,13 +2161,15 @@ Review date:
 - Treating authorisation as permission to stop thinking about least restriction.
 - Failing to record the person's wishes and feelings in detail.
 
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
+
 
 ---
 
 # Mental Health Act — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/mental-health-act.html
 
 # 05 - Mental Health Act
@@ -2130,7 +2178,7 @@ Source: https://social-work-resource.netlify.app/learning/mental-health-act.html
 
 The Mental Health Act 1983, as amended, provides powers for compulsory assessment, detention, treatment, guardianship, community treatment, and forensic mental health pathways in England and Wales.
 
-The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act. Implementation is phased: the first commencement order brought sections 51 and 52 into force on 6 April 2026, while most reforms are not yet in force. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
+The Mental Health Act 2025 received Royal Assent on 18 December 2025 and reforms the 1983 Act. Implementation is phased. Section 56(1) commenced sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 on 18 February 2026. Sections 51 and 52 followed on 6 April 2026; sections 53–57 commenced at Royal Assent. This does not mean the wider reforms are all operational. Always check commencement, the current Code of Practice, local AMHP guidance, and legal advice.
 
 ## Core Principles in Practice
 
@@ -2191,7 +2239,7 @@ These are not community powers and do not authorise treatment in themselves.
 Police powers connected to places of safety:
 
 - Section 135 requires a warrant to enter premises.
-- Section 136 applies where a person appears to have mental disorder and immediate care or control is needed in a public place.
+- Section 136 is not limited to public places. Subject to its other criteria, it applies outside the private residential premises excluded by section 136(1A), including the specified associated premises. Check the exact statutory exclusions rather than assuming all privately owned places are excluded. [Section 136](https://www.legislation.gov.uk/ukpga/1983/20/section/136).
 
 Always consider trauma, proportionality, health-based places of safety, and least restrictive conveyance.
 
@@ -2221,7 +2269,13 @@ Key AMHP tasks:
 
 ## Mental Health Act 2025 Reform Watch
 
-As at 24 July 2026, do not apply the wider 2025 reforms unless the relevant provision has been commenced and reflected in current guidance, local policy, and forms.
+Targeted commencement update: 22 October 2026. Establish whether each provision is legally in force, then check applicable guidance, forms and local implementation. Local policy does not determine when legislation commences.
+
+### Commenced supervised-discharge provisions
+
+The February changes include a route for relevant restricted patients to be conditionally discharged with deprivation-of-liberty conditions where the statutory criteria are satisfied. HMPPS guidance explains applications through the Secretary of State for Justice. This is a distinct MHA route; do not treat every community restriction as a DoLS or Court of Protection case. Obtain specialist advice on eligibility, conditions and safeguards.
+
+Sources: [Section 56 commencement](https://www.legislation.gov.uk/ukpga/2025/33/section/56); [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance).
 
 The 2025 Act aims to:
 
@@ -2258,7 +2312,9 @@ Use MCA for decision-specific capacity and best interests matters outside MHA tr
 - care planning
 - advance decisions outside overridden MHA treatment provisions
 
-The MCA cannot authorise detention for treatment of mental disorder.
+Ordinary MCA care and treatment powers do not themselves authorise deprivation of liberty. Where the person lacks capacity, a separate DoLS or Court of Protection authorisation may be available, subject to section 4A and Schedule 1A eligibility. This can include psychiatric care for a non-objecting person when the statutory criteria are met; non-objection alone does not establish eligibility. Section 28 limits MCA authority for treatment regulated by Part IV of the MHA. DoLS authorises deprivation of liberty, not treatment itself. Consider an MHA assessment where appropriate and obtain specialist advice on the actual admission, treatment, objections and legal status.
+
+Sources: [MCA sections 4A and 28 and Schedules A1/1A](https://www.legislation.gov.uk/ukpga/2005/9/contents). Check commencement annotations: prospective amendments are not necessarily operative.
 
 ## MHA and DoLS Interface
 
@@ -2326,13 +2382,15 @@ Aftercare or follow-up:
 - Using MCA/DoLS to avoid MHA where the person is objecting to mental health treatment.
 - Ignoring racial disparity, cultural context, and mistrust of services.
 
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
+
 
 ---
 
 # Safeguarding Adults — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/safeguarding-adults.html
 
 # 06 - Safeguarding Adults
@@ -2518,7 +2576,7 @@ Review:
 # Children, Families, and Transitions — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/children-families-and-transitions.html
 
 # 07 - Children, Families, and Transitions
@@ -2572,14 +2630,13 @@ Think whole family where:
 
 The Children's Social Care National Framework is statutory guidance for local authority children's social care and relevant safeguarding partners. Use it alongside Working Together when considering purpose, practice principles, outcomes, and good-practice enablers.
 
-The Children's Wellbeing and Schools Act 2026 is being implemented in stages. Do not treat its reform-related duties as operational until the relevant commencement and statutory guidance apply locally. In particular, check current arrangements for multi-agency child protection teams and the new safeguarding information-sharing duty, which the government expects to begin from September 2026.
+The Children's Wellbeing and Schools Act 2026 is being implemented in stages. Check commencement separately for each provision; local policy does not determine whether a statutory duty is in force.
+
+The information-sharing duty under section 16LA of the Children Act 2004 came into force in England on **30 September 2026**. Use the final [DfE statutory guidance](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people), updated on 10 September, with its sharing-agreement templates. Establish whether the duty applies to your organisation, the information and the purpose; record the statutory conditions, lawful basis, recipient, necessary information and reasons for sharing or not sharing. The duty does not remove all confidentiality or data-protection safeguards. Do not assume other reforms, including every multi-agency child protection provision, commenced on the same date.
 
 ## Keeping Children Safe in Education
 
-As of 24 July 2026:
-
-- KCSIE 2025 remains in force until 31 August 2026.
-- KCSIE 2026 comes into force from 1 September 2026.
+[KCSIE 2026](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) has been in force since **1 September 2026**, replacing the 2025 edition. All school and college staff should read Part One in full. The overview is complementary; the shortened Annex A version has been removed. These are education-sector expectations relevant to joint working, not a statement that all social workers are school staff.
 
 Adult social workers may need this when working with schools, safeguarding partners, parents, young carers, or transition cases.
 
@@ -2659,13 +2716,22 @@ Adult and children's safeguarding should be coordinated, not passed back and for
 - Forgetting MCA applies from age 16.
 - Confusing parental preference with the young person's wishes and rights.
 
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
+
+
+## Disclosure and barring update — 22 October 2026
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
+
+[DBS: September 2026 change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026).
+
 
 ---
 
 # Equality, Human Rights, and Recording — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/equality-human-rights-and-recording.html
 
 # 08 - Equality, Human Rights, and Recording
@@ -2836,6 +2902,13 @@ A decision is more defensible when it shows:
 - Forgetting equality and communication needs.
 - Recording "family agreed" without saying who, what authority they had, and whether the person agreed.
 
+## Continuing safeguards after a liberty assessment
+
+A conclusion that Article 5 is not engaged does not remove Article 8, MCA or Care Act duties. Record the person's participation, best-interests reasoning where required, necessity and proportionality of restrictions, advocacy eligibility, review and safeguarding routes. [Re PK & MK](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52) [2026] EWCOP 52 (T2) is a fact-specific Tier 2 illustration; it is not a universal requirement for continuing court supervision.
+
+For children's information sharing in England, apply the operative section 16LA duty and [DfE guidance](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people) from 30 September 2026 alongside confidentiality and data-protection requirements. Record which duty or power applies rather than using a general statement that safeguarding always overrides privacy.
+
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
 
 
 ---
@@ -2843,7 +2916,7 @@ A decision is more defensible when it shows:
 # Quick Reference — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/quick-reference.html
 
 # Quick Reference
@@ -2953,6 +3026,17 @@ Ask:
 - provider says "we always do it this way"
 - no clear legal basis for restriction
 
+## Targeted legal checks — 22 October 2026
+
+- Care Act/MCA: investigate relevant decision-specific capacity doubts; participation support does not replace a necessary assessment (TDB). Do not require formal capacity assessment in every case.
+- Direct payments: inspect the deputy’s specific authority and applicable scheme (Re Direct Payments, Tier 2).
+- Liberty: assess objective restrictions, then the separate Article 5 consent question. Record continuing Article 8/MCA/care-planning safeguards if Article 5 is not engaged. Contentment is not automatically valid consent (Re BM; Re PK & MK, both Tier 2).
+- MHA: check the February 2026 section 56(1) commencement as well as April sections 51/52; relevant restricted patients may use the supervised-discharge route under its statutory criteria.
+- Section 136: not confined to public places; check the excluded private residential premises in section 136(1A).
+- MCA/MHA interface: ordinary MCA powers are not liberty authorisation. Check sections 4A/28 and Schedule 1A eligibility; DoLS does not authorise treatment.
+- England children: KCSIE 2026 applies from 1 September; section 16LA information-sharing duty from 30 September. Check the duty’s scope and safeguards.
+
+See the relevant modules and Source Library for primary sources, jurisdiction, court level and limits. These are targeted updates, not a complete re-review.
 
 
 ---
@@ -2960,7 +3044,7 @@ Ask:
 # Templates and Checklists — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/templates-and-checklists.html
 
 # Templates and Checklists
@@ -3190,6 +3274,23 @@ Contingency:
 Review:
 ```
 
+## Additional recording prompts — October 2026
+
+```text
+Care assessment: decision-specific capacity doubt, evidence and support:
+Capacity assessment needed before completion? Reasons:
+Direct payments: scheme and representative’s specific authority:
+Liberty: objective restrictions analysis:
+Separate Article 5 consent analysis:
+Continuing participation, best-interests, advocacy, review and safeguarding:
+MHA: operative provision, commencement and separate treatment/liberty route:
+Section 136: statutory premises exclusion checked:
+Child information sharing: section 16LA scope/conditions and lawful basis:
+Necessary information, recipient and reasons to share or not share:
+Sources, dates and unresolved legal advice:
+```
+
+Use the updated modules for TDB, Re Direct Payments and the October liberty cases; Tier 2 illustrations are not universal legal rules.
 
 
 ---
@@ -3197,7 +3298,7 @@ Review:
 # Printable Tools — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/printable-tools.html
 
 # Printable Tools
@@ -3213,6 +3314,9 @@ They are not official forms. They are practice prompts that help you structure y
 3. Adapt it to the person, local policy, and recording system.
 4. Check law, statutory guidance, supervision, and legal advice for live cases.
 
+## October 2026 additions
+
+The Care Act, MCA and liberty downloads include capacity concerns, specific deputy authority, separate liberty/consent analysis and continuing safeguards. Use the additional checklist in Templates and Checklists for MHA commencement and children’s information sharing.
 
 
 ## Downloadable prompt text
@@ -3232,6 +3336,10 @@ Care Act Assessment Prompt
 8. Eligibility analysis
 9. Plan, personal budget or direct payment where relevant
 10. Review and what would trigger earlier review
+
+Relevant capacity doubts and decision-specific assessment (TDB):
+Specific deputy authority for direct payments and scheme checked:
+
 ```
 
 ### MCA Capacity and Best Interests Prompt
@@ -3257,6 +3365,11 @@ Consultation:
 Least restrictive option:
 Decision and rationale:
 Review:
+
+Reason for investigating capacity doubts relevant to care needs:
+Representative’s actual document and specific powers:
+Separate treatment and liberty authority, including MCA/MHA interface:
+
 ```
 
 ### Section 42 Safeguarding Prompt
@@ -3296,6 +3409,12 @@ Less restrictive options:
 Possible authorisation route:
 Advice needed:
 Review:
+
+Objective restrictions analysis:
+Separate Article 5 consent analysis (not mere compliance):
+If Article 5 is not engaged, continuing Article 8/MCA/care-planning safeguards:
+Restricted patient: supervised-discharge route checked where relevant:
+
 ```
 
 ### Supervision Reflection Prompt
@@ -3322,7 +3441,7 @@ Review point:
 # Practice Scenarios — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/practice-scenarios.html
 
 # Practice Scenarios
@@ -3458,6 +3577,26 @@ Learning points:
 - Blanket restrictions require legal and ethical scrutiny.
 - Safeguarding, commissioning, CQC, provider action, police, MCA, and DoLS may all be relevant.
 
+## Additional case-law exercises — 22 October 2026
+
+### Capacity concerns during a Care Act assessment
+
+Fictional case: A person describes their preferred care plan fluently, but staff report difficulty understanding its consequences. The assessor proposes to rely on participation support without investigating capacity.
+
+- Which decision is capacity in doubt about?
+- What support and evidence are needed?
+- What does TDB require, and what does it not require?
+
+Discussion: Identify the decision relevant to needs, provide support and investigate the capacity doubt. TDB v Haringey [2026] EWCA Civ 1184 rejects using the presumption or section 67 support to avoid a necessary assessment. It does not mandate formal capacity assessment for everyone.
+
+### A deputy offers to manage direct payments
+
+Fictional case: A financial deputy offers to arrange care using direct payments and shows a standard property-and-affairs order.
+
+- Does the actual order cover these decisions?
+- Which payment scheme and alternative lawful arrangements apply?
+
+Discussion: Check specific authority rather than the deputy’s title. Re Direct Payments [2026] EWCOP 42 (T2) identifies welfare decisions within management of direct payments. Obtain advice on authority and the scheme; it does not mean everyone managing payments must become a deputy.
 
 
 ## Worked cases
@@ -3532,17 +3671,36 @@ Care home concerns, pressure damage, blanket restrictions, records, and multi-ag
 
 Discussion: Patterns matter. Consider safeguarding, commissioning, CQC, police, MCA, DoLS, provider action, family communication, and individual protection plans.
 
+### Capacity concerns during a Care Act assessment
+
+A person describes their preferred care plan fluently, but staff report difficulty understanding its consequences. The assessor proposes to rely on participation support without investigating capacity.
+
+- Which decision is capacity in doubt about?
+- What support and evidence are needed?
+- What does TDB require, and what does it not require?
+
+Discussion: Identify the decision relevant to needs, provide support and investigate the capacity doubt. TDB v Haringey [2026] EWCA Civ 1184 rejects using the presumption or section 67 support to avoid a necessary assessment. It does not mandate formal capacity assessment for everyone.
+
+### A deputy offers to manage direct payments
+
+A financial deputy offers to arrange care using direct payments and shows a standard property-and-affairs order.
+
+- Does the actual order cover these decisions?
+- Which payment scheme and alternative lawful arrangements apply?
+
+Discussion: Check specific authority rather than the deputy’s title. Re Direct Payments [2026] EWCOP 42 (T2) identifies welfare decisions within management of direct payments. Obtain advice on authority and the scheme; it does not mean everyone managing payments must become a deputy.
+
 ---
 
 # Source Library — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/source-library.html
 
 # Source Library
 
-Last checked: 24 July 2026.
+Baseline source check: 24 July 2026. Targeted additions: 22 October 2026. This date does not certify that all listed sources or every provision have been rechecked.
 
 Use this page to go back to primary or authoritative sources. For live cases, check current local policy and legal advice.
 
@@ -3683,13 +3841,29 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
 - BASW: Practice, policy, and professional resources
   https://basw.co.uk/
 
+## Targeted legal update — 22 October 2026
+
+- [DfE: information sharing duty, operative from 30 September 2026](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people)
+- [MHA 2025: section 56, including February commencement](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS: supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
+- [MHA 1983: section 136 and excluded premises](https://www.legislation.gov.uk/ukpga/1983/20/section/136)
+- [TDB v Haringey](https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184) [2026] EWCA Civ 1184, 15 September — capacity and Care Act assessment.
+- [Re Direct Payments](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42) [2026] EWCOP 42 (T2), 10 September — specific deputy authority.
+- [Re BM](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48) [2026] EWCOP 48 (T2), 2 October — wishes, restrictions and liberty analysis.
+- [Re PK & MK](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52) [2026] EWCOP 52 (T2), 8 October — continuing safeguards.
+
+Tier 2 judgments are fact-specific learning illustrations, not binding appellate authority. Editorial updating is not independent practitioner review. Commencement, guidance updates and judgment dates are different events.
+
+
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026) — supervision exemption removed; apply the other statutory criteria.
+
 
 ---
 
 # About Us — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/about-us.html
 
 # About Us
@@ -3756,7 +3930,7 @@ The aim is to create tools that feel usable in real life: calm enough to learn f
 # Contact Us — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/contact-us.html
 
 # Contact Us
@@ -3787,7 +3961,7 @@ For live casework, use your employer's supervision, legal advice, safeguarding p
 # Privacy Policy — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/privacy-policy.html
 
 # Privacy Policy
@@ -3874,12 +4048,12 @@ For privacy-related questions, use the Contact Us page or visit [www.daily-minds
 # Terms of Service — England
 
 Jurisdiction: England
-Existing learning content review date: 24 July 2026.
+Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review.
 Source: https://social-work-resource.netlify.app/learning/terms-of-service.html
 
 # Terms of Service
 
-Last updated: 24 July 2026.
+Last updated: 22 October 2026.
 
 These terms explain how the Ultimate Social Worker Resource may be used.
 
@@ -3891,7 +4065,7 @@ It is designed to support learning around the Care Act, Mental Capacity Act, DoL
 
 ## Content Review Date
 
-The learning content was last checked on 24 July 2026. This date is a content review note, not a guarantee that every law, guidance document, policy position, or external link remains current after that date.
+The baseline learning-content check was on 24 July 2026. Targeted legal corrections and case-law additions were made on 22 October 2026. These dates describe the stated review scope, not a guarantee that every law, guidance document, policy position, or external link is current.
 
 Users should always verify current legislation, statutory guidance, codes of practice, local policy, and legal advice before relying on the resource in live practice.
 
@@ -4235,7 +4409,7 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 ### Which distinction must be kept clear?
 
-Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
 
 
 ### What are the key local actions?
@@ -4263,7 +4437,7 @@ Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced ame
 
 ### Which distinction must be kept clear?
 
-Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
 
 
 ### What are the key local actions?
@@ -4291,7 +4465,7 @@ Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an a
 
 ### Which distinction must be kept clear?
 
-A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
 
 
 ### What are the key local actions?
@@ -4319,7 +4493,7 @@ Welsh care and support, child protection and education duties need to be mapped 
 
 ### Which distinction must be kept clear?
 
-An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
 
 
 ### What are the key local actions?
@@ -4433,7 +4607,7 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 ### DoLS and Deprivation of Liberty: Which distinction must be kept clear?
 
-Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
 
 ### DoLS and Deprivation of Liberty: What are the key local actions?
 
@@ -4453,7 +4627,7 @@ Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced ame
 
 ### Mental Health in Wales: Which distinction must be kept clear?
 
-Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
 
 ### Mental Health in Wales: What are the key local actions?
 
@@ -4473,7 +4647,7 @@ Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an a
 
 ### Safeguarding Adults in Wales: Which distinction must be kept clear?
 
-A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
 
 ### Safeguarding Adults in Wales: What are the key local actions?
 
@@ -4493,7 +4667,7 @@ Welsh care and support, child protection and education duties need to be mapped 
 
 ### Children, Families and Transitions: Which distinction must be kept clear?
 
-An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
 
 ### Children, Families and Transitions: What are the key local actions?
 
@@ -5940,6 +6114,8 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
 
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
+
 ### Decision pathway
 
 - Record the actual setting, restrictions, duration and response to a wish to leave.
@@ -5964,8 +6140,12 @@ Common error to avoid: Equating silence with consent or treating lack of capacit
 - [Supreme Court judgment summary and case](https://supremecourt.uk/cases/press-summary/uksc-2025-0042)
 - [Welsh regulator statement on liberty judgment](https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+- [Re BM — 2026 EWCOP 48 (T2)](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48)
+- [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -6026,6 +6206,8 @@ Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced ame
 
 Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
 
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
+
 ### Decision pathway
 
 - Identify the exact assessment, detention, treatment or Measure duty involved.
@@ -6051,11 +6233,15 @@ Common error to avoid: Treating every mental-health right as a detention issue o
 - [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
 - [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
 - [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Mental Health Act 2025 section 56](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS supervised discharge guidance for England and Wales](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 - [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
 - [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
 - [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -6112,6 +6298,8 @@ Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an a
 
 A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
 
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
 ### Decision pathway
 
 - Record evidence against the adult-at-risk elements and address immediate safety.
@@ -6136,9 +6324,12 @@ Common error to avoid: Using capacity as the only safeguarding threshold or trea
 - [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
 - [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
 - [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
 - [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -6197,6 +6388,10 @@ Welsh care and support, child protection and education duties need to be mapped 
 
 An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
 
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
+
 ### Decision pathway
 
 - Identify the child’s support and protection needs and the relevant Welsh statutory route.
@@ -6221,11 +6416,15 @@ Common error to avoid: Treating an education plan as a substitute for care asses
 - [ALN and Education Tribunal (Wales) Act 2018](https://www.legislation.gov.uk/anaw/2018/2/contents)
 - [ALN decision-making and communication guidance](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html)
 - [Example IDP standard form, June 2026](https://www.gov.wales/individual-development-plan-idp-example-standard-form)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026)
 - [Welsh statutory guidance](https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance)
 - [Wales Safeguarding Procedures](https://safeguarding.wales/)
 - [ALN Code and official IDP examples](https://www.gov.wales/additional-learning-needs-code)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -6545,6 +6744,8 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
 
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
+
 
 - Record the actual setting, restrictions, duration and response to a wish to leave.
 - Use current judgment and Welsh guidance with specialist advice on the applicable legal test.
@@ -6558,6 +6759,8 @@ Explain the representative, advocacy and court challenge arrangements that apply
 - [Supreme Court judgment summary and case](https://supremecourt.uk/cases/press-summary/uksc-2025-0042)
 - [Welsh regulator statement on liberty judgment](https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+- [Re BM — 2026 EWCOP 48 (T2)](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48)
+- [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 
 
 ## Mental Health in Wales
@@ -6565,6 +6768,8 @@ Explain the representative, advocacy and court challenge arrangements that apply
 Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.
 
 Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
 
 
 - Identify the exact assessment, detention, treatment or Measure duty involved.
@@ -6580,6 +6785,8 @@ The Mental Health Review Tribunal for Wales and other statutory review routes ad
 - [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
 - [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
 - [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Mental Health Act 2025 section 56](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS supervised discharge guidance for England and Wales](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 - [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
 - [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
 - [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
@@ -6590,6 +6797,8 @@ The Mental Health Review Tribunal for Wales and other statutory review routes ad
 Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different.
 
 A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
+
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
 
 
 - Record evidence against the adult-at-risk elements and address immediate safety.
@@ -6604,6 +6813,7 @@ Explain the local-authority and provider complaint processes and relevant advoca
 - [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
 - [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
 - [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
 - [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
 
 
@@ -6612,6 +6822,10 @@ Explain the local-authority and provider complaint processes and relevant advoca
 Welsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
 
 An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
+
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
 
 
 - Identify the child’s support and protection needs and the relevant Welsh statutory route.
@@ -6626,6 +6840,8 @@ Disagreement about an ALN decision can involve the applicable reconsideration, d
 - [ALN and Education Tribunal (Wales) Act 2018](https://www.legislation.gov.uk/anaw/2018/2/contents)
 - [ALN decision-making and communication guidance](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html)
 - [Example IDP standard form, June 2026](https://www.gov.wales/individual-development-plan-idp-example-standard-form)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026)
 - [Welsh statutory guidance](https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance)
 - [Wales Safeguarding Procedures](https://safeguarding.wales/)
 - [ALN Code and official IDP examples](https://www.gov.wales/additional-learning-needs-code)
@@ -7027,6 +7243,8 @@ Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an a
 
 A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
 
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
 Local pathway:
 Record evidence against the adult-at-risk elements and address immediate safety.
 Identify your reporting responsibility and the authority responsible for enquiries.
@@ -7056,6 +7274,7 @@ Sources:
 https://www.legislation.gov.uk/anaw/2014/4/section/126
 https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/
 https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf
+https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales
 https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/
 
 ```
@@ -7071,6 +7290,8 @@ Local framework:
 The Supreme Court’s June 2026 judgment requires the liberty analysis to distinguish the Article 5 consent question from domestic decision-making capacity. The old two-part checklist should not be used as the sole answer. Mere acquiescence does not establish valid consent.
 
 Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
+
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
 
 Local pathway:
 Record the actual setting, restrictions, duration and response to a wish to leave.
@@ -7101,6 +7322,8 @@ Sources:
 https://supremecourt.uk/cases/press-summary/uksc-2025-0042
 https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty
 https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms
+https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48
+https://www.gov.uk/government/publications/supervised-discharge-guidance
 
 ```
 
@@ -7115,6 +7338,8 @@ Local framework:
 Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.
 
 Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
 
 Local pathway:
 Identify the exact assessment, detention, treatment or Measure duty involved.
@@ -7146,6 +7371,8 @@ https://www.gov.wales/mental-health-act-1983-code-practice
 https://www.legislation.gov.uk/mwa/2010/7/contents
 https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html
 https://www.legislation.gov.uk/uksi/2026/385/contents
+https://www.legislation.gov.uk/ukpga/2025/33/section/56
+https://www.gov.uk/government/publications/supervised-discharge-guidance
 https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/
 https://www.legislation.gov.uk/mwa/2010/7/part/3
 https://www.gov.uk/government/collections/mental-health-bill-2025
@@ -7163,6 +7390,10 @@ Local framework:
 Welsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
 
 An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
+
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
 
 Local pathway:
 Identify the child’s support and protection needs and the relevant Welsh statutory route.
@@ -7193,6 +7424,8 @@ Sources:
 https://www.legislation.gov.uk/anaw/2018/2/contents
 https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html
 https://www.gov.wales/individual-development-plan-idp-example-standard-form
+https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales
+https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026
 https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance
 https://safeguarding.wales/
 https://www.gov.wales/additional-learning-needs-code
@@ -7532,6 +7765,8 @@ Social Care Wales
 - [Supreme Court judgment summary and case](https://supremecourt.uk/cases/press-summary/uksc-2025-0042)
 - [Welsh regulator statement on liberty judgment](https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+- [Re BM — 2026 EWCOP 48 (T2)](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48)
+- [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 
 
 ### Mental Health in Wales
@@ -7540,6 +7775,8 @@ Social Care Wales
 - [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
 - [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
 - [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Mental Health Act 2025 section 56](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS supervised discharge guidance for England and Wales](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 - [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
 - [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
 - [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
@@ -7550,6 +7787,7 @@ Social Care Wales
 - [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
 - [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
 - [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
 - [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
 
 
@@ -7558,6 +7796,8 @@ Social Care Wales
 - [ALN and Education Tribunal (Wales) Act 2018](https://www.legislation.gov.uk/anaw/2018/2/contents)
 - [ALN decision-making and communication guidance](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html)
 - [Example IDP standard form, June 2026](https://www.gov.wales/individual-development-plan-idp-example-standard-form)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026)
 - [Welsh statutory guidance](https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance)
 - [Wales Safeguarding Procedures](https://safeguarding.wales/)
 - [ALN Code and official IDP examples](https://www.gov.wales/additional-learning-needs-code)
@@ -7579,6 +7819,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -8163,12 +8406,12 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 ### Which distinction must be kept clear?
 
-A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
 
 
 ### What are the key local actions?
 
-Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities. For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 
 ### How can the person participate or challenge the decision?
@@ -8337,11 +8580,11 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 ### Children, Families and Transitions — Scotland: Which distinction must be kept clear?
 
-A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
 
 ### Children, Families and Transitions — Scotland: What are the key local actions?
 
-Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities. For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 ### Children, Families and Transitions — Scotland: How can the person participate or challenge the decision?
 
@@ -9405,6 +9648,8 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
 
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.
@@ -9423,6 +9668,7 @@ Plan with education, health, disability and community services, identifying each
 - Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority.
 - Identify whether local-authority support, a protection response or a referral to the Reporter is required.
 - Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+- For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 ## Rights, challenge and review
 
@@ -9459,8 +9705,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [GIRFEC framework](https://www.gov.scot/policies/girfec/)
 - [Children (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/36/contents)
 - [Children’s Hearings (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/1/contents)
+- [Scottish children’s reform: first commencement schedule](https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -9683,11 +9932,14 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
 
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
+
 
 - Use the child’s account and daily-life evidence alongside family strengths and protection concerns.
 - Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority.
 - Identify whether local-authority support, a protection response or a referral to the Reporter is required.
 - Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+- For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 
 Children should receive accessible explanations and appropriate advocacy or legal support for the process affecting them. The UNCRC (Incorporation) (Scotland) Act 2024 adds duties within its statutory scope; check that scope rather than describing every public decision as covered in the same way.
@@ -9696,6 +9948,7 @@ Children should receive accessible explanations and appropriate advocacy or lega
 - [GIRFEC framework](https://www.gov.scot/policies/girfec/)
 - [Children (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/36/contents)
 - [Children’s Hearings (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/1/contents)
+- [Scottish children’s reform: first commencement schedule](https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf)
 
 
 ## Rights, Culture and Recording — Scotland
@@ -10031,11 +10284,14 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
 
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
+
 Local pathway:
 Use the child’s account and daily-life evidence alongside family strengths and protection concerns.
 Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority.
 Identify whether local-authority support, a protection response or a referral to the Reporter is required.
 Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 Recording prompts:
 1. Child’s account, communication and daily-life evidence
@@ -10060,6 +10316,7 @@ Sources:
 https://www.gov.scot/policies/girfec/
 https://www.legislation.gov.uk/ukpga/1995/36/contents
 https://www.legislation.gov.uk/asp/2011/1/contents
+https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf
 
 ```
 
@@ -10436,6 +10693,7 @@ Scottish Social Services Council (SSSC)
 - [GIRFEC framework](https://www.gov.scot/policies/girfec/)
 - [Children (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/36/contents)
 - [Children’s Hearings (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/1/contents)
+- [Scottish children’s reform: first commencement schedule](https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf)
 
 
 ### Rights, Culture and Recording — Scotland
@@ -10453,6 +10711,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -10849,7 +11110,7 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 ### Which distinction must be kept clear?
 
-Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
 
 ### What are the key local actions?
@@ -11023,7 +11284,7 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 ### Children, Families and Transitions — Northern Ireland: Which distinction must be kept clear?
 
-Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
 ### Children, Families and Transitions — Northern Ireland: What are the key local actions?
 
@@ -12090,6 +12351,8 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
 
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.
@@ -12143,8 +12406,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [Children (Northern Ireland) Order 1995](https://www.legislation.gov.uk/nisi/1995/755/contents)
 - [Co-operating to safeguard children and young people](https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland)
+- [Department of Health: disclosure and barring, September 2026 change](https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -12366,6 +12632,8 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
 
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+
 
 - Record the child’s account, daily experience, harm concerns and support needs.
 - Use the current regional policy and Trust referral procedure for a child-protection concern.
@@ -12378,6 +12646,7 @@ Explain the particular assessment, protection or court process, including how th
 
 - [Children (Northern Ireland) Order 1995](https://www.legislation.gov.uk/nisi/1995/755/contents)
 - [Co-operating to safeguard children and young people](https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland)
+- [Department of Health: disclosure and barring, September 2026 change](https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service)
 
 
 ## Rights, Culture and Recording — Northern Ireland
@@ -12712,6 +12981,8 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
 
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+
 Local pathway:
 Record the child’s account, daily experience, harm concerns and support needs.
 Use the current regional policy and Trust referral procedure for a child-protection concern.
@@ -12740,6 +13011,7 @@ Explain the particular assessment, protection or court process, including how th
 Sources:
 https://www.legislation.gov.uk/nisi/1995/755/contents
 https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland
+https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service
 
 ```
 
@@ -13114,6 +13386,7 @@ Northern Ireland Social Care Council (NISCC)
 
 - [Children (Northern Ireland) Order 1995](https://www.legislation.gov.uk/nisi/1995/755/contents)
 - [Co-operating to safeguard children and young people](https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland)
+- [Department of Health: disclosure and barring, September 2026 change](https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service)
 
 
 ### Rights, Culture and Recording — Northern Ireland
@@ -13131,6 +13404,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -16157,7 +16433,7 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 ### Which distinction must be kept clear?
 
-Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
 
 
 ### What are the key local actions?
@@ -16347,7 +16623,7 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 ### Mental Health — Aotearoa New Zealand: Which distinction must be kept clear?
 
-Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
 
 ### Mental Health — Aotearoa New Zealand: What are the key local actions?
 
@@ -17301,6 +17577,8 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
 
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
+
 ## Assess the crisis in context
 
 Attend to urgent physical health and immediate safety while creating space for the person's account. Explore sleep, medication, substance use, pain, relationships, housing, financial pressure and previous helpful or harmful experiences of services. Cultural or spiritual expression should be understood in context. Use an appropriate interpreter and ask which supporters the person wants involved.
@@ -17355,8 +17633,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Mental-health replacement and commencement](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act)
 - [Guidelines to the 1992 Act](https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992)
 - [Current mental-health rights](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act)
+- [Mental Health Act 2026, section 2 commencement](https://www.legislation.govt.nz/act/public/2026/44/en/latest/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -17693,6 +17974,8 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
 
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
+
 
 - Check whether the operative 1992 route or a subsequently commenced provision applies.
 - Assess the actual mental-disorder and risk or self-care evidence against the relevant statutory criteria.
@@ -17706,6 +17989,7 @@ District inspectors are independent lawyers who explain rights, investigate conc
 - [Mental-health replacement and commencement](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act)
 - [Guidelines to the 1992 Act](https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992)
 - [Current mental-health rights](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act)
+- [Mental Health Act 2026, section 2 commencement](https://www.legislation.govt.nz/act/public/2026/44/en/latest/)
 
 
 ## Adult Safeguarding — Aotearoa New Zealand
@@ -17995,6 +18279,8 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
 
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
+
 Local pathway:
 Check whether the operative 1992 route or a subsequently commenced provision applies.
 Assess the actual mental-disorder and risk or self-care evidence against the relevant statutory criteria.
@@ -18024,6 +18310,7 @@ Sources:
 https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act
 https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992
 https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act
+https://www.legislation.govt.nz/act/public/2026/44/en/latest/
 
 ```
 
@@ -18474,6 +18761,7 @@ Social Workers Registration Board (SWRB)
 - [Mental-health replacement and commencement](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act)
 - [Guidelines to the 1992 Act](https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992)
 - [Current mental-health rights](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act)
+- [Mental Health Act 2026, section 2 commencement](https://www.legislation.govt.nz/act/public/2026/44/en/latest/)
 
 
 ### Adult Safeguarding — Aotearoa New Zealand
@@ -18503,6 +18791,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -18759,12 +19050,12 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Which distinction must be kept clear?
 
-The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 
 ### What are the key local actions?
 
-Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision. Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 
 ### How can the person participate or challenge the decision?
@@ -18973,11 +19264,11 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Social Care and Support — New South Wales: Which distinction must be kept clear?
 
-The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 ### Social Care and Support — New South Wales: What are the key local actions?
 
-Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision. Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 ### Social Care and Support — New South Wales: How can the person participate or challenge the decision?
 
@@ -19753,6 +20044,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 ## Assess daily life, not just a list of services
 
 Begin with what a good day would look like. Explore washing, dressing, nutrition, medicines, mobility, home safety, relationships, work or education and community participation. Ask about variation: what happens at night, on a bad day or when a regular supporter is unavailable? Establish what the person can do with appropriate equipment, accessible information or a different environment. Do not confuse performing a task once during a visit with being able to do it reliably in daily life.
@@ -19771,6 +20064,7 @@ For each outcome, identify an action, a responsible service or person and a revi
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
 - Consider state health, housing and community support where a need is outside a particular funded scheme.
 - Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+- Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 ## Rights, challenge and review
 
@@ -19808,8 +20102,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -20315,11 +20612,14 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 
 - Identify the scheme responsible for each need and the evidence required for its assessment.
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
 - Consider state health, housing and community support where a need is outside a particular funded scheme.
 - Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+- Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 
 For an NDIA decision, identify whether an internal review and subsequent Administrative Review Tribunal route are available and check the decision notice’s time limits. A provider complaint to the NDIS Commission is different from a funding review. Aged-care complaints and assessment reviews use their own routes.
@@ -20329,6 +20629,7 @@ For an NDIA decision, identify whether an internal review and subsequent Adminis
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 
 ## Decision-Making and Capacity — New South Wales
@@ -20547,11 +20848,14 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 Local pathway:
 Identify the scheme responsible for each need and the evidence required for its assessment.
 Keep access eligibility, plan funding, provider availability and any client contribution separate.
 Consider state health, housing and community support where a need is outside a particular funded scheme.
 Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 Recording prompts:
 1. Daily-life evidence, fluctuation and desired outcomes
@@ -20577,6 +20881,7 @@ https://ndis.gov.au/applying/application-process/what-access-request-form
 https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes
 https://www.health.gov.au/our-work/aged-care-act/resources/providers
 https://www.health.gov.au/our-work/chsp/reforms
+https://www.myagedcare.gov.au/how-do-aged-care-costs-work
 
 ```
 
@@ -21137,6 +21442,7 @@ Australian Association of Social Workers (AASW)
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 
 ### Decision-Making and Capacity — New South Wales
@@ -21185,6 +21491,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -26825,12 +27134,12 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Which distinction must be kept clear?
 
-The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 
 ### What are the key local actions?
 
-Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision. Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 
 ### How can the person participate or challenge the decision?
@@ -27039,11 +27348,11 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Social Care and Support — Victoria: Which distinction must be kept clear?
 
-The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 ### Social Care and Support — Victoria: What are the key local actions?
 
-Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Identify the scheme responsible for each need and the evidence required for its assessment. Keep access eligibility, plan funding, provider availability and any client contribution separate. Consider state health, housing and community support where a need is outside a particular funded scheme. Record the person’s goals, family willingness, actual start dates and the review route for each decision. Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 ### Social Care and Support — Victoria: How can the person participate or challenge the decision?
 
@@ -27819,6 +28128,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 ## Assess daily life, not just a list of services
 
 Begin with what a good day would look like. Explore washing, dressing, nutrition, medicines, mobility, home safety, relationships, work or education and community participation. Ask about variation: what happens at night, on a bad day or when a regular supporter is unavailable? Establish what the person can do with appropriate equipment, accessible information or a different environment. Do not confuse performing a task once during a visit with being able to do it reliably in daily life.
@@ -27837,6 +28148,7 @@ For each outcome, identify an action, a responsible service or person and a revi
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
 - Consider state health, housing and community support where a need is outside a particular funded scheme.
 - Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+- Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 ## Rights, challenge and review
 
@@ -27874,8 +28186,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -28387,11 +28702,14 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 
 - Identify the scheme responsible for each need and the evidence required for its assessment.
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
 - Consider state health, housing and community support where a need is outside a particular funded scheme.
 - Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+- Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 
 For an NDIA decision, identify whether an internal review and subsequent Administrative Review Tribunal route are available and check the decision notice’s time limits. A provider complaint to the NDIS Commission is different from a funding review. Aged-care complaints and assessment reviews use their own routes.
@@ -28401,6 +28719,7 @@ For an NDIA decision, identify whether an internal review and subsequent Adminis
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 
 ## Decision-Making and Capacity — Victoria
@@ -28625,11 +28944,14 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 Local pathway:
 Identify the scheme responsible for each need and the evidence required for its assessment.
 Keep access eligibility, plan funding, provider availability and any client contribution separate.
 Consider state health, housing and community support where a need is outside a particular funded scheme.
 Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 Recording prompts:
 1. Daily-life evidence, fluctuation and desired outcomes
@@ -28655,6 +28977,7 @@ https://ndis.gov.au/applying/application-process/what-access-request-form
 https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes
 https://www.health.gov.au/our-work/aged-care-act/resources/providers
 https://www.health.gov.au/our-work/chsp/reforms
+https://www.myagedcare.gov.au/how-do-aged-care-costs-work
 
 ```
 
@@ -29221,6 +29544,7 @@ Australian Association of Social Workers (AASW)
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 
 ### Decision-Making and Capacity — Victoria
@@ -29275,6 +29599,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -29503,7 +29830,7 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 ### Which distinction must be kept clear?
 
-Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
 
 
 ### What are the key local actions?
@@ -29615,12 +29942,12 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 ### Which distinction must be kept clear?
 
-The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
 
 
 ### What are the key local actions?
 
-Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 
 ### How can the person participate or challenge the decision?
@@ -29725,7 +30052,7 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 ### Professional Foundations — British Columbia: Which distinction must be kept clear?
 
-Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
 
 ### Professional Foundations — British Columbia: What are the key local actions?
 
@@ -29805,11 +30132,11 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 ### Mental Health — British Columbia: Which distinction must be kept clear?
 
-The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
 
 ### Mental Health — British Columbia: What are the key local actions?
 
-Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 ### Mental Health — British Columbia: How can the person participate or challenge the decision?
 
@@ -30449,6 +30776,8 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
 
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -30502,8 +30831,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [BCCSW Standards and Scope of Practice](https://bccsw.ca/for-registrants/standards-scope-of-practice/)
 - [Social Workers Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01)
+- [BCCSW CPD requirements, 2025–2026 cycle](https://bccsw.ca/for-registrants/continuing-professional-development/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -30759,6 +31091,8 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
 
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+
 ## Assess the crisis in context
 
 Attend to urgent physical health and immediate safety while creating space for the person's account. Explore sleep, medication, substance use, pain, relationships, housing, financial pressure and previous helpful or harmful experiences of services. Cultural or spiritual expression should be understood in context. Use an appropriate interpreter and ask which supporters the person wants involved.
@@ -30777,6 +31111,7 @@ Rights information should be understandable at the time and revisited when the p
 - Check certificates, dates, notices and renewal or review requirements.
 - Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.
 - Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+- Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 ## Rights, challenge and review
 
@@ -30808,11 +31143,15 @@ Use the matching printable prompt to make a short record for this case. Include:
 
 Ask a supervisor to identify a missing fact that could change your conclusion. Revise the plan to show who will obtain that fact and what happens while it remains uncertain.
 
-## Official sources and currency
+## Sources and verification status
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
+- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -31068,6 +31407,8 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
 
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
+
 
 - Confirm the practitioner’s role, regulatory position and any specific statutory designation.
 - Explain the purpose of involvement, participation and confidentiality limits.
@@ -31080,6 +31421,7 @@ Distinguish a BCCSW professional complaint from a health-authority, service, pri
 
 - [BCCSW Standards and Scope of Practice](https://bccsw.ca/for-registrants/standards-scope-of-practice/)
 - [Social Workers Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01)
+- [BCCSW CPD requirements, 2025–2026 cycle](https://bccsw.ca/for-registrants/continuing-professional-development/)
 
 
 ## Social Care and Support — British Columbia
@@ -31150,17 +31492,22 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
 
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+
 
 - Identify the route and evidence for each applicable criterion, including voluntary alternatives.
 - Check certificates, dates, notices and renewal or review requirements.
 - Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.
 - Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+- Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 
 The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review.
 
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
+- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
 
 
 ## Adult Safeguarding — British Columbia
@@ -31277,6 +31624,8 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
 
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
+
 Local pathway:
 Confirm the practitioner’s role, regulatory position and any specific statutory designation.
 Explain the purpose of involvement, participation and confidentiality limits.
@@ -31305,6 +31654,7 @@ Distinguish a BCCSW professional complaint from a health-authority, service, pri
 Sources:
 https://bccsw.ca/for-registrants/standards-scope-of-practice/
 https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01
+https://bccsw.ca/for-registrants/continuing-professional-development/
 
 ```
 
@@ -31451,11 +31801,14 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
 
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+
 Local pathway:
 Identify the route and evidence for each applicable criterion, including voluntary alternatives.
 Check certificates, dates, notices and renewal or review requirements.
 Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.
 Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 Recording prompts:
 1. Mental and physical health evidence and the person’s account
@@ -31478,6 +31831,8 @@ The Act includes rights advice, notice, review panels, court discharge applicati
 
 Sources:
 https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01
+https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/
+https://canlii.ca/t/kmcps
 
 ```
 
@@ -31895,13 +32250,14 @@ Source: https://social-work-resource.netlify.app/learning/canada-british-columbi
 British Columbia College of Social Workers (BCCSW)
 
 
-## Official sources by topic
+## Sources by topic, including labelled verification leads
 
 
 ### Professional Foundations — British Columbia
 
 - [BCCSW Standards and Scope of Practice](https://bccsw.ca/for-registrants/standards-scope-of-practice/)
 - [Social Workers Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01)
+- [BCCSW CPD requirements, 2025–2026 cycle](https://bccsw.ca/for-registrants/continuing-professional-development/)
 
 
 ### Social Care and Support — British Columbia
@@ -31927,6 +32283,8 @@ British Columbia College of Social Workers (BCCSW)
 ### Mental Health — British Columbia
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
+- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
 
 
 ### Adult Safeguarding — British Columbia
@@ -31957,6 +32315,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -32381,7 +32742,7 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 ### Which distinction must be kept clear?
 
-HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.
+End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
 
 ### What are the key local actions?
@@ -32547,7 +32908,7 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 ### Rights, Culture and Recording — New York: Which distinction must be kept clear?
 
-HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.
+End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
 ### Rights, Culture and Recording — New York: What are the key local actions?
 
@@ -33676,6 +34037,8 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.
 
+End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -33730,8 +34093,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Mental Hygiene Law section 33.13](https://www.nysenate.gov/legislation/laws/MHY/33.13)
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
+- [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -33900,6 +34266,8 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.
 
+End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
+
 
 - Identify the organisation, record and state or federal privacy provisions involved.
 - Arrange accessible communication, interpretation and culturally responsive participation.
@@ -33913,6 +34281,7 @@ A privacy complaint, professional complaint and mental-hygiene rights challenge 
 - [Mental Hygiene Law section 33.13](https://www.nysenate.gov/legislation/laws/MHY/33.13)
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
+- [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
 
 
 ---
@@ -34274,6 +34643,8 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.
 
+End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
+
 Local pathway:
 Identify the organisation, record and state or federal privacy provisions involved.
 Arrange accessible communication, interpretation and culturally responsive participation.
@@ -34303,6 +34674,7 @@ Sources:
 https://www.nysenate.gov/legislation/laws/MHY/33.13
 https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html
 https://www.hhs.gov/hipaa/part-2/index.html
+https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State
 
 ```
 
@@ -34645,6 +35017,7 @@ New York State Education Department, Office of the Professions
 - [Mental Hygiene Law section 33.13](https://www.nysenate.gov/legislation/laws/MHY/33.13)
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
+- [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
 
 
 ## How to verify a rule
@@ -34655,6 +35028,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---

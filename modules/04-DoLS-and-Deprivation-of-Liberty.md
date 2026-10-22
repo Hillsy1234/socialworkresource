@@ -4,7 +4,7 @@
 
 This module explains Deprivation of Liberty Safeguards, Court of Protection authorisation, and the changed legal position following the UK Supreme Court judgment on 2 June 2026.
 
-## Current Position: July 2026
+## Current Position: targeted update 22 October 2026
 
 On 2 June 2026, the UK Supreme Court handed down judgment in `[2026] UKSC 16`, changing the approach to what counts as deprivation of liberty. DHSC published an update on 15 June 2026.
 
@@ -28,7 +28,7 @@ continuous supervision and control + not free to leave = deprivation of liberty
 
 That is no longer enough on its own.
 
-The current approach looks at the person's specific situation and considers multiple factors, including:
+First assess the objective restrictions in the person's specific situation. Then consider the distinct question of valid consent for Article 5 purposes; domestic MCA decision-making capacity does not alone settle that question. The multifactorial assessment includes:
 
 - type of restrictions
 - duration of restrictions
@@ -39,7 +39,8 @@ The current approach looks at the person's specific situation and considers mult
 - relative normality of arrangements in the setting
 - purpose of the restrictions, such as care and protection rather than punishment or coercion
 - the person's wishes and feelings
-- whether the person can validly consent through expression of wishes and feelings
+
+After that evaluation, separately record whether the person can validly consent for Article 5 purposes through their wishes and feelings. Mere compliance is not enough.
 
 No single factor decides the answer.
 
@@ -153,6 +154,14 @@ Consider the Mental Health Act where:
 
 This interface is complex. Use AMHP advice, legal advice, and local policy.
 
+## Later guidance and case illustrations
+
+DHSC updated its [liberty guidance](https://www.gov.uk/government/publications/changes-to-the-definition-of-deprivation-of-liberty) on 22 September 2026 to add e-learning links. The change log does not announce another legal test.
+
+[Re BM](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48) [2026] EWCOP 48 (T2) (2 October 2026) distinguishes contentment with everyday life from evidence of understanding or expressing a meaningful view about restrictions. [Re PK & MK](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52) [2026] EWCOP 52 (T2) (8 October 2026) considers continuing Article 8, MCA and care-planning safeguards when Article 5 is not engaged. Both are fact-specific Tier 2 illustrations, not binding appellate rules. Do not infer consent from happiness or end all safeguards because DoLS is unnecessary.
+
+For relevant restricted patients, also check the separate [MHA supervised-discharge route](https://www.gov.uk/government/publications/supervised-discharge-guidance), following changes effective from 18 February 2026. Community restrictions do not all use the same authorisation route.
+
 ## Screening Note Template
 
 ```text
@@ -180,3 +189,5 @@ Review date:
 - Forgetting to review existing authorisations.
 - Treating authorisation as permission to stop thinking about least restriction.
 - Failing to record the person's wishes and feelings in detail.
+
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.

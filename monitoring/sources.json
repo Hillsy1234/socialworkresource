@@ -248,6 +248,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "0b0047dfb30b8a3a",
+      "url": "https://www.legislation.govt.nz/act/public/2026/44/en/latest/",
+      "title": "Mental Health Act 2026, section 2 commencement",
+      "publisher": "www.legislation.govt.nz",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "mha",
+          "title": "Mental Health — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "0b81909f9cc52e57",
       "url": "https://www.health.gov.au/our-work/chsp/reforms",
       "title": "CHSP transition arrangements",
@@ -273,6 +293,38 @@
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0be5a8dedab4da27",
+      "url": "https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people",
+      "title": "DfE statutory guidance",
+      "publisher": "www.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "children",
+          "title": "Children, Families, and Transitions",
+          "path": "modules/07-Children-Families-and-Transitions.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "rights",
+          "title": "Equality, Human Rights, and Recording",
+          "path": "modules/08-Equality-Human-Rights-and-Recording.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Monitors this source URL only. Commencement, judgment status, applicability and linked documents require editorial assessment; inclusion is not legal certification."
     },
     {
       "id": "0c756614b6996fa5",
@@ -563,6 +615,38 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "1410ccaeaec6a140",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52",
+      "title": "https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52",
+      "publisher": "caselaw.nationalarchives.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "dols",
+          "title": "DoLS and Deprivation of Liberty",
+          "path": "modules/04-DoLS-and-Deprivation-of-Liberty.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "rights",
+          "title": "Equality, Human Rights, and Recording",
+          "path": "modules/08-Equality-Human-Rights-and-Recording.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Monitors this source URL only. Commencement, judgment status, applicability and linked documents require editorial assessment; inclusion is not legal certification."
     },
     {
       "id": "1433a4d03bf1a0bc",
@@ -897,6 +981,33 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "20c6900d32a2da91",
+      "url": "https://www.myagedcare.gov.au/how-do-aged-care-costs-work",
+      "title": "My Aged Care: costs and Support at Home personal care",
+      "publisher": "www.myagedcare.gov.au",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "care-support",
+          "title": "Social Care and Support — New South Wales",
+          "path": "content/australia-nsw/resources/care-support.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "care-support",
+          "title": "Social Care and Support — Victoria",
+          "path": "content/australia-victoria/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "2120f5a54151eec2",
       "url": "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html",
       "title": "New Zealand Bill of Rights Act 1990",
@@ -955,6 +1066,38 @@
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "223b07e86d1ad132",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42",
+      "title": "https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42",
+      "publisher": "caselaw.nationalarchives.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "care-act",
+          "title": "Care Act 2014",
+          "path": "modules/02-Care-Act-2014.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "mca",
+          "title": "Mental Capacity Act 2005",
+          "path": "modules/03-Mental-Capacity-Act-2005.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Monitors this source URL only. Commencement, judgment status, applicability and linked documents require editorial assessment; inclusion is not legal certification."
     },
     {
       "id": "22e48fc0482e8054",
@@ -1078,6 +1221,12 @@
           "id": "sources",
           "title": "Source Library",
           "path": "SOURCE_LIBRARY.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "children",
+          "title": "Children, Families, and Transitions",
+          "path": "modules/07-Children-Families-and-Transitions.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
@@ -1141,6 +1290,33 @@
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "2a03e974206ca94d",
+      "url": "https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026",
+      "title": "DBS: September 2026 regulated-activity change",
+      "publisher": "www.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england",
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "children",
+          "title": "Children, Families and Transitions",
+          "path": "modules/07-Children-Families-and-Transitions.md"
+        },
+        {
+          "jurisdiction": "wales",
+          "id": "children",
+          "title": "Children, Families and Transitions",
+          "path": "content/wales/resources/children.md"
+        }
+      ],
+      "coverageNote": "Check role-specific conditions and operative legislation alongside this guidance."
     },
     {
       "id": "2a76702539d20d0a",
@@ -2264,6 +2440,39 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "5201803c1d846366",
+      "url": "https://www.legislation.gov.uk/ukpga/2025/33/section/56",
+      "title": "Mental Health Act 2025 section 56",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "england",
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "mha",
+          "title": "Mental Health in Wales",
+          "path": "content/wales/resources/mha.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "mha",
+          "title": "Mental Health Act",
+          "path": "modules/05-Mental-Health-Act.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "5205b0c1371a0f00",
       "url": "https://www.legislation.gov.uk/ukpga/1989/41/section/47",
       "title": "47",
@@ -2858,6 +3067,12 @@
           "id": "sources",
           "title": "Source Library",
           "path": "SOURCE_LIBRARY.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "dols",
+          "title": "DoLS and Deprivation of Liberty",
+          "path": "modules/04-DoLS-and-Deprivation-of-Liberty.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
@@ -3468,7 +3683,14 @@
       "jurisdictions": [
         "canada-british-columbia"
       ],
-      "references": [],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "foundations",
+          "title": "Professional Foundations — British Columbia",
+          "path": "content/canada-british-columbia/resources/foundations.md"
+        }
+      ],
       "coverageNote": "Checks this URL only; linked publications need separate review."
     },
     {
@@ -3620,6 +3842,32 @@
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "854903a921f8720d",
+      "url": "https://www.legislation.gov.uk/ukpga/1983/20/section/136",
+      "title": "Section 136",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "england"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "mha",
+          "title": "Mental Health Act",
+          "path": "modules/05-Mental-Health-Act.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Monitors this source URL only. Commencement, judgment status, applicability and linked documents require editorial assessment; inclusion is not legal certification."
     },
     {
       "id": "86785c3efc06e6ad",
@@ -3954,6 +4202,26 @@
       ],
       "references": [],
       "coverageNote": "Checks this URL only; linked publications need separate review."
+    },
+    {
+      "id": "91bd265e1d7f36d9",
+      "url": "https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/",
+      "title": "Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding",
+      "publisher": "djacounsel.com",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "mha",
+          "title": "Mental Health — British Columbia",
+          "path": "content/canada-british-columbia/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Verification lead for 2026 BCSC 1416. Counsel report is secondary; primary judgment retrieval was blocked on 22 October 2026. Current orders, suspension, appeal/stay and legislation require independent checking. Inclusion does not verify operational effect."
     },
     {
       "id": "9235bf4c1e7a3b78",
@@ -4388,6 +4656,39 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "a172b3fcee60b01c",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48",
+      "title": "Re BM [2026] EWCOP 48 (T2)",
+      "publisher": "caselaw.nationalarchives.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england",
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "dols",
+          "title": "DoLS and Deprivation of Liberty",
+          "path": "content/wales/resources/dols.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "dols",
+          "title": "DoLS and Deprivation of Liberty",
+          "path": "modules/04-DoLS-and-Deprivation-of-Liberty.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "a1b4e4e87f1bcd08",
       "url": "https://equalityni.org/equality-laws-ni",
       "title": "Equality laws in Northern Ireland",
@@ -4509,6 +4810,26 @@
           "id": "dols",
           "title": "Restrictions and Liberty — California",
           "path": "content/united-states-california/resources/dols.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "a712374286bb283e",
+      "url": "https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service",
+      "title": "Department of Health: disclosure and barring, September 2026 change",
+      "publisher": "www.health-ni.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "northern-ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Northern Ireland",
+          "path": "content/northern-ireland/resources/children.md"
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
@@ -5473,6 +5794,18 @@
           "id": "mca",
           "title": "Mental Capacity Act 2005",
           "path": "content/wales/resources/mca.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "mca",
+          "title": "Mental Capacity Act 2005",
+          "path": "modules/03-Mental-Capacity-Act-2005.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "mha",
+          "title": "Mental Health Act",
+          "path": "modules/05-Mental-Health-Act.md"
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
@@ -5793,6 +6126,26 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "ce88f18d77b722fd",
+      "url": "https://canlii.ca/t/kmcps",
+      "title": "2026 BCSC 1416 judgment — access and current effect require verification",
+      "publisher": "canlii.ca",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-british-columbia"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-british-columbia",
+          "id": "mha",
+          "title": "Mental Health — British Columbia",
+          "path": "content/canada-british-columbia/resources/mha.md"
+        }
+      ],
+      "coverageNote": "Verification lead for 2026 BCSC 1416. Counsel report is secondary; primary judgment retrieval was blocked on 22 October 2026. Current orders, suspension, appeal/stay and legislation require independent checking. Inclusion does not verify operational effect."
+    },
+    {
       "id": "cef655fa7e400334",
       "url": "https://www.legislation.gov.uk/asp/2016/9/contents",
       "title": "Carers (Scotland) Act 2016",
@@ -5874,6 +6227,26 @@
           "id": "mca",
           "title": "Decision-Making and Capacity — New South Wales",
           "path": "content/australia-nsw/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "d49c1d8324f56d14",
+      "url": "https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf",
+      "title": "Scottish children’s reform: first commencement schedule",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "scotland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "scotland",
+          "id": "children",
+          "title": "Children, Families and Transitions — Scotland",
+          "path": "content/scotland/resources/children.md"
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
@@ -5972,6 +6345,77 @@
           "id": "safeguarding",
           "title": "Adult Safeguarding — Scotland",
           "path": "content/scotland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "d789318d5f8b597b",
+      "url": "https://www.gov.uk/government/publications/supervised-discharge-guidance",
+      "title": "HMPPS supervised discharge guidance",
+      "publisher": "www.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england",
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "dols",
+          "title": "DoLS and Deprivation of Liberty",
+          "path": "content/wales/resources/dols.md"
+        },
+        {
+          "jurisdiction": "wales",
+          "id": "mha",
+          "title": "Mental Health in Wales",
+          "path": "content/wales/resources/mha.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "dols",
+          "title": "DoLS and Deprivation of Liberty",
+          "path": "modules/04-DoLS-and-Deprivation-of-Liberty.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "mha",
+          "title": "Mental Health Act",
+          "path": "modules/05-Mental-Health-Act.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "d8e5776c5f1c93c0",
+      "url": "https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales",
+      "title": "Stronger Safeguarding for a Safer Wales — 6 October 2026",
+      "publisher": "www.gov.wales",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "wales",
+          "id": "safeguarding",
+          "title": "Safeguarding Adults in Wales",
+          "path": "content/wales/resources/safeguarding.md"
+        },
+        {
+          "jurisdiction": "wales",
+          "id": "children",
+          "title": "Children, Families and Transitions",
+          "path": "content/wales/resources/children.md"
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
@@ -6774,6 +7218,26 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "f4c9b729c5e0243e",
+      "url": "https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State",
+      "title": "NYSED: Medical Aid in Dying and professional guidance",
+      "publisher": "www.op.nysed.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New York",
+          "path": "content/united-states-new-york/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "f51bc444f6ea5e1a",
       "url": "https://www.gov.wales/additional-learning-needs-code",
       "title": "ALN Code and official IDP examples",
@@ -7092,6 +7556,38 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "fdfede236e7998e0",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184",
+      "title": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184",
+      "publisher": "caselaw.nationalarchives.gov.uk",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "england"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "care-act",
+          "title": "Care Act 2014",
+          "path": "modules/02-Care-Act-2014.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "mca",
+          "title": "Mental Capacity Act 2005",
+          "path": "modules/03-Mental-Capacity-Act-2005.md"
+        },
+        {
+          "jurisdiction": "england",
+          "id": "sources",
+          "title": "Source Library",
+          "path": "SOURCE_LIBRARY.md"
+        }
+      ],
+      "coverageNote": "Monitors this source URL only. Commencement, judgment status, applicability and linked documents require editorial assessment; inclusion is not legal certification."
     },
     {
       "id": "fe1c2498b7147da1",

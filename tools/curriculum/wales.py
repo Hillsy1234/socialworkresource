@@ -83,3 +83,22 @@ Distinguish a person’s language need and the organisation’s applicable Welsh
 }
 for item in DATA.values():
     item['preserve'] = True
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['mha']['legal'] += '\n\nMental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.'
+DATA['mha']['editorialUpdatedAt'] = '2026-10-22'
+DATA['mha']['sources'].extend([{'title': 'Mental Health Act 2025 section 56', 'url': 'https://www.legislation.gov.uk/ukpga/2025/33/section/56', 'category': 'legislation'}, {'title': 'HMPPS supervised discharge guidance for England and Wales', 'url': 'https://www.gov.uk/government/publications/supervised-discharge-guidance', 'category': 'policy'}])
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['dols']['legal'] += '\n\nRe BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.'
+DATA['dols']['editorialUpdatedAt'] = '2026-10-22'
+DATA['dols']['sources'].extend([{'title': 'Re BM — 2026 EWCOP 48 (T2)', 'url': 'https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48', 'category': 'policy'}, {'title': 'HMPPS supervised discharge guidance', 'url': 'https://www.gov.uk/government/publications/supervised-discharge-guidance', 'category': 'policy'}])
+
+# Safeguarding programme: distinguish announced reform from operative duties.
+for topic in ['safeguarding', 'children']:
+    DATA[topic]['legal'] += '\n\nOn 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.'
+    DATA[topic]['sources'].append(S('Stronger Safeguarding for a Safer Wales — 6 October 2026', 'https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales', 'policy'))
+    DATA[topic]['editorialUpdatedAt'] = '2026-10-22'
+
+DATA['children']['legal'] += '\n\nFrom 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.'
+DATA['children']['sources'].append(S('DBS: September 2026 regulated-activity change', 'https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026', 'policy'))

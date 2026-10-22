@@ -6,7 +6,7 @@ A separate approval screen is now implemented at `/monitoring/review.html`. See 
 
 ## What is implemented
 
-The working register now contains 318 URLs across 12 practice locations, giving 333 location/source observations in a full run. This expanded register takes effect after deployment; the original September production baseline covered 145 URLs and 151 observations. `monitoring/sources.json` contains publisher, category, location coverage, source purpose, coverage limitations and the learning resources that directly link to each source. The register was assembled from the existing resource references, restricted to selected government, regulatory, professional-body and established practice-learning publishers, with additional official news and CPD pages. Inclusion does not imply that a URL is reachable or that every linked document is monitored.
+The working register now contains 335 URLs across 12 practice locations, giving 333 location/source observations in a full run. This expanded register takes effect after deployment; the original September production baseline covered 145 URLs and 151 observations. `monitoring/sources.json` contains publisher, category, location coverage, source purpose, coverage limitations and the learning resources that directly link to each source. The register was assembled from the existing resource references, restricted to selected government, regulatory, professional-body and established practice-learning publishers, with additional official news and CPD pages. Inclusion does not imply that a URL is reachable or that every linked document is monitored.
 
 The first successful observation establishes a baseline. Later runs compare normalized article text and links, or feed entries. Navigation and scripts are excluded. Dates in substantive content are retained. PDF files receive a binary fingerprint check with an explicit manual-review limitation. Dynamic training listings are flagged where the returned HTML says events are still loading. JavaScript-only pages, challenges, missing pages, unsupported files, timeouts and oversized responses are failed checks, never “up to date”. There is no browser-rendering service or AI dependency.
 
@@ -82,3 +82,8 @@ The latest live-source check is in `output/monitoring/latest.md` and `latest.jso
 - [Scheduled Functions](https://docs.netlify.com/build/functions/scheduled-functions/)
 - [Background Functions](https://docs.netlify.com/build/functions/background-functions/)
 - [Blobs persistence, consistency and conditional writes](https://docs.netlify.com/build/data-and-storage/netlify-blobs/)
+
+
+## 22 October 2026 release check
+
+Registry: 335 URLs. The historical September results above are not current verification. Before today’s release, the live October report showed all 12 batches as not-run. Following production deploy 6ad9e71d40fbc85b7161c83e, the source-monitor workers were explicitly started for October. See the private October report for completion and source-access failures. The configured schedule remains 06:00 UTC on the first day of the month; its next scheduled date is 1 November 2026. Do not infer that the missed October invocation proves future scheduler operation.

@@ -10,7 +10,8 @@
       "summary": "Orientation, law-watch notes, and the core practice formula for the whole pack.",
       "topicId": "readme",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "map",
@@ -34,7 +35,8 @@
       "summary": "A guided route-checker for matching case facts to legal frameworks and recording points.",
       "topicId": "case-route-finder",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -46,7 +48,8 @@
       "summary": "Module-by-module flashcards for quick revision, supervision prompts, and student refreshers.",
       "topicId": "flashcards",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-asye-pathway",
@@ -130,7 +133,8 @@
       "summary": "Assessment, eligibility, wellbeing, advocacy, carers, planning, and review.",
       "topicId": "care-support",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "mca",
@@ -142,7 +146,8 @@
       "summary": "Decision-specific capacity, support, best interests, IMCA, restraint, and records.",
       "topicId": "mca",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "dols",
@@ -154,7 +159,8 @@
       "summary": "DoLS, Court authorisation, objection, consent, and the 2026 legal update.",
       "topicId": "dols",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "mha",
@@ -166,7 +172,8 @@
       "summary": "Civil sections, AMHP analysis, MCA/DoLS interface, Section 117, and reform watch.",
       "topicId": "mha",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "safeguarding",
@@ -190,7 +197,8 @@
       "summary": "Whole-family practice, children in need, child protection, SEND, young carers, and transition.",
       "topicId": "children",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "rights",
@@ -202,7 +210,8 @@
       "summary": "Equality, reasonable adjustments, human rights analysis, anti-oppressive practice, and records.",
       "topicId": "rights",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "quick-reference",
@@ -214,7 +223,8 @@
       "summary": "A fast legal map, threshold checks, risk flags, and decision reminders.",
       "topicId": "quick-reference",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -226,7 +236,8 @@
       "summary": "Reusable assessment, safeguarding, MCA, best interests, supervision, and risk templates.",
       "topicId": "templates",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "printable-tools",
@@ -238,7 +249,8 @@
       "summary": "Downloadable and printable practice prompts for assessments, MCA, safeguarding, and supervision.",
       "topicId": "printable-tools",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -250,7 +262,8 @@
       "summary": "Applied scenarios for supervision, ASYE learning, workshops, and private study.",
       "topicId": "scenarios",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -262,7 +275,8 @@
       "summary": "Official and authoritative links for checking current law, guidance, and standards.",
       "topicId": "sources",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -310,7 +324,8 @@
       "summary": "Use of the learning resource, legal disclaimer, acceptable use, and external services.",
       "topicId": "terms-of-service",
       "jurisdiction": "england",
-      "sourceCheckedAt": "2026-07-24"
+      "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22"
     }
   ],
   "featuredIds": [
@@ -410,22 +425,22 @@
     "care-act": {
       "title": "Care Act 2014",
       "action": "Check appearance of need, assessment duties, eligibility, wellbeing, advocacy, carers, prevention, plan, review, and ordinary residence where relevant.",
-      "record": "Record the person's outcomes, needs, strengths, risks, eligibility analysis, advocacy position, carer position, options, rationale, and review."
+      "record": "Record the person's outcomes, needs, strengths, risks, eligibility analysis, advocacy position, carer position, options, rationale, and review. Where relevant capacity is in doubt, assess the specific decision; inspect deputy authority for direct payments."
     },
     "mca": {
       "title": "Mental Capacity Act 2005",
       "action": "Identify the specific decision, support the person to decide, assess capacity only where needed, and use best interests if capacity is lacking.",
-      "record": "Record relevant information, support provided, the functional test, causative link, wishes and feelings, consultation, options, and least restrictive reasoning."
+      "record": "Record relevant information, support provided, the functional test, causative link, wishes and feelings, consultation, options, and least restrictive reasoning. Do not use the presumption to avoid investigating relevant capacity doubts. Check any deputy’s specific powers."
     },
     "dols": {
       "title": "DoLS and Deprivation of Liberty",
       "action": "Map restrictions, consent, objection, capacity for residence/care, setting, duration, effects, and whether DoLS or Court advice is needed.",
-      "record": "Record the care arrangements, person's wishes, restrictions, less restrictive options, authorisation route, review date, and advice sought."
+      "record": "Record the care arrangements, person's wishes, restrictions, less restrictive options, authorisation route, review date, and advice sought. Separate objective restrictions from Article 5 consent; record continuing safeguards even if Article 5 is not engaged. Check the distinct supervised-discharge route for relevant restricted patients."
     },
     "mha": {
       "title": "Mental Health Act",
       "action": "Consider mental disorder, risk, purpose of detention, need for hospital assessment or treatment, alternatives, nearest relative/nominated person position, and least restriction.",
-      "record": "Record risk, alternatives, legal criteria considered, consultation, person's views, family position, AMHP reasoning, and interface with MCA/DoLS."
+      "record": "Record risk, alternatives, legal criteria considered, consultation, person's views, family position, AMHP reasoning, and interface with MCA/DoLS. Section 136 is not limited to public places; check excluded residential premises. Check February and April commencement and the actual MCA/MHA eligibility interface."
     },
     "safeguarding": {
       "title": "Safeguarding Adults",
@@ -435,7 +450,7 @@
     "children": {
       "title": "Children, Families, and Transitions",
       "action": "Check whether children, young carers, SEND, transition, family safety, or children's safeguarding pathways need to be considered alongside adult work.",
-      "record": "Record the child's voice, family context, referrals, transition timing, parental/carer roles, information sharing, and joint working."
+      "record": "Record the child's voice, family context, referrals, transition timing, parental/carer roles, information sharing, and joint working. Apply the operative section 16LA duty and KCSIE 2026 within their scope."
     },
     "rights": {
       "title": "Equality, Human Rights, and Recording",
@@ -516,8 +531,8 @@
           "answer": "When the person would have substantial difficulty being involved and there is no appropriate person to support their involvement."
         },
         {
-          "prompt": "What should a Care Act plan make clear?",
-          "answer": "Eligible needs, outcomes, support, personal budget where relevant, contingency, risk management, review arrangements, and how wellbeing is promoted."
+          "prompt": "What do TDB and Re Direct Payments add to care planning?",
+          "answer": "Investigate decision-specific capacity doubts relevant to needs (TDB v Haringey [2026] EWCA Civ 1184); participation support does not replace that assessment. Verify specific deputy authority for managing direct payments (Re Direct Payments [2026] EWCOP 42 (T2)); a standard financial order is insufficient. The latter is a Tier 2 illustration, not binding appellate authority."
         }
       ]
     },
@@ -527,7 +542,7 @@
       "cards": [
         {
           "prompt": "What is the starting presumption under the MCA?",
-          "answer": "A person is presumed to have capacity unless it is established that they lack capacity for the specific decision at the specific time."
+          "answer": "A person is presumed to have capacity unless it is established that they lack capacity for the specific decision at the specific time. TDB v Haringey confirms that the presumption is not a reason to avoid assessment where relevant capacity is in doubt; it does not require formal assessment in every case."
         },
         {
           "prompt": "What must be done before concluding a person lacks capacity?",
@@ -568,8 +583,8 @@
           "answer": "For community deprivation of liberty, serious disputes, complex best interests decisions, or situations outside ordinary DoLS authorisation."
         },
         {
-          "prompt": "Why should practitioners check current deprivation of liberty law?",
-          "answer": "Because the legal approach changed in 2026. Practitioners must follow current law, statutory updates, local policy, and legal advice."
+          "prompt": "What do the October 2026 liberty cases illustrate?",
+          "answer": "Re BM [2026] EWCOP 48 (T2) distinguishes contentment with life from a meaningful view of restrictions. Re PK & MK [2026] EWCOP 52 (T2) considers continuing safeguards when Article 5 is not engaged. Both are fact-specific Tier 2 illustrations, not universal rules."
         }
       ]
     },
@@ -586,16 +601,16 @@
           "answer": "Independent social perspective, least restrictive analysis, rights focus, family and community context, risk analysis, and scrutiny of alternatives."
         },
         {
-          "prompt": "Why is the MHA and MCA interface important?",
-          "answer": "Because practitioners must choose the correct legal route for mental disorder treatment, care, capacity, objection, deprivation of liberty, and safeguards."
+          "prompt": "How should the MCA/MHA interface be checked?",
+          "answer": "Ordinary MCA powers do not authorise deprivation of liberty. Check separate DoLS or court authority, section 4A, Schedule 1A eligibility and section 28 treatment limits. Non-objection alone does not establish eligibility, and DoLS does not authorise treatment."
         },
         {
           "prompt": "What is Section 117 aftercare?",
           "answer": "A joint duty to provide aftercare for eligible people detained under qualifying MHA sections, linked to needs arising from mental disorder."
         },
         {
-          "prompt": "Why must practitioners check MHA reform updates?",
-          "answer": "Because the Mental Health Act 2025 is implemented in phases, so practitioners must check what is currently in force."
+          "prompt": "Which MHA 2025 commencement dates must not be missed?",
+          "answer": "Section 56(1) provisions commenced on 18 February 2026, including supervised-discharge changes for relevant restricted patients. Sections 51 and 52 followed on 6 April. Check each provision; these dates do not make every reform operative."
         }
       ]
     },
@@ -646,8 +661,8 @@
           "answer": "The young person falling between services because eligibility, responsibility, timing, or information-sharing is unclear."
         },
         {
-          "prompt": "Why does safeguarding children knowledge matter in adult practice?",
-          "answer": "Adult needs, mental health, domestic abuse, substance use, disability, or care pressures may affect children and family safety."
+          "prompt": "Which September 2026 safeguarding changes are now operative in England?",
+          "answer": "KCSIE 2026 replaced the previous edition on 1 September. The section 16LA children’s information-sharing duty took effect on 30 September: use the final DfE guidance and check its scope, conditions and data-protection safeguards."
         }
       ]
     },
@@ -660,8 +675,8 @@
           "answer": "To remove or reduce disadvantage for disabled people so they can access assessment, communication, services, decisions, and participation fairly."
         },
         {
-          "prompt": "Why should human rights analysis be explicit?",
-          "answer": "Because decisions may affect liberty, private and family life, dignity, discrimination, safety, and fair process."
+          "prompt": "Do safeguards end when Article 5 is not engaged?",
+          "answer": "No. Article 8, MCA and Care Act duties can still require participation, lawful best-interests decisions, proportionate restrictions, advocacy where eligible, review and safeguarding. Re PK & MK is a fact-specific illustration, not a universal requirement for ongoing court supervision."
         },
         {
           "prompt": "What does proportionate recording mean?",
@@ -1596,6 +1611,35 @@
         "Which records and partners matter?"
       ],
       "reveal": "Patterns matter. Consider safeguarding, commissioning, CQC, police, MCA, DoLS, provider action, family communication, and individual protection plans."
+    },
+    {
+      "title": "Capacity concerns during a Care Act assessment",
+      "summary": "A person describes their preferred care plan fluently, but staff report difficulty understanding its consequences. The assessor proposes to rely on participation support without investigating capacity.",
+      "routes": [
+        "care-act",
+        "mca",
+        "sources"
+      ],
+      "prompts": [
+        "Which decision is capacity in doubt about?",
+        "What support and evidence are needed?",
+        "What does TDB require, and what does it not require?"
+      ],
+      "reveal": "Identify the decision relevant to needs, provide support and investigate the capacity doubt. TDB v Haringey [2026] EWCA Civ 1184 rejects using the presumption or section 67 support to avoid a necessary assessment. It does not mandate formal capacity assessment for everyone."
+    },
+    {
+      "title": "A deputy offers to manage direct payments",
+      "summary": "A financial deputy offers to arrange care using direct payments and shows a standard property-and-affairs order.",
+      "routes": [
+        "care-act",
+        "mca",
+        "sources"
+      ],
+      "prompts": [
+        "Does the actual order cover these decisions?",
+        "Which payment scheme and alternative lawful arrangements apply?"
+      ],
+      "reveal": "Check specific authority rather than the deputy’s title. Re Direct Payments [2026] EWCOP 42 (T2) identifies welfare decisions within management of direct payments. Obtain advice on authority and the scheme; it does not mean everyone managing payments must become a deputy."
     }
   ],
   "printableTemplates": [
@@ -1603,13 +1647,13 @@
       "id": "care-act-template",
       "title": "Care Act Assessment Prompt",
       "fileName": "care-act-assessment-prompt.txt",
-      "body": "Care Act Assessment Prompt\n\n1. Person's own words and outcomes\n2. Communication, accessibility, advocacy, and reasonable adjustments\n3. Current situation, strengths, networks, and community links\n4. Daily living outcomes and impact on wellbeing\n5. Carer position and carer's assessment\n6. Capacity, consent, and information sharing\n7. Risk, safeguarding, and contingency\n8. Eligibility analysis\n9. Plan, personal budget or direct payment where relevant\n10. Review and what would trigger earlier review"
+      "body": "Care Act Assessment Prompt\n\n1. Person's own words and outcomes\n2. Communication, accessibility, advocacy, and reasonable adjustments\n3. Current situation, strengths, networks, and community links\n4. Daily living outcomes and impact on wellbeing\n5. Carer position and carer's assessment\n6. Capacity, consent, and information sharing\n7. Risk, safeguarding, and contingency\n8. Eligibility analysis\n9. Plan, personal budget or direct payment where relevant\n10. Review and what would trigger earlier review\n\nRelevant capacity doubts and decision-specific assessment (TDB):\nSpecific deputy authority for direct payments and scheme checked:\n"
     },
     {
       "id": "mca-template",
       "title": "MCA Capacity and Best Interests Prompt",
       "fileName": "mca-capacity-best-interests-prompt.txt",
-      "body": "MCA Capacity and Best Interests Prompt\n\nDecision:\nRelevant information:\nSupport provided:\nUnderstand:\nRetain:\nUse or weigh:\nCommunicate:\nCausative link:\nConclusion:\n\nIf the person lacks capacity:\nWishes and feelings:\nBeliefs and values:\nOptions:\nConsultation:\nLeast restrictive option:\nDecision and rationale:\nReview:"
+      "body": "MCA Capacity and Best Interests Prompt\n\nDecision:\nRelevant information:\nSupport provided:\nUnderstand:\nRetain:\nUse or weigh:\nCommunicate:\nCausative link:\nConclusion:\n\nIf the person lacks capacity:\nWishes and feelings:\nBeliefs and values:\nOptions:\nConsultation:\nLeast restrictive option:\nDecision and rationale:\nReview:\n\nReason for investigating capacity doubts relevant to care needs:\nRepresentative’s actual document and specific powers:\nSeparate treatment and liberty authority, including MCA/MHA interface:\n"
     },
     {
       "id": "safeguarding-template",
@@ -1621,7 +1665,7 @@
       "id": "dols-template",
       "title": "Deprivation of Liberty Route Prompt",
       "fileName": "deprivation-of-liberty-route-prompt.txt",
-      "body": "Deprivation of Liberty Route Prompt\n\nPerson and setting:\nCare arrangements:\nCapacity for residence/care:\nRestrictions:\nDuration, effects, and manner:\nWishes and feelings:\nObjection or acceptance:\nConsent analysis:\nLess restrictive options:\nPossible authorisation route:\nAdvice needed:\nReview:"
+      "body": "Deprivation of Liberty Route Prompt\n\nPerson and setting:\nCare arrangements:\nCapacity for residence/care:\nRestrictions:\nDuration, effects, and manner:\nWishes and feelings:\nObjection or acceptance:\nConsent analysis:\nLess restrictive options:\nPossible authorisation route:\nAdvice needed:\nReview:\n\nObjective restrictions analysis:\nSeparate Article 5 consent analysis (not mere compliance):\nIf Article 5 is not engaged, continuing Article 8/MCA/care-planning safeguards:\nRestricted patient: supervised-discharge route checked where relevant:\n"
     },
     {
       "id": "supervision-template",
@@ -1644,7 +1688,7 @@
     {
       "title": "Practise Decision-Specific Capacity",
       "resource": "mca",
-      "task": "Write one capacity assessment and identify what support was provided first."
+      "task": "Write one capacity assessment and identify what support was provided first. Apply the TDB example and explain why not every needs assessment requires a formal capacity assessment."
     },
     {
       "title": "Understand Liberty and Restriction",
@@ -1674,12 +1718,12 @@
   ],
   "id": "england",
   "label": "England practice guide",
-  "version": "2026-09-08-final-1",
+  "version": "2026-10-22-legal-update",
   "hero": "A practical learning hub for Care Act, MCA, DoLS, Mental Health Act, safeguarding, social work theory, children’s models, equality, human rights, and evidence-led recording.",
   "alerts": [
-    "Review liberty arrangements in light of the June 2026 Supreme Court judgment.",
-    "Check commencement before relying on Mental Health Act reforms.",
-    "Use current statutory guidance and local procedures."
+    "Targeted legal update: 22 October 2026; see the modules for scope and sources.",
+    "KCSIE 2026 and the section 16LA information-sharing duty are now operative in England.",
+    "Check provision-specific MHA commencement and the September/October case-law notes."
   ],
   "toolCount": 9,
   "releaseStatus": "final"

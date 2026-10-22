@@ -21,6 +21,7 @@ Australian Association of Social Workers (AASW)
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 
 ### Decision-Making and Capacity — Victoria
@@ -75,3 +76,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

@@ -41,6 +41,7 @@ Social Workers Registration Board (SWRB)
 - [Mental-health replacement and commencement](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act)
 - [Guidelines to the 1992 Act](https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992)
 - [Current mental-health rights](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act)
+- [Mental Health Act 2026, section 2 commencement](https://www.legislation.govt.nz/act/public/2026/44/en/latest/)
 
 
 ### Adult Safeguarding — Aotearoa New Zealand
@@ -70,3 +71,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

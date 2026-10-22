@@ -81,3 +81,8 @@ The Privacy Act 2020 and Health Information Privacy Code govern information hand
 'Using an outdated privacy-code version or treating collection and disclosure as the same legal decision.',
 [S('Current Health Information Privacy Code', 'https://www.privacy.org.nz/privacy-principles/codes-of-practice/hipc2020/', 'policy'), S('Health-information disclosure guidance', 'https://www.privacy.org.nz/privacy-principles/codes-of-practice/hipc2020/hipc-factsheet-3/', 'policy'), S('Requests from police and law enforcement', 'https://www.privacy.org.nz/responsibilities/releasing-personal-information-to-police-and-law-enforcement-agencies/', 'policy')]),
 }
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['mha']['legal'] += '\n\nCommencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.'
+DATA['mha']['editorialUpdatedAt'] = '2026-10-22'
+DATA['mha']['sources'].extend([{'title': 'Mental Health Act 2026, section 2 commencement', 'url': 'https://www.legislation.govt.nz/act/public/2026/44/en/latest/', 'category': 'legislation'}])

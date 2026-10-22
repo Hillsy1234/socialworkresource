@@ -168,9 +168,17 @@ If restrictions may amount to deprivation of liberty, consider DoLS or Court aut
 
 ## MCA and Mental Health Act
 
-The MCA cannot be used to detain a person for treatment of mental disorder. If detention for mental health assessment or treatment may be required, consider Mental Health Act assessment.
+Ordinary MCA care and treatment powers do not themselves authorise deprivation of liberty. Where the person lacks capacity, a separate DoLS or Court of Protection authorisation may be available, subject to section 4A and Schedule 1A eligibility. This can include psychiatric care for a non-objecting person when the statutory criteria are met; non-objection alone does not establish eligibility. Section 28 limits MCA authority for treatment regulated by Part IV of the MHA. DoLS authorises deprivation of liberty, not treatment itself. Consider an MHA assessment where appropriate and obtain specialist advice on the actual admission, treatment, objections and legal status.
+
+Sources: [MCA sections 4A and 28 and Schedules A1/1A](https://www.legislation.gov.uk/ukpga/2005/9/contents). Check commencement annotations: prospective amendments are not necessarily operative.
 
 For a person detained under the Mental Health Act, MCA may still apply to decisions outside treatment for mental disorder, such as physical healthcare, accommodation after discharge, finances, or contact.
+
+## Recent case-law learning
+
+[TDB v Haringey](https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/1184) [2026] EWCA Civ 1184 requires attention to decision-specific capacity where relevant doubts arise during care assessment. Participation support does not settle capacity. See the Care Act module for the case and [Re Direct Payments](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/42) [2026] EWCOP 42 (T2) on the need to check specific deputy authority when managing direct payments.
+
+Learning example: a person can describe a preferred care plan, but staff report difficulties understanding its consequences. Provide support, identify the precise decision and investigate the evidence; do not treat fluent conversation or the presumption of capacity as the completed assessment.
 
 ## Common Pitfalls
 
@@ -183,3 +191,4 @@ For a person detained under the Mental Health Act, MCA may still apply to decisi
 - Writing best interests without options analysis.
 - Forgetting less restrictive alternatives.
 
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.

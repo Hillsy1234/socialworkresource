@@ -82,3 +82,9 @@ The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights wi
 'Writing that equality was considered without identifying the barrier, adjustment or effect on the decision.',
 [S('Children’s rights and incorporation', 'https://www.gov.scot/policies/human-rights/childrens-rights/', 'policy'), S('Equality Act 2010', 'https://www.legislation.gov.uk/ukpga/2010/15/contents'), S('SSSC Codes of Practice', 'https://www.sssc.uk.com/standards/codes-of-practice/', 'professional-standards')]),
 }
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['children']['legal'] += '\n\nThe Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.'
+DATA['children']['editorialUpdatedAt'] = '2026-10-22'
+DATA['children']['sources'].extend([{'title': 'Scottish children’s reform: first commencement schedule', 'url': 'https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf', 'category': 'legislation'}])
+DATA['children']['steps'].append('For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.')

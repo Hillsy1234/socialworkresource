@@ -82,3 +82,8 @@ The Human Rights Act and applicable UK data-protection law also matter, but they
 'Copying an equality test from another legal system or equating identical treatment with accessible participation.',
 [S('Equality laws in Northern Ireland', 'https://equalityni.org/equality-laws-ni', 'policy'), S('Section 75 and equality schemes', 'https://equalityni.org/public-authorities/section-75', 'policy'), S('Northern Ireland Act 1998, section 75', 'https://www.legislation.gov.uk/ukpga/1998/47/section/75')]),
 }
+
+# Current disclosure and barring guidance.
+DATA['children']['legal'] += '\n\nFrom 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.'
+DATA['children']['sources'].append(S('Department of Health: disclosure and barring, September 2026 change', 'https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service', 'policy'))
+DATA['children']['editorialUpdatedAt'] = '2026-10-22'

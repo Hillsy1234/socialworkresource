@@ -48,6 +48,8 @@ Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced ame
 
 Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
 
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
+
 ### Decision pathway
 
 - Identify the exact assessment, detention, treatment or Measure duty involved.
@@ -73,8 +75,12 @@ Common error to avoid: Treating every mental-health right as a detention issue o
 - [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
 - [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
 - [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Mental Health Act 2025 section 56](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS supervised discharge guidance for England and Wales](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 - [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
 - [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
 - [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

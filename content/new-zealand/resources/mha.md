@@ -10,6 +10,8 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
 
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
+
 ## Assess the crisis in context
 
 Attend to urgent physical health and immediate safety while creating space for the person's account. Explore sleep, medication, substance use, pain, relationships, housing, financial pressure and previous helpful or harmful experiences of services. Cultural or spiritual expression should be understood in context. Use an appropriate interpreter and ask which supporters the person wants involved.
@@ -64,5 +66,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Mental-health replacement and commencement](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act)
 - [Guidelines to the 1992 Act](https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992)
 - [Current mental-health rights](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act)
+- [Mental Health Act 2026, section 2 commencement](https://www.legislation.govt.nz/act/public/2026/44/en/latest/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

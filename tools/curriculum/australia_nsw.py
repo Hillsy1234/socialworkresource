@@ -64,3 +64,9 @@ The HRIP health-privacy principles concern collection, storage, access, use and 
 'Assuming that working with the same person creates unrestricted authority to share health records.',
 [S('NSW health privacy principles', 'https://www.ipc.nsw.gov.au/resources/fact-sheet-health-privacy-principles-hpps', 'policy'), S('HRIP Act and scope', 'https://www.ipc.nsw.gov.au/privacy/nsw-privacy-laws/hrip', 'policy'), S('Anti-Discrimination Act 1977', 'https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048')]),
 })
+
+# Targeted legal update; baseline expansion date and practitioner-review status are preserved.
+DATA['care-support']['legal'] += '\n\nFrom 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.'
+DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'
+DATA['care-support']['sources'].extend([{'title': 'My Aged Care: costs and Support at Home personal care', 'url': 'https://www.myagedcare.gov.au/how-do-aged-care-costs-work', 'category': 'policy'}])
+DATA['care-support']['steps'].append('Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.')

@@ -1,7 +1,7 @@
 {
   "id": "wales",
   "label": "Wales practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in Wales: care and support, safeguarding, mental capacity, mental health, Welsh-language practice and professional reflection.",
   "alerts": [
     "Use Welsh care and support codes, Wales Safeguarding Procedures and ALN/IDP guidance.",
@@ -49,7 +49,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/case-route-finder.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -63,7 +64,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/flashcards.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -77,7 +79,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/student-pathway.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -91,7 +94,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/glossary.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -193,7 +197,8 @@
       "practiceReviewedAt": null,
       "path": "content/wales/resources/dols.md",
       "sourceCheckedAt": "2026-09-08",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "mha",
@@ -208,7 +213,8 @@
       "practiceReviewedAt": null,
       "path": "content/wales/resources/mha.md",
       "sourceCheckedAt": "2026-09-08",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "safeguarding",
@@ -223,7 +229,8 @@
       "practiceReviewedAt": null,
       "path": "content/wales/resources/safeguarding.md",
       "sourceCheckedAt": "2026-09-08",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "children",
@@ -238,7 +245,8 @@
       "practiceReviewedAt": null,
       "path": "content/wales/resources/children.md",
       "sourceCheckedAt": "2026-09-08",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "rights",
@@ -267,7 +275,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/quick-reference.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -295,7 +304,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/printable-tools.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -309,7 +319,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/scenarios.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -323,7 +334,8 @@
       "status": "source-checked",
       "practiceReviewedAt": null,
       "path": "content/wales/resources/sources.md",
-      "sourceCheckedAt": "2026-09-08"
+      "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -602,7 +614,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record."
+          "answer": "Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments."
         },
         {
           "prompt": "What are the key local actions?",
@@ -628,7 +640,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures."
+          "answer": "Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement."
         },
         {
           "prompt": "What are the key local actions?",
@@ -654,7 +666,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished."
+          "answer": "On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures."
         },
         {
           "prompt": "What are the key local actions?",
@@ -680,7 +692,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties."
+          "answer": "From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance."
         },
         {
           "prompt": "What are the key local actions?",
@@ -1605,28 +1617,28 @@
       "id": "adult-safeguarding",
       "title": "Adult safeguarding: Wales",
       "fileName": "wales-adult-safeguarding-prompt.txt",
-      "body": "Adult safeguarding: Wales\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nSection 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different.\n\nA capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.\n\nLocal pathway:\nRecord evidence against the adult-at-risk elements and address immediate safety.\nIdentify your reporting responsibility and the authority responsible for enquiries.\nUse the Wales Safeguarding Procedures and the applicable statutory guidance.\nRecord participation, lawful sharing, accepted responsibilities and review of outcomes.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nExplain the local-authority and provider complaint processes and relevant advocacy or legal support. A safeguarding referral does not automatically authorise removal, treatment or management of finances. Check the law for the particular proposed action.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2014/4/section/126\nhttps://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/\nhttps://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf\nhttps://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/\n",
+      "body": "Adult safeguarding: Wales\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nSection 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different.\n\nA capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.\n\nOn 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.\n\nLocal pathway:\nRecord evidence against the adult-at-risk elements and address immediate safety.\nIdentify your reporting responsibility and the authority responsible for enquiries.\nUse the Wales Safeguarding Procedures and the applicable statutory guidance.\nRecord participation, lawful sharing, accepted responsibilities and review of outcomes.\n\nRecording prompts:\n1. Concern, source, chronology and the adult’s own account\nNotes:\n\n2. Immediate safety and a safe communication method\nNotes:\n\n3. The local reporting threshold, recipient and timing\nNotes:\n\n4. Consent, coercion and information-sharing basis\nNotes:\n\n5. Accepted responsibilities, outcomes and follow-up\nNotes:\n\nChallenge and review:\nExplain the local-authority and provider complaint processes and relevant advocacy or legal support. A safeguarding referral does not automatically authorise removal, treatment or management of finances. Check the law for the particular proposed action.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2014/4/section/126\nhttps://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/\nhttps://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf\nhttps://www.gov.wales/written-statement-stronger-safeguarding-safer-wales\nhttps://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/\n",
       "summary": "Recognise abuse, neglect and coercion; choose the correct local reporting route; connect immediate protection to the adult’s wishes and continuing support."
     },
     {
       "id": "liberty",
       "title": "Liberty and restriction review",
       "fileName": "wales-liberty-prompt.txt",
-      "body": "Liberty and restriction review\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Supreme Court’s June 2026 judgment requires the liberty analysis to distinguish the Article 5 consent question from domestic decision-making capacity. The old two-part checklist should not be used as the sole answer. Mere acquiescence does not establish valid consent.\n\nWhere required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.\n\nLocal pathway:\nRecord the actual setting, restrictions, duration and response to a wish to leave.\nUse current judgment and Welsh guidance with specialist advice on the applicable legal test.\nCheck the correct authorisation route, representation, conditions and review.\nExplore less restrictive alternatives and act on objections or changed circumstances.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nExplain the representative, advocacy and court challenge arrangements that apply. An existing authorisation should be reviewed through the responsible process; do not simply remove safeguards on the basis of a changed summary or training slide.\n\nSources:\nhttps://supremecourt.uk/cases/press-summary/uksc-2025-0042\nhttps://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty\nhttps://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms\n",
+      "body": "Liberty and restriction review\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Supreme Court’s June 2026 judgment requires the liberty analysis to distinguish the Article 5 consent question from domestic decision-making capacity. The old two-part checklist should not be used as the sole answer. Mere acquiescence does not establish valid consent.\n\nWhere required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.\n\nRe BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.\n\nLocal pathway:\nRecord the actual setting, restrictions, duration and response to a wish to leave.\nUse current judgment and Welsh guidance with specialist advice on the applicable legal test.\nCheck the correct authorisation route, representation, conditions and review.\nExplore less restrictive alternatives and act on objections or changed circumstances.\n\nRecording prompts:\n1. Each restriction, setting, duration and actual effect\nNotes:\n\n2. The person’s wishes, understanding and objections\nNotes:\n\n3. Legal authority, decision-maker, limits and conditions\nNotes:\n\n4. Alternatives tried and the evidence about necessity\nNotes:\n\n5. Representation, review date, expiry and challenge\nNotes:\n\nChallenge and review:\nExplain the representative, advocacy and court challenge arrangements that apply. An existing authorisation should be reviewed through the responsible process; do not simply remove safeguards on the basis of a changed summary or training slide.\n\nSources:\nhttps://supremecourt.uk/cases/press-summary/uksc-2025-0042\nhttps://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty\nhttps://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms\nhttps://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48\nhttps://www.gov.uk/government/publications/supervised-discharge-guidance\n",
       "summary": "Describe actual restrictions, identify the setting-specific legal authority, test alternatives and make representation and review practical."
     },
     {
       "id": "mental-health",
       "title": "Mental health interface discussion",
       "fileName": "wales-mental-health-prompt.txt",
-      "body": "Mental health interface discussion\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nUse the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.\n\nPart 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.\n\nLocal pathway:\nIdentify the exact assessment, detention, treatment or Measure duty involved.\nUse the Welsh Code and current statutory forms and commencement information.\nFor care planning, record outcomes, named services, responsibilities and review.\nExplain reassessment and advocacy rights appropriate to the person’s eligibility and status.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Mental Health Review Tribunal for Wales and other statutory review routes address particular detention questions. Measure care planning and reassessment are separate rights. Explain which process addresses the person’s concern and how to obtain support or legal advice.\n\nSources:\nhttps://www.gov.wales/mental-health-act-1983-code-practice\nhttps://www.legislation.gov.uk/mwa/2010/7/contents\nhttps://www.gov.wales/mental-health-wales-measure-2010-june-2026-html\nhttps://www.legislation.gov.uk/uksi/2026/385/contents\nhttps://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/\nhttps://www.legislation.gov.uk/mwa/2010/7/part/3\nhttps://www.gov.uk/government/collections/mental-health-bill-2025\n",
+      "body": "Mental health interface discussion\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nUse the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.\n\nPart 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.\n\nMental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.\n\nLocal pathway:\nIdentify the exact assessment, detention, treatment or Measure duty involved.\nUse the Welsh Code and current statutory forms and commencement information.\nFor care planning, record outcomes, named services, responsibilities and review.\nExplain reassessment and advocacy rights appropriate to the person’s eligibility and status.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Mental Health Review Tribunal for Wales and other statutory review routes address particular detention questions. Measure care planning and reassessment are separate rights. Explain which process addresses the person’s concern and how to obtain support or legal advice.\n\nSources:\nhttps://www.gov.wales/mental-health-act-1983-code-practice\nhttps://www.legislation.gov.uk/mwa/2010/7/contents\nhttps://www.gov.wales/mental-health-wales-measure-2010-june-2026-html\nhttps://www.legislation.gov.uk/uksi/2026/385/contents\nhttps://www.legislation.gov.uk/ukpga/2025/33/section/56\nhttps://www.gov.uk/government/publications/supervised-discharge-guidance\nhttps://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/\nhttps://www.legislation.gov.uk/mwa/2010/7/part/3\nhttps://www.gov.uk/government/collections/mental-health-bill-2025\n",
       "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights."
     },
     {
       "id": "children-transition",
       "title": "Child, family and transition planning",
       "fileName": "wales-children-transition-prompt.txt",
-      "body": "Child, family and transition planning\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nWelsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018.\n\nAn Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.\n\nLocal pathway:\nIdentify the child’s support and protection needs and the relevant Welsh statutory route.\nHear the child and family with suitable language and communication support.\nCheck who prepares and maintains the IDP and how education, health and social care contributions connect.\nPlan transition with named responsibilities and confirm actual acceptance by the next service.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nDisagreement about an ALN decision can involve the applicable reconsideration, disagreement-resolution and Education Tribunal for Wales routes. A social-care complaint follows a different process. Help the family identify the decision and remedy without allowing one dispute to halt other necessary support.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2018/2/contents\nhttps://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html\nhttps://www.gov.wales/individual-development-plan-idp-example-standard-form\nhttps://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance\nhttps://safeguarding.wales/\nhttps://www.gov.wales/additional-learning-needs-code\n",
+      "body": "Child, family and transition planning\nWales practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nWelsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018.\n\nAn Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.\n\nOn 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.\n\nFrom 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.\n\nLocal pathway:\nIdentify the child’s support and protection needs and the relevant Welsh statutory route.\nHear the child and family with suitable language and communication support.\nCheck who prepares and maintains the IDP and how education, health and social care contributions connect.\nPlan transition with named responsibilities and confirm actual acceptance by the next service.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nDisagreement about an ALN decision can involve the applicable reconsideration, disagreement-resolution and Education Tribunal for Wales routes. A social-care complaint follows a different process. Help the family identify the decision and remedy without allowing one dispute to halt other necessary support.\n\nSources:\nhttps://www.legislation.gov.uk/anaw/2018/2/contents\nhttps://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html\nhttps://www.gov.wales/individual-development-plan-idp-example-standard-form\nhttps://www.gov.wales/written-statement-stronger-safeguarding-safer-wales\nhttps://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026\nhttps://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance\nhttps://safeguarding.wales/\nhttps://www.gov.wales/additional-learning-needs-code\n",
       "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning."
     },
     {

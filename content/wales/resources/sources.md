@@ -38,6 +38,8 @@ Social Care Wales
 - [Supreme Court judgment summary and case](https://supremecourt.uk/cases/press-summary/uksc-2025-0042)
 - [Welsh regulator statement on liberty judgment](https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+- [Re BM — 2026 EWCOP 48 (T2)](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48)
+- [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 
 
 ### Mental Health in Wales
@@ -46,6 +48,8 @@ Social Care Wales
 - [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
 - [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
 - [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Mental Health Act 2025 section 56](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS supervised discharge guidance for England and Wales](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 - [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
 - [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
 - [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
@@ -56,6 +60,7 @@ Social Care Wales
 - [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
 - [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
 - [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
 - [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
 
 
@@ -64,6 +69,8 @@ Social Care Wales
 - [ALN and Education Tribunal (Wales) Act 2018](https://www.legislation.gov.uk/anaw/2018/2/contents)
 - [ALN decision-making and communication guidance](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html)
 - [Example IDP standard form, June 2026](https://www.gov.wales/individual-development-plan-idp-example-standard-form)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026)
 - [Welsh statutory guidance](https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance)
 - [Wales Safeguarding Procedures](https://safeguarding.wales/)
 - [ALN Code and official IDP examples](https://www.gov.wales/additional-learning-needs-code)
@@ -85,3 +92,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

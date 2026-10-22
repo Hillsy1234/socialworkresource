@@ -10,6 +10,8 @@ The British Columbia College of Social Workers (BCCSW) Code of Ethics and Standa
 
 Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.
 
+For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -63,5 +65,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [BCCSW Standards and Scope of Practice](https://bccsw.ca/for-registrants/standards-scope-of-practice/)
 - [Social Workers Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01)
+- [BCCSW CPD requirements, 2025–2026 cycle](https://bccsw.ca/for-registrants/continuing-professional-development/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

@@ -13,3 +13,6 @@ Work through one step at a time. After each section, write a short reflection:
 - What would I ask in supervision?
 - What would I check before using this in a live case?
 
+## October 2026 case-law exercise
+
+Compare TDB v Haringey with the two new scenarios. Explain when a capacity assessment is needed, why section 67 participation support is different, and why a deputy’s actual order matters. Then use Re BM and Re PK & MK to explain why contentment and absence of Article 5 do not end the safeguards analysis. Read the full case notes and their court-level limitations.

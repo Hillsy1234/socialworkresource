@@ -13,7 +13,7 @@ let country = "England";
 let jurisdiction = "england";
 let routePrefix = "";
 let reviewNote = "";
-const dateModified = "2026-09-08";
+const dateModified = "2026-10-22";
 const socialImage = `${siteUrl}/assets/social-share-card-universal.jpg`;
 const learningDir = join(rootDir, "learning");
 
@@ -386,7 +386,7 @@ function main() {
     jurisdiction = pack.id;
     country = jurisdiction === "wales" ? "Wales" : jurisdiction === "scotland" ? "Scotland" : jurisdiction === "northern-ireland" ? "Northern Ireland" : jurisdiction === "ireland" ? "Ireland" : jurisdiction === "new-zealand" ? "Aotearoa New Zealand" : jurisdiction === "australia-nsw" ? "New South Wales" : jurisdiction === "canada-ontario" ? "Ontario" : jurisdiction === "united-states-california" ? "California" : jurisdiction === "australia-victoria" ? "Victoria" : jurisdiction === "canada-british-columbia" ? "British Columbia" : jurisdiction === "united-states-new-york" ? "New York" : "England";
     routePrefix = jurisdiction === "england" ? "" : `${jurisdiction}/`;
-    reviewNote = jurisdiction === "england" ? "Existing learning content review date: 24 July 2026." : `Final learning guide. See the Source Library for references and review scope. Independent ${country} practitioner review is not recorded.`;
+    reviewNote = jurisdiction === "england" ? "Baseline learning content check: 24 July 2026. Selected legal corrections and case-law additions: 22 October 2026; see each lesson for scope. This is not a complete re-review." : `Final learning guide. See the Source Library for references and review scope. Independent ${country} practitioner review is not recorded.`;
     const dir = join(learningDir, routePrefix);
     mkdirSync(dir, { recursive: true });
     const pageMeta = new Map();
@@ -400,7 +400,7 @@ function main() {
       const htmlUrl = `${siteUrl}/learning/${routePrefix}${slug}.html`;
       writeFileSync(join(dir, `${slug}.html`), renderResourcePage(resource, markdown, htmlUrl, slug).replace(/[\t ]+$/gm, ''));
       urls.push(htmlUrl);
-      entries.push({ id: resource.id, jurisdiction, title: resource.title, group: resource.group, summary: resource.summary, htmlUrl, interactiveUrl: `${siteUrl}/?jurisdiction=${jurisdiction}&resource=${resource.id}`, markdownUrl: `${siteUrl}/${resource.path}`, sourceCheckedAt: resource.sourceCheckedAt || null, releaseStatus: pack.releaseStatus, ...(jurisdiction !== "england" ? { practiceReviewedAt: resource.practiceReviewedAt || null } : {}) });
+      entries.push({ id: resource.id, jurisdiction, title: resource.title, group: resource.group, summary: resource.summary, htmlUrl, interactiveUrl: `${siteUrl}/?jurisdiction=${jurisdiction}&resource=${resource.id}`, markdownUrl: `${siteUrl}/${resource.path}`, sourceCheckedAt: resource.sourceCheckedAt || null, editorialUpdatedAt: resource.editorialUpdatedAt || null, releaseStatus: pack.releaseStatus, ...(jurisdiction !== "england" ? { practiceReviewedAt: resource.practiceReviewedAt || null } : {}) });
       fullText.push(`# ${resource.title} — ${country}\n\nJurisdiction: ${country}\n${reviewNote}\nSource: ${htmlUrl}\n\n${markdown}`);
     }
     writeFileSync(join(dir, "index.html"), renderLearningIndex(pack.resources, pageMeta));

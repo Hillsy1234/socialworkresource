@@ -1,7 +1,7 @@
 {
   "id": "northern-ireland",
   "label": "Northern Ireland practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in Northern Ireland: Health and Social Care Trust pathways, adult safeguarding, mental capacity, mental health, children’s safeguarding and professional practice.",
   "alerts": [
     "The capacity legislation is partly commenced. Use the current June 2026 interim liberty guidance with the operative provisions.",
@@ -52,7 +52,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/case-route-finder.md",
       "sourceCheckedAt": null,
-      "slug": "case-route-finder"
+      "slug": "case-route-finder",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -67,7 +68,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/flashcards.md",
       "sourceCheckedAt": null,
-      "slug": "learning-flashcards"
+      "slug": "learning-flashcards",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -82,7 +84,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/student-pathway.md",
       "sourceCheckedAt": null,
-      "slug": "student-and-newly-qualified-pathway-northern-ireland"
+      "slug": "student-and-newly-qualified-pathway-northern-ireland",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -97,7 +100,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/glossary.md",
       "sourceCheckedAt": null,
-      "slug": "practice-glossary"
+      "slug": "practice-glossary",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -254,7 +258,8 @@
       "path": "content/northern-ireland/resources/children.md",
       "sourceCheckedAt": null,
       "slug": "children-families-and-safeguarding-northern-ireland",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "rights",
@@ -285,7 +290,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/quick-reference.md",
       "sourceCheckedAt": null,
-      "slug": "quick-reference"
+      "slug": "quick-reference",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -315,7 +321,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/printable-tools.md",
       "sourceCheckedAt": null,
-      "slug": "printable-tools"
+      "slug": "printable-tools",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -330,7 +337,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/scenarios.md",
       "sourceCheckedAt": null,
-      "slug": "practice-scenarios"
+      "slug": "practice-scenarios",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -345,7 +353,8 @@
       "practiceReviewedAt": null,
       "path": "content/northern-ireland/resources/sources.md",
       "sourceCheckedAt": null,
-      "slug": "source-library"
+      "slug": "source-library",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -706,7 +715,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions."
+          "answer": "From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026."
         },
         {
           "prompt": "What are the key local actions?",
@@ -1646,7 +1655,7 @@
       "title": "Children, Families and Transitions",
       "fileName": "northern-ireland-children-prompt.txt",
       "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
-      "body": "Children, Families and Transitions\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children (Northern Ireland) Order 1995 provides the main framework for children in need, family support and protective court processes. Co-operating to Safeguard Children and Young People supplies the regional policy framework. The HSC Trust’s children’s services and PSNI have different responsibilities.\n\nAssessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.\n\nLocal pathway:\nRecord the child’s account, daily experience, harm concerns and support needs.\nUse the current regional policy and Trust referral procedure for a child-protection concern.\nIdentify who holds parental responsibility and any court order affecting the proposed decision.\nCoordinate education, health and family support and plan transitions before a service ends.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain the particular assessment, protection or court process, including how the child and family can participate, obtain advocacy or legal advice and raise disagreement. Do not promise confidentiality that conflicts with a necessary safeguarding response.\n\nSources:\nhttps://www.legislation.gov.uk/nisi/1995/755/contents\nhttps://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland\n"
+      "body": "Children, Families and Transitions\nNorthern Ireland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children (Northern Ireland) Order 1995 provides the main framework for children in need, family support and protective court processes. Co-operating to Safeguard Children and Young People supplies the regional policy framework. The HSC Trust’s children’s services and PSNI have different responsibilities.\n\nAssessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.\n\nFrom 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.\n\nLocal pathway:\nRecord the child’s account, daily experience, harm concerns and support needs.\nUse the current regional policy and Trust referral procedure for a child-protection concern.\nIdentify who holds parental responsibility and any court order affecting the proposed decision.\nCoordinate education, health and family support and plan transitions before a service ends.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nExplain the particular assessment, protection or court process, including how the child and family can participate, obtain advocacy or legal advice and raise disagreement. Do not promise confidentiality that conflicts with a necessary safeguarding response.\n\nSources:\nhttps://www.legislation.gov.uk/nisi/1995/755/contents\nhttps://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland\nhttps://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service\n"
     },
     {
       "id": "rights",

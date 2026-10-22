@@ -49,14 +49,13 @@ Think whole family where:
 
 The Children's Social Care National Framework is statutory guidance for local authority children's social care and relevant safeguarding partners. Use it alongside Working Together when considering purpose, practice principles, outcomes, and good-practice enablers.
 
-The Children's Wellbeing and Schools Act 2026 is being implemented in stages. Do not treat its reform-related duties as operational until the relevant commencement and statutory guidance apply locally. In particular, check current arrangements for multi-agency child protection teams and the new safeguarding information-sharing duty, which the government expects to begin from September 2026.
+The Children's Wellbeing and Schools Act 2026 is being implemented in stages. Check commencement separately for each provision; local policy does not determine whether a statutory duty is in force.
+
+The information-sharing duty under section 16LA of the Children Act 2004 came into force in England on **30 September 2026**. Use the final [DfE statutory guidance](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people), updated on 10 September, with its sharing-agreement templates. Establish whether the duty applies to your organisation, the information and the purpose; record the statutory conditions, lawful basis, recipient, necessary information and reasons for sharing or not sharing. The duty does not remove all confidentiality or data-protection safeguards. Do not assume other reforms, including every multi-agency child protection provision, commenced on the same date.
 
 ## Keeping Children Safe in Education
 
-As of 24 July 2026:
-
-- KCSIE 2025 remains in force until 31 August 2026.
-- KCSIE 2026 comes into force from 1 September 2026.
+[KCSIE 2026](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) has been in force since **1 September 2026**, replacing the 2025 edition. All school and college staff should read Part One in full. The overview is complementary; the shortened Annex A version has been removed. These are education-sector expectations relevant to joint working, not a statement that all social workers are school staff.
 
 Adult social workers may need this when working with schools, safeguarding partners, parents, young carers, or transition cases.
 
@@ -135,3 +134,12 @@ Adult and children's safeguarding should be coordinated, not passed back and for
 - Waiting until the 18th birthday to begin transition.
 - Forgetting MCA applies from age 16.
 - Confusing parental preference with the young person's wishes and rights.
+
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
+
+
+## Disclosure and barring update — 22 October 2026
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
+
+[DBS: September 2026 change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026).

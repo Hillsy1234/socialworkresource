@@ -210,7 +210,7 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 ### Which distinction must be kept clear?
 
-HIPAA applies to covered entities and business associates; Mental Hygiene Law section 33.13 protects covered clinical records, and Part 2 provides additional requirements for certain substance-use-disorder records. The 2024 Part 2 changes required compliance by February 2026. Determine which overlapping rules apply before sharing.
+End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
 
 ### What are the key local actions?

@@ -225,3 +225,20 @@ Contingency:
 Review:
 ```
 
+## Additional recording prompts — October 2026
+
+```text
+Care assessment: decision-specific capacity doubt, evidence and support:
+Capacity assessment needed before completion? Reasons:
+Direct payments: scheme and representative’s specific authority:
+Liberty: objective restrictions analysis:
+Separate Article 5 consent analysis:
+Continuing participation, best-interests, advocacy, review and safeguarding:
+MHA: operative provision, commencement and separate treatment/liberty route:
+Section 136: statutory premises exclusion checked:
+Child information sharing: section 16LA scope/conditions and lawful basis:
+Necessary information, recipient and reasons to share or not share:
+Sources, dates and unresolved legal advice:
+```
+
+Use the updated modules for TDB, Re Direct Payments and the October liberty cases; Tier 2 illustrations are not universal legal rules.

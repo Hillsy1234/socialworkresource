@@ -42,6 +42,8 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
 
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
+
 ### Decision pathway
 
 - Record the actual setting, restrictions, duration and response to a wish to leave.
@@ -66,5 +68,9 @@ Common error to avoid: Equating silence with consent or treating lack of capacit
 - [Supreme Court judgment summary and case](https://supremecourt.uk/cases/press-summary/uksc-2025-0042)
 - [Welsh regulator statement on liberty judgment](https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+- [Re BM — 2026 EWCOP 48 (T2)](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48)
+- [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

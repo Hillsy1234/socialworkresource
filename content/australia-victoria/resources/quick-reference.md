@@ -29,11 +29,14 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 
 - Identify the scheme responsible for each need and the evidence required for its assessment.
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
 - Consider state health, housing and community support where a need is outside a particular funded scheme.
 - Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+- Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 
 For an NDIA decision, identify whether an internal review and subsequent Administrative Review Tribunal route are available and check the decision notice’s time limits. A provider complaint to the NDIS Commission is different from a funding review. Aged-care complaints and assessment reviews use their own routes.
@@ -43,6 +46,7 @@ For an NDIA decision, identify whether an internal review and subsequent Adminis
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 
 ## Decision-Making and Capacity — Victoria

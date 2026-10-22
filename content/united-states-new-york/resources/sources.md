@@ -63,6 +63,7 @@ New York State Education Department, Office of the Professions
 - [Mental Hygiene Law section 33.13](https://www.nysenate.gov/legislation/laws/MHY/33.13)
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
+- [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
 
 
 ## How to verify a rule
@@ -73,3 +74,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

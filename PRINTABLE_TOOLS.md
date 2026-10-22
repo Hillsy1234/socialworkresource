@@ -11,3 +11,6 @@ They are not official forms. They are practice prompts that help you structure y
 3. Adapt it to the person, local policy, and recording system.
 4. Check law, statutory guidance, supervision, and legal advice for live cases.
 
+## October 2026 additions
+
+The Care Act, MCA and liberty downloads include capacity concerns, specific deputy authority, separate liberty/consent analysis and continuing safeguards. Use the additional checklist in Templates and Checklists for MHA commencement and children’s information sharing.

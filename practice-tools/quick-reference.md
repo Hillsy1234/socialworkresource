@@ -105,3 +105,14 @@ Ask:
 - provider says "we always do it this way"
 - no clear legal basis for restriction
 
+## Targeted legal checks — 22 October 2026
+
+- Care Act/MCA: investigate relevant decision-specific capacity doubts; participation support does not replace a necessary assessment (TDB). Do not require formal capacity assessment in every case.
+- Direct payments: inspect the deputy’s specific authority and applicable scheme (Re Direct Payments, Tier 2).
+- Liberty: assess objective restrictions, then the separate Article 5 consent question. Record continuing Article 8/MCA/care-planning safeguards if Article 5 is not engaged. Contentment is not automatically valid consent (Re BM; Re PK & MK, both Tier 2).
+- MHA: check the February 2026 section 56(1) commencement as well as April sections 51/52; relevant restricted patients may use the supervised-discharge route under its statutory criteria.
+- Section 136: not confined to public places; check the excluded private residential premises in section 136(1A).
+- MCA/MHA interface: ordinary MCA powers are not liberty authorisation. Check sections 4A/28 and Schedule 1A eligibility; DoLS does not authorise treatment.
+- England children: KCSIE 2026 applies from 1 September; section 16LA information-sharing duty from 30 September. Check the duty’s scope and safeguards.
+
+See the relevant modules and Source Library for primary sources, jurisdiction, court level and limits. These are targeted updates, not a complete re-review.

@@ -7,13 +7,14 @@
 British Columbia College of Social Workers (BCCSW)
 
 
-## Official sources by topic
+## Sources by topic, including labelled verification leads
 
 
 ### Professional Foundations — British Columbia
 
 - [BCCSW Standards and Scope of Practice](https://bccsw.ca/for-registrants/standards-scope-of-practice/)
 - [Social Workers Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01)
+- [BCCSW CPD requirements, 2025–2026 cycle](https://bccsw.ca/for-registrants/continuing-professional-development/)
 
 
 ### Social Care and Support — British Columbia
@@ -39,6 +40,8 @@ British Columbia College of Social Workers (BCCSW)
 ### Mental Health — British Columbia
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
+- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
 
 
 ### Adult Safeguarding — British Columbia
@@ -69,3 +72,6 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

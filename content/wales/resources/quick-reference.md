@@ -75,6 +75,8 @@ The Supreme Court’s June 2026 judgment requires the liberty analysis to distin
 
 Where required, the hospital or care-home DoLS route and community Court of Protection arrangements have different scope. The actual restrictions, the person’s understanding and wishes, the authorisation and the care or treatment decisions should remain separate in the record.
 
+Re BM [2026] EWCOP 48 (T2), 2 October 2026, illustrates why contentment with a placement should not be equated with an understanding or meaningful view of its restrictions. It is a fact-specific Tier 2 decision, not binding appellate authority. Continue the relevant participation, best-interests, review and Article 8 safeguards even where Article 5 is not engaged. For relevant restricted patients, check the distinct supervised-discharge route under commenced mental-health amendments.
+
 
 - Record the actual setting, restrictions, duration and response to a wish to leave.
 - Use current judgment and Welsh guidance with specialist advice on the applicable legal test.
@@ -88,6 +90,8 @@ Explain the representative, advocacy and court challenge arrangements that apply
 - [Supreme Court judgment summary and case](https://supremecourt.uk/cases/press-summary/uksc-2025-0042)
 - [Welsh regulator statement on liberty judgment](https://www.careinspectorate.wales/supreme-court-judgment-deprivation-liberty)
 - [Welsh DoLS guidance and forms](https://www.gov.wales/mental-capacity-act-deprivation-liberty-guidance-and-forms)
+- [Re BM — 2026 EWCOP 48 (T2)](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/48)
+- [HMPPS supervised discharge guidance](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 
 
 ## Mental Health in Wales
@@ -95,6 +99,8 @@ Explain the representative, advocacy and court challenge arrangements that apply
 Use the Mental Health Act 1983 with the Welsh Code of Practice and commenced amendments. The Mental Health (Wales) Measure 2010 adds distinct duties concerning primary mental-health support, care coordination and planning, reassessment of eligible former service users and advocacy. It is not simply another detention route.
 
 Part 2 care and treatment planning concerns outcomes, services, responsibilities and review. Part 3 provides a direct reassessment route for eligible former secondary-service users, subject to its conditions. New mental-health reform provisions must be checked for commencement before changing operational procedures.
+
+Mental Health Act 2025 commencement is provision-specific. Section 56(1) brought sections 30(2), 32, 35, 36(1) and (3)(b), 38 and 39 into force on 18 February 2026; sections 51 and 52 followed on 6 April. The February changes include supervised discharge for relevant restricted patients with deprivation-of-liberty conditions subject to statutory criteria. Use the HMPPS guidance for the Secretary of State for Justice route and specialist advice, alongside the applicable Welsh framework. Local policy does not determine statutory commencement.
 
 
 - Identify the exact assessment, detention, treatment or Measure duty involved.
@@ -110,6 +116,8 @@ The Mental Health Review Tribunal for Wales and other statutory review routes ad
 - [Mental Health (Wales) Measure 2010](https://www.legislation.gov.uk/mwa/2010/7/contents)
 - [Current Welsh explanation of Measure activity](https://www.gov.wales/mental-health-wales-measure-2010-june-2026-html)
 - [Mental Health Act 2025 first commencement regulations](https://www.legislation.gov.uk/uksi/2026/385/contents)
+- [Mental Health Act 2025 section 56](https://www.legislation.gov.uk/ukpga/2025/33/section/56)
+- [HMPPS supervised discharge guidance for England and Wales](https://www.gov.uk/government/publications/supervised-discharge-guidance)
 - [Senedd research overview](https://research.senedd.wales/research-articles/devolution-and-health-in-wales-part-2-mental-health-organ-donation-and-nurse-staffing/)
 - [Part 3 information](https://www.legislation.gov.uk/mwa/2010/7/part/3)
 - [Government reform collection](https://www.gov.uk/government/collections/mental-health-bill-2025)
@@ -120,6 +128,8 @@ The Mental Health Review Tribunal for Wales and other statutory review routes ad
 Section 126 of the Social Services and Well-being (Wales) Act 2014 concerns an adult experiencing or at risk of abuse or neglect, with care and support needs, who cannot protect themselves because of those needs. The authority’s reasonable-cause-to-suspect enquiry duty and relevant partners’ reporting duties are different.
 
 A capacity finding is not a substitute for the adult-at-risk analysis. Coercion, dependence, practical barriers and the adult’s own desired outcomes need attention. Reporting, enquiries, service support and authority for any imposed intervention must be distinguished.
+
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
 
 
 - Record evidence against the adult-at-risk elements and address immediate safety.
@@ -134,6 +144,7 @@ Explain the local-authority and provider complaint processes and relevant advoca
 - [Welsh Act, adult-at-risk and enquiry provision](https://www.legislation.gov.uk/anaw/2014/4/section/126)
 - [Wales Safeguarding Procedures: adult at risk](https://safeguarding.wales/en/adu-i/adu-i-a2/a2-p2/)
 - [Adult protection statutory guidance, Volume 6](https://www.gov.wales/sites/default/files/publications/2019-06/volume-6-handling-individual-cases-to-protect-adults-at-risk.pdf)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
 - [adult enquiry procedures](https://www.safeguarding.wales/en/adu-i/adu-i-a3pt1/)
 
 
@@ -142,6 +153,10 @@ Explain the local-authority and provider complaint processes and relevant advoca
 Welsh care and support, child protection and education duties need to be mapped separately. The Social Services and Well-being (Wales) Act 2014 works alongside the Children Act framework and the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
 
 An Individual Development Plan (IDP) records additional learning needs and provision within the Welsh education framework. It does not replace a care and support plan or child-protection response. Welsh Government published further ALN decision-making guidance and example IDP forms in 2026; use these with the Code and statutory duties.
+
+On 6 October 2026, Welsh Government announced Stronger Safeguarding for a Safer Wales, a phased reform programme. It includes national oversight and safeguarding intelligence arrangements, with future consultation on a protection authority and mandatory reporting proposals. The announcement does not itself replace existing statutory reporting or enquiry duties; continue to apply the current Act, guidance and Wales Safeguarding Procedures.
+
+From 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.
 
 
 - Identify the child’s support and protection needs and the relevant Welsh statutory route.
@@ -156,6 +171,8 @@ Disagreement about an ALN decision can involve the applicable reconsideration, d
 - [ALN and Education Tribunal (Wales) Act 2018](https://www.legislation.gov.uk/anaw/2018/2/contents)
 - [ALN decision-making and communication guidance](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html)
 - [Example IDP standard form, June 2026](https://www.gov.wales/individual-development-plan-idp-example-standard-form)
+- [Stronger Safeguarding for a Safer Wales — 6 October 2026](https://www.gov.wales/written-statement-stronger-safeguarding-safer-wales)
+- [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026)
 - [Welsh statutory guidance](https://socialcare.wales/resources-guidance/information-and-learning-hub/sswbact/statutory-guidance)
 - [Wales Safeguarding Procedures](https://safeguarding.wales/)
 - [ALN Code and official IDP examples](https://www.gov.wales/additional-learning-needs-code)

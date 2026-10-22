@@ -132,11 +132,14 @@ The Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 p
 
 A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.
 
+The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.
+
 
 - Use the child’s account and daily-life evidence alongside family strengths and protection concerns.
 - Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority.
 - Identify whether local-authority support, a protection response or a referral to the Reporter is required.
 - Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.
+- For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.
 
 
 Children should receive accessible explanations and appropriate advocacy or legal support for the process affecting them. The UNCRC (Incorporation) (Scotland) Act 2024 adds duties within its statutory scope; check that scope rather than describing every public decision as covered in the same way.
@@ -145,6 +148,7 @@ Children should receive accessible explanations and appropriate advocacy or lega
 - [GIRFEC framework](https://www.gov.scot/policies/girfec/)
 - [Children (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/36/contents)
 - [Children’s Hearings (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/1/contents)
+- [Scottish children’s reform: first commencement schedule](https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf)
 
 
 ## Rights, Culture and Recording — Scotland

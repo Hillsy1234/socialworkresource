@@ -1,10 +1,10 @@
 {
   "id": "canada-british-columbia",
   "label": "British Columbia practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in British Columbia: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
-    "Use the British Columbia sources and the procedures for the actual service and setting.",
+    "2026 BCSC 1416: urgent verification of treatment-authority judgment, suspension and any appeal or legislative response is outstanding. Obtain current legal advice.",
     "Professional context: British Columbia College of Social Workers (BCCSW).",
     "For cross-border work, establish legal responsibility explicitly; the selector does not decide it."
   ],
@@ -52,7 +52,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/case-route-finder.md",
       "sourceCheckedAt": null,
-      "slug": "case-route-finder-british-columbia"
+      "slug": "case-route-finder-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -67,7 +68,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/flashcards.md",
       "sourceCheckedAt": null,
-      "slug": "learning-flashcards-british-columbia"
+      "slug": "learning-flashcards-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -82,7 +84,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/student-pathway.md",
       "sourceCheckedAt": null,
-      "slug": "student-and-newly-qualified-pathway-british-columbia-british-columbia"
+      "slug": "student-and-newly-qualified-pathway-british-columbia-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -97,7 +100,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/glossary.md",
       "sourceCheckedAt": null,
-      "slug": "practice-glossary-british-columbia"
+      "slug": "practice-glossary-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -158,7 +162,8 @@
       "path": "content/canada-british-columbia/resources/foundations.md",
       "sourceCheckedAt": null,
       "slug": "professional-foundations-british-columbia",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "care-support",
@@ -222,7 +227,8 @@
       "path": "content/canada-british-columbia/resources/mha.md",
       "sourceCheckedAt": null,
       "slug": "mental-health-british-columbia-british-columbia",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "safeguarding",
@@ -285,7 +291,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/quick-reference.md",
       "sourceCheckedAt": null,
-      "slug": "quick-reference-british-columbia"
+      "slug": "quick-reference-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -315,7 +322,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/printable-tools.md",
       "sourceCheckedAt": null,
-      "slug": "printable-tools-british-columbia"
+      "slug": "printable-tools-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -330,7 +338,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/scenarios.md",
       "sourceCheckedAt": null,
-      "slug": "practice-scenarios-british-columbia"
+      "slug": "practice-scenarios-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -345,7 +354,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-british-columbia/resources/sources.md",
       "sourceCheckedAt": null,
-      "slug": "source-library-british-columbia"
+      "slug": "source-library-british-columbia",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -516,7 +526,7 @@
     "mha": {
       "title": "Mental Health — British Columbia",
       "action": "Identify the route and evidence for each applicable criterion, including voluntary alternatives.",
-      "record": "Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review."
+      "record": "Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay. The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review."
     },
     "safeguarding": {
       "title": "Adult Safeguarding — British Columbia",
@@ -550,7 +560,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "Health authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships."
+          "answer": "For the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements."
         },
         {
           "prompt": "What are the key local actions?",
@@ -654,11 +664,11 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked."
+          "answer": "Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect."
         },
         {
           "prompt": "What are the key local actions?",
-          "answer": "Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route."
+          "answer": "Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay."
         },
         {
           "prompt": "How can the person participate or challenge the decision?",
@@ -1604,7 +1614,7 @@
       "title": "Professional Foundations",
       "fileName": "canada-british-columbia-foundations-prompt.txt",
       "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
-      "body": "Professional Foundations\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe British Columbia College of Social Workers (BCCSW) Code of Ethics and Standards of Practice and the Social Workers Act provide the professional framework. Check the registration category, scope and any applicable statutory exemption or special role; a job title alone does not explain a practitioner’s regulatory position.\n\nHealth authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.\n\nLocal pathway:\nConfirm the practitioner’s role, regulatory position and any specific statutory designation.\nExplain the purpose of involvement, participation and confidentiality limits.\nMap the responsible health, community, child-service or Indigenous authority rather than treating all services as one system.\nUse supervision and continuing learning to test evidence, bias and the practical effect of decisions.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nDistinguish a BCCSW professional complaint from a health-authority, service, privacy or statutory decision review. Help the person identify which body can address the action or remedy in question.\n\nSources:\nhttps://bccsw.ca/for-registrants/standards-scope-of-practice/\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01\n"
+      "body": "Professional Foundations\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe British Columbia College of Social Workers (BCCSW) Code of Ethics and Standards of Practice and the Social Workers Act provide the professional framework. Check the registration category, scope and any applicable statutory exemption or special role; a job title alone does not explain a practitioner’s regulatory position.\n\nHealth authorities, Community Living BC (CLBC), child and family services, Indigenous authorities and community organisations have different remits. Identify the organisation exercising the function and the law governing it. Cultural safety includes attention to Indigenous self-determination, racism and the person’s chosen community relationships.\n\nFor the BCCSW 2025–2026 cycle ending 31 October 2026, full, clinical and provisional registrants must complete at least 40 CPD hours: 31 general, three ethics, three cultural safety/humility and anti-discriminatory practice, and three Indigenous-specific cultural learning and anti-Indigenous racism/discrimination. No more than 15 hours count in any one activity category. Check the College portal and applicable bylaws for individual requirements.\n\nLocal pathway:\nConfirm the practitioner’s role, regulatory position and any specific statutory designation.\nExplain the purpose of involvement, participation and confidentiality limits.\nMap the responsible health, community, child-service or Indigenous authority rather than treating all services as one system.\nUse supervision and continuing learning to test evidence, bias and the practical effect of decisions.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nDistinguish a BCCSW professional complaint from a health-authority, service, privacy or statutory decision review. Help the person identify which body can address the action or remedy in question.\n\nSources:\nhttps://bccsw.ca/for-registrants/standards-scope-of-practice/\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/08031_01\nhttps://bccsw.ca/for-registrants/continuing-professional-development/\n"
     },
     {
       "id": "care-support",
@@ -1632,7 +1642,7 @@
       "title": "Mental Health",
       "fileName": "canada-british-columbia-mha-prompt.txt",
       "summary": "Distinguish voluntary care, compulsory assessment, detention and treatment; connect the local criteria to evidence and explain the person’s review rights.",
-      "body": "Mental Health\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Health Act provides involuntary admission through medical certification and other defined routes. Section 22 addresses mental disorder requiring treatment, need for treatment in or through a designated facility, need for care, supervision and control to prevent substantial deterioration or protect the person or others, and inability to be suitably admitted voluntarily.\n\nThe statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.\n\nLocal pathway:\nIdentify the route and evidence for each applicable criterion, including voluntary alternatives.\nCheck certificates, dates, notices and renewal or review requirements.\nIdentify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.\nArrange rights advice, access to a review panel or court process and the applicable second-opinion route.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review.\n\nSources:\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01\n"
+      "body": "Mental Health\nBritish Columbia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Mental Health Act provides involuntary admission through medical certification and other defined routes. Section 22 addresses mental disorder requiring treatment, need for treatment in or through a designated facility, need for care, supervision and control to prevent substantial deterioration or protect the person or others, and inability to be suitably admitted voluntarily.\n\nThe statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.\n\nUrgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.\n\nLocal pathway:\nIdentify the route and evidence for each applicable criterion, including voluntary alternatives.\nCheck certificates, dates, notices and renewal or review requirements.\nIdentify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.\nArrange rights advice, access to a review panel or court process and the applicable second-opinion route.\nEscalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.\n\nRecording prompts:\n1. Mental and physical health evidence and the person’s account\nNotes:\n\n2. The local criteria and voluntary alternatives considered\nNotes:\n\n3. Separate authority for transport, admission and treatment\nNotes:\n\n4. Required notices, advocacy, representation and review\nNotes:\n\n5. Continuity, discharge responsibilities and crisis plan\nNotes:\n\nChallenge and review:\nThe Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review.\n\nSources:\nhttps://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01\nhttps://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/\nhttps://canlii.ca/t/kmcps\n"
     },
     {
       "id": "safeguarding",

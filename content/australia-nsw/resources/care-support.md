@@ -10,6 +10,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+
 ## Assess daily life, not just a list of services
 
 Begin with what a good day would look like. Explore washing, dressing, nutrition, medicines, mobility, home safety, relationships, work or education and community participation. Ask about variation: what happens at night, on a bad day or when a regular supporter is unavailable? Establish what the person can do with appropriate equipment, accessible information or a different environment. Do not confuse performing a task once during a visit with being able to do it reliably in daily life.
@@ -28,6 +30,7 @@ For each outcome, identify an action, a responsible service or person and a revi
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
 - Consider state health, housing and community support where a need is outside a particular funded scheme.
 - Record the person’s goals, family willingness, actual start dates and the review route for each decision.
+- Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.
 
 ## Rights, challenge and review
 
@@ -65,5 +68,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [NDIS legislative changes](https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
+- [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

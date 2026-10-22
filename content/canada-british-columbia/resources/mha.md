@@ -10,6 +10,8 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
 
+Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+
 ## Assess the crisis in context
 
 Attend to urgent physical health and immediate safety while creating space for the person's account. Explore sleep, medication, substance use, pain, relationships, housing, financial pressure and previous helpful or harmful experiences of services. Cultural or spiritual expression should be understood in context. Use an appropriate interpreter and ask which supporters the person wants involved.
@@ -28,6 +30,7 @@ Rights information should be understandable at the time and revisited when the p
 - Check certificates, dates, notices and renewal or review requirements.
 - Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.
 - Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
+- Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
 
 ## Rights, challenge and review
 
@@ -59,8 +62,12 @@ Use the matching printable prompt to make a short record for this case. Include:
 
 Ask a supervisor to identify a missing fact that could change your conclusion. Revise the plan to show who will obtain that fact and what happens while it remains uncertain.
 
-## Official sources and currency
+## Sources and verification status
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
+- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

@@ -166,3 +166,10 @@ A decision is more defensible when it shows:
 - Forgetting equality and communication needs.
 - Recording "family agreed" without saying who, what authority they had, and whether the person agreed.
 
+## Continuing safeguards after a liberty assessment
+
+A conclusion that Article 5 is not engaged does not remove Article 8, MCA or Care Act duties. Record the person's participation, best-interests reasoning where required, necessity and proportionality of restrictions, advocacy eligibility, review and safeguarding routes. [Re PK & MK](https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52) [2026] EWCOP 52 (T2) is a fact-specific Tier 2 illustration; it is not a universal requirement for continuing court supervision.
+
+For children's information sharing in England, apply the operative section 16LA duty and [DfE guidance](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people) from 30 September 2026 alongside confidentiality and data-protection requirements. Record which duty or power applies rather than using a general statement that safeguarding always overrides privacy.
+
+Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.

@@ -1,7 +1,7 @@
 {
   "id": "scotland",
   "label": "Scotland practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in Scotland: adult support and protection, capacity, mental health, self-directed support, children’s hearings and professional practice.",
   "alerts": [
     "Use the Scotland sources and the procedures for the actual service and setting.",
@@ -52,7 +52,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/case-route-finder.md",
       "sourceCheckedAt": null,
-      "slug": "case-route-finder"
+      "slug": "case-route-finder",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -67,7 +68,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/flashcards.md",
       "sourceCheckedAt": null,
-      "slug": "learning-flashcards"
+      "slug": "learning-flashcards",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -82,7 +84,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/student-pathway.md",
       "sourceCheckedAt": null,
-      "slug": "student-and-newly-qualified-pathway-scotland"
+      "slug": "student-and-newly-qualified-pathway-scotland",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -97,7 +100,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/glossary.md",
       "sourceCheckedAt": null,
-      "slug": "practice-glossary"
+      "slug": "practice-glossary",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -254,7 +258,8 @@
       "path": "content/scotland/resources/children.md",
       "sourceCheckedAt": null,
       "slug": "children-families-and-transitions",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "rights",
@@ -285,7 +290,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/quick-reference.md",
       "sourceCheckedAt": null,
-      "slug": "quick-reference"
+      "slug": "quick-reference",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -315,7 +321,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/printable-tools.md",
       "sourceCheckedAt": null,
-      "slug": "printable-tools"
+      "slug": "printable-tools",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -330,7 +337,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/scenarios.md",
       "sourceCheckedAt": null,
-      "slug": "practice-scenarios"
+      "slug": "practice-scenarios",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -345,7 +353,8 @@
       "practiceReviewedAt": null,
       "path": "content/scotland/resources/sources.md",
       "sourceCheckedAt": null,
-      "slug": "source-library"
+      "slug": "source-library",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -526,7 +535,7 @@
     "children": {
       "title": "Children, Families and Transitions — Scotland",
       "action": "Use the child’s account and daily-life evidence alongside family strengths and protection concerns.",
-      "record": "Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities. Children should receive accessible explanations and appropriate advocacy or legal support for the process affecting them. The UNCRC (Incorporation) (Scotland) Act 2024 adds duties within its statutory scope; check that scope rather than describing every public decision as covered in the same way."
+      "record": "Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities. For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements. Children should receive accessible explanations and appropriate advocacy or legal support for the process affecting them. The UNCRC (Incorporation) (Scotland) Act 2024 adds duties within its statutory scope; check that scope rather than describing every public decision as covered in the same way."
     },
     "rights": {
       "title": "Rights, Culture and Recording — Scotland",
@@ -706,11 +715,11 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "A child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate."
+          "answer": "The Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform."
         },
         {
           "prompt": "What are the key local actions?",
-          "answer": "Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities."
+          "answer": "Use the child’s account and daily-life evidence alongside family strengths and protection concerns. Apply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority. Identify whether local-authority support, a protection response or a referral to the Reporter is required. Plan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities. For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements."
         },
         {
           "prompt": "How can the person participate or challenge the decision?",
@@ -1646,7 +1655,7 @@
       "title": "Children, Families and Transitions",
       "fileName": "scotland-children-prompt.txt",
       "summary": "Separate family support from protection powers, apply the local reporting duty, involve the child and coordinate education, health and transition planning.",
-      "body": "Children, Families and Transitions\nScotland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 provide important duties and compulsory-measure routes. GIRFEC is the national practice framework for coordinated support. Its SHANARRI wellbeing indicators organise enquiry; they do not replace the legal grounds and safeguards for a compulsory measure.\n\nA child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.\n\nLocal pathway:\nUse the child’s account and daily-life evidence alongside family strengths and protection concerns.\nApply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority.\nIdentify whether local-authority support, a protection response or a referral to the Reporter is required.\nPlan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nChildren should receive accessible explanations and appropriate advocacy or legal support for the process affecting them. The UNCRC (Incorporation) (Scotland) Act 2024 adds duties within its statutory scope; check that scope rather than describing every public decision as covered in the same way.\n\nSources:\nhttps://www.gov.scot/policies/girfec/\nhttps://www.legislation.gov.uk/ukpga/1995/36/contents\nhttps://www.legislation.gov.uk/asp/2011/1/contents\n"
+      "body": "Children, Families and Transitions\nScotland practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe Children (Scotland) Act 1995 and Children’s Hearings (Scotland) Act 2011 provide important duties and compulsory-measure routes. GIRFEC is the national practice framework for coordinated support. Its SHANARRI wellbeing indicators organise enquiry; they do not replace the legal grounds and safeguards for a compulsory measure.\n\nA child’s plan and a lead professional can coordinate services. Referral to the Children’s Reporter and decisions in the hearings system are separate from an ordinary support meeting. Explain which process is being used, why, and how the child and family can participate.\n\nThe Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 has staged commencement. SSI 2026/258 brought specified provisions into force on 30 September 2026, including section 29 concerning services taking cross-border placements. Some listed provisions commence only for consultation or other specified purposes. Read the schedule and operative provision before asserting a new duty; this is not commencement of every advocacy or family group decision-making reform.\n\nLocal pathway:\nUse the child’s account and daily-life evidence alongside family strengths and protection concerns.\nApply GIRFEC and current national child-protection guidance without treating a wellbeing concern as automatic compulsory authority.\nIdentify whether local-authority support, a protection response or a referral to the Reporter is required.\nPlan transitions with education, health and adult services, verifying actual acceptance and continuing responsibilities.\nFor 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.\n\nRecording prompts:\n1. Child’s account, communication and daily-life evidence\nNotes:\n\n2. Harm, strengths, needs and alternative explanations\nNotes:\n\n3. Reporting duty, recipient and action taken\nNotes:\n\n4. Family participation, culture and legal authority\nNotes:\n\n5. Named plan, education/health links and transition dates\nNotes:\n\nChallenge and review:\nChildren should receive accessible explanations and appropriate advocacy or legal support for the process affecting them. The UNCRC (Incorporation) (Scotland) Act 2024 adds duties within its statutory scope; check that scope rather than describing every public decision as covered in the same way.\n\nSources:\nhttps://www.gov.scot/policies/girfec/\nhttps://www.legislation.gov.uk/ukpga/1995/36/contents\nhttps://www.legislation.gov.uk/asp/2011/1/contents\nhttps://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf\n"
     },
     {
       "id": "rights",

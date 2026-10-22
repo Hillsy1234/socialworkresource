@@ -27,6 +27,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/README.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -39,6 +40,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/LEARNING_MAP.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -51,6 +53,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/CASE_ROUTE_FINDER.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -63,6 +66,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/FLASHCARDS.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -75,6 +79,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=student-asye-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/STUDENT_ASYE_PATHWAY.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -87,6 +92,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/GLOSSARY.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -99,6 +105,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/THEORY_INTO_PRACTICE.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -111,6 +118,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/CHILDREN_FAMILY_PRACTICE_MODELS.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -123,6 +131,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/CPD_REFLECTION_LOG.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -135,6 +144,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/01-Professional-Foundations.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -147,6 +157,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=care-act",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/02-Care-Act-2014.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -159,6 +170,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/03-Mental-Capacity-Act-2005.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -171,6 +183,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/04-DoLS-and-Deprivation-of-Liberty.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -183,6 +196,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/05-Mental-Health-Act.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -195,6 +209,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/06-Safeguarding-Adults.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -207,6 +222,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/07-Children-Families-and-Transitions.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -219,6 +235,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/modules/08-Equality-Human-Rights-and-Recording.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -231,6 +248,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/practice-tools/quick-reference.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -243,6 +261,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/practice-tools/templates-and-checklists.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -255,6 +274,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/PRINTABLE_TOOLS.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -267,6 +287,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/practice-tools/scenarios.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -279,6 +300,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/SOURCE_LIBRARY.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -291,6 +313,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/ABOUT_US.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -303,6 +326,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/CONTACT_US.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -315,6 +339,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/PRIVACY_POLICY.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final"
     },
     {
@@ -327,6 +352,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=england&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/TERMS_OF_SERVICE.md",
       "sourceCheckedAt": "2026-07-24",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final"
     },
     {
@@ -339,6 +365,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/readme.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -352,6 +379,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/map.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -365,6 +393,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/case-route-finder.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -378,6 +407,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/flashcards.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -391,6 +421,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/student-pathway.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -404,6 +435,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/glossary.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -417,6 +449,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/theory-practice.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -430,6 +463,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/children-models.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -443,6 +477,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/cpd-log.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -456,6 +491,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/foundations.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -469,6 +505,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/care-support.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -482,6 +519,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/mca.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -495,6 +533,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/dols.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -508,6 +547,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/mha.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -521,6 +561,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/safeguarding.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -534,6 +575,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/children.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -547,6 +589,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/rights.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -560,6 +603,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/quick-reference.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -573,6 +617,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/templates.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -586,6 +631,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/printable-tools.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -599,6 +645,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/scenarios.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -612,6 +659,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/sources.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -625,6 +673,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/about-us.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -638,6 +687,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/contact-us.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -651,6 +701,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/privacy-policy.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -664,6 +715,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=wales&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/wales/resources/terms-of-service.md",
       "sourceCheckedAt": "2026-09-08",
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -677,6 +729,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -690,6 +743,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -703,6 +757,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -716,6 +771,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -729,6 +785,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -742,6 +799,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -755,6 +813,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -768,6 +827,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -781,6 +841,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -794,6 +855,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -807,6 +869,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -820,6 +883,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -833,6 +897,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -846,6 +911,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -859,6 +925,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -872,6 +939,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -885,6 +953,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -898,6 +967,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -911,6 +981,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -924,6 +995,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -937,6 +1009,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -950,6 +1023,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -963,6 +1037,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -976,6 +1051,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -989,6 +1065,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1002,6 +1079,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=scotland&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/scotland/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1015,6 +1093,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1028,6 +1107,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1041,6 +1121,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1054,6 +1135,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1067,6 +1149,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1080,6 +1163,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1093,6 +1177,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1106,6 +1191,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1119,6 +1205,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1132,6 +1219,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1145,6 +1233,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1158,6 +1247,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1171,6 +1261,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1184,6 +1275,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1197,6 +1289,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1210,6 +1303,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1223,6 +1317,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1236,6 +1331,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1249,6 +1345,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1262,6 +1359,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1275,6 +1373,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1288,6 +1387,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1301,6 +1401,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1314,6 +1415,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1327,6 +1429,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1340,6 +1443,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=northern-ireland&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/northern-ireland/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1353,6 +1457,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1366,6 +1471,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1379,6 +1485,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1392,6 +1499,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1405,6 +1513,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1418,6 +1527,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1431,6 +1541,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1444,6 +1555,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1457,6 +1569,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1470,6 +1583,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1483,6 +1597,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1496,6 +1611,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1509,6 +1625,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1522,6 +1639,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1535,6 +1653,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1548,6 +1667,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1561,6 +1681,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1574,6 +1695,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1587,6 +1709,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1600,6 +1723,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1613,6 +1737,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1626,6 +1751,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1639,6 +1765,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1652,6 +1779,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1665,6 +1793,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1678,6 +1807,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=ireland&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/ireland/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1691,6 +1821,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1704,6 +1835,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1717,6 +1849,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1730,6 +1863,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1743,6 +1877,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1756,6 +1891,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1769,6 +1905,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1782,6 +1919,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1795,6 +1933,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1808,6 +1947,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1821,6 +1961,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1834,6 +1975,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1847,6 +1989,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1860,6 +2003,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1873,6 +2017,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1886,6 +2031,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1899,6 +2045,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1912,6 +2059,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1925,6 +2073,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1938,6 +2087,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1951,6 +2101,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1964,6 +2115,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1977,6 +2129,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -1990,6 +2143,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2003,6 +2157,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2016,6 +2171,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=new-zealand&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/new-zealand/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2029,6 +2185,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2042,6 +2199,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2055,6 +2213,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2068,6 +2227,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2081,6 +2241,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2094,6 +2255,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2107,6 +2269,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2120,6 +2283,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2133,6 +2297,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2146,6 +2311,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2159,6 +2325,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2172,6 +2339,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2185,6 +2353,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2198,6 +2367,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2211,6 +2381,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2224,6 +2395,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2237,6 +2409,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2250,6 +2423,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2263,6 +2437,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2276,6 +2451,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2289,6 +2465,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2302,6 +2479,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2315,6 +2493,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2328,6 +2507,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2341,6 +2521,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2354,6 +2535,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-nsw&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-nsw/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2367,6 +2549,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2380,6 +2563,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2393,6 +2577,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2406,6 +2591,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2419,6 +2605,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2432,6 +2619,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2445,6 +2633,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2458,6 +2647,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2471,6 +2661,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2484,6 +2675,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2497,6 +2689,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2510,6 +2703,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2523,6 +2717,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2536,6 +2731,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2549,6 +2745,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2562,6 +2759,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2575,6 +2773,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2588,6 +2787,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2601,6 +2801,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2614,6 +2815,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2627,6 +2829,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2640,6 +2843,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2653,6 +2857,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2666,6 +2871,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2679,6 +2885,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2692,6 +2899,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-ontario&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-ontario/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2705,6 +2913,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2718,6 +2927,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2731,6 +2941,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2744,6 +2955,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2757,6 +2969,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2770,6 +2983,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2783,6 +2997,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2796,6 +3011,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2809,6 +3025,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2822,6 +3039,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2835,6 +3053,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2848,6 +3067,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2861,6 +3081,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2874,6 +3095,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2887,6 +3109,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2900,6 +3123,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2913,6 +3137,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2926,6 +3151,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2939,6 +3165,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2952,6 +3179,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2965,6 +3193,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2978,6 +3207,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -2991,6 +3221,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3004,6 +3235,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3017,6 +3249,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3030,6 +3263,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-california&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-california/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3043,6 +3277,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3056,6 +3291,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3069,6 +3305,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3082,6 +3319,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3095,6 +3333,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3108,6 +3347,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3121,6 +3361,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3134,6 +3375,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3147,6 +3389,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3160,6 +3403,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3173,6 +3417,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3186,6 +3431,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3199,6 +3445,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3212,6 +3459,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3225,6 +3473,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3238,6 +3487,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3251,6 +3501,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3264,6 +3515,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3277,6 +3529,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3290,6 +3543,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3303,6 +3557,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3316,6 +3571,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3329,6 +3585,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3342,6 +3599,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3355,6 +3613,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3368,6 +3627,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=australia-victoria&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/australia-victoria/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3381,6 +3641,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3394,6 +3655,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3407,6 +3669,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3420,6 +3683,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3433,6 +3697,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3446,6 +3711,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3459,6 +3725,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3472,6 +3739,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3485,6 +3753,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3498,6 +3767,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3511,6 +3781,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3524,6 +3795,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3537,6 +3809,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3550,6 +3823,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3563,6 +3837,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3576,6 +3851,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3589,6 +3865,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3602,6 +3879,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3615,6 +3893,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3628,6 +3907,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3641,6 +3921,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3654,6 +3935,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3667,6 +3949,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3680,6 +3963,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3693,6 +3977,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3706,6 +3991,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=canada-british-columbia&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/canada-british-columbia/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3719,6 +4005,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=readme",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/readme.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3732,6 +4019,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=map",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/map.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3745,6 +4033,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=case-route-finder",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/case-route-finder.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3758,6 +4047,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=flashcards",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/flashcards.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3771,6 +4061,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=student-pathway",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/student-pathway.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3784,6 +4075,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=glossary",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/glossary.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3797,6 +4089,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=theory-practice",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/theory-practice.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3810,6 +4103,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=children-models",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/children-models.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3823,6 +4117,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=cpd-log",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/cpd-log.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3836,6 +4131,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=foundations",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/foundations.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3849,6 +4145,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=care-support",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/care-support.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3862,6 +4159,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=mca",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/mca.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3875,6 +4173,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=dols",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/dols.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3888,6 +4187,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=mha",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/mha.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3901,6 +4201,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=safeguarding",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/safeguarding.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3914,6 +4215,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=children",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/children.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3927,6 +4229,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=rights",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/rights.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3940,6 +4243,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=quick-reference",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/quick-reference.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3953,6 +4257,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=templates",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/templates.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3966,6 +4271,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=printable-tools",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/printable-tools.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3979,6 +4285,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=scenarios",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/scenarios.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -3992,6 +4299,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=sources",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/sources.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": "2026-10-22",
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -4005,6 +4313,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=about-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/about-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -4018,6 +4327,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=contact-us",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/contact-us.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -4031,6 +4341,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=privacy-policy",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/privacy-policy.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     },
@@ -4044,6 +4355,7 @@
       "interactiveUrl": "https://social-work-resource.netlify.app/?jurisdiction=united-states-new-york&resource=terms-of-service",
       "markdownUrl": "https://social-work-resource.netlify.app/content/united-states-new-york/resources/terms-of-service.md",
       "sourceCheckedAt": null,
+      "editorialUpdatedAt": null,
       "releaseStatus": "final",
       "practiceReviewedAt": null
     }

@@ -92,6 +92,8 @@ The Ministry of Health states that the Mental Health Act 2026 received Royal Ass
 
 Under the 1992 framework, compulsory assessment and treatment require the statutory mental-disorder criteria and staged procedures. Clinical disagreement, unusual beliefs or a diagnosis alone do not establish all criteria. Use the current Ministry guidelines and authorised clinical roles for the particular stage.
 
+Commencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.
+
 
 - Check whether the operative 1992 route or a subsequently commenced provision applies.
 - Assess the actual mental-disorder and risk or self-care evidence against the relevant statutory criteria.
@@ -105,6 +107,7 @@ District inspectors are independent lawyers who explain rights, investigate conc
 - [Mental-health replacement and commencement](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/repealing-and-replacing-the-mental-health-act)
 - [Guidelines to the 1992 Act](https://www.health.govt.nz/publications/guidelines-to-the-mental-health-compulsory-assessment-and-treatment-act-1992)
 - [Current mental-health rights](https://www.health.govt.nz/regulation-legislation/mental-health-and-addiction/mental-health-act/your-rights-under-the-mental-health-act)
+- [Mental Health Act 2026, section 2 commencement](https://www.legislation.govt.nz/act/public/2026/44/en/latest/)
 
 
 ## Adult Safeguarding — Aotearoa New Zealand

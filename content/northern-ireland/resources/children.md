@@ -10,6 +10,8 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 Assessment and family support should be distinguished from a protection investigation or court order. A family meeting cannot create powers of removal or determine legal parental responsibility. Check the child’s position and the relevant authority for accommodation, contact and treatment decisions.
 
+From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.
@@ -63,5 +65,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [Children (Northern Ireland) Order 1995](https://www.legislation.gov.uk/nisi/1995/755/contents)
 - [Co-operating to safeguard children and young people](https://www.health-ni.gov.uk/publications/co-operating-safeguard-children-and-young-people-northern-ireland)
+- [Department of Health: disclosure and barring, September 2026 change](https://www.health-ni.gov.uk/articles/safeguarding-vulnerable-groups-disclosure-and-barring-service)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

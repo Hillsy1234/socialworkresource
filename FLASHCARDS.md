@@ -13,3 +13,7 @@ The cards are grouped by module. Choose a module, read the prompt, then flip the
 - Use the cards as prompts for case discussion, not as legal advice.
 
 These flashcards summarise learning points from the resource. For live cases, always check current law, statutory guidance, local policy, legal advice, and supervision.
+
+## Targeted revision — 22 October 2026
+
+The interactive decks now include the September safeguarding changes, MHA commencement, capacity concerns in TDB, direct-payment deputy authority and the October liberty cases. Read the linked modules and Source Library for judgment status and limits.
