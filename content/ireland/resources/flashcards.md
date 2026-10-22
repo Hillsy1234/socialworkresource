@@ -14,7 +14,7 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 ### Which distinction must be kept clear?
 
-HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
 
 
 ### What are the key local actions?

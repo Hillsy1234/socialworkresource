@@ -3824,7 +3824,7 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
   https://www.legislation.gov.uk/ukpga/2010/15/contents
 
 - EHRC: Protected characteristics
-  https://www.equalityhumanrights.com/equality/equality-act-2010/protected-characteristics
+  https://www.equalityhumanrights.com/guidance/protected-characteristics
 
 ## Professional Standards
 
@@ -3867,7 +3867,7 @@ Tier 2 judgments are fact-specific learning illustrations, not binding appellate
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs across the resource; 64 remained inaccessible or unreadable. Changed-source leads and failed retrievals remain open. Targeted corrections do not certify a full legal review or advance historical comprehensive source-check dates. The British Columbia judgment’s declarations and six-month suspension have now been verified from supplied reasons. A separately entered order and any later appeal, stay, extension, variation or legislative response remain unchecked.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged. The BC declarations and six-month suspension remain verified from supplied reasons. No verified later appeal decision, stay or extension was located; the CAPTCHA-blocked register search was not completed, so later proceedings remain unverified.
 
 
 ---
@@ -7844,7 +7844,7 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
 
 Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -10753,7 +10753,7 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
 
 Targeted editorial corrections on 22 October 2026: children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -13469,7 +13469,7 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
 
 Targeted editorial corrections on 22 October 2026: children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -13701,7 +13701,7 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 ### Which distinction must be kept clear?
 
-HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
 
 
 ### What are the key local actions?
@@ -13923,7 +13923,7 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 ### Professional Foundations — Ireland: Which distinction must be kept clear?
 
-HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
 
 ### Professional Foundations — Ireland: What are the key local actions?
 
@@ -14647,6 +14647,8 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
 
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -14700,8 +14702,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [CORU Social Workers Registration Board bye-laws](https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/)
 - [CORU CPD for social workers](https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/)
+- [Approved Qualifications Bye-Law 2026 (S.I. 50/2026)](https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -15267,6 +15272,8 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
 
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
+
 
 - Confirm your professional role, competence and any specialist authority needed.
 - Explain the purpose of involvement and how the person can influence assessment and planning.
@@ -15279,6 +15286,7 @@ A service complaint and a CORU fitness-to-practise concern address different iss
 
 - [CORU Social Workers Registration Board bye-laws](https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/)
 - [CORU CPD for social workers](https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/)
+- [Approved Qualifications Bye-Law 2026 (S.I. 50/2026)](https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf)
 
 
 ## Social Care and Support — Ireland
@@ -15477,6 +15485,8 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
 
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
+
 Local pathway:
 Confirm your professional role, competence and any specialist authority needed.
 Explain the purpose of involvement and how the person can influence assessment and planning.
@@ -15505,6 +15515,7 @@ A service complaint and a CORU fitness-to-practise concern address different iss
 Sources:
 https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/
 https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/
+https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf
 
 ```
 
@@ -16103,6 +16114,7 @@ CORU Social Workers Registration Board
 
 - [CORU Social Workers Registration Board bye-laws](https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/)
 - [CORU CPD for social workers](https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/)
+- [Approved Qualifications Bye-Law 2026 (S.I. 50/2026)](https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf)
 
 
 ### Social Care and Support — Ireland
@@ -16163,9 +16175,12 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-CORU qualification instruments, including SI 50/2026, still require qualification-specific applicability checks.
+S.I. 50/2026 and its 17 February commencement are verified. Individual award and registration-route applicability still require CORU confirmation. Other enactment announcements do not establish provision-by-provision commencement.
+
+
+Targeted editorial corrections on 22 October 2026: foundations. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -16394,7 +16409,7 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 ### Which distinction must be kept clear?
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 
 ### What are the key local actions?
@@ -16562,7 +16577,7 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 ### Which distinction must be kept clear?
 
-Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
 
 
 ### What are the key local actions?
@@ -16616,7 +16631,7 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 ### Professional Foundations — Aotearoa New Zealand: Which distinction must be kept clear?
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 ### Professional Foundations — Aotearoa New Zealand: What are the key local actions?
 
@@ -16736,7 +16751,7 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 ### Children, Families and Transitions — Aotearoa New Zealand: Which distinction must be kept clear?
 
-Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
 
 ### Children, Families and Transitions — Aotearoa New Zealand: What are the key local actions?
 
@@ -17340,7 +17355,9 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+SWRB’s Enough Practical Experience policy, approved/reviewed on 24 June 2026, requires 2,000 hours of supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count. The policy states an eight-year maximum provisional-registration period for a person to whom section 14 applies; do not generalise this to every registration route. The Board may assess applications case by case and request additional evidence. Other full-registration conditions still apply. October newsletter publicity is not a new policy commencement date; confirm individual eligibility with SWRB.
+
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 ## From information to a professional formulation
 
@@ -17397,6 +17414,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
 - [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
+- [SWRB Enough Practical Experience policy, reviewed 24 June 2026](https://swrb.govt.nz/download/enough-practical-experience-policy-2026/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 
@@ -17815,6 +17833,10 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
 
+Oranga Tamariki’s allocation policy, reviewed 13 October 2026, requires a key social worker for each CYRAS phase, subject to the stated youth-justice exception where an offending profile consultation agrees that social-worker involvement is unnecessary and the youth justice coordinator retains responsibility. Co-social workers and support roles do not transfer primary accountability from the key social worker. Supervisors must match allocations to capability, capacity and delegations, provide oversight and keep substantive ongoing allocations recorded. NCC support-worker guidance reviewed 15 October distinguishes information gathering and support from statutory powers, delegated decisions and independent social-work assessment.
+
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.
@@ -17868,8 +17890,13 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [Oranga Tamariki Act 1989](https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html)
 - [Family group conference policy](https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns)
+- [Allocation of key social workers, co-social workers and support roles](https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles)
+- [NCC support workers](https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers)
+- [Overseas care arrangements](https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -17970,7 +17997,9 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+SWRB’s Enough Practical Experience policy, approved/reviewed on 24 June 2026, requires 2,000 hours of supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count. The policy states an eight-year maximum provisional-registration period for a person to whom section 14 applies; do not generalise this to every registration route. The Board may assess applications case by case and request additional evidence. Other full-registration conditions still apply. October newsletter publicity is not a new policy commencement date; confirm individual eligibility with SWRB.
+
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 
 - Confirm registration, practising status, competence and the authority required for the task.
@@ -17986,6 +18015,7 @@ Explain the service complaint route and when a professional concern belongs with
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
 - [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
+- [SWRB Enough Practical Experience policy, reviewed 24 June 2026](https://swrb.govt.nz/download/enough-practical-experience-policy-2026/)
 
 
 ## Social Care and Support — Aotearoa New Zealand
@@ -18099,6 +18129,10 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
 
+Oranga Tamariki’s allocation policy, reviewed 13 October 2026, requires a key social worker for each CYRAS phase, subject to the stated youth-justice exception where an offending profile consultation agrees that social-worker involvement is unnecessary and the youth justice coordinator retains responsibility. Co-social workers and support roles do not transfer primary accountability from the key social worker. Supervisors must match allocations to capability, capacity and delegations, provide oversight and keep substantive ongoing allocations recorded. NCC support-worker guidance reviewed 15 October distinguishes information gathering and support from statutory powers, delegated decisions and independent social-work assessment.
+
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
+
 
 - Record the concern and use the appropriate Oranga Tamariki or police route where needed.
 - Distinguish the assessment, the basis for believing care or protection is needed and any referral for a family group conference.
@@ -18111,6 +18145,9 @@ Explain participation, support and any applicable court or complaint route. A pl
 
 - [Oranga Tamariki Act 1989](https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html)
 - [Family group conference policy](https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns)
+- [Allocation of key social workers, co-social workers and support roles](https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles)
+- [NCC support workers](https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers)
+- [Overseas care arrangements](https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements)
 
 
 ## Rights, Culture and Recording — Aotearoa New Zealand
@@ -18186,7 +18223,9 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+SWRB’s Enough Practical Experience policy, approved/reviewed on 24 June 2026, requires 2,000 hours of supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count. The policy states an eight-year maximum provisional-registration period for a person to whom section 14 applies; do not generalise this to every registration route. The Board may assess applications case by case and request additional evidence. Other full-registration conditions still apply. October newsletter publicity is not a new policy commencement date; confirm individual eligibility with SWRB.
+
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 Local pathway:
 Confirm registration, practising status, competence and the authority required for the task.
@@ -18218,6 +18257,7 @@ https://swrb.govt.nz/practice/core-competence-standards/
 https://swrb.govt.nz/practice/code-of-conduct/
 https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html
 https://swrb.govt.nz/onboard-newsletter-october-2026/
+https://swrb.govt.nz/download/enough-practical-experience-policy-2026/
 
 ```
 
@@ -18453,6 +18493,10 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
 
+Oranga Tamariki’s allocation policy, reviewed 13 October 2026, requires a key social worker for each CYRAS phase, subject to the stated youth-justice exception where an offending profile consultation agrees that social-worker involvement is unnecessary and the youth justice coordinator retains responsibility. Co-social workers and support roles do not transfer primary accountability from the key social worker. Supervisors must match allocations to capability, capacity and delegations, provide oversight and keep substantive ongoing allocations recorded. NCC support-worker guidance reviewed 15 October distinguishes information gathering and support from statutory powers, delegated decisions and independent social-work assessment.
+
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
+
 Local pathway:
 Record the concern and use the appropriate Oranga Tamariki or police route where needed.
 Distinguish the assessment, the basis for believing care or protection is needed and any referral for a family group conference.
@@ -18481,6 +18525,9 @@ Explain participation, support and any applicable court or complaint route. A pl
 Sources:
 https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html
 https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns
+https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles
+https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers
+https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements
 
 ```
 
@@ -18820,6 +18867,7 @@ Social Workers Registration Board (SWRB)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
 - [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
+- [SWRB Enough Practical Experience policy, reviewed 24 June 2026](https://swrb.govt.nz/download/enough-practical-experience-policy-2026/)
 
 
 ### Social Care and Support — Aotearoa New Zealand
@@ -18859,6 +18907,9 @@ Social Workers Registration Board (SWRB)
 
 - [Oranga Tamariki Act 1989](https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html)
 - [Family group conference policy](https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns)
+- [Allocation of key social workers, co-social workers and support roles](https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles)
+- [NCC support workers](https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers)
+- [Overseas care arrangements](https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements)
 
 
 ### Rights, Culture and Recording — Aotearoa New Zealand
@@ -18880,12 +18931,12 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-New Oranga Tamariki operational-policy links still require role-specific review; the complete SWRB practical-experience policy requires an individual eligibility check.
+The SWRB practical-experience policy and identified October Oranga Tamariki policies have been reviewed for the stated teaching points. Individual registration eligibility, role-specific implementation and inaccessible consolidated statutory texts remain to be checked.
 
 
-Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+Targeted editorial corrections on 22 October 2026: foundations, mha, children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -19142,7 +19193,7 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Which distinction must be kept clear?
 
-From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
 
 
 ### What are the key local actions?
@@ -19356,7 +19407,7 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Social Care and Support — New South Wales: Which distinction must be kept clear?
 
-From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
 
 ### Social Care and Support — New South Wales: What are the key local actions?
 
@@ -20140,6 +20191,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 ## Assess daily life, not just a list of services
 
 Begin with what a good day would look like. Explore washing, dressing, nutrition, medicines, mobility, home safety, relationships, work or education and community participation. Ask about variation: what happens at night, on a bad day or when a regular supporter is unavailable? Establish what the person can do with appropriate equipment, accessible information or a different environment. Do not confuse performing a task once during a visit with being able to do it reliably in daily life.
@@ -20197,6 +20250,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 
@@ -20710,6 +20764,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 
 - Identify the scheme responsible for each need and the evidence required for its assessment.
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
@@ -20726,6 +20782,7 @@ For an NDIA decision, identify whether an internal review and subsequent Adminis
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 
 ## Decision-Making and Capacity — New South Wales
@@ -20948,6 +21005,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 Local pathway:
 Identify the scheme responsible for each need and the evidence required for its assessment.
 Keep access eligibility, plan funding, provider availability and any client contribution separate.
@@ -20980,6 +21039,7 @@ https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-change
 https://www.health.gov.au/our-work/aged-care-act/resources/providers
 https://www.health.gov.au/our-work/chsp/reforms
 https://www.myagedcare.gov.au/how-do-aged-care-costs-work
+https://www.legislation.gov.au/F2026L01252/latest/text
 
 ```
 
@@ -21541,6 +21601,7 @@ Australian Association of Social Workers (AASW)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 
 ### Decision-Making and Capacity — New South Wales
@@ -21593,9 +21654,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.
+The aged-care definition amendment is verified. Equivalence of the newly hosted AASW Code of Ethics 2020 remains unverified; current consolidated statutory texts and detailed amendment comparisons remain outstanding.
 
 
 Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -21827,7 +21888,7 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 ### Which distinction must be kept clear?
 
-Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
 
 
 ### What are the key local actions?
@@ -21883,7 +21944,7 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 ### Which distinction must be kept clear?
 
-For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
 
 
 ### What are the key local actions?
@@ -22023,7 +22084,7 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 ### Which distinction must be kept clear?
 
-The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
 
 
 ### What are the key local actions?
@@ -22049,7 +22110,7 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 ### Professional Foundations — Ontario: Which distinction must be kept clear?
 
-Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
 
 ### Professional Foundations — Ontario: What are the key local actions?
 
@@ -22089,7 +22150,7 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 ### Decision-Making and Capacity — Ontario: Which distinction must be kept clear?
 
-For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
 
 ### Decision-Making and Capacity — Ontario: What are the key local actions?
 
@@ -22189,7 +22250,7 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 ### Rights, Culture and Recording — Ontario: Which distinction must be kept clear?
 
-The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
 
 ### Rights, Culture and Recording — Ontario: What are the key local actions?
 
@@ -22773,6 +22834,8 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
 
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -22826,8 +22889,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [OCSWSSW Code and Standards](https://www.ocswssw.org/sop/)
 - [Social Work and Social Service Work Act 1998](https://www.ontario.ca/laws/statute/98s31)
+- [OCSWSSW entry-to-practice exams](https://www.ocswssw.org/applicants/entry-to-practice-exams/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -22929,6 +22995,8 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
 
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
+
 ## Start with the decision and the support
 
 Write the decision as a question the person could answer: accepting a particular treatment, choosing accommodation or authorising a financial transaction. These questions may engage different laws and decision-makers. A diagnosis, cognitive score or disagreement with professionals is not a complete capacity assessment. Describe the ability relevant to this decision and the evidence for any concern.
@@ -22982,8 +23050,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
 - [Substitute Decisions Act 1992](https://www.ontario.ca/laws/statute/92s30)
+- [Respecting Choice: Consent, Autonomy and the Older Adult](https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -23317,6 +23388,8 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
 
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -23371,8 +23444,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Personal Health Information Protection Act 2004](https://www.ontario.ca/laws/statute/04p03)
 - [Ontario Human Rights Code](https://www.ontario.ca/laws/statute/90h19)
 - [OCSWSSW legislation and confidentiality guidance](https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/)
+- [OCSWSSW Practice Notes: AI: Friend or Foe?](https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -23395,6 +23471,8 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
 
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
+
 
 - Confirm registration, professional scope and any additional authority required.
 - Explain the service, purpose of assessment, informed consent and confidentiality limits.
@@ -23407,6 +23485,7 @@ A complaint to the College concerns professional conduct or practice. A funding 
 
 - [OCSWSSW Code and Standards](https://www.ocswssw.org/sop/)
 - [Social Work and Social Service Work Act 1998](https://www.ontario.ca/laws/statute/98s31)
+- [OCSWSSW entry-to-practice exams](https://www.ocswssw.org/applicants/entry-to-practice-exams/)
 
 
 ## Social Care and Support — Ontario
@@ -23435,6 +23514,8 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
 
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
+
 
 - Specify the decision and identify which Act and decision-maker apply.
 - Support understanding and assess the relevant understanding-and-appreciation abilities.
@@ -23447,6 +23528,7 @@ The Consent and Capacity Board has review and application functions under the HC
 
 - [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
 - [Substitute Decisions Act 1992](https://www.ontario.ca/laws/statute/92s30)
+- [Respecting Choice: Consent, Autonomy and the Older Adult](https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/)
 
 
 ## Restrictions and Liberty — Ontario
@@ -23538,6 +23620,8 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
 
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
+
 
 - Identify the service decision, relevant protected ground and accommodation required.
 - Check whether PHIPA or another privacy regime governs the organisation and proposed disclosure.
@@ -23551,6 +23635,7 @@ The Information and Privacy Commissioner of Ontario addresses privacy matters wi
 - [Personal Health Information Protection Act 2004](https://www.ontario.ca/laws/statute/04p03)
 - [Ontario Human Rights Code](https://www.ontario.ca/laws/statute/90h19)
 - [OCSWSSW legislation and confidentiality guidance](https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/)
+- [OCSWSSW Practice Notes: AI: Friend or Foe?](https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/)
 
 
 ---
@@ -23605,6 +23690,8 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
 
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
+
 Local pathway:
 Confirm registration, professional scope and any additional authority required.
 Explain the service, purpose of assessment, informed consent and confidentiality limits.
@@ -23633,6 +23720,7 @@ A complaint to the College concerns professional conduct or practice. A funding 
 Sources:
 https://www.ocswssw.org/sop/
 https://www.ontario.ca/laws/statute/98s31
+https://www.ocswssw.org/applicants/entry-to-practice-exams/
 
 ```
 
@@ -23691,6 +23779,8 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
 
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
+
 Local pathway:
 Specify the decision and identify which Act and decision-maker apply.
 Support understanding and assess the relevant understanding-and-appreciation abilities.
@@ -23719,6 +23809,7 @@ The Consent and Capacity Board has review and application functions under the HC
 Sources:
 https://www.ontario.ca/laws/statute/96h02
 https://www.ontario.ca/laws/statute/92s30
+https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/
 
 ```
 
@@ -23909,6 +24000,8 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
 
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
+
 Local pathway:
 Identify the service decision, relevant protected ground and accommodation required.
 Check whether PHIPA or another privacy regime governs the organisation and proposed disclosure.
@@ -23938,6 +24031,7 @@ Sources:
 https://www.ontario.ca/laws/statute/04p03
 https://www.ontario.ca/laws/statute/90h19
 https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/
+https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/
 
 ```
 
@@ -24231,6 +24325,7 @@ Ontario College of Social Workers and Social Service Workers (OCSWSSW)
 
 - [OCSWSSW Code and Standards](https://www.ocswssw.org/sop/)
 - [Social Work and Social Service Work Act 1998](https://www.ontario.ca/laws/statute/98s31)
+- [OCSWSSW entry-to-practice exams](https://www.ocswssw.org/applicants/entry-to-practice-exams/)
 
 
 ### Social Care and Support — Ontario
@@ -24243,6 +24338,7 @@ Ontario College of Social Workers and Social Service Workers (OCSWSSW)
 
 - [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
 - [Substitute Decisions Act 1992](https://www.ontario.ca/laws/statute/92s30)
+- [Respecting Choice: Consent, Autonomy and the Older Adult](https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/)
 
 
 ### Restrictions and Liberty — Ontario
@@ -24277,6 +24373,7 @@ Ontario College of Social Workers and Social Service Workers (OCSWSSW)
 - [Personal Health Information Protection Act 2004](https://www.ontario.ca/laws/statute/04p03)
 - [Ontario Human Rights Code](https://www.ontario.ca/laws/statute/90h19)
 - [OCSWSSW legislation and confidentiality guidance](https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/)
+- [OCSWSSW Practice Notes: AI: Friend or Foe?](https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/)
 
 
 ## How to verify a rule
@@ -24291,12 +24388,12 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-New OCSWSSW practice articles still require individual review. A draft-policy consultation is not an operative requirement.
+The identified AI and older-adult articles and planned exam rollout have been reviewed. Exact exam dates and individual applicability remain to be confirmed; the draft-policy consultation is not an operative requirement.
 
 
-Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+Targeted editorial corrections on 22 October 2026: foundations, care-support, mca, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -24525,7 +24622,7 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 ### Which distinction must be kept clear?
 
-An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
 
 
 ### What are the key local actions?
@@ -24721,7 +24818,7 @@ Federal disability and civil-rights requirements and California protections appl
 
 ### Which distinction must be kept clear?
 
-Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
 
 
 ### What are the key local actions?
@@ -24747,7 +24844,7 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 ### Professional Foundations — California: Which distinction must be kept clear?
 
-An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
 
 ### Professional Foundations — California: What are the key local actions?
 
@@ -24887,7 +24984,7 @@ Federal disability and civil-rights requirements and California protections appl
 
 ### Rights, Culture and Recording — California: Which distinction must be kept clear?
 
-Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
 
 ### Rights, Culture and Recording — California: What are the key local actions?
 
@@ -25471,6 +25568,8 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
 
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -25525,8 +25624,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [BBS role and regulated professions](https://www.bbs.ca.gov/about/board_info.html)
 - [BBS LCSW and ASW requirements](https://bbs.ca.gov/applicants/lcsw.html)
 - [BBS law changes](https://www.bbs.ca.gov/about/law_reg.html)
+- [BBS 2026 legislation considered by the Board](https://www.bbs.ca.gov/pdf/legarchive_26.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -26016,6 +26118,8 @@ Federal disability and civil-rights requirements and California protections appl
 
 Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -26070,8 +26174,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [HHS mental and behavioural health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 confidentiality requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [California Civil Code, medical-information disclosure](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -26094,6 +26201,8 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
 
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
+
 
 - Confirm licence or registration status, practice setting and required supervision.
 - Explain the practitioner’s role, confidentiality limits and the purpose of the service.
@@ -26107,6 +26216,7 @@ BBS investigates relevant professional complaints; county services, benefit agen
 - [BBS role and regulated professions](https://www.bbs.ca.gov/about/board_info.html)
 - [BBS LCSW and ASW requirements](https://bbs.ca.gov/applicants/lcsw.html)
 - [BBS law changes](https://www.bbs.ca.gov/about/law_reg.html)
+- [BBS 2026 legislation considered by the Board](https://www.bbs.ca.gov/pdf/legarchive_26.pdf)
 
 
 ## Social Care and Support — California
@@ -26240,6 +26350,8 @@ Federal disability and civil-rights requirements and California protections appl
 
 Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 
 - Identify the organisation, service and applicable state and federal rights or privacy duties.
 - Arrange disability access, interpretation and culturally responsive participation.
@@ -26253,6 +26365,7 @@ HHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; Califor
 - [HHS mental and behavioural health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 confidentiality requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [California Civil Code, medical-information disclosure](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 
 ---
@@ -26307,6 +26420,8 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
 
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
+
 Local pathway:
 Confirm licence or registration status, practice setting and required supervision.
 Explain the practitioner’s role, confidentiality limits and the purpose of the service.
@@ -26336,6 +26451,7 @@ Sources:
 https://www.bbs.ca.gov/about/board_info.html
 https://bbs.ca.gov/applicants/lcsw.html
 https://www.bbs.ca.gov/about/law_reg.html
+https://www.bbs.ca.gov/pdf/legarchive_26.pdf
 
 ```
 
@@ -26614,6 +26730,8 @@ Federal disability and civil-rights requirements and California protections appl
 
 Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 Local pathway:
 Identify the organisation, service and applicable state and federal rights or privacy duties.
 Arrange disability access, interpretation and culturally responsive participation.
@@ -26643,6 +26761,7 @@ Sources:
 https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html
 https://www.hhs.gov/hipaa/part-2/index.html
 https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.
+https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf
 
 ```
 
@@ -26937,6 +27056,7 @@ California Board of Behavioral Sciences (BBS)
 - [BBS role and regulated professions](https://www.bbs.ca.gov/about/board_info.html)
 - [BBS LCSW and ASW requirements](https://bbs.ca.gov/applicants/lcsw.html)
 - [BBS law changes](https://www.bbs.ca.gov/about/law_reg.html)
+- [BBS 2026 legislation considered by the Board](https://www.bbs.ca.gov/pdf/legarchive_26.pdf)
 
 
 ### Social Care and Support — California
@@ -26985,6 +27105,7 @@ California Board of Behavioral Sciences (BBS)
 - [HHS mental and behavioural health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 confidentiality requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [California Civil Code, medical-information disclosure](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 
 ## How to verify a rule
@@ -26999,9 +27120,12 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-The newly linked 2026 BBS approved-legislation PDF remains inaccessible; individual Acts and commencement dates are unverified.
+The BBS 2026 legislative table is now verified, including its future effective dates. Detailed chapter text and application remain unverified; several current statutory section URLs remain inaccessible.
+
+
+Targeted editorial corrections on 22 October 2026: foundations, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -27258,7 +27382,7 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Which distinction must be kept clear?
 
-From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
 
 
 ### What are the key local actions?
@@ -27472,7 +27596,7 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Social Care and Support — Victoria: Which distinction must be kept clear?
 
-From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
 
 ### Social Care and Support — Victoria: What are the key local actions?
 
@@ -28256,6 +28380,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 ## Assess daily life, not just a list of services
 
 Begin with what a good day would look like. Explore washing, dressing, nutrition, medicines, mobility, home safety, relationships, work or education and community participation. Ask about variation: what happens at night, on a bad day or when a regular supporter is unavailable? Establish what the person can do with appropriate equipment, accessible information or a different environment. Do not confuse performing a task once during a visit with being able to do it reliably in daily life.
@@ -28313,6 +28439,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 
@@ -28832,6 +28959,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 
 - Identify the scheme responsible for each need and the evidence required for its assessment.
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
@@ -28848,6 +28977,7 @@ For an NDIA decision, identify whether an internal review and subsequent Adminis
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 
 ## Decision-Making and Capacity — Victoria
@@ -29076,6 +29206,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 Local pathway:
 Identify the scheme responsible for each need and the evidence required for its assessment.
 Keep access eligibility, plan funding, provider availability and any client contribution separate.
@@ -29108,6 +29240,7 @@ https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-change
 https://www.health.gov.au/our-work/aged-care-act/resources/providers
 https://www.health.gov.au/our-work/chsp/reforms
 https://www.myagedcare.gov.au/how-do-aged-care-costs-work
+https://www.legislation.gov.au/F2026L01252/latest/text
 
 ```
 
@@ -29675,6 +29808,7 @@ Australian Association of Social Workers (AASW)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 
 ### Decision-Making and Capacity — Victoria
@@ -29733,9 +29867,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.
+The aged-care definition amendment is verified. Equivalence of the newly hosted AASW Code of Ethics 2020 remains unverified; current consolidated statutory texts and detailed amendment comparisons remain outstanding.
 
 
 Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -32468,9 +32602,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-2026 BCSC 1416: paragraphs 1115–1127 of the supplied reasons verify the declarations and their six-month suspension. A separately entered order and any later appeal, stay, extension, variation or legislative response remain unchecked.
+2026 BCSC 1416: paragraphs 1115–1127 of the supplied reasons verify the declarations and their six-month suspension. No verified later appeal decision, stay or extension was located in the 22 October published-source search. The CSO register search required a CAPTCHA and was not completed. A separately entered order, later filings/orders, variation and legislative response remain unverified; absence of a located result does not establish that none exists.
 
 
 Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -32898,7 +33032,7 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 ### Which distinction must be kept clear?
 
-End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
 
 
 ### What are the key local actions?
@@ -33064,7 +33198,7 @@ Federal civil-rights and disability law, New York Human Rights Law and sector-sp
 
 ### Rights, Culture and Recording — New York: Which distinction must be kept clear?
 
-End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
 
 ### Rights, Culture and Recording — New York: What are the key local actions?
 
@@ -34195,6 +34329,8 @@ HIPAA applies to covered entities and business associates; Mental Hygiene Law se
 
 End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -34250,6 +34386,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 
@@ -34424,6 +34561,8 @@ HIPAA applies to covered entities and business associates; Mental Hygiene Law se
 
 End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 
 - Identify the organisation, record and state or federal privacy provisions involved.
 - Arrange accessible communication, interpretation and culturally responsive participation.
@@ -34438,6 +34577,7 @@ A privacy complaint, professional complaint and mental-hygiene rights challenge 
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 
 ---
@@ -34801,6 +34941,8 @@ HIPAA applies to covered entities and business associates; Mental Hygiene Law se
 
 End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 Local pathway:
 Identify the organisation, record and state or federal privacy provisions involved.
 Arrange accessible communication, interpretation and culturally responsive participation.
@@ -34831,6 +34973,7 @@ https://www.nysenate.gov/legislation/laws/MHY/33.13
 https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html
 https://www.hhs.gov/hipaa/part-2/index.html
 https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State
+https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf
 
 ```
 
@@ -35174,6 +35317,7 @@ New York State Education Department, Office of the Professions
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 
 ## How to verify a rule
@@ -35188,7 +35332,7 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
 
 Targeted editorial corrections on 22 October 2026: rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

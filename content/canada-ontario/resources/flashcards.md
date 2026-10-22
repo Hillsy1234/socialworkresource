@@ -14,7 +14,7 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 ### Which distinction must be kept clear?
 
-Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
 
 
 ### What are the key local actions?
@@ -70,7 +70,7 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 ### Which distinction must be kept clear?
 
-For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
 
 
 ### What are the key local actions?
@@ -210,7 +210,7 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 ### Which distinction must be kept clear?
 
-The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
 
 
 ### What are the key local actions?

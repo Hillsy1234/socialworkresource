@@ -81,3 +81,8 @@ GDPR and the Data Protection Act 2018 govern personal-data processing alongside 
 'Treating public-sector status as unrestricted permission to share records.',
 [S('Irish Human Rights and Equality Commission Act 2014: public bodies', 'https://www.irishstatutebook.ie/eli/2014/act/25/section/42/enacted/en/html'), S('Data Protection Act 2018', 'https://www.irishstatutebook.ie/eli/2018/act/7/enacted/en/html'), S('CORU social-worker Code', 'https://www.coru.ie/files-codes-of-conduct/swrb-code-of-professional-conduct-and-ethics-for-social-workers.pdf', 'professional-standards')]),
 }
+
+# Verified source follow-up, 22 October 2026.
+DATA['foundations']['legal'] += '\n\nThe Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.'
+DATA['foundations']['sources'].extend([{'title': 'Approved Qualifications Bye-Law 2026 (S.I. 50/2026)', 'url': 'https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf', 'category': 'legislation'}])
+DATA['foundations']['editorialUpdatedAt'] = '2026-10-22'

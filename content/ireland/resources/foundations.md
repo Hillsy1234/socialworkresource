@@ -10,6 +10,8 @@ CORU’s Social Workers Registration Board Code of Professional Conduct and Ethi
 
 HSE services, Tusla, local authorities and voluntary providers have different remits. Establish whether the task concerns adult health and support, child protection, housing or another service, and identify who holds the decision-making responsibility.
 
+The Social Workers Registration Board Approved Qualifications Bye-Law 2026 (S.I. 50/2026) came into operation on 17 February 2026. It replaces S.I. 311/2022 while preserving registration or restoration applications received before that date. It approves specified qualifications: check the exact award and applicant route with CORU. It is not a new professional code, automatic registration or automatic recognition of an overseas qualification.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -63,5 +65,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [CORU Social Workers Registration Board bye-laws](https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/)
 - [CORU CPD for social workers](https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/)
+- [Approved Qualifications Bye-Law 2026 (S.I. 50/2026)](https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

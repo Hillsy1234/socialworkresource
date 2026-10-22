@@ -1,7 +1,7 @@
 {
   "id": "united-states-california",
   "label": "California practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in California: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
     "Use the expanded grave-disability criteria and current county procedures; older food, clothing and shelter summaries are incomplete.",
@@ -52,7 +52,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/case-route-finder.md",
       "sourceCheckedAt": null,
-      "slug": "case-route-finder"
+      "slug": "case-route-finder",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -67,7 +68,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/flashcards.md",
       "sourceCheckedAt": null,
-      "slug": "learning-flashcards"
+      "slug": "learning-flashcards",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -82,7 +84,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/student-pathway.md",
       "sourceCheckedAt": null,
-      "slug": "student-and-newly-qualified-pathway-california"
+      "slug": "student-and-newly-qualified-pathway-california",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -97,7 +100,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/glossary.md",
       "sourceCheckedAt": null,
-      "slug": "practice-glossary"
+      "slug": "practice-glossary",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -158,7 +162,8 @@
       "path": "content/united-states-california/resources/foundations.md",
       "sourceCheckedAt": null,
       "slug": "professional-foundations",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "care-support",
@@ -270,7 +275,8 @@
       "path": "content/united-states-california/resources/rights.md",
       "sourceCheckedAt": null,
       "slug": "rights-culture-and-recording-california",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "quick-reference",
@@ -285,7 +291,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/quick-reference.md",
       "sourceCheckedAt": null,
-      "slug": "quick-reference"
+      "slug": "quick-reference",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -315,7 +322,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/printable-tools.md",
       "sourceCheckedAt": null,
-      "slug": "printable-tools"
+      "slug": "printable-tools",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -330,7 +338,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/scenarios.md",
       "sourceCheckedAt": null,
-      "slug": "practice-scenarios"
+      "slug": "practice-scenarios",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -345,7 +354,8 @@
       "practiceReviewedAt": null,
       "path": "content/united-states-california/resources/sources.md",
       "sourceCheckedAt": null,
-      "slug": "source-library"
+      "slug": "source-library",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -550,7 +560,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law."
+          "answer": "Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes."
         },
         {
           "prompt": "What are the key local actions?",
@@ -732,7 +742,7 @@
         },
         {
           "prompt": "Which distinction must be kept clear?",
-          "answer": "Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure."
+          "answer": "HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client."
         },
         {
           "prompt": "What are the key local actions?",
@@ -1604,7 +1614,7 @@
       "title": "Professional Foundations",
       "fileName": "united-states-california-foundations-prompt.txt",
       "summary": "Explain your professional role, distinguish an ethical concern from a statutory power, and turn a formulation into an accountable plan.",
-      "body": "Professional Foundations\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe California Board of Behavioral Sciences (BBS) regulates Licensed Clinical Social Workers (LCSWs) and Associate Clinical Social Workers (ASWs). Licensure, associate registration, supervision and employer duties must be distinguished. Use the current BBS statutes, regulations and guidance for the practice setting.\n\nAn ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.\n\nLocal pathway:\nConfirm licence or registration status, practice setting and required supervision.\nExplain the practitioner’s role, confidentiality limits and the purpose of the service.\nIdentify any separate statutory designation needed for assessment, reporting or detention work.\nUse supervision and continuing education to address competence, bias and the person’s feedback.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nBBS investigates relevant professional complaints; county services, benefit agencies and courts address other decisions. Explain which route can address the person’s concern rather than presenting professional discipline as a service appeal.\n\nSources:\nhttps://www.bbs.ca.gov/about/board_info.html\nhttps://bbs.ca.gov/applicants/lcsw.html\nhttps://www.bbs.ca.gov/about/law_reg.html\n"
+      "body": "Professional Foundations\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nThe California Board of Behavioral Sciences (BBS) regulates Licensed Clinical Social Workers (LCSWs) and Associate Clinical Social Workers (ASWs). Licensure, associate registration, supervision and employer duties must be distinguished. Use the current BBS statutes, regulations and guidance for the practice setting.\n\nAn ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.\n\nFuture changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.\n\nLocal pathway:\nConfirm licence or registration status, practice setting and required supervision.\nExplain the practitioner’s role, confidentiality limits and the purpose of the service.\nIdentify any separate statutory designation needed for assessment, reporting or detention work.\nUse supervision and continuing education to address competence, bias and the person’s feedback.\n\nRecording prompts:\n1. Your role and the legal or professional framework\nNotes:\n\n2. The person’s outcomes and communication preferences\nNotes:\n\n3. Evidence, competing explanations and missing perspectives\nNotes:\n\n4. Power, boundaries and any conflict of interest\nNotes:\n\n5. Agreed action, supervision, feedback and review\nNotes:\n\nChallenge and review:\nBBS investigates relevant professional complaints; county services, benefit agencies and courts address other decisions. Explain which route can address the person’s concern rather than presenting professional discipline as a service appeal.\n\nSources:\nhttps://www.bbs.ca.gov/about/board_info.html\nhttps://bbs.ca.gov/applicants/lcsw.html\nhttps://www.bbs.ca.gov/about/law_reg.html\nhttps://www.bbs.ca.gov/pdf/legarchive_26.pdf\n"
     },
     {
       "id": "care-support",
@@ -1653,7 +1663,7 @@
       "title": "Rights, Culture and Recording",
       "fileName": "united-states-california-rights-prompt.txt",
       "summary": "Connect rights to an actual service decision, distinguish privacy from absolute secrecy and write a record that makes reasons and disagreement visible.",
-      "body": "Rights, Culture and Recording\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nFederal disability and civil-rights requirements and California protections apply according to the service and decision. For confidentiality, distinguish HIPAA-covered entities, California’s Confidentiality of Medical Information Act and other applicable state rules. A social-work record is not automatically governed by HIPAA solely because it contains sensitive information.\n\nCertain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.\n\nLocal pathway:\nIdentify the organisation, service and applicable state and federal rights or privacy duties.\nArrange disability access, interpretation and culturally responsive participation.\nCheck the legal basis for disclosure and whether specially protected records or proceedings are involved.\nExplain access, correction, complaints and any applicable patient-rights or legal review route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nHHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; California and professional complaint routes address other matters. A subpoena, a court order and a routine agency request need distinct analysis. Seek appropriate advice rather than automatically releasing a complete file.\n\nSources:\nhttps://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html\nhttps://www.hhs.gov/hipaa/part-2/index.html\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.\n"
+      "body": "Rights, Culture and Recording\nCalifornia practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nFederal disability and civil-rights requirements and California protections apply according to the service and decision. For confidentiality, distinguish HIPAA-covered entities, California’s Confidentiality of Medical Information Act and other applicable state rules. A social-work record is not automatically governed by HIPAA solely because it contains sensitive information.\n\nCertain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.\n\nHHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.\n\nLocal pathway:\nIdentify the organisation, service and applicable state and federal rights or privacy duties.\nArrange disability access, interpretation and culturally responsive participation.\nCheck the legal basis for disclosure and whether specially protected records or proceedings are involved.\nExplain access, correction, complaints and any applicable patient-rights or legal review route.\n\nRecording prompts:\n1. Decision, affected rights and responsible organisation\nNotes:\n\n2. Accessibility, culture and participation arrangements\nNotes:\n\n3. Disclosure purpose, legal basis, recipient and limits\nNotes:\n\n4. Evidence, alternatives, reasons and disagreement\nNotes:\n\n5. Access, correction, complaints and review route\nNotes:\n\nChallenge and review:\nHHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; California and professional complaint routes address other matters. A subpoena, a court order and a routine agency request need distinct analysis. Seek appropriate advice rather than automatically releasing a complete file.\n\nSources:\nhttps://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html\nhttps://www.hhs.gov/hipaa/part-2/index.html\nhttps://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.\nhttps://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf\n"
     },
     {
       "id": "supervision",

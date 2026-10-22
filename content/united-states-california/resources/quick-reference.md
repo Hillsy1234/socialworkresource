@@ -10,6 +10,8 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
 
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
+
 
 - Confirm licence or registration status, practice setting and required supervision.
 - Explain the practitioner’s role, confidentiality limits and the purpose of the service.
@@ -23,6 +25,7 @@ BBS investigates relevant professional complaints; county services, benefit agen
 - [BBS role and regulated professions](https://www.bbs.ca.gov/about/board_info.html)
 - [BBS LCSW and ASW requirements](https://bbs.ca.gov/applicants/lcsw.html)
 - [BBS law changes](https://www.bbs.ca.gov/about/law_reg.html)
+- [BBS 2026 legislation considered by the Board](https://www.bbs.ca.gov/pdf/legarchive_26.pdf)
 
 
 ## Social Care and Support — California
@@ -156,6 +159,8 @@ Federal disability and civil-rights requirements and California protections appl
 
 Certain substance-use-disorder records have additional protection under 42 CFR Part 2. HHS states that compliance with the 2024 Part 2 changes was required by 16 February 2026. Use current guidance, including restrictions concerning legal proceedings, rather than treating ordinary treatment sharing as permission for every disclosure.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 
 - Identify the organisation, service and applicable state and federal rights or privacy duties.
 - Arrange disability access, interpretation and culturally responsive participation.
@@ -169,3 +174,4 @@ HHS Office for Civil Rights handles covered HIPAA and Part 2 complaints; Califor
 - [HHS mental and behavioural health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 confidentiality requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [California Civil Code, medical-information disclosure](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)

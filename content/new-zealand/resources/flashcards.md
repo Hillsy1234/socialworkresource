@@ -14,7 +14,7 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 ### Which distinction must be kept clear?
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 
 ### What are the key local actions?
@@ -182,7 +182,7 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 ### Which distinction must be kept clear?
 
-Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
 
 
 ### What are the key local actions?

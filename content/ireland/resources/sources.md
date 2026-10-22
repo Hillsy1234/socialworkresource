@@ -14,6 +14,7 @@ CORU Social Workers Registration Board
 
 - [CORU Social Workers Registration Board bye-laws](https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/)
 - [CORU CPD for social workers](https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/)
+- [Approved Qualifications Bye-Law 2026 (S.I. 50/2026)](https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf)
 
 
 ### Social Care and Support — Ireland
@@ -74,6 +75,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-CORU qualification instruments, including SI 50/2026, still require qualification-specific applicability checks.
+S.I. 50/2026 and its 17 February commencement are verified. Individual award and registration-route applicability still require CORU confirmation. Other enactment announcements do not establish provision-by-provision commencement.
+
+
+Targeted editorial corrections on 22 October 2026: foundations. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

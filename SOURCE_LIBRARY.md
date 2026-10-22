@@ -120,7 +120,7 @@ Use this page to go back to primary or authoritative sources. For live cases, ch
   https://www.legislation.gov.uk/ukpga/2010/15/contents
 
 - EHRC: Protected characteristics  
-  https://www.equalityhumanrights.com/equality/equality-act-2010/protected-characteristics
+  https://www.equalityhumanrights.com/guidance/protected-characteristics
 
 ## Professional Standards
 
@@ -163,4 +163,4 @@ Tier 2 judgments are fact-specific learning illustrations, not binding appellate
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs across the resource; 64 remained inaccessible or unreadable. Changed-source leads and failed retrievals remain open. Targeted corrections do not certify a full legal review or advance historical comprehensive source-check dates. The British Columbia judgment’s declarations and six-month suspension have now been verified from supplied reasons. A separately entered order and any later appeal, stay, extension, variation or legislative response remain unchecked.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged. The BC declarations and six-month suspension remain verified from supplied reasons. No verified later appeal decision, stay or extension was located; the CAPTCHA-blocked register search was not completed, so later proceedings remain unverified.

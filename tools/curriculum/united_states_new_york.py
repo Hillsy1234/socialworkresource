@@ -88,3 +88,8 @@ DATA['mca']['sources'].append(S('FHCDA definitions', 'https://www.nysenate.gov/l
 DATA['rights']['legal'] += '\n\nEnd-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.'
 DATA['rights']['editorialUpdatedAt'] = '2026-10-22'
 DATA['rights']['sources'].extend([{'title': 'NYSED: Medical Aid in Dying and professional guidance', 'url': 'https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State', 'category': 'policy'}])
+
+# Verified source follow-up, 22 October 2026.
+DATA['rights']['legal'] += '\n\nHHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.'
+DATA['rights']['sources'].extend([{'title': 'HHS Part 2 confidentiality and Medicaid community-engagement exclusions', 'url': 'https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf', 'category': 'policy'}])
+DATA['rights']['editorialUpdatedAt'] = '2026-10-22'

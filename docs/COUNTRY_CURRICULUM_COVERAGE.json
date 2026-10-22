@@ -288,7 +288,7 @@
       "jurisdiction": "ireland",
       "topic": "foundations",
       "path": "content/ireland/resources/foundations.md",
-      "words": 718,
+      "words": 821,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -296,7 +296,8 @@
       "recordingExercise": true,
       "sourceUrls": [
         "https://coru.ie/about-us/legislation/registration-board-bye-laws/social-workers-registration-board-bye-laws/",
-        "https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/"
+        "https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/",
+        "https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -428,7 +429,7 @@
       "jurisdiction": "new-zealand",
       "topic": "foundations",
       "path": "content/new-zealand/resources/foundations.md",
-      "words": 848,
+      "words": 906,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -438,7 +439,8 @@
         "https://swrb.govt.nz/practice/core-competence-standards/",
         "https://swrb.govt.nz/practice/code-of-conduct/",
         "https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html",
-        "https://swrb.govt.nz/onboard-newsletter-october-2026/"
+        "https://swrb.govt.nz/onboard-newsletter-october-2026/",
+        "https://swrb.govt.nz/download/enough-practical-experience-policy-2026/"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -535,7 +537,7 @@
       "jurisdiction": "new-zealand",
       "topic": "children",
       "path": "content/new-zealand/resources/children.md",
-      "words": 760,
+      "words": 990,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -543,7 +545,10 @@
       "recordingExercise": true,
       "sourceUrls": [
         "https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
-        "https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns"
+        "https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns",
+        "https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles",
+        "https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers",
+        "https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -586,7 +591,7 @@
       "jurisdiction": "australia-nsw",
       "topic": "care-support",
       "path": "content/australia-nsw/resources/care-support.md",
-      "words": 964,
+      "words": 1046,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -597,7 +602,8 @@
         "https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes",
         "https://www.health.gov.au/our-work/aged-care-act/resources/providers",
         "https://www.health.gov.au/our-work/chsp/reforms",
-        "https://www.myagedcare.gov.au/how-do-aged-care-costs-work"
+        "https://www.myagedcare.gov.au/how-do-aged-care-costs-work",
+        "https://www.legislation.gov.au/F2026L01252/latest/text"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -726,7 +732,7 @@
       "jurisdiction": "australia-victoria",
       "topic": "care-support",
       "path": "content/australia-victoria/resources/care-support.md",
-      "words": 962,
+      "words": 1044,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -737,7 +743,8 @@
         "https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes",
         "https://www.health.gov.au/our-work/aged-care-act/resources/providers",
         "https://www.health.gov.au/our-work/chsp/reforms",
-        "https://www.myagedcare.gov.au/how-do-aged-care-costs-work"
+        "https://www.myagedcare.gov.au/how-do-aged-care-costs-work",
+        "https://www.legislation.gov.au/F2026L01252/latest/text"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -856,7 +863,7 @@
       "jurisdiction": "canada-ontario",
       "topic": "foundations",
       "path": "content/canada-ontario/resources/foundations.md",
-      "words": 688,
+      "words": 765,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -864,7 +871,8 @@
       "recordingExercise": true,
       "sourceUrls": [
         "https://www.ocswssw.org/sop/",
-        "https://www.ontario.ca/laws/statute/98s31"
+        "https://www.ontario.ca/laws/statute/98s31",
+        "https://www.ocswssw.org/applicants/entry-to-practice-exams/"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -890,7 +898,7 @@
       "jurisdiction": "canada-ontario",
       "topic": "mca",
       "path": "content/canada-ontario/resources/mca.md",
-      "words": 735,
+      "words": 828,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -898,7 +906,8 @@
       "recordingExercise": true,
       "sourceUrls": [
         "https://www.ontario.ca/laws/statute/96h02",
-        "https://www.ontario.ca/laws/statute/92s30"
+        "https://www.ontario.ca/laws/statute/92s30",
+        "https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -978,7 +987,7 @@
       "jurisdiction": "canada-ontario",
       "topic": "rights",
       "path": "content/canada-ontario/resources/rights.md",
-      "words": 740,
+      "words": 842,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -987,7 +996,8 @@
       "sourceUrls": [
         "https://www.ontario.ca/laws/statute/04p03",
         "https://www.ontario.ca/laws/statute/90h19",
-        "https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/"
+        "https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/",
+        "https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -1138,7 +1148,7 @@
       "jurisdiction": "united-states-california",
       "topic": "foundations",
       "path": "content/united-states-california/resources/foundations.md",
-      "words": 688,
+      "words": 793,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -1147,7 +1157,8 @@
       "sourceUrls": [
         "https://www.bbs.ca.gov/about/board_info.html",
         "https://bbs.ca.gov/applicants/lcsw.html",
-        "https://www.bbs.ca.gov/about/law_reg.html"
+        "https://www.bbs.ca.gov/about/law_reg.html",
+        "https://www.bbs.ca.gov/pdf/legarchive_26.pdf"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -1263,7 +1274,7 @@
       "jurisdiction": "united-states-california",
       "topic": "rights",
       "path": "content/united-states-california/resources/rights.md",
-      "words": 763,
+      "words": 894,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -1272,7 +1283,8 @@
       "sourceUrls": [
         "https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html",
         "https://www.hhs.gov/hipaa/part-2/index.html",
-        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10."
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.",
+        "https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -1406,7 +1418,7 @@
       "jurisdiction": "united-states-new-york",
       "topic": "rights",
       "path": "content/united-states-new-york/resources/rights.md",
-      "words": 842,
+      "words": 956,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -1416,7 +1428,8 @@
         "https://www.nysenate.gov/legislation/laws/MHY/33.13",
         "https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html",
         "https://www.hhs.gov/hipaa/part-2/index.html",
-        "https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State"
+        "https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State",
+        "https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null

@@ -84,3 +84,18 @@ The Personal Health Information Protection Act 2004 (PHIPA) applies according to
 
 # Corrected official Connecting Care Act URL; this is not a whole-Act re-review.
 DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'
+
+# Verified source follow-up, 22 October 2026.
+DATA['foundations']['legal'] += '\n\nOCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.'
+DATA['foundations']['sources'].extend([{'title': 'OCSWSSW entry-to-practice exams', 'url': 'https://www.ocswssw.org/applicants/entry-to-practice-exams/', 'category': 'professional-standards'}])
+DATA['foundations']['editorialUpdatedAt'] = '2026-10-22'
+
+# Verified source follow-up, 22 October 2026.
+DATA['rights']['legal'] += '\n\nOCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.'
+DATA['rights']['sources'].extend([{'title': 'OCSWSSW Practice Notes: AI: Friend or Foe?', 'url': 'https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/', 'category': 'professional-standards'}])
+DATA['rights']['editorialUpdatedAt'] = '2026-10-22'
+
+# Verified source follow-up, 22 October 2026.
+DATA['mca']['legal'] += '\n\nThe College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.'
+DATA['mca']['sources'].extend([{'title': 'Respecting Choice: Consent, Autonomy and the Older Adult', 'url': 'https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/', 'category': 'professional-standards'}])
+DATA['mca']['editorialUpdatedAt'] = '2026-10-22'

@@ -10,6 +10,8 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
 
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
+
 ## Start with the decision and the support
 
 Write the decision as a question the person could answer: accepting a particular treatment, choosing accommodation or authorising a financial transaction. These questions may engage different laws and decision-makers. A diagnosis, cognitive score or disagreement with professionals is not a complete capacity assessment. Describe the ability relevant to this decision and the evidence for any concern.
@@ -63,5 +65,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
 - [Substitute Decisions Act 1992](https://www.ontario.ca/laws/statute/92s30)
+- [Respecting Choice: Consent, Autonomy and the Older Adult](https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

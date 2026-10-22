@@ -42,7 +42,7 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 ### Which distinction must be kept clear?
 
-From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
 
 
 ### What are the key local actions?

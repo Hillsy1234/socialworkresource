@@ -14,6 +14,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 ## Assess daily life, not just a list of services
 
 Begin with what a good day would look like. Explore washing, dressing, nutrition, medicines, mobility, home safety, relationships, work or education and community participation. Ask about variation: what happens at night, on a bad day or when a regular supporter is unavailable? Establish what the person can do with appropriate equipment, accessible information or a different environment. Do not confuse performing a task once during a visit with being able to do it reliably in daily life.
@@ -71,6 +73,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 

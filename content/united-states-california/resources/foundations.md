@@ -10,6 +10,8 @@ The California Board of Behavioral Sciences (BBS) regulates Licensed Clinical So
 
 An ASW is not an independently licensed LCSW. A supervisor must meet the relevant requirements, and an employment title does not confer county-designated mental-health detention authority. NASW ethical material may inform practice but does not replace California licensing law.
 
+Future changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -64,5 +66,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [BBS role and regulated professions](https://www.bbs.ca.gov/about/board_info.html)
 - [BBS LCSW and ASW requirements](https://bbs.ca.gov/applicants/lcsw.html)
 - [BBS law changes](https://www.bbs.ca.gov/about/law_reg.html)
+- [BBS 2026 legislation considered by the Board](https://www.bbs.ca.gov/pdf/legarchive_26.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

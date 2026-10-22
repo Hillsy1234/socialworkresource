@@ -10,6 +10,10 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
 
+Oranga Tamariki’s allocation policy, reviewed 13 October 2026, requires a key social worker for each CYRAS phase, subject to the stated youth-justice exception where an offending profile consultation agrees that social-worker involvement is unnecessary and the youth justice coordinator retains responsibility. Co-social workers and support roles do not transfer primary accountability from the key social worker. Supervisors must match allocations to capability, capacity and delegations, provide oversight and keep substantive ongoing allocations recorded. NCC support-worker guidance reviewed 15 October distinguishes information gathering and support from statutory powers, delegated decisions and independent social-work assessment.
+
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.
@@ -63,5 +67,10 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [Oranga Tamariki Act 1989](https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html)
 - [Family group conference policy](https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns)
+- [Allocation of key social workers, co-social workers and support roles](https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles)
+- [NCC support workers](https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers)
+- [Overseas care arrangements](https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

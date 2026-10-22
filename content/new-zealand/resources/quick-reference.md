@@ -10,7 +10,9 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+SWRB’s Enough Practical Experience policy, approved/reviewed on 24 June 2026, requires 2,000 hours of supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count. The policy states an eight-year maximum provisional-registration period for a person to whom section 14 applies; do not generalise this to every registration route. The Board may assess applications case by case and request additional evidence. Other full-registration conditions still apply. October newsletter publicity is not a new policy commencement date; confirm individual eligibility with SWRB.
+
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 
 - Confirm registration, practising status, competence and the authority required for the task.
@@ -26,6 +28,7 @@ Explain the service complaint route and when a professional concern belongs with
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
 - [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
+- [SWRB Enough Practical Experience policy, reviewed 24 June 2026](https://swrb.govt.nz/download/enough-practical-experience-policy-2026/)
 
 
 ## Social Care and Support — Aotearoa New Zealand
@@ -139,6 +142,10 @@ The Oranga Tamariki Act 1989 provides the care-and-protection framework, includi
 
 Establish the child’s safety and views alongside whānau relationships, cultural identity and practical support. Use the current Act and policy for duties and powers; professional commitments to culturally safe practice should not be confused with an assumption that every historical statutory provision remains unchanged.
 
+Oranga Tamariki’s allocation policy, reviewed 13 October 2026, requires a key social worker for each CYRAS phase, subject to the stated youth-justice exception where an offending profile consultation agrees that social-worker involvement is unnecessary and the youth justice coordinator retains responsibility. Co-social workers and support roles do not transfer primary accountability from the key social worker. Supervisors must match allocations to capability, capacity and delegations, provide oversight and keep substantive ongoing allocations recorded. NCC support-worker guidance reviewed 15 October distinguishes information gathering and support from statutory powers, delegated decisions and independent social-work assessment.
+
+The overseas care policy reviewed 8 October 2026 concerns arrangements outside New Zealand and Australia; Australian arrangements and short-term travel have separate policies. Seek early International Child Protection Unit advice and address best interests, assessment, guardians’ consent, the child’s voice, service access, transition support and recording. Do not treat an overseas family placement as an ordinary travel decision.
+
 
 - Record the concern and use the appropriate Oranga Tamariki or police route where needed.
 - Distinguish the assessment, the basis for believing care or protection is needed and any referral for a family group conference.
@@ -151,6 +158,9 @@ Explain participation, support and any applicable court or complaint route. A pl
 
 - [Oranga Tamariki Act 1989](https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html)
 - [Family group conference policy](https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns)
+- [Allocation of key social workers, co-social workers and support roles](https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles)
+- [NCC support workers](https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers)
+- [Overseas care arrangements](https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements)
 
 
 ## Rights, Culture and Recording — Aotearoa New Zealand

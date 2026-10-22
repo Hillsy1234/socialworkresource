@@ -10,6 +10,8 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
 
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
+
 
 - Confirm registration, professional scope and any additional authority required.
 - Explain the service, purpose of assessment, informed consent and confidentiality limits.
@@ -22,6 +24,7 @@ A complaint to the College concerns professional conduct or practice. A funding 
 
 - [OCSWSSW Code and Standards](https://www.ocswssw.org/sop/)
 - [Social Work and Social Service Work Act 1998](https://www.ontario.ca/laws/statute/98s31)
+- [OCSWSSW entry-to-practice exams](https://www.ocswssw.org/applicants/entry-to-practice-exams/)
 
 
 ## Social Care and Support — Ontario
@@ -50,6 +53,8 @@ The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a 
 
 For HCCA substitute consent, apply the statutory hierarchy and eligibility requirements. Applicable prior capable wishes matter; where no applicable wish governs, the statutory best-interests framework applies. A power of attorney must be checked for scope and operation rather than assumed to cover every decision.
 
+The College’s 21 October 2026 article on older adults emphasises supported choice, listening to refusal, autonomy and dignity of risk. Dependence on others for support does not itself remove a person’s authority over decisions. Use this as a practice reflection alongside the applicable capacity and consent law, not as a replacement legal test.
+
 
 - Specify the decision and identify which Act and decision-maker apply.
 - Support understanding and assess the relevant understanding-and-appreciation abilities.
@@ -62,6 +67,7 @@ The Consent and Capacity Board has review and application functions under the HC
 
 - [Health Care Consent Act 1996](https://www.ontario.ca/laws/statute/96h02)
 - [Substitute Decisions Act 1992](https://www.ontario.ca/laws/statute/92s30)
+- [Respecting Choice: Consent, Autonomy and the Older Adult](https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/)
 
 
 ## Restrictions and Liberty — Ontario
@@ -153,6 +159,8 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
 
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
+
 
 - Identify the service decision, relevant protected ground and accommodation required.
 - Check whether PHIPA or another privacy regime governs the organisation and proposed disclosure.
@@ -166,3 +174,4 @@ The Information and Privacy Commissioner of Ontario addresses privacy matters wi
 - [Personal Health Information Protection Act 2004](https://www.ontario.ca/laws/statute/04p03)
 - [Ontario Human Rights Code](https://www.ontario.ca/laws/statute/90h19)
 - [OCSWSSW legislation and confidentiality guidance](https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/)
+- [OCSWSSW Practice Notes: AI: Friend or Foe?](https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/)

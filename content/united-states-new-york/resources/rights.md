@@ -12,6 +12,8 @@ HIPAA applies to covered entities and business associates; Mental Hygiene Law se
 
 End-of-life practice is a separate legal pathway. NYSED confirms that the Medical Aid in Dying Act became effective on 5 August 2026 and provides profession-specific mental-health guidance. Check Public Health Law Article 28-F, applicable professional scope, evaluation requirements and safeguards before advising or participating. This is not an extension of ordinary psychiatric-admission powers.
 
+HHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -67,6 +69,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 

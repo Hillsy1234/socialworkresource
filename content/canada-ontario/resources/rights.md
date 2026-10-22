@@ -10,6 +10,8 @@ The Ontario Human Rights Code protects against discrimination in covered areas a
 
 The Personal Health Information Protection Act 2004 (PHIPA) applies according to the role of the custodian, agent and information. Other organisations may be governed by different privacy laws. College confidentiality and recording standards operate alongside those laws, not in place of them.
 
+OCSWSSW’s 21 October 2026 AI practice note applies existing professional standards to technology use. Registrants retain responsibility for competence, accurate records, confidentiality and transparency. Explain AI use and relevant choices to clients, check consent and privacy requirements, and assess data handling and workplace policy before using an AI scribe. The College does not endorse particular AI tools; this practice note is not a new statute.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -64,5 +66,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Personal Health Information Protection Act 2004](https://www.ontario.ca/laws/statute/04p03)
 - [Ontario Human Rights Code](https://www.ontario.ca/laws/statute/90h19)
 - [OCSWSSW legislation and confidentiality guidance](https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/)
+- [OCSWSSW Practice Notes: AI: Friend or Foe?](https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

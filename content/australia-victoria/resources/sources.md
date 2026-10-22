@@ -22,6 +22,7 @@ Australian Association of Social Workers (AASW)
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 
 ### Decision-Making and Capacity — Victoria
@@ -80,9 +81,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.
+The aged-care definition amendment is verified. Equivalence of the newly hosted AASW Code of Ethics 2020 remains unverified; current consolidated statutory texts and detailed amendment comparisons remain outstanding.
 
 
 Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

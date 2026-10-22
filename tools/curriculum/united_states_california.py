@@ -81,3 +81,13 @@ Certain substance-use-disorder records have additional protection under 42 CFR P
 'Assuming HIPAA applies to every record or that a general consent covers all uses in legal proceedings.',
 [S('HHS mental and behavioural health privacy guidance', 'https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html', 'policy'), S('Current Part 2 confidentiality requirements', 'https://www.hhs.gov/hipaa/part-2/index.html', 'policy'), S('California Civil Code, medical-information disclosure', 'https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.')]),
 }
+
+# Verified source follow-up, 22 October 2026.
+DATA['foundations']['legal'] += '\n\nFuture changes: the BBS 2026 legislative table lists signed AB1598, AB1979, AB2011, SB934, SB993 and SB1445 with effective dates of 1 January 2027. Its footnote delays AB1598’s seven-year age limit for the California Law and Ethics Exam score until 1 January 2030. These dates are not October 2026 operative requirements. The table also includes dead and vetoed bills. Individual chapter text and application remain to be checked before teaching detailed statutory changes.'
+DATA['foundations']['sources'].extend([{'title': 'BBS 2026 legislation considered by the Board', 'url': 'https://www.bbs.ca.gov/pdf/legarchive_26.pdf', 'category': 'professional-standards'}])
+DATA['foundations']['editorialUpdatedAt'] = '2026-10-22'
+
+# Verified source follow-up, 22 October 2026.
+DATA['rights']['legal'] += '\n\nHHS’s September 2026 Part 2 guidance explains when a state Medicaid agency may use protected substance-use-disorder records to verify an exclusion from the community-engagement requirement: within the scope of an existing written treatment/payment/health-care-operations consent, or with an appropriate written consent obtained by the agency. This is not blanket permission to disclose treatment records. Restrictions on use in proceedings against the patient continue. Check the consent’s scope, required elements and applicable state implementation; do not infer that the community-engagement requirement already applies to every client.'
+DATA['rights']['sources'].extend([{'title': 'HHS Part 2 confidentiality and Medicaid community-engagement exclusions', 'url': 'https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf', 'category': 'policy'}])
+DATA['rights']['editorialUpdatedAt'] = '2026-10-22'

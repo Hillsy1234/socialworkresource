@@ -64,6 +64,7 @@ New York State Education Department, Office of the Professions
 - [HHS mental-health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [NYSED: Medical Aid in Dying and professional guidance](https://www.op.nysed.gov/medical-aid-in-dying-becomes-effective-in-New-York-State)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 
 ## How to verify a rule
@@ -78,7 +79,7 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
 
 Targeted editorial corrections on 22 October 2026: rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

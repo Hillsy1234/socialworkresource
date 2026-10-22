@@ -70,3 +70,8 @@ DATA['care-support']['legal'] += '\n\nFrom 1 October 2026, eligible personal car
 DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'
 DATA['care-support']['sources'].extend([{'title': 'My Aged Care: costs and Support at Home personal care', 'url': 'https://www.myagedcare.gov.au/how-do-aged-care-costs-work', 'category': 'policy'}])
 DATA['care-support']['steps'].append('Check current Support at Home contribution rules, including fully funded eligible personal care from 1 October 2026.')
+
+# Verified source follow-up, 22 October 2026.
+DATA['care-support']['legal'] += '\n\nFrom 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.'
+DATA['care-support']['sources'].extend([{'title': 'Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9', 'url': 'https://www.legislation.gov.au/F2026L01252/latest/text', 'category': 'legislation'}])
+DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'

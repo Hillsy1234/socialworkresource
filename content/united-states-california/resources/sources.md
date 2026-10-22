@@ -15,6 +15,7 @@ California Board of Behavioral Sciences (BBS)
 - [BBS role and regulated professions](https://www.bbs.ca.gov/about/board_info.html)
 - [BBS LCSW and ASW requirements](https://bbs.ca.gov/applicants/lcsw.html)
 - [BBS law changes](https://www.bbs.ca.gov/about/law_reg.html)
+- [BBS 2026 legislation considered by the Board](https://www.bbs.ca.gov/pdf/legarchive_26.pdf)
 
 
 ### Social Care and Support — California
@@ -63,6 +64,7 @@ California Board of Behavioral Sciences (BBS)
 - [HHS mental and behavioural health privacy guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)
 - [Current Part 2 confidentiality requirements](https://www.hhs.gov/hipaa/part-2/index.html)
 - [California Civil Code, medical-information disclosure](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=56.10.)
+- [HHS Part 2 confidentiality and Medicaid community-engagement exclusions](https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf)
 
 
 ## How to verify a rule
@@ -77,6 +79,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-The newly linked 2026 BBS approved-legislation PDF remains inaccessible; individual Acts and commencement dates are unverified.
+The BBS 2026 legislative table is now verified, including its future effective dates. Detailed chapter text and application remain unverified; several current statutory section URLs remain inaccessible.
+
+
+Targeted editorial corrections on 22 October 2026: foundations, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

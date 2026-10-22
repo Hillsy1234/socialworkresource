@@ -33,6 +33,8 @@ The Australian Government confirms that CHSP has been extended to 30 June 2029. 
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
+From 20 September 2026, the relevant Aged Care Rules definition of social worker requires membership of the Australian Association of Social Workers (AASW), replacing the Accredited Social Worker certification wording. This amendment concerns the aged-care rules definition; it does not itself establish universal social-work registration or every employer’s eligibility requirements. Check the actual service, role and other applicable conditions.
+
 
 - Identify the scheme responsible for each need and the evidence required for its assessment.
 - Keep access eligibility, plan funding, provider availability and any client contribution separate.
@@ -49,6 +51,7 @@ For an NDIA decision, identify whether an internal review and subsequent Adminis
 - [Current aged-care provider rules and reforms](https://www.health.gov.au/our-work/aged-care-act/resources/providers)
 - [CHSP transition arrangements](https://www.health.gov.au/our-work/chsp/reforms)
 - [My Aged Care: costs and Support at Home personal care](https://www.myagedcare.gov.au/how-do-aged-care-costs-work)
+- [Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9](https://www.legislation.gov.au/F2026L01252/latest/text)
 
 
 ## Decision-Making and Capacity — Victoria

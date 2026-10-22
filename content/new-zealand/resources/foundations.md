@@ -10,7 +10,9 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
-SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+SWRB’s Enough Practical Experience policy, approved/reviewed on 24 June 2026, requires 2,000 hours of supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count. The policy states an eight-year maximum provisional-registration period for a person to whom section 14 applies; do not generalise this to every registration route. The Board may assess applications case by case and request additional evidence. Other full-registration conditions still apply. October newsletter publicity is not a new policy commencement date; confirm individual eligibility with SWRB.
+
+Use the full policy alongside the Act and SWRB advice for the individual registration route.
 
 ## From information to a professional formulation
 
@@ -67,6 +69,7 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
 - [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
+- [SWRB Enough Practical Experience policy, reviewed 24 June 2026](https://swrb.govt.nz/download/enough-practical-experience-policy-2026/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
 

@@ -10,6 +10,8 @@ The Ontario College of Social Workers and Social Service Workers (OCSWSSW) regul
 
 Registration does not make every registrant a designated capacity assessor or confer every controlled-act or statutory power. Establish the role, competence and additional requirements before undertaking specialist work. Identify whether the employer is a health-information custodian, a public body or another organisation because that affects records and disclosure duties.
 
+OCSWSSW plans entry-to-practice exams from fall 2027 for equivalency-stream and reinstatement applicants, and fall 2028 for all applicants; exact dates are forthcoming. Check the applicable route and current College instructions. The October 2026 draft-policy consultation is not a present universal examination requirement.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -63,5 +65,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 
 - [OCSWSSW Code and Standards](https://www.ocswssw.org/sop/)
 - [Social Work and Social Service Work Act 1998](https://www.ontario.ca/laws/statute/98s31)
+- [OCSWSSW entry-to-practice exams](https://www.ocswssw.org/applicants/entry-to-practice-exams/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

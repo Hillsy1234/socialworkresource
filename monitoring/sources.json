@@ -63,6 +63,33 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "028ef7715a07b42e",
+      "url": "https://www.legislation.gov.au/F2026L01252/latest/text",
+      "title": "Aged Care Rules amendment F2026L01252, Schedule 2 Part 1 Division 4 item 9",
+      "publisher": "www.legislation.gov.au",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "australia-nsw",
+        "australia-victoria"
+      ],
+      "references": [
+        {
+          "jurisdiction": "australia-nsw",
+          "id": "care-support",
+          "title": "Social Care and Support — New South Wales",
+          "path": "content/australia-nsw/resources/care-support.md"
+        },
+        {
+          "jurisdiction": "australia-victoria",
+          "id": "care-support",
+          "title": "Social Care and Support — Victoria",
+          "path": "content/australia-victoria/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "02c16a6e5d119544",
       "url": "https://www.aasw.asn.au/",
       "title": "AASW news and professional learning",
@@ -124,7 +151,7 @@
     },
     {
       "id": "056121216fd74bf7",
-      "url": "https://www.equalityhumanrights.com/equality/equality-act-2010/protected-characteristics",
+      "url": "https://www.equalityhumanrights.com/guidance/protected-characteristics",
       "title": "protected characteristics",
       "publisher": "Equality and Human Rights Commission",
       "category": "policy",
@@ -362,6 +389,26 @@
           "id": "safeguarding",
           "title": "Adult Safeguarding — Northern Ireland",
           "path": "content/northern-ireland/resources/safeguarding.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "0e51c302c6d55e33",
+      "url": "https://www.irishstatutebook.ie/eli/2026/si/50/made/en/pdf",
+      "title": "Approved Qualifications Bye-Law 2026 (S.I. 50/2026)",
+      "publisher": "www.irishstatutebook.ie",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "ireland"
+      ],
+      "references": [
+        {
+          "jurisdiction": "ireland",
+          "id": "foundations",
+          "title": "Professional Foundations — Ireland",
+          "path": "content/ireland/resources/foundations.md"
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
@@ -1444,6 +1491,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "2e110d9ee72a4d7c",
+      "url": "https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles",
+      "title": "Allocation of key social workers, co-social workers and support roles",
+      "publisher": "practice.orangatamariki.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "children",
+          "title": "Children, Families and Transitions — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "2e7d0100e4172048",
@@ -2604,6 +2671,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "54acbd8ebc0c59d1",
+      "url": "https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers",
+      "title": "NCC support workers",
+      "publisher": "practice.orangatamariki.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "children",
+          "title": "Children, Families and Transitions — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "5584d64f653a0b7c",
@@ -3885,6 +3972,26 @@
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
     },
     {
+      "id": "83ca99377b775c9a",
+      "url": "https://www.bbs.ca.gov/pdf/legarchive_26.pdf",
+      "title": "BBS 2026 legislation considered by the Board",
+      "publisher": "www.bbs.ca.gov",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "foundations",
+          "title": "Professional Foundations — California",
+          "path": "content/united-states-california/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "83e0e36c4f3341ce",
       "url": "https://www.gov.uk/government/publications/working-together-to-safeguard-children--2/working-together-to-safeguard-children-2026-summary-of-changes",
       "title": "working together to safeguard children 2026 summary of changes",
@@ -4178,6 +4285,33 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "8bf81c477cf10621",
+      "url": "https://www.hhs.gov/sites/default/files/ocr-faq-part-2-sud.pdf",
+      "title": "HHS Part 2 confidentiality and Medicaid community-engagement exclusions",
+      "publisher": "www.hhs.gov",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "united-states-california",
+        "united-states-new-york"
+      ],
+      "references": [
+        {
+          "jurisdiction": "united-states-california",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — California",
+          "path": "content/united-states-california/resources/rights.md"
+        },
+        {
+          "jurisdiction": "united-states-new-york",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — New York",
+          "path": "content/united-states-new-york/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "8cb2bcc9bae88c24",
@@ -4481,6 +4615,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "96bd954692a91b62",
+      "url": "https://www.ocswssw.org/2026/10/21/respecting-choice-consent-autonomy-and-the-older-adult/",
+      "title": "Respecting Choice: Consent, Autonomy and the Older Adult",
+      "publisher": "www.ocswssw.org",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "mca",
+          "title": "Decision-Making and Capacity — Ontario",
+          "path": "content/canada-ontario/resources/mca.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "96c89996a6d887a4",
@@ -5478,6 +5632,26 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "b83460b475335c48",
+      "url": "https://www.ocswssw.org/2026/10/21/practice-notes-ai-friend-or-foe/",
+      "title": "OCSWSSW Practice Notes: AI: Friend or Foe?",
+      "publisher": "www.ocswssw.org",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Ontario",
+          "path": "content/canada-ontario/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "ba1c793de4bc9e92",
       "url": "https://www.coru.ie/health-and-social-care-professionals/continuing-professional-development/cpd-for-social-workers/",
       "title": "CORU CPD for social workers",
@@ -5970,6 +6144,26 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "c68774b06630f66d",
+      "url": "https://swrb.govt.nz/download/enough-practical-experience-policy-2026/",
+      "title": "SWRB Enough Practical Experience policy, reviewed 24 June 2026",
+      "publisher": "swrb.govt.nz",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "foundations",
+          "title": "Professional Foundations — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "c6f363530836e60b",
       "url": "https://www.ontario.ca/page/report-child-abuse-and-neglect",
       "title": "Ontario child protection",
@@ -6020,6 +6214,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "c862b9f492e0d422",
+      "url": "https://www.ocswssw.org/applicants/entry-to-practice-exams/",
+      "title": "OCSWSSW entry-to-practice exams",
+      "publisher": "www.ocswssw.org",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "foundations",
+          "title": "Professional Foundations — Ontario",
+          "path": "content/canada-ontario/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "c9a0e0857f41ac72",
@@ -6477,6 +6691,26 @@
           "id": "children",
           "title": "Children, Families and Transitions",
           "path": "content/wales/resources/children.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
+      "id": "d8f3a68e22006672",
+      "url": "https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements",
+      "title": "Overseas care arrangements",
+      "publisher": "practice.orangatamariki.govt.nz",
+      "category": "policy",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "children",
+          "title": "Children, Families and Transitions — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/children.md"
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."

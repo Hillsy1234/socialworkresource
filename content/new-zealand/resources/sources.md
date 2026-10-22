@@ -16,6 +16,7 @@ Social Workers Registration Board (SWRB)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
 - [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
+- [SWRB Enough Practical Experience policy, reviewed 24 June 2026](https://swrb.govt.nz/download/enough-practical-experience-policy-2026/)
 
 
 ### Social Care and Support — Aotearoa New Zealand
@@ -55,6 +56,9 @@ Social Workers Registration Board (SWRB)
 
 - [Oranga Tamariki Act 1989](https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html)
 - [Family group conference policy](https://practice.orangatamariki.govt.nz/policy/family-group-conferences-for-care-andor-protection-concerns)
+- [Allocation of key social workers, co-social workers and support roles](https://practice.orangatamariki.govt.nz/policy/allocation-of-key-social-workers-co-social-workers-and-support-roles)
+- [NCC support workers](https://practice.orangatamariki.govt.nz/our-work/intake/intake-pathways/ncc-support-workers)
+- [Overseas care arrangements](https://practice.orangatamariki.govt.nz/policy/overseas-care-arrangements)
 
 
 ### Rights, Culture and Recording — Aotearoa New Zealand
@@ -76,9 +80,9 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+The further 22 October check retried all 64 previously unresolved URLs: 22 yielded substantive page content or authorised statute PDFs, 15 yielded portal/version listings or indexed primary content, 2 yielded only navigation, 1 remained blocked online but its supplied judgment was verified, and 24 remained unresolved. Retrieval is not a full legal review. Unresolved monitoring observations and detailed statutory checks remain open; historical comprehensive source-check dates are unchanged.
 
-New Oranga Tamariki operational-policy links still require role-specific review; the complete SWRB practical-experience policy requires an individual eligibility check.
+The SWRB practical-experience policy and identified October Oranga Tamariki policies have been reviewed for the stated teaching points. Individual registration eligibility, role-specific implementation and inaccessible consolidated statutory texts remain to be checked.
 
 
-Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+Targeted editorial corrections on 22 October 2026: foundations, mha, children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
