@@ -126,12 +126,12 @@ The Mental Health Act provides involuntary admission through medical certificati
 
 ### Which distinction must be kept clear?
 
-Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+Outstanding current-effect check: this verifies the orders stated in the supplied reasons, not a separately entered order or subsequent developments. Any later appeal, stay, extension, variation or legislative response remains unverified. Check those developments and obtain current legal advice before applying the ruling to a live treatment decision; do not infer that a later order exists or that none exists.
 
 
 ### What are the key local actions?
 
-Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
+Identify the route and evidence for each applicable criterion, including voluntary alternatives. Check certificates, dates, notices and renewal or review requirements. Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions. Arrange rights advice, access to a review panel or court process and the applicable second-opinion route. Record the two declarations in 2026 BCSC 1416 and their six-month suspension; check for any later appeal, stay, extension or legislative response before applying the ruling.
 
 
 ### How can the person participate or challenge the decision?

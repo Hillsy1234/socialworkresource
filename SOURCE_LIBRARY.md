@@ -163,4 +163,4 @@ Tier 2 judgments are fact-specific learning illustrations, not binding appellate
 
 ## Outstanding source checks
 
-The 22 October follow-up retried 157 flagged URLs across the resource; 64 remained inaccessible or unreadable. Changed-source leads and failed retrievals remain open. Targeted corrections do not certify a full legal review or advance historical comprehensive source-check dates. The British Columbia judgment, operative order and appeal/stay position remain unverified.
+The 22 October follow-up retried 157 flagged URLs across the resource; 64 remained inaccessible or unreadable. Changed-source leads and failed retrievals remain open. Targeted corrections do not certify a full legal review or advance historical comprehensive source-check dates. The British Columbia judgment’s declarations and six-month suspension have now been verified from supplied reasons. A separately entered order and any later appeal, stay, extension, variation or legislative response remain unchecked.

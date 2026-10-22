@@ -76,7 +76,7 @@ A person is detained and a worker assumes the treatment-consent process must be 
 
 ### Discussion
 
-Read the BC provisions governing the person’s actual status and proposed treatment. Explain the specific review and second-opinion rights, and assess unrelated physical healthcare under its own framework. Avoid substituting a familiar out-of-province process.
+Read the BC provisions governing the person’s actual status and proposed treatment. Explain the specific review and second-opinion rights, and assess unrelated physical healthcare under its own framework. Avoid substituting a familiar out-of-province process. The verified judgment suspends both declarations for six months (paragraphs 1123–1127). Establish whether a later order or legislative change affects the proposed treatment; do not equate detention with consent or assume immediate abolition of treatment powers.
 
 
 ## Adult Safeguarding — British Columbia

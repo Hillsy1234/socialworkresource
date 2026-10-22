@@ -7,7 +7,7 @@
 British Columbia College of Social Workers (BCCSW)
 
 
-## Sources by topic, including labelled verification leads
+## Sources by topic, including judgment and outstanding subsequent checks
 
 
 ### Professional Foundations — British Columbia
@@ -40,8 +40,8 @@ British Columbia College of Social Workers (BCCSW)
 ### Mental Health — British Columbia
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
-- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
-- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
+- [Counsel commentary on 2026 BCSC 1416 (secondary source)](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 — reasons verified from supplied PDF; later developments unverified](https://canlii.ca/t/kmcps)
 
 
 ### Adult Safeguarding — British Columbia
@@ -78,7 +78,7 @@ Final learning-guide release. Core lessons and linked learning tools were expand
 
 The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
 
-2026 BCSC 1416 remains corroborated by involved counsel but not verified against the full judgment or operative order. Suspension, appeal/stay and current operational effect remain open.
+2026 BCSC 1416: paragraphs 1115–1127 of the supplied reasons verify the declarations and their six-month suspension. A separately entered order and any later appeal, stay, extension, variation or legislative response remain unchecked.
 
 
 Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

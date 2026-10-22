@@ -199,7 +199,7 @@ Editorial expansion: 8 September 2026. Check current law, commencement and local
     currency_alerts = {
         'ireland': 'The Mental Health Act 2026 has been enacted. Check commencement for each provision before changing the operative pathway.',
         'new-zealand': 'The replacement clinical regime commences on 1 July 2028. Section 2(2) has a limited exception effective 10 July 2026; check the relevant provision.',
-        'canada-british-columbia': '2026 BCSC 1416: urgent verification of treatment-authority judgment, suspension and any appeal or legislative response is outstanding. Obtain current legal advice.',
+        'canada-british-columbia': '2026 BCSC 1416: reasons and six-month suspension of both declarations verified from supplied judgment. Any later appeal, stay, extension or legislative response remains unverified.',
         'northern-ireland': 'The capacity legislation is partly commenced. Use the current June 2026 interim liberty guidance with the operative provisions.',
         'united-states-california': 'Use the expanded grave-disability criteria and current county procedures; older food, clothing and shelter summaries are incomplete.',
         'united-states-new-york': 'Current emergency-admission guidance includes essential-needs grounds. Apply the exact admission route and safeguards.'
@@ -211,7 +211,7 @@ Editorial expansion: 8 September 2026. Check current law, commencement and local
     m['version'] = '2026-10-22-legal-update' if any(d.get('editorialUpdatedAt') for d in data.values()) else '2026-09-08-curriculum-2'
     library.extend(['\n## How to verify a rule', 'Identify territorial scope, current consolidated text, amendments and commencement, then the applicable statutory guidance and service procedure. An enactment announcement or portal is not proof that every provision is in force.', '\n## Editorial status', 'Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.'])
     follow_up_flags = {
-        'canada-british-columbia': '2026 BCSC 1416 remains corroborated by involved counsel but not verified against the full judgment or operative order. Suspension, appeal/stay and current operational effect remain open.',
+        'canada-british-columbia': '2026 BCSC 1416: paragraphs 1115–1127 of the supplied reasons verify the declarations and their six-month suspension. A separately entered order and any later appeal, stay, extension, variation or legislative response remain unchecked.',
         'united-states-california': 'The newly linked 2026 BBS approved-legislation PDF remains inaccessible; individual Acts and commencement dates are unverified.',
         'australia-nsw': 'The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.',
         'australia-victoria': 'The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.',
@@ -228,7 +228,7 @@ Editorial expansion: 8 September 2026. Check current law, commencement and local
         for companion in ['quick-reference', 'sources', 'flashcards', 'scenarios', 'student-pathway', 'printable-tools', 'case-route-finder', 'glossary']:
             resources[companion]['editorialUpdatedAt'] = '2026-10-22'
     if jurisdiction == 'canada-british-columbia':
-        library = [s.replace('## Official sources by topic', '## Sources by topic, including labelled verification leads') for s in library]
+        library = [s.replace('## Official sources by topic', '## Sources by topic, including judgment and outstanding subsequent checks') for s in library]
     write(manifest_path, json.dumps(m, ensure_ascii=False, indent=2))
     for resource_id, sections in [('quick-reference', quick), ('sources', library), ('flashcards', card_text), ('scenarios', case_text), ('student-pathway', pathway)]:
         write(resources[resource_id]['path'], '\n\n'.join(sections))

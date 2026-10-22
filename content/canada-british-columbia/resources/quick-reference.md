@@ -93,24 +93,28 @@ Mental-health detention has review-panel and court routes; other disputed restri
 
 The Mental Health Act provides involuntary admission through medical certification and other defined routes. Section 22 addresses mental disorder requiring treatment, need for treatment in or through a designated facility, need for care, supervision and control to prevent substantial deterioration or protect the person or others, and inability to be suitably admitted voluntarily.
 
-The statutory framework includes treatment authority for detained patients, which differs from ordinary substitute-consent healthcare. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
+Treatment authority must be read with the judgment and suspended declarations described below; involuntary admission and treatment consent are separate questions. Do not import another province’s treatment-consent rule. The person’s status, required certificates and the particular treatment must all be checked.
 
-Urgent case-law verification flag (22 October 2026): counsel involved reports that Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, challenges the treatment-authority regime, with declarations suspended for six months. The linked judgment could not be independently retrieved for this update. Obtain the judgment, orders and current appeal/stay or legislative position before relying on an unchanged treatment-consent rule. Do not infer that all treatment powers have immediately ceased. The report is a secondary account, not a verified statement of the current operational effect.
+Verified judgment — 22 October 2026: Council of Canadians with Disabilities v British Columbia (Attorney General), 2026 BCSC 1416, Justice Blake, 28 July 2026. The supplied 397-page reasons have been inspected, including paragraphs 1115–1127 (pages 334–337). Paragraph 1126 makes two declaratory orders: (a) the Mental Health Act, including section 8(a), does not empower directors to authorise Forced Psychiatric Treatment; and (b) sections 2(b)–(c) of the Health Care (Consent) and Care Facility (Admission) Act and sections 11(1)(b)–(c) of the Representation Agreement Act unjustifiably infringe Charter sections 7 and 15 and are, to that extent, of no force or effect. Forced Psychiatric Treatment is the defined term in paragraph 124, concerning psychiatric treatment without the consent or authorisation required under the Consent Act.
+
+Both declarations are suspended for six months: paragraph 1123 expressly includes the declaration about directors’ treatment authority, and paragraph 1127 confirms the suspension of both orders. Paragraph 1125 permits the Attorney General to apply to Justice Blake, on a proper evidentiary basis, for an extension. The alternative constitutional finding about section 8(a) does not result in a separate declaration of invalidity: see paragraph 1116. Do not describe this judgment as immediately abolishing all involuntary admission or treatment powers.
+
+Outstanding current-effect check: this verifies the orders stated in the supplied reasons, not a separately entered order or subsequent developments. Any later appeal, stay, extension, variation or legislative response remains unverified. Check those developments and obtain current legal advice before applying the ruling to a live treatment decision; do not infer that a later order exists or that none exists.
 
 
 - Identify the route and evidence for each applicable criterion, including voluntary alternatives.
 - Check certificates, dates, notices and renewal or review requirements.
 - Identify the legal basis for psychiatric treatment and distinguish unrelated healthcare decisions.
 - Arrange rights advice, access to a review panel or court process and the applicable second-opinion route.
-- Escalate the 2026 BCSC 1416 treatment-authority question for current legal advice; record the verified order and any suspension or stay.
+- Record the two declarations in 2026 BCSC 1416 and their six-month suspension; check for any later appeal, stay, extension or legislative response before applying the ruling.
 
 
 The Act includes rights advice, notice, review panels, court discharge applications and a second-medical-opinion provision. These mechanisms address different questions. Explain the route that fits the person’s concern rather than presenting a treatment complaint as identical to detention review.
 
 
 - [BC Mental Health Act, current consolidation](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96288_01)
-- [Counsel report: 2026 BCSC 1416 — primary judgment verification outstanding](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
-- [2026 BCSC 1416 judgment — access and current effect require verification](https://canlii.ca/t/kmcps)
+- [Counsel commentary on 2026 BCSC 1416 (secondary source)](https://djacounsel.com/results/council-of-canadians-with-disabilities-v-british-columbia-attorney-general-2026-bcsc-1416/)
+- [2026 BCSC 1416 — reasons verified from supplied PDF; later developments unverified](https://canlii.ca/t/kmcps)
 
 
 ## Adult Safeguarding — British Columbia
