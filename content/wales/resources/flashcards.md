@@ -210,7 +210,7 @@ The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and
 
 ### Which distinction must be kept clear?
 
-Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 
 ### What are the key local actions?

@@ -70,3 +70,10 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+CORU qualification instruments, including SI 50/2026, still require qualification-specific applicability checks.

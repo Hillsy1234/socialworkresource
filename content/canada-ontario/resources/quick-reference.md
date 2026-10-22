@@ -41,7 +41,7 @@ Ontario Health atHome’s feedback process begins with the care coordinator and 
 
 
 - [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
-- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05)
 
 
 ## Decision-Making and Capacity — Ontario

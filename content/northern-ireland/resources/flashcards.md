@@ -182,7 +182,7 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 ### Which distinction must be kept clear?
 
-From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
 
 
 ### What are the key local actions?
@@ -210,7 +210,7 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 ### Which distinction must be kept clear?
 
-The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 
 ### What are the key local actions?

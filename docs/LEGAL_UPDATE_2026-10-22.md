@@ -55,3 +55,11 @@ The focused production browser pass completed 19 assertions with no page errors,
 The full live regression run completed 389 content, card-layout, interaction and download assertions across all 312 sections and 12 locations. It then timed out saving the final screenshot, so it is not recorded as a clean 390-check pass. The separate 19-check focused live pass completed successfully with no page errors.
 
 A retry with animations disabled also timed out saving the final Scotland mobile screenshot. This visual capture remains incomplete; the independent focused live screenshots and functional checks succeeded.
+
+## Verified-source follow-up
+
+Applied targeted primary-source findings: UK Information Commission transfer and continuity from 30 September; Northern Ireland CCE guidance refresh and publication-date discrepancy; SWRB practical-experience newsletter summary with full-policy qualification; CHSP extension to 30 June 2029, distinct from funding agreements. Corrected the Ontario Connecting Care Act URL from 19c05c to 19c05 and its monitored URL identity.
+
+The 157-URL follow-up yielded 56 changed pages triaged, 36 previously failed sources recovered, one verified replacement URL and 64 access/extraction failures. Triage is not legal clearance. Public source libraries retain explicit unresolved checks, including BC primary reasons/order and appeal/stay, California BBS legislation, AASW material, Oranga Tamariki policies, CORU qualification instruments and OCSWSSW practice articles. Existing monitoring history is unchanged. Source-check and practitioner-review dates are preserved.
+
+Follow-up validation: production build passed (17 community and 33 garden tests), 12 jurisdiction checks and 88-lesson coherence checks passed; 337-source registry valid; 41 monitoring tests and TypeScript checking passed. Sixteen focused local browser assertions passed without page errors. Regeneration was idempotent; historical source-check/practitioner-review metadata and 218 untracked local files were preserved.

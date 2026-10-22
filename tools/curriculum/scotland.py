@@ -88,3 +88,8 @@ DATA['children']['legal'] += '\n\nThe Children (Care, Care Experience and Servic
 DATA['children']['editorialUpdatedAt'] = '2026-10-22'
 DATA['children']['sources'].extend([{'title': 'Scottish children’s reform: first commencement schedule', 'url': 'https://www.legislation.gov.uk/ssi/2026/258/pdfs/ssi_20260258_en.pdf', 'category': 'legislation'}])
 DATA['children']['steps'].append('For 2026 reforms, record the section, commencement date and any purpose limitation, especially for cross-border placements.')
+
+# Verified source follow-up, 22 October 2026.
+DATA['rights']['legal'] += '\n\nFrom 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.'
+DATA['rights']['editorialUpdatedAt'] = '2026-10-22'
+DATA['rights']['sources'].append(S('Information Commission: transfer and continuity, SI 2026/1015', 'https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf'))

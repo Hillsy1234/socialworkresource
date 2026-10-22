@@ -10,6 +10,8 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -64,5 +66,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Equality laws in Northern Ireland](https://equalityni.org/equality-laws-ni)
 - [Section 75 and equality schemes](https://equalityni.org/public-authorities/section-75)
 - [Northern Ireland Act 1998, section 75](https://www.legislation.gov.uk/ukpga/1998/47/section/75)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

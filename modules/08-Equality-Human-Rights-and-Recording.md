@@ -173,3 +173,7 @@ A conclusion that Article 5 is not engaged does not remove Article 8, MCA or Car
 For children's information sharing in England, apply the operative section 16LA duty and [DfE guidance](https://www.gov.uk/government/publications/information-sharing-to-safeguard-children-and-young-people) from 30 September 2026 alongside confidentiality and data-protection requirements. Record which duty or power applies rather than using a general statement that safeguarding always overrides privacy.
 
 Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
+
+## Data-protection regulator transition
+
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure. [Commencement and continuity regulations](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)

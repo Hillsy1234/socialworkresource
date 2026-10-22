@@ -14,7 +14,7 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 ### Which distinction must be kept clear?
 
-The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
 
 
 ### What are the key local actions?

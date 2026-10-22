@@ -1166,6 +1166,47 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "24d70a5f46068e61",
+      "url": "https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf",
+      "title": "Information Commission: transfer and continuity, SI 2026/1015",
+      "publisher": "www.legislation.gov.uk",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "england",
+        "northern-ireland",
+        "scotland",
+        "wales"
+      ],
+      "references": [
+        {
+          "jurisdiction": "england",
+          "id": "rights",
+          "title": "Equality, Human Rights, and Recording",
+          "path": "modules/08-Equality-Human-Rights-and-Recording.md"
+        },
+        {
+          "jurisdiction": "scotland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Scotland",
+          "path": "content/scotland/resources/rights.md"
+        },
+        {
+          "jurisdiction": "northern-ireland",
+          "id": "rights",
+          "title": "Rights, Culture and Recording — Northern Ireland",
+          "path": "content/northern-ireland/resources/rights.md"
+        },
+        {
+          "jurisdiction": "wales",
+          "id": "rights",
+          "title": "Rights, Language and Recording",
+          "path": "content/wales/resources/rights.md"
+        }
+      ],
+      "coverageNote": "Targeted check of transfer and continuity provisions; does not certify all data-protection amendments."
+    },
+    {
       "id": "2579559ac31f03ab",
       "url": "https://cdss.ca.gov/adult-protective-services",
       "title": "CDSS Adult Protective Services",
@@ -2234,6 +2275,26 @@
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
+      "id": "49ccee1998856ffc",
+      "url": "https://swrb.govt.nz/onboard-newsletter-october-2026/",
+      "title": "SWRB October 2026: Enough Practical Experience policy update",
+      "publisher": "swrb.govt.nz",
+      "category": "professional-standards",
+      "kind": "document",
+      "jurisdictions": [
+        "new-zealand"
+      ],
+      "references": [
+        {
+          "jurisdiction": "new-zealand",
+          "id": "foundations",
+          "title": "Professional Foundations — Aotearoa New Zealand",
+          "path": "content/new-zealand/resources/foundations.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
+    },
+    {
       "id": "49e8f9e1c4a94906",
       "url": "https://www.mwcscot.org.uk/node/510",
       "title": "SIDMA practice guidance",
@@ -2491,6 +2552,26 @@
         }
       ],
       "coverageNote": "Checks this URL only; a portal does not cover every linked law or document."
+    },
+    {
+      "id": "538c5606a8b436db",
+      "url": "https://www.ontario.ca/laws/statute/19c05",
+      "title": "Connecting Care Act 2019",
+      "publisher": "www.ontario.ca",
+      "category": "legislation",
+      "kind": "document",
+      "jurisdictions": [
+        "canada-ontario"
+      ],
+      "references": [
+        {
+          "jurisdiction": "canada-ontario",
+          "id": "care-support",
+          "title": "Social Care and Support — Ontario",
+          "path": "content/canada-ontario/resources/care-support.md"
+        }
+      ],
+      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
     },
     {
       "id": "5468631d7056fa97",
@@ -6101,26 +6182,6 @@
           "id": "mha",
           "title": "Mental Health — Ireland",
           "path": "content/ireland/resources/mha.md"
-        }
-      ],
-      "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."
-    },
-    {
-      "id": "cd51d819541a9a32",
-      "url": "https://www.ontario.ca/laws/statute/19c05c",
-      "title": "Connecting Care Act 2019",
-      "publisher": "www.ontario.ca",
-      "category": "legislation",
-      "kind": "document",
-      "jurisdictions": [
-        "canada-ontario"
-      ],
-      "references": [
-        {
-          "jurisdiction": "canada-ontario",
-          "id": "care-support",
-          "title": "Social Care and Support — Ontario",
-          "path": "content/canada-ontario/resources/care-support.md"
         }
       ],
       "coverageNote": "Checks this specific official source URL. Linked documents and commencement changes require editorial review; inclusion does not certify legal completeness."

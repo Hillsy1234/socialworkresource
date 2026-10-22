@@ -210,7 +210,7 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 ### Which distinction must be kept clear?
 
-The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 
 ### What are the key local actions?

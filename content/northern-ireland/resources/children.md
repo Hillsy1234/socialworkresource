@@ -12,6 +12,8 @@ Assessment and family support should be distinguished from a protection investig
 
 From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.

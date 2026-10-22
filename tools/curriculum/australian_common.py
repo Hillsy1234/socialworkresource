@@ -22,3 +22,6 @@ The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not 
 'Treating NDIS eligibility as approval for every requested service, or using obsolete aged-care programme rules.',
 [S('NDIS access application and evidence', 'https://ndis.gov.au/applying/application-process/what-access-request-form', 'policy'), S('NDIS legislative changes', 'https://ndis.gov.au/ndis-laws/getting-ndis-back-track/summary-legislation-changes', 'policy'), S('Current aged-care provider rules and reforms', 'https://www.health.gov.au/our-work/aged-care-act/resources/providers', 'policy'), S('CHSP transition arrangements', 'https://www.health.gov.au/our-work/chsp/reforms', 'policy')]),
 }
+
+DATA['care-support']['legal'] += '\n\nThe Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.'
+DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'

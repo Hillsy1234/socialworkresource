@@ -62,6 +62,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 ## Official sources and currency
 
 - [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
-- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

@@ -10,6 +10,8 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -64,5 +66,8 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [SWRB Core Competence Standards](https://swrb.govt.nz/practice/core-competence-standards/)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
+- [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

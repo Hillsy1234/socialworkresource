@@ -19,7 +19,7 @@ Ontario College of Social Workers and Social Service Workers (OCSWSSW)
 ### Social Care and Support — Ontario
 
 - [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
-- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05)
 
 
 ### Decision-Making and Capacity — Ontario
@@ -70,3 +70,13 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+New OCSWSSW practice articles still require individual review. A draft-policy consultation is not an operative requirement.
+
+
+Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

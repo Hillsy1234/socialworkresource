@@ -2910,6 +2910,10 @@ For children's information sharing in England, apply the operative section 16LA 
 
 Targeted editorial update: 22 October 2026. New references and corrections are identified above; this is not a full independent practitioner review.
 
+## Data-protection regulator transition
+
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure. [Commencement and continuity regulations](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
+
 
 ---
 
@@ -3857,6 +3861,14 @@ Tier 2 judgments are fact-specific learning illustrations, not binding appellate
 
 - [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026) — supervision exemption removed; apply the other statutory criteria.
 
+## Data-protection regulator transition
+
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf) — effective 30 September 2026; does not create a general disclosure power.
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs across the resource; 64 remained inaccessible or unreadable. Changed-source leads and failed retrievals remain open. Targeted corrections do not certify a full legal review or advance historical comprehensive source-check dates. The British Columbia judgment, operative order and appeal/stay position remain unverified.
+
 
 ---
 
@@ -4521,7 +4533,7 @@ The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and
 
 ### Which distinction must be kept clear?
 
-Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 
 ### What are the key local actions?
@@ -4687,7 +4699,7 @@ The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and
 
 ### Rights, Language and Recording: Which distinction must be kept clear?
 
-Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 ### Rights, Language and Recording: What are the key local actions?
 
@@ -6630,6 +6642,8 @@ The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and
 
 Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 ### Decision pathway
 
 - Ask and record language and communication needs and make the Active Offer practical.
@@ -6654,9 +6668,12 @@ Common error to avoid: Treating language access as cosmetic or using a communica
 - [More than just words and the Active Offer](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
 - [Welsh Language (Wales) Measure 2011](https://www.legislation.gov.uk/mwa/2011/1/contents)
 - [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 - [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -6853,6 +6870,8 @@ The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and
 
 Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 
 - Ask and record language and communication needs and make the Active Offer practical.
 - Identify the actual equality, human-rights and Welsh-language duties of the service.
@@ -6866,6 +6885,7 @@ A Welsh-language standards concern, a privacy complaint and a challenge to the c
 - [More than just words and the Active Offer](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
 - [Welsh Language (Wales) Measure 2011](https://www.legislation.gov.uk/mwa/2011/1/contents)
 - [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 - [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
 
 
@@ -7808,6 +7828,7 @@ Social Care Wales
 - [More than just words and the Active Offer](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
 - [Welsh Language (Wales) Measure 2011](https://www.legislation.gov.uk/mwa/2011/1/contents)
 - [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 - [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
 
 
@@ -7821,7 +7842,12 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+
+Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -8434,7 +8460,7 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 ### Which distinction must be kept clear?
 
-The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 
 ### What are the key local actions?
@@ -8600,7 +8626,7 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 ### Rights, Culture and Recording — Scotland: Which distinction must be kept clear?
 
-The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 ### Rights, Culture and Recording — Scotland: What are the key local actions?
 
@@ -9732,6 +9758,8 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -9786,8 +9814,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Children’s rights and incorporation](https://www.gov.scot/policies/human-rights/childrens-rights/)
 - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 - [SSSC Codes of Practice](https://www.sssc.uk.com/standards/codes-of-practice/)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -9957,6 +9988,8 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 
 - Identify the actual decision and the public body or service responsible for it.
 - Consider equality barriers and reasonable adjustments in assessment, communication and service access.
@@ -9970,6 +10003,7 @@ A service complaint, a data-protection complaint and a court or tribunal challen
 - [Children’s rights and incorporation](https://www.gov.scot/policies/human-rights/childrens-rights/)
 - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 - [SSSC Codes of Practice](https://www.sssc.uk.com/standards/codes-of-practice/)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 
 ---
@@ -10332,6 +10366,8 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 Local pathway:
 Identify the actual decision and the public body or service responsible for it.
 Consider equality barriers and reasonable adjustments in assessment, communication and service access.
@@ -10361,6 +10397,7 @@ Sources:
 https://www.gov.scot/policies/human-rights/childrens-rights/
 https://www.legislation.gov.uk/ukpga/2010/15/contents
 https://www.sssc.uk.com/standards/codes-of-practice/
+https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf
 
 ```
 
@@ -10701,6 +10738,7 @@ Scottish Social Services Council (SSSC)
 - [Children’s rights and incorporation](https://www.gov.scot/policies/human-rights/childrens-rights/)
 - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 - [SSSC Codes of Practice](https://www.sssc.uk.com/standards/codes-of-practice/)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 
 ## How to verify a rule
@@ -10713,7 +10751,12 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+
+Targeted editorial corrections on 22 October 2026: children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -11110,7 +11153,7 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 ### Which distinction must be kept clear?
 
-From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
 
 
 ### What are the key local actions?
@@ -11138,7 +11181,7 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 ### Which distinction must be kept clear?
 
-The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 
 ### What are the key local actions?
@@ -11284,7 +11327,7 @@ The Children (Northern Ireland) Order 1995 provides the main framework for child
 
 ### Children, Families and Transitions — Northern Ireland: Which distinction must be kept clear?
 
-From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
 
 ### Children, Families and Transitions — Northern Ireland: What are the key local actions?
 
@@ -11304,7 +11347,7 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 ### Rights, Culture and Recording — Northern Ireland: Which distinction must be kept clear?
 
-The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
 
 ### Rights, Culture and Recording — Northern Ireland: What are the key local actions?
 
@@ -12353,6 +12396,8 @@ Assessment and family support should be distinguished from a protection investig
 
 From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
+
 ## Understand the child’s daily experience
 
 Use age-appropriate communication, observation and accessible material. Ask about ordinary routines, trusted adults, worries, food, sleep, school and relationships. Record the child's words separately from adult interpretations. For a baby or a child who does not use speech, describe interactions and behaviour without claiming to know a view they have not expressed.
@@ -12433,6 +12478,8 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 ## Make rights practical
 
 Identify the decision affecting the person: access to an assessment, a restriction, a disclosure, an inaccessible meeting or a refusal of support. Ask which right or duty is engaged and which organisation is responsible. A statement that a plan is rights-based does not explain whether the person could participate or how the effect on them was weighed.
@@ -12487,8 +12534,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [Equality laws in Northern Ireland](https://equalityni.org/equality-laws-ni)
 - [Section 75 and equality schemes](https://equalityni.org/public-authorities/section-75)
 - [Northern Ireland Act 1998, section 75](https://www.legislation.gov.uk/ukpga/1998/47/section/75)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -12634,6 +12684,8 @@ Assessment and family support should be distinguished from a protection investig
 
 From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
+
 
 - Record the child’s account, daily experience, harm concerns and support needs.
 - Use the current regional policy and Trust referral procedure for a child-protection concern.
@@ -12655,6 +12707,8 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 
 - Identify the relevant equality law and public-authority duty for the actual decision.
 - Arrange accessible communication and consider the applicable reasonable-adjustment obligations.
@@ -12668,6 +12722,7 @@ The Equality Commission for Northern Ireland provides information on discriminat
 - [Equality laws in Northern Ireland](https://equalityni.org/equality-laws-ni)
 - [Section 75 and equality schemes](https://equalityni.org/public-authorities/section-75)
 - [Northern Ireland Act 1998, section 75](https://www.legislation.gov.uk/ukpga/1998/47/section/75)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 
 ---
@@ -12983,6 +13038,8 @@ Assessment and family support should be distinguished from a protection investig
 
 From 1 September 2026 the supervision exemption from regulated activity involving children was removed. Department of Health guidance explains that frequent teaching, supervision, instruction or care roles can fall within regulated activity even when supervised, including certain volunteers in specified establishments. Check the exact role and current disclosure, barred-list and referral requirements; do not rely on the former supervision exemption. The old supervision statutory guidance ceased to apply at midnight on 31 August 2026.
 
+The Department of Health’s current Co-operating to Safeguard Children and Young People publication page identifies a June 2026 refresh of the child criminal exploitation (CCE) definition and a reference to practitioner guidance in section 7.2.3. Use that section and the linked practitioner guidance when assessing exploitation concerns. The page also records an October update to regulated-activity references in section 1.4 and Appendix 1(A); its header still says 23 September 2026. Use the current linked document and the role-specific requirements rather than relying on the header date alone.
+
 Local pathway:
 Record the child’s account, daily experience, harm concerns and support needs.
 Use the current regional policy and Trust referral procedure for a child-protection concern.
@@ -13027,6 +13084,8 @@ Northern Ireland has its own equality laws. The Equality Act 2010 does not apply
 
 The Human Rights Act and applicable UK data-protection law also matter, but they answer different questions. A public authority’s equality scheme does not by itself establish permission to disclose a person’s health information.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 Local pathway:
 Identify the relevant equality law and public-authority duty for the actual decision.
 Arrange accessible communication and consider the applicable reasonable-adjustment obligations.
@@ -13056,6 +13115,7 @@ Sources:
 https://equalityni.org/equality-laws-ni
 https://equalityni.org/public-authorities/section-75
 https://www.legislation.gov.uk/ukpga/1998/47/section/75
+https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf
 
 ```
 
@@ -13394,6 +13454,7 @@ Northern Ireland Social Care Council (NISCC)
 - [Equality laws in Northern Ireland](https://equalityni.org/equality-laws-ni)
 - [Section 75 and equality schemes](https://equalityni.org/public-authorities/section-75)
 - [Northern Ireland Act 1998, section 75](https://www.legislation.gov.uk/ukpga/1998/47/section/75)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 
 ## How to verify a rule
@@ -13406,7 +13467,12 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+
+Targeted editorial corrections on 22 October 2026: children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -16095,6 +16161,13 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+CORU qualification instruments, including SI 50/2026, still require qualification-specific applicability checks.
+
+
 ---
 
 # About Us — Ireland — Ireland
@@ -16321,7 +16394,7 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 ### Which distinction must be kept clear?
 
-The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
 
 
 ### What are the key local actions?
@@ -16543,7 +16616,7 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 ### Professional Foundations — Aotearoa New Zealand: Which distinction must be kept clear?
 
-The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
 
 ### Professional Foundations — Aotearoa New Zealand: What are the key local actions?
 
@@ -17267,6 +17340,8 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+
 ## From information to a professional formulation
 
 A chronology says what happened. A formulation explains how the available evidence, the person's experience and their environment might connect. Start with the person's desired change. Map relationships, housing, income, health, discrimination and service barriers alongside individual strengths. A missed appointment may reflect fear, inaccessible transport or an unsafe household; it does not establish unwillingness to engage.
@@ -17321,8 +17396,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 - [SWRB Core Competence Standards](https://swrb.govt.nz/practice/core-competence-standards/)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
+- [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -17892,6 +17970,8 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+
 
 - Confirm registration, practising status, competence and the authority required for the task.
 - Discuss the person’s goals, language, cultural supports and preferred whānau involvement.
@@ -17905,6 +17985,7 @@ Explain the service complaint route and when a professional concern belongs with
 - [SWRB Core Competence Standards](https://swrb.govt.nz/practice/core-competence-standards/)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
+- [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
 
 
 ## Social Care and Support — Aotearoa New Zealand
@@ -18105,6 +18186,8 @@ The Social Workers Registration Act 2003, SWRB Code of Conduct and Core Competen
 
 The competence framework includes practice with Māori and attention to Te Tiriti o Waitangi, culture, relationships and safe professional practice. Ask how the person wants whānau, hapū, iwi or other supporters involved. Cultural safety requires reflection on professional power and the person’s experience, rather than adding a cultural label to an unchanged assessment.
 
+SWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.
+
 Local pathway:
 Confirm registration, practising status, competence and the authority required for the task.
 Discuss the person’s goals, language, cultural supports and preferred whānau involvement.
@@ -18134,6 +18217,7 @@ Sources:
 https://swrb.govt.nz/practice/core-competence-standards/
 https://swrb.govt.nz/practice/code-of-conduct/
 https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html
+https://swrb.govt.nz/onboard-newsletter-october-2026/
 
 ```
 
@@ -18735,6 +18819,7 @@ Social Workers Registration Board (SWRB)
 - [SWRB Core Competence Standards](https://swrb.govt.nz/practice/core-competence-standards/)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
+- [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
 
 
 ### Social Care and Support — Aotearoa New Zealand
@@ -18793,7 +18878,14 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+New Oranga Tamariki operational-policy links still require role-specific review; the complete SWRB practical-experience policy requires an individual eligibility check.
+
+
+Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -20044,6 +20136,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
+
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 ## Assess daily life, not just a list of services
@@ -20612,6 +20706,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
+
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 
@@ -20847,6 +20943,8 @@ Local framework:
 Disability support through the NDIS, state health and housing services, and Commonwealth aged care have separate entry and funding rules. NDIS access involves age, residence and disability or early-intervention requirements; a diagnosis alone does not establish entitlement to a particular funded support. Check current NDIA rules for the actual application or plan.
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
@@ -21491,6 +21589,13 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.
 
 
 Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -22797,9 +22902,11 @@ Ask a supervisor to identify a missing fact that could change your conclusion. R
 ## Official sources and currency
 
 - [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
-- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05)
 
 Editorial expansion: 8 September 2026. The sources support the distinctions taught here; check their current text, amendments, commencement and applicable local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.
 
 
 ---
@@ -23319,7 +23426,7 @@ Ontario Health atHome’s feedback process begins with the care coordinator and 
 
 
 - [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
-- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05)
 
 
 ## Decision-Making and Capacity — Ontario
@@ -23568,7 +23675,7 @@ Ontario Health atHome’s feedback process begins with the care coordinator and 
 
 Sources:
 https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/
-https://www.ontario.ca/laws/statute/19c05c
+https://www.ontario.ca/laws/statute/19c05
 
 ```
 
@@ -24129,7 +24236,7 @@ Ontario College of Social Workers and Social Service Workers (OCSWSSW)
 ### Social Care and Support — Ontario
 
 - [Ontario Health atHome feedback and appeals](https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/)
-- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05c)
+- [Connecting Care Act 2019](https://www.ontario.ca/laws/statute/19c05)
 
 
 ### Decision-Making and Capacity — Ontario
@@ -24180,6 +24287,16 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+New OCSWSSW practice articles still require individual review. A draft-policy consultation is not an operative requirement.
+
+
+Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
 ---
@@ -26880,6 +26997,13 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+The newly linked 2026 BBS approved-legislation PDF remains inaccessible; individual Acts and commencement dates are unverified.
+
+
 ---
 
 # About Us — California — California
@@ -28128,6 +28252,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
+
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 ## Assess daily life, not just a list of services
@@ -28702,6 +28828,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
+
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 
@@ -28943,6 +29071,8 @@ Local framework:
 Disability support through the NDIS, state health and housing services, and Commonwealth aged care have separate entry and funding rules. NDIS access involves age, residence and disability or early-intervention requirements; a diagnosis alone does not establish entitlement to a particular funded support. Check current NDIA rules for the actual application or plan.
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
+
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
 
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
@@ -29599,6 +29729,13 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.
 
 
 Targeted editorial corrections on 22 October 2026: care-support. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
@@ -32317,6 +32454,13 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+2026 BCSC 1416 remains corroborated by involved counsel but not verified against the full judgment or operative order. Suspension, appeal/stay and current operational effect remain open.
+
+
 Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
 
 
@@ -35028,6 +35172,11 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 ## Editorial status
 
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
+
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
 
 
 Targeted editorial corrections on 22 October 2026: rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

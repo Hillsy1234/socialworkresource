@@ -156,3 +156,11 @@ Tier 2 judgments are fact-specific learning illustrations, not binding appellate
 
 
 - [DBS: September 2026 regulated-activity change](https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026) — supervision exemption removed; apply the other statutory criteria.
+
+## Data-protection regulator transition
+
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf) — effective 30 September 2026; does not create a general disclosure power.
+
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs across the resource; 64 remained inaccessible or unreadable. Changed-source leads and failed retrievals remain open. Targeted corrections do not certify a full legal review or advance historical comprehensive source-check dates. The British Columbia judgment, operative order and appeal/stay position remain unverified.

@@ -86,3 +86,7 @@ The Privacy Act 2020 and Health Information Privacy Code govern information hand
 DATA['mha']['legal'] += '\n\nCommencement qualification: section 2(2) of the 2026 Act commenced section 10 insofar as it relates to Schedule 1 clauses 5 and 6 on 10 July 2026. This limited exception does not bring the replacement clinical assessment and treatment regime into operation. The principal commencement date remains 1 July 2028.'
 DATA['mha']['editorialUpdatedAt'] = '2026-10-22'
 DATA['mha']['sources'].extend([{'title': 'Mental Health Act 2026, section 2 commencement', 'url': 'https://www.legislation.govt.nz/act/public/2026/44/en/latest/', 'category': 'legislation'}])
+
+DATA['foundations']['legal'] += '\n\nSWRB’s October 2026 newsletter explains its updated Enough Practical Experience policy: the 2,000 hours must be supervised social-work practice in New Zealand, while registered with a current practising certificate and practising within scope. Overseas practice hours do not count towards this requirement. Confirm the full current policy, evidence and any applicable time limits with SWRB before applying to move from provisional to full registration; this newsletter summary is not an exhaustive eligibility checklist.'
+DATA['foundations']['editorialUpdatedAt'] = '2026-10-22'
+DATA['foundations']['sources'].append(S('SWRB October 2026: Enough Practical Experience policy update', 'https://swrb.govt.nz/onboard-newsletter-october-2026/', 'professional-standards'))

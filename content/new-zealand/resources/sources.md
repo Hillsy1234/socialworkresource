@@ -15,6 +15,7 @@ Social Workers Registration Board (SWRB)
 - [SWRB Core Competence Standards](https://swrb.govt.nz/practice/core-competence-standards/)
 - [SWRB Code of Conduct](https://swrb.govt.nz/practice/code-of-conduct/)
 - [Social Workers Registration Act 2003](https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html)
+- [SWRB October 2026: Enough Practical Experience policy update](https://swrb.govt.nz/onboard-newsletter-october-2026/)
 
 
 ### Social Care and Support — Aotearoa New Zealand
@@ -73,4 +74,11 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+New Oranga Tamariki operational-policy links still require role-specific review; the complete SWRB practical-experience policy requires an individual eligibility check.
+
+
+Targeted editorial corrections on 22 October 2026: foundations, mha. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

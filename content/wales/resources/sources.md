@@ -81,6 +81,7 @@ Social Care Wales
 - [More than just words and the Active Offer](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
 - [Welsh Language (Wales) Measure 2011](https://www.legislation.gov.uk/mwa/2011/1/contents)
 - [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 - [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
 
 
@@ -94,4 +95,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+
+Targeted editorial corrections on 22 October 2026: dols, mha, safeguarding, children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

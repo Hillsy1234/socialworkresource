@@ -19,7 +19,7 @@ Ontario Health atHome identifies appealable matters including eligibility, servi
 'An adult’s home-care visits are reduced although their mobility has worsened. The family is told only to complain to the visiting agency.',
 'Establish who reduced the allocation and obtain the reassessment and reasons. Address immediate safety with the coordinator and use the relevant service-decision review or appeal. Pursue a provider complaint separately if the agency also failed to deliver the authorised visits.',
 'Confusing a complaint about a worker with an appeal against the amount of funded care.',
-[S('Ontario Health atHome feedback and appeals', 'https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/', 'policy'), S('Connecting Care Act 2019', 'https://www.ontario.ca/laws/statute/19c05c')]),
+[S('Ontario Health atHome feedback and appeals', 'https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/', 'policy'), S('Connecting Care Act 2019', 'https://www.ontario.ca/laws/statute/19c05')]),
 'mca': E(
 '''The Health Care Consent Act 1996 (HCCA) distinguishes treatment, admission to a care facility and personal-assistance decisions. Its capacity test asks whether the person understands relevant information and appreciates reasonably foreseeable consequences of deciding or not deciding. The Substitute Decisions Act 1992 separately addresses property and personal-care arrangements.
 
@@ -81,3 +81,6 @@ The Personal Health Information Protection Act 2004 (PHIPA) applies according to
 'Assuming every social worker is operating under the same health-information consent rules.',
 [S('Personal Health Information Protection Act 2004', 'https://www.ontario.ca/laws/statute/04p03'), S('Ontario Human Rights Code', 'https://www.ontario.ca/laws/statute/90h19'), S('OCSWSSW legislation and confidentiality guidance', 'https://www.ocswssw.org/2018/10/03/practice-notes-whats-legislation-got-to-do-with-it/', 'professional-standards')]),
 }
+
+# Corrected official Connecting Care Act URL; this is not a whole-Act re-review.
+DATA['care-support']['editorialUpdatedAt'] = '2026-10-22'

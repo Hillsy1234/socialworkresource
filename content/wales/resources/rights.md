@@ -193,6 +193,8 @@ The Human Rights Act 1998, Equality Act 2010, applicable data-protection law and
 
 Distinguish a person’s language need and the organisation’s applicable Welsh-language standards from a general translation preference. Record how communication affects participation, consent, assessment and the reliability of evidence. A completed English form is not proof that the person could take part effectively.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 ### Decision pathway
 
 - Ask and record language and communication needs and make the Active Offer practical.
@@ -217,6 +219,9 @@ Common error to avoid: Treating language access as cosmetic or using a communica
 - [More than just words and the Active Offer](https://www.gov.wales/written-statement-update-more-just-words-2022-27)
 - [Welsh Language (Wales) Measure 2011](https://www.legislation.gov.uk/mwa/2011/1/contents)
 - [ICO safeguarding information-sharing guidance](https://ico.org.uk/10steps)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 - [Welsh social services codes](https://www.gov.wales/social-services-codes-practice)
 
 Editorial expansion: 8 September 2026. Check current law, commencement and local procedure before operational use. Independent practitioner review has not been recorded.
+
+Targeted editorial update: 2026-10-22. Limited to the identified corrections; other source-check dates are unchanged.

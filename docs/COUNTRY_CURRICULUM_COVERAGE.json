@@ -129,7 +129,7 @@
       "jurisdiction": "scotland",
       "topic": "rights",
       "path": "content/scotland/resources/rights.md",
-      "words": 744,
+      "words": 835,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -138,7 +138,8 @@
       "sourceUrls": [
         "https://www.gov.scot/policies/human-rights/childrens-rights/",
         "https://www.legislation.gov.uk/ukpga/2010/15/contents",
-        "https://www.sssc.uk.com/standards/codes-of-practice/"
+        "https://www.sssc.uk.com/standards/codes-of-practice/",
+        "https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -250,7 +251,7 @@
       "jurisdiction": "northern-ireland",
       "topic": "children",
       "path": "content/northern-ireland/resources/children.md",
-      "words": 846,
+      "words": 940,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -268,7 +269,7 @@
       "jurisdiction": "northern-ireland",
       "topic": "rights",
       "path": "content/northern-ireland/resources/rights.md",
-      "words": 722,
+      "words": 813,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -277,7 +278,8 @@
       "sourceUrls": [
         "https://equalityni.org/equality-laws-ni",
         "https://equalityni.org/public-authorities/section-75",
-        "https://www.legislation.gov.uk/ukpga/1998/47/section/75"
+        "https://www.legislation.gov.uk/ukpga/1998/47/section/75",
+        "https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -426,7 +428,7 @@
       "jurisdiction": "new-zealand",
       "topic": "foundations",
       "path": "content/new-zealand/resources/foundations.md",
-      "words": 740,
+      "words": 848,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -435,7 +437,8 @@
       "sourceUrls": [
         "https://swrb.govt.nz/practice/core-competence-standards/",
         "https://swrb.govt.nz/practice/code-of-conduct/",
-        "https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html"
+        "https://www.legislation.govt.nz/act/public/2003/0017/latest/whole.html",
+        "https://swrb.govt.nz/onboard-newsletter-october-2026/"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -583,7 +586,7 @@
       "jurisdiction": "australia-nsw",
       "topic": "care-support",
       "path": "content/australia-nsw/resources/care-support.md",
-      "words": 902,
+      "words": 964,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -723,7 +726,7 @@
       "jurisdiction": "australia-victoria",
       "topic": "care-support",
       "path": "content/australia-victoria/resources/care-support.md",
-      "words": 900,
+      "words": 962,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -870,7 +873,7 @@
       "jurisdiction": "canada-ontario",
       "topic": "care-support",
       "path": "content/canada-ontario/resources/care-support.md",
-      "words": 739,
+      "words": 756,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -878,7 +881,7 @@
       "recordingExercise": true,
       "sourceUrls": [
         "https://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/",
-        "https://www.ontario.ca/laws/statute/19c05c"
+        "https://www.ontario.ca/laws/statute/19c05"
       ],
       "editorialExpandedAt": "2026-09-08",
       "practiceReviewedAt": null
@@ -1565,7 +1568,7 @@
       "jurisdiction": "wales",
       "topic": "rights",
       "path": "content/wales/resources/rights.md",
-      "words": 1118,
+      "words": 1209,
       "localFramework": true,
       "localActions": true,
       "challengeRoute": true,
@@ -1575,6 +1578,7 @@
         "https://www.gov.wales/written-statement-update-more-just-words-2022-27",
         "https://www.legislation.gov.uk/mwa/2011/1/contents",
         "https://ico.org.uk/10steps",
+        "https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf",
         "https://www.gov.wales/social-services-codes-practice"
       ],
       "editorialExpandedAt": "2026-09-08",

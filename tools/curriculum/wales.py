@@ -102,3 +102,8 @@ for topic in ['safeguarding', 'children']:
 
 DATA['children']['legal'] += '\n\nFrom 1 September 2026 the supervision exemption from regulated activity with children was removed in England and Wales. Supervision alone no longer excludes a role where the other regulated-activity criteria are met. Recheck affected staff and volunteer roles, the required enhanced DBS and barred-list checks, and referral duties against current guidance.'
 DATA['children']['sources'].append(S('DBS: September 2026 regulated-activity change', 'https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026', 'policy'))
+
+# Verified source follow-up, 22 October 2026.
+DATA['rights']['legal'] += '\n\nFrom 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.'
+DATA['rights']['editorialUpdatedAt'] = '2026-10-22'
+DATA['rights']['sources'].append(S('Information Commission: transfer and continuity, SI 2026/1015', 'https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf'))

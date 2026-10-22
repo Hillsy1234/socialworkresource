@@ -10,6 +10,8 @@ Disability support through the NDIS, state health and housing services, and Comm
 
 The Aged Care Act 2024 and Support at Home commenced on 1 November 2025. Do not describe the old Home Care Package arrangements as the only current system. The Commonwealth Home Support Programme has its own transition arrangements. Contributions and programme rules need a current check, including announced changes with later commencement dates.
 
+The Australian Government confirms that CHSP has been extended to 30 June 2029. Its current reforms page distinguishes that programme extension from the existing 2025–2027 funding agreement and says information on the 2027–2029 extension will follow. Do not infer an individual service entitlement or completed provider funding agreement from the programme end date; check assessment eligibility and current provider arrangements.
+
 From 1 October 2026, eligible personal care services under Support at Home are fully government-funded. Check the participant’s assessed support plan and programme rules; this does not mean all aged care or every service has no participant contribution. Explain assessment, approved services and the actual charges separately.
 
 ## Assess daily life, not just a list of services

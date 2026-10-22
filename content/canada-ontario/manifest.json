@@ -1,7 +1,7 @@
 {
   "id": "canada-ontario",
   "label": "Ontario practice guide",
-  "version": "2026-09-08-curriculum-2",
+  "version": "2026-10-22-legal-update",
   "hero": "Explore social work in Ontario: local legislation, professional standards, safeguarding, children and family practice, capacity and reflective learning.",
   "alerts": [
     "Use the Ontario sources and the procedures for the actual service and setting.",
@@ -52,7 +52,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/case-route-finder.md",
       "sourceCheckedAt": null,
-      "slug": "case-route-finder"
+      "slug": "case-route-finder",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "flashcards",
@@ -67,7 +68,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/flashcards.md",
       "sourceCheckedAt": null,
-      "slug": "learning-flashcards"
+      "slug": "learning-flashcards",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "student-pathway",
@@ -82,7 +84,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/student-pathway.md",
       "sourceCheckedAt": null,
-      "slug": "student-and-newly-qualified-pathway-ontario"
+      "slug": "student-and-newly-qualified-pathway-ontario",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "glossary",
@@ -97,7 +100,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/glossary.md",
       "sourceCheckedAt": null,
-      "slug": "practice-glossary"
+      "slug": "practice-glossary",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "theory-practice",
@@ -174,7 +178,8 @@
       "path": "content/canada-ontario/resources/care-support.md",
       "sourceCheckedAt": null,
       "slug": "social-care-and-support-ontario",
-      "editorialExpandedAt": "2026-09-08"
+      "editorialExpandedAt": "2026-09-08",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "mca",
@@ -285,7 +290,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/quick-reference.md",
       "sourceCheckedAt": null,
-      "slug": "quick-reference"
+      "slug": "quick-reference",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "templates",
@@ -315,7 +321,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/printable-tools.md",
       "sourceCheckedAt": null,
-      "slug": "printable-tools"
+      "slug": "printable-tools",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "scenarios",
@@ -330,7 +337,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/scenarios.md",
       "sourceCheckedAt": null,
-      "slug": "practice-scenarios"
+      "slug": "practice-scenarios",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "sources",
@@ -345,7 +353,8 @@
       "practiceReviewedAt": null,
       "path": "content/canada-ontario/resources/sources.md",
       "sourceCheckedAt": null,
-      "slug": "source-library"
+      "slug": "source-library",
+      "editorialUpdatedAt": "2026-10-22"
     },
     {
       "id": "about-us",
@@ -1611,7 +1620,7 @@
       "title": "Social Care and Support",
       "fileName": "canada-ontario-care-support-prompt.txt",
       "summary": "Map assessment, eligibility, funding and delivery separately; include family support without assuming it; explain the local route for challenging a decision.",
-      "body": "Social Care and Support\nOntario practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nOntario Health atHome coordinates important home-care and long-term-care placement functions. Distinguish home-care eligibility, the amount or type of service, placement eligibility and a provider’s delivery. Income support, developmental services, housing and privately arranged care have separate rules.\n\nOntario Health atHome identifies appealable matters including eligibility, service amounts, exclusion or discontinuation of services and long-term-care admission eligibility. Discussion with a coordinator, management review and an external appeal are not the same step. Obtain the decision and the appropriate route in writing.\n\nLocal pathway:\nIdentify the actual programme and responsible assessment or funding body.\nDocument daily needs, personal goals, informal support and the effect of service gaps.\nSeparate the eligibility decision, care-plan allocation, any charges and the start of provision.\nRequest reasons and track the relevant complaint, formal review or appeal for the disputed decision.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nOntario Health atHome’s feedback process begins with the care coordinator and a patient-services manager and includes formal review for unresolved issues. Certain decisions may be appealed to the Health Services Appeal and Review Board. Check the notice and time limits; a provider-quality complaint is a separate issue.\n\nSources:\nhttps://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/\nhttps://www.ontario.ca/laws/statute/19c05c\n"
+      "body": "Social Care and Support\nOntario practice guide practice guide\nLearning prompt, not an official statutory form. Use fictional or anonymised information.\n\nLocal framework:\nOntario Health atHome coordinates important home-care and long-term-care placement functions. Distinguish home-care eligibility, the amount or type of service, placement eligibility and a provider’s delivery. Income support, developmental services, housing and privately arranged care have separate rules.\n\nOntario Health atHome identifies appealable matters including eligibility, service amounts, exclusion or discontinuation of services and long-term-care admission eligibility. Discussion with a coordinator, management review and an external appeal are not the same step. Obtain the decision and the appropriate route in writing.\n\nLocal pathway:\nIdentify the actual programme and responsible assessment or funding body.\nDocument daily needs, personal goals, informal support and the effect of service gaps.\nSeparate the eligibility decision, care-plan allocation, any charges and the start of provision.\nRequest reasons and track the relevant complaint, formal review or appeal for the disputed decision.\n\nRecording prompts:\n1. Daily-life evidence, fluctuation and desired outcomes\nNotes:\n\n2. The service, eligibility test and decision-maker\nNotes:\n\n3. Carer willingness and separately identified needs\nNotes:\n\n4. Funding, charges, decisions and reasons\nNotes:\n\n5. Start dates, unmet needs, contingency and challenge route\nNotes:\n\nChallenge and review:\nOntario Health atHome’s feedback process begins with the care coordinator and a patient-services manager and includes formal review for unresolved issues. Certain decisions may be appealed to the Health Services Appeal and Review Board. Check the notice and time limits; a provider-quality complaint is a separate issue.\n\nSources:\nhttps://www.ontariohealthathome.ca/contact/patient-experience-and-feedback/\nhttps://www.ontario.ca/laws/statute/19c05\n"
     },
     {
       "id": "mca",

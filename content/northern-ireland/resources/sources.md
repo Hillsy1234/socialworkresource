@@ -59,6 +59,7 @@ Northern Ireland Social Care Council (NISCC)
 - [Equality laws in Northern Ireland](https://equalityni.org/equality-laws-ni)
 - [Section 75 and equality schemes](https://equalityni.org/public-authorities/section-75)
 - [Northern Ireland Act 1998, section 75](https://www.legislation.gov.uk/ukpga/1998/47/section/75)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
 
 
 ## How to verify a rule
@@ -71,4 +72,9 @@ Identify territorial scope, current consolidated text, amendments and commenceme
 Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.
 
 
-Targeted editorial corrections on 22 October 2026: children. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.
+## Outstanding source checks
+
+The 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.
+
+
+Targeted editorial corrections on 22 October 2026: children, rights. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.

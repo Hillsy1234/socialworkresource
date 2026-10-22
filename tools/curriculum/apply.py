@@ -210,6 +210,18 @@ Editorial expansion: 8 September 2026. Check current law, commencement and local
     m['scenarioWorkouts'] = scenarios
     m['version'] = '2026-10-22-legal-update' if any(d.get('editorialUpdatedAt') for d in data.values()) else '2026-09-08-curriculum-2'
     library.extend(['\n## How to verify a rule', 'Identify territorial scope, current consolidated text, amendments and commencement, then the applicable statutory guidance and service procedure. An enactment announcement or portal is not proof that every provision is in force.', '\n## Editorial status', 'Final learning-guide release. Core lessons and linked learning tools were expanded on 8 September 2026. Independent practitioner review has not been recorded. Monthly monitoring flags source changes for editorial assessment and does not automatically rewrite legal guidance.'])
+    follow_up_flags = {
+        'canada-british-columbia': '2026 BCSC 1416 remains corroborated by involved counsel but not verified against the full judgment or operative order. Suspension, appeal/stay and current operational effect remain open.',
+        'united-states-california': 'The newly linked 2026 BBS approved-legislation PDF remains inaccessible; individual Acts and commencement dates are unverified.',
+        'australia-nsw': 'The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.',
+        'australia-victoria': 'The AASW aged-care social-worker-definition article and equivalence of the newly hosted 2020 Code remain unverified.',
+        'new-zealand': 'New Oranga Tamariki operational-policy links still require role-specific review; the complete SWRB practical-experience policy requires an individual eligibility check.',
+        'ireland': 'CORU qualification instruments, including SI 50/2026, still require qualification-specific applicability checks.',
+        'canada-ontario': 'New OCSWSSW practice articles still require individual review. A draft-policy consultation is not an operative requirement.'
+    }
+    library.append('\n## Outstanding source checks\n\nThe 22 October follow-up retried 157 flagged URLs; 64 remained inaccessible or unreadable. Retrieved pages and changed-link triage are not whole-law clearance. Unresolved monitoring observations remain open; historical comprehensive source-check dates are unchanged.')
+    if jurisdiction in follow_up_flags:
+        library.append(follow_up_flags[jurisdiction])
     updated_topics = [topic for topic, d in data.items() if d.get('editorialUpdatedAt')]
     if updated_topics:
         library.append('\nTargeted editorial corrections on 22 October 2026: ' + ', '.join(updated_topics) + '. This is not a full re-review. Individually labelled secondary reports or inaccessible judgments require verification before operational reliance.')

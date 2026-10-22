@@ -157,6 +157,8 @@ Scottish practice engages the Human Rights Act 1998, Equality Act 2010 and the a
 
 The UNCRC (Incorporation) (Scotland) Act 2024 strengthens children’s rights within its defined scope. Identify the source of the public function and the statutory limits before asserting that a particular action breaches its compatibility duty. Participation and accessible explanations remain essential to a reasoned assessment.
 
+From 30 September 2026, the Information Commissioner’s functions transferred to the Information Commission under SI 2026/1015. The regulations preserve continuity for earlier acts and ongoing proceedings. This institutional change does not itself supply a legal basis for disclosing personal information; identify the applicable duty or power and data-protection conditions for the particular disclosure.
+
 
 - Identify the actual decision and the public body or service responsible for it.
 - Consider equality barriers and reasonable adjustments in assessment, communication and service access.
@@ -170,3 +172,4 @@ A service complaint, a data-protection complaint and a court or tribunal challen
 - [Children’s rights and incorporation](https://www.gov.scot/policies/human-rights/childrens-rights/)
 - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 - [SSSC Codes of Practice](https://www.sssc.uk.com/standards/codes-of-practice/)
+- [Information Commission: transfer and continuity, SI 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015/pdfs/uksi_20261015_en.pdf)
